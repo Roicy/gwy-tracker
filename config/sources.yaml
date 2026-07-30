@@ -1,53 +1,167 @@
 # 公务员考试公告数据源配置
-# 每个 source 对应一个公告列表页
+# 大多数省份使用通用适配器 (adapter: generic)，选择器从 config.list_selectors 读取
+# 特殊站点使用专用适配器 (adapter: guokao / fenbi)
 
 sources:
-  # ─── 国考 ───
+
+  # ═══════════════════════════════════════════
+  # 聚合源（数据最全，优先抓取）
+  # ═══════════════════════════════════════════
+
+  - province: 全国
+    exam_type: 省考
+    name: 粉笔网-公务员公告汇总
+    url: https://m.fenbi.com/page/exams-information-list
+    parser_type: html
+    crawl_interval: 1800
+    config:
+      adapter: fenbi
+      list_urls:
+        - https://m.fenbi.com/page/exams-information-list?type=1&year=2026
+        - https://m.fenbi.com/page/exams-information-list?type=3&year=2026
+
+  # ═══════════════════════════════════════════
+  # 国考
+  # ═══════════════════════════════════════════
+
   - province: 全国
     exam_type: 国考
     name: 国家公务员局
-    url: http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html
+    url: http://bm.scs.gov.cn
     parser_type: html
     crawl_interval: 3600
     config:
       adapter: guokao
-      list_selector: ".news-list li a, .main-news-list a, [class*=news] a[href]"
-      title_attr: text
-      url_attr: href
-      date_selector: ".date, .time, [class*=date]"
-      # 列表页 URL 可能需要 JS 渲染，备用静态页
-      fallback_urls:
+      list_url: http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/article/articelist.html?ColumnId=7
+      list_urls:
         - http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/article/articelist.html?ColumnId=7
+        - http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html
 
-  # ─── 广东省考 + 选调 ───
-  - province: 广东
+  # ═══════════════════════════════════════════
+  # 31 省省考 / 选调（通用适配器）
+  # ═══════════════════════════════════════════
+
+  # ── 华东 ──
+  - province: 江苏
     exam_type: 省考
-    name: 广东省人事考试网
-    url: http://rsks.gd.gov.cn/zwgk/gwyks/index.html
+    name: 江苏省人事考试网
+    url: http://jshrss.jiangsu.gov.cn/col/col57253/index.html
     parser_type: html
     crawl_interval: 3600
     config:
-      adapter: guangdong
-      list_selector: ".news-list li a, .article-list a, ul.list a"
-      title_attr: text
-      url_attr: href
-      date_selector: ".date, span.time"
+      adapter: generic
 
-  # ─── 河南省考 ───
-  - province: 河南
+  - province: 浙江
     exam_type: 省考
-    name: 河南省人事考试中心
-    url: https://www.hnrsks.com/
+    name: 浙江省公务员考试录用网
+    url: http://gwy.zjks.gov.cn/zjgwy/website/queryDetail.htm
     parser_type: html
     crawl_interval: 3600
     config:
-      adapter: henan
-      list_selector: "a[href*='content'], .news-list a, .list a"
-      title_attr: text
-      url_attr: href
-      date_selector: ".date, .time"
+      adapter: generic
 
-  # ─── 湖南省考 ───
+  - province: 山东
+    exam_type: 省考
+    name: 灯塔-党建在线
+    url: https://www.dtdjzx.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+      verify_ssl: false
+
+  - province: 安徽
+    exam_type: 省考
+    name: 安徽省人事考试网
+    url: http://www.apta.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 江西
+    exam_type: 省考
+    name: 江西人事考试网
+    url: http://www.jxpta.com/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 福建
+    exam_type: 省考
+    name: 福建省公务员考试录用网
+    url: http://gwy.rst.fujian.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 上海
+    exam_type: 省考
+    name: 上海市公务员局
+    url: https://www.shacs.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  # ── 华北 ──
+  - province: 河北
+    exam_type: 省考
+    name: 河北省人事考试网
+    url: https://www.hebpta.com.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 山西
+    exam_type: 省考
+    name: 山西省人社厅
+    url: https://rst.shanxi.gov.cn/rsks/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 内蒙古
+    exam_type: 省考
+    name: 内蒙古人事考试网
+    url: http://www.impta.com.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 北京
+    exam_type: 省考
+    name: 北京市人社局
+    url: https://rsj.beijing.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 天津
+    exam_type: 省考
+    name: 天津市人事考试网
+    url: https://hrss.tj.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  # ── 华中 ──
+  - province: 湖北
+    exam_type: 省考
+    name: 湖北省人事考试网
+    url: https://rst.hubei.gov.cn/hbrsksw/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
   - province: 湖南
     exam_type: 省考
     name: 湖南人事考试网
@@ -55,21 +169,163 @@ sources:
     parser_type: html
     crawl_interval: 3600
     config:
-      adapter: hunan
-      list_selector: ".news-list a, .list a, a[href*='article']"
-      title_attr: text
-      url_attr: href
-      date_selector: ".date, .time, span[class*=date]"
+      adapter: generic
 
-  # ─── 国考补录 ───
-  - province: 全国
-    exam_type: 国考
-    name: 国家公务员局-补录
-    url: http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/article/articelist.html?ColumnId=7
+  - province: 河南
+    exam_type: 省考
+    name: 河南省人事考试中心
+    url: http://www.hnrsks.com/
     parser_type: html
-    crawl_interval: 7200
+    crawl_interval: 3600
     config:
-      adapter: guokao
-      list_selector: ".news-list li a, [class*=news] a[href], a[href*='article']"
-      title_attr: text
-      url_attr: href
+      adapter: generic
+      verify_ssl: false
+
+  # ── 华南 ──
+  - province: 广东
+    exam_type: 省考
+    name: 广东组织工作网
+    url: https://www.gdzz.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+      list_url: https://www.gdzz.gov.cn/tzgg/
+
+  - province: 广西
+    exam_type: 省考
+    name: 广西人事考试网
+    url: http://www.gxpta.com.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 海南
+    exam_type: 省考
+    name: 海南省考试局
+    url: http://ea.hainan.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  # ── 西南 ──
+  - province: 四川
+    exam_type: 省考
+    name: 四川省人社厅-人事考试
+    url: https://www.scpta.com.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 重庆
+    exam_type: 省考
+    name: 重庆市人社局
+    url: https://rlsbj.cq.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 贵州
+    exam_type: 省考
+    name: 贵州人事考试信息网
+    url: http://pta.guizhou.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 云南
+    exam_type: 省考
+    name: 云南人社厅
+    url: http://hrss.yn.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 西藏
+    exam_type: 省考
+    name: 西藏人社厅
+    url: http://hrss.xizang.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  # ── 西北 ──
+  - province: 陕西
+    exam_type: 省考
+    name: 陕西人事考试网
+    url: http://www.sxrsks.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 甘肃
+    exam_type: 省考
+    name: 甘肃组工网
+    url: http://www.gszg.gov.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 青海
+    exam_type: 省考
+    name: 青海省人事考试信息网
+    url: http://www.qhpta.com/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 宁夏
+    exam_type: 省考
+    name: 宁夏人事考试中心
+    url: http://www.nxpta.com/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 新疆
+    exam_type: 省考
+    name: 新疆人事考试中心
+    url: http://www.xjrsks.com.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  # ── 东北 ──
+  - province: 辽宁
+    exam_type: 省考
+    name: 辽宁人事考试网
+    url: https://www.lnrsks.com/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 吉林
+    exam_type: 省考
+    name: 吉林公务员考试网
+    url: http://www.jlgwyks.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic
+
+  - province: 黑龙江
+    exam_type: 省考
+    name: 黑龙江省人事考试中心
+    url: https://www.hljrsks.org.cn/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: generic

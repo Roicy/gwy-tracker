@@ -27,16 +27,14 @@ from src.utils.logger import info, warn, error
 from src.utils.http import HttpClient
 
 # ─── 适配器注册表 ───
+from src.adapters.base import GenericAdapter
 from src.adapters.guokao import GuoKaoAdapter
-from src.adapters.guangdong import GuangdongAdapter
-from src.adapters.henan import HenanAdapter
-from src.adapters.hunan import HunanAdapter
+from src.adapters.fenbi import FenbiAdapter
 
 ADAPTER_MAP: dict[str, Any] = {
+    "generic": GenericAdapter,
     "guokao": GuoKaoAdapter,
-    "guangdong": GuangdongAdapter,
-    "henan": HenanAdapter,
-    "hunan": HunanAdapter,
+    "fenbi": FenbiAdapter,
 }
 
 
