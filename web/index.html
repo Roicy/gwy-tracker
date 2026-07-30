@@ -7,19 +7,26 @@
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
+
 <header>
   <h1>📋 公务员考试公告跟踪</h1>
-  <p class="subtitle">国考 · 省考 · 选调 · 特殊选调 — 自动监控</p>
+  <p class="subtitle">国考 · 省考 · 选调 · 特殊选调 — 自动化监控</p>
   <div class="toolbar">
     <select id="filter-province"><option value="">全部省份</option></select>
     <select id="filter-type"><option value="">全部类型</option></select>
-    <input type="text" id="filter-search" placeholder="搜索标题关键词...">
+    <input type="text" id="filter-search" placeholder="搜索标题…">
+    <label class="toggle-label">
+      <input type="checkbox" id="toggle-completed"> 隐藏已截止
+    </label>
     <span class="update-time" id="update-time"></span>
   </div>
 </header>
 
 <main>
+  <!-- 数据面板 -->
   <div class="stats-bar" id="stats-bar"></div>
+
+  <!-- 公告表格 -->
   <table id="notice-table">
     <thead>
       <tr>
@@ -27,41 +34,50 @@
         <th>类型</th>
         <th>标题</th>
         <th>报名时间</th>
+        <th class="countdown-col">⏳ 距截止</th>
         <th>笔试时间</th>
+        <th class="countdown-col">距笔试</th>
         <th>招录人数</th>
-        <th>发布日期</th>
+        <th>状态</th>
       </tr>
     </thead>
-    <tbody id="notice-body"></tbody>
+    <tbody id="notice-body">
+      <tr><td colspan="9" class="loading">加载数据中…</td></tr>
+    </tbody>
   </table>
 </main>
 
 <footer>
-  <p>数据自动更新 · 来源：各省人事考试网、国家公务员局</p>
+  <p>数据自动更新 · 来源：各省人事考试网、国家公务员局、粉笔网</p>
 </footer>
 
 <script>
+// ─── 全局状态 ───
 let allNotices = [];
 let allStats = {};
+let now = new Date();
 
-// 加载数据
+// ─── 加载 ───
 fetch('data.json')
   .then(r => r.json())
   .then(data => {
+    now = new Date();
     allNotices = data.notices || [];
     allStats = data.stats || {};
-    document.getElementById('update-time').textContent = '更新: ' + (data.updated_at || '-');
+    document.getElementById('update-time').textContent =
+      '更新: ' + (data.updated_at || '-');
     initFilters();
     renderStats();
     renderTable();
   })
   .catch(e => {
     document.getElementById('notice-body').innerHTML =
-      '<tr><td colspan="7" style="color:red">数据加载失败，请稍后刷新</td></tr>';
+      '<tr><td colspan="9" class="error">❌ 数据加载失败，请稍后刷新</td></tr>';
+    console.error(e);
   });
 
+// ─── 筛选器 ───
 function initFilters() {
-  // 省份选项
   const provinces = [...new Set(allNotices.map(n => n.province))].sort();
   const provSel = document.getElementById('filter-province');
   provinces.forEach(p => {
@@ -70,7 +86,6 @@ function initFilters() {
     provSel.appendChild(opt);
   });
 
-  // 类型选项
   const types = [...new Set(allNotices.map(n => n.exam_type))].sort();
   const typeSel = document.getElementById('filter-type');
   types.forEach(t => {
@@ -79,51 +94,165 @@ function initFilters() {
     typeSel.appendChild(opt);
   });
 
-  // 事件
   document.getElementById('filter-province').addEventListener('change', renderTable);
   document.getElementById('filter-type').addEventListener('change', renderTable);
   document.getElementById('filter-search').addEventListener('input', renderTable);
+  document.getElementById('toggle-completed').addEventListener('change', renderTable);
 }
 
+// ─── 统计面板 ───
 function renderStats() {
   const bar = document.getElementById('stats-bar');
-  if (!allStats.total) return;
-  let html = `<span>📊 共 <strong>${allStats.total}</strong> 条公告</span>`;
-  if (allStats.by_type) {
-    for (const [t, c] of Object.entries(allStats.by_type)) {
-      html += `<span class="stat-tag">${t}: ${c}</span>`;
-    }
+  if (!allStats.total) {
+    bar.innerHTML = '<span>暂无公告数据</span>';
+    return;
   }
+
+  // 统计数据质量
+  let withDates = 0, withCount = 0;
+  let activeReg = 0, upcomingExam = 0;
+  allNotices.forEach(n => {
+    if (n.apply_end) withDates++;
+    if (n.recruit_count) withCount++;
+    if (n.apply_end && new Date(n.apply_end) >= now) activeReg++;
+    if (n.written_exam && new Date(n.written_exam) > now) upcomingExam++;
+  });
+
+  let html = [
+    `<span class="stat-main">📊 共 <strong>${allStats.total}</strong> 条公告</span>`,
+    `<span class="stat-tag green">🟢 报名中: ${activeReg}</span>`,
+    `<span class="stat-tag blue">📝 待笔试: ${upcomingExam}</span>`,
+    `<span class="stat-tag gray">📅 含日期: ${withDates}/${allStats.total}</span>`,
+    `<span class="stat-tag gray">👥 含人数: ${withCount}/${allStats.total}</span>`,
+  ].join('');
+
   bar.innerHTML = html;
 }
 
+// ─── 日期解析 ───
+function parseDate(s) {
+  if (!s) return null;
+  const d = new Date(s + 'T00:00:00+08:00');
+  return isNaN(d.getTime()) ? null : d;
+}
+
+// ─── 倒计时 ───
+function countdown(dateStr) {
+  if (!dateStr) return { text: '-', cls: '' };
+  const target = parseDate(dateStr);
+  if (!target) return { text: '-', cls: '' };
+
+  const diff = Math.ceil((target - now) / (1000 * 60 * 60 * 24));
+
+  if (diff < 0) return { text: `已过 ${Math.abs(diff)} 天`, cls: 'expired' };
+  if (diff === 0) return { text: '⚠️ 今天截止', cls: 'urgent' };
+  if (diff <= 3) return { text: `⏰ ${diff} 天`, cls: 'urgent' };
+  if (diff <= 7) return { text: `📌 ${diff} 天`, cls: 'soon' };
+  if (diff <= 30) return { text: `${diff} 天`, cls: 'normal' };
+  return { text: `${diff} 天`, cls: 'far' };
+}
+
+// ─── 状态判定 ───
+function getStatus(n) {
+  const applyEnd = parseDate(n.apply_end);
+  const applyStart = parseDate(n.apply_start);
+  const exam = parseDate(n.written_exam);
+
+  // 报名中
+  if (applyStart && applyEnd && now >= applyStart && now <= applyEnd) {
+    const daysLeft = Math.ceil((applyEnd - now) / (1000 * 60 * 60 * 24));
+    if (daysLeft <= 3) return { text: '🔥 即将截止', cls: 'status-urgent' };
+    return { text: '🟢 报名中', cls: 'status-open' };
+  }
+
+  // 未开始报名
+  if (applyStart && now < applyStart) {
+    const days = Math.ceil((applyStart - now) / (1000 * 60 * 60 * 24));
+    return { text: `⏳ ${days}天后报名`, cls: 'status-upcoming' };
+  }
+
+  // 已截止，待笔试
+  if (applyEnd && now > applyEnd && exam && now < exam) {
+    return { text: '📝 待笔试', cls: 'status-exam' };
+  }
+
+  // 已截止（无笔试日期）
+  if (applyEnd && now > applyEnd) {
+    return { text: '✅ 已截止', cls: 'status-done' };
+  }
+
+  // 全部结束
+  if (exam && now > exam) {
+    return { text: '🏁 已结束', cls: 'status-done' };
+  }
+
+  return { text: '📋 待定', cls: 'status-tbd' };
+}
+
+// ─── 表格渲染 ───
 function renderTable() {
   const prov = document.getElementById('filter-province').value;
   const type = document.getElementById('filter-type').value;
   const search = document.getElementById('filter-search').value.toLowerCase();
+  const hideDone = document.getElementById('toggle-completed').checked;
 
-  let filtered = allNotices;
+  let filtered = [...allNotices];
+
   if (prov) filtered = filtered.filter(n => n.province === prov);
   if (type) filtered = filtered.filter(n => n.exam_type === type);
   if (search) filtered = filtered.filter(n => n.title.toLowerCase().includes(search));
+  if (hideDone) {
+    filtered = filtered.filter(n => {
+      const st = getStatus(n);
+      return !['✅ 已截止', '🏁 已结束'].some(s => st.text.includes(s));
+    });
+  }
+
+  // 排序：有截止日期的在前，最近的优先
+  filtered.sort((a, b) => {
+    const da = parseDate(a.apply_end);
+    const db = parseDate(b.apply_end);
+    if (da && db) return da - db;
+    if (da) return -1;
+    if (db) return 1;
+    // 都没截止日期，按笔试时间排
+    const ea = parseDate(a.written_exam);
+    const eb = parseDate(b.written_exam);
+    if (ea && eb) return ea - eb;
+    if (ea) return -1;
+    if (eb) return 1;
+    return 0;
+  });
 
   const tbody = document.getElementById('notice-body');
   if (filtered.length === 0) {
-    tbody.innerHTML = '<tr><td colspan="7" class="empty">暂无匹配公告</td></tr>';
+    tbody.innerHTML = '<tr><td colspan="9" class="empty">暂无匹配公告</td></tr>';
     return;
   }
 
-  tbody.innerHTML = filtered.map(n => `
+  tbody.innerHTML = filtered.map(n => {
+    const cdEnd = countdown(n.apply_end);
+    const cdExam = countdown(n.written_exam);
+    const status = getStatus(n);
+
+    return `
     <tr>
       <td class="province">${esc(n.province)}</td>
       <td><span class="badge badge-${n.exam_type}">${esc(n.exam_type)}</span></td>
-      <td class="title"><a href="${esc(n.source_url)}" target="_blank" rel="noopener">${esc(n.title)}</a></td>
-      <td class="date-cell">${n.apply_start ? esc(n.apply_start) + ' ~<br>' + esc(n.apply_end) : '-'}</td>
+      <td class="title">
+        <a href="${esc(n.source_url)}" target="_blank" rel="noopener">${esc(n.title)}</a>
+      </td>
+      <td class="date-cell">
+        ${n.apply_start ? esc(n.apply_start) : '-'}
+        ${n.apply_end ? ' ~<br>' + esc(n.apply_end) : ''}
+      </td>
+      <td class="countdown-cell ${cdEnd.cls}">${cdEnd.text}</td>
       <td class="date-cell">${esc(n.written_exam || '-')}</td>
-      <td class="count-cell">${n.recruit_count ? esc(String(n.recruit_count)) + ' 人' : '-'}</td>
-      <td class="date-cell">${esc(n.publish_date || '-')}</td>
-    </tr>
-  `).join('');
+      <td class="countdown-cell ${cdExam.cls}">${cdExam.text}</td>
+      <td class="count-cell">${n.recruit_count ? '<strong>' + esc(String(n.recruit_count)) + '</strong> 人' : '-'}</td>
+      <td><span class="status-tag ${status.cls}">${status.text}</span></td>
+    </tr>`;
+  }).join('');
 }
 
 function esc(s) {

@@ -108,9 +108,10 @@ def crawl_one_source(source: dict) -> dict:
             errors.append(f"详情失败: {raw.url}")
             continue
 
-        # 字段提取
+        # 字段提取（传入发布日期用于年份推断）
         content = detail.get("content", "")
-        extracted = extract_fields(content)
+        pub_date = detail.get("publish_date") or raw.publish_date
+        extracted = extract_fields(content, pub_date)
 
         # 组装通知记录
         notice = {
