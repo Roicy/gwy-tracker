@@ -1,0 +1,119 @@
+/* 公务员考试公告跟踪 — 简洁风格 */
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: "Microsoft YaHei", "微软雅黑", -apple-system, sans-serif;
+  background: #f5f6fa;
+  color: #333;
+  line-height: 1.6;
+}
+
+header {
+  background: linear-gradient(135deg, #1a237e, #283593);
+  color: #fff;
+  padding: 1.5rem 2rem;
+  text-align: center;
+}
+header h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
+.subtitle { font-size: 0.85rem; opacity: 0.8; }
+
+.toolbar {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-top: 1rem;
+  flex-wrap: wrap;
+}
+.toolbar select, .toolbar input {
+  padding: 0.4rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 0.85rem;
+  background: #fff;
+}
+.toolbar input { width: 200px; }
+.update-time { color: rgba(255,255,255,0.7); font-size: 0.75rem; align-self: center; }
+
+main {
+  max-width: 1200px;
+  margin: 1rem auto;
+  padding: 0 1rem;
+}
+
+.stats-bar {
+  background: #fff;
+  padding: 0.75rem 1rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  display: flex;
+  gap: 1rem;
+  align-items: center;
+  flex-wrap: wrap;
+  font-size: 0.9rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+.stat-tag {
+  background: #e8eaf6;
+  color: #1a237e;
+  padding: 0.15rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.8rem;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+}
+th, td {
+  padding: 0.6rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid #eee;
+  font-size: 0.85rem;
+}
+th {
+  background: #fafafa;
+  font-weight: 600;
+  color: #555;
+  white-space: nowrap;
+}
+tr:hover { background: #f8f9ff; }
+
+.province { font-weight: 600; white-space: nowrap; }
+.title { max-width: 320px; }
+.title a { color: #1a237e; text-decoration: none; }
+.title a:hover { text-decoration: underline; }
+.date-cell { white-space: nowrap; font-size: 0.8rem; color: #666; }
+.count-cell { text-align: center; font-weight: 600; color: #e65100; white-space: nowrap; }
+.empty { text-align: center; color: #999; padding: 2rem; }
+
+.badge {
+  display: inline-block;
+  padding: 0.1rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  white-space: nowrap;
+}
+.badge-国考 { background: #ffebee; color: #c62828; }
+.badge-省考 { background: #e3f2fd; color: #1565c0; }
+.badge-选调 { background: #e8f5e9; color: #2e7d32; }
+.badge-定向选调 { background: #fff3e0; color: #e65100; }
+.badge-特殊选调 { background: #f3e5f5; color: #6a1b9a; }
+
+footer {
+  text-align: center;
+  padding: 1.5rem;
+  color: #999;
+  font-size: 0.8rem;
+}
+
+@media (max-width: 768px) {
+  table { font-size: 0.75rem; }
+  th, td { padding: 0.4rem 0.5rem; }
+  .title { max-width: 180px; }
+  .toolbar { flex-direction: column; align-items: center; }
+  .toolbar input { width: 100%; }
+}

@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>公务员考试公告跟踪</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>📋 公务员考试公告跟踪</h1>
+  <p class="subtitle">国考 · 省考 · 选调 · 特殊选调 — 自动监控</p>
+  <div class="toolbar">
+    <select id="filter-province"><option value="">全部省份</option></select>
+    <select id="filter-type"><option value="">全部类型</option></select>
+    <input type="text" id="filter-search" placeholder="搜索标题关键词...">
+    <span class="update-time" id="update-time"></span>
+  </div>
+</header>
+
+<main>
+  <div class="stats-bar" id="stats-bar"></div>
+  <table id="notice-table">
+    <thead>
+      <tr>
+        <th>省份</th>
+        <th>类型</th>
+        <th>标题</th>
+        <th>报名时间</th>
+        <th>笔试时间</th>
+        <th>招录人数</th>
+        <th>发布日期</th>
+      </tr>
+    </thead>
+    <tbody id="notice-body"></tbody>
+  </table>
+</main>
+
+<footer>
+  <p>数据自动更新 · 来源：各省人事考试网、国家公务员局</p>
+</footer>
+
+<script>
+let allNotices = [];
+let allStats = {};
+
+// 加载数据
+fetch('data.json')
+  .then(r => r.json())
+  .then(data => {
+    allNotices = data.notices || [];
+    allStats = data.stats || {};
+    document.getElementById('update-time').textContent = '更新: ' + (data.updated_at || '-');
+    initFilters();
+    renderStats();
+    renderTable();
+  })
+  .catch(e => {
+    document.getElementById('notice-body').innerHTML =
+      '<tr><td colspan="7" style="color:red">数据加载失败，请稍后刷新</td></tr>';
+  });
+
+function initFilters() {
+  // 省份选项
+  const provinces = [...new Set(allNotices.map(n => n.province))].sort();
+  const provSel = document.getElementById('filter-province');
+  provinces.forEach(p => {
+    const opt = document.createElement('option');
+    opt.value = p; opt.textContent = p;
+    provSel.appendChild(opt);
+  });
+
+  // 类型选项
+  const types = [...new Set(allNotices.map(n => n.exam_type))].sort();
+  const typeSel = document.getElementById('filter-type');
+  types.forEach(t => {
+    const opt = document.createElement('option');
+    opt.value = t; opt.textContent = t;
+    typeSel.appendChild(opt);
+  });
+
+  // 事件
+  document.getElementById('filter-province').addEventListener('change', renderTable);
+  document.getElementById('filter-type').addEventListener('change', renderTable);
+  document.getElementById('filter-search').addEventListener('input', renderTable);
+}
+
+function renderStats() {
+  const bar = document.getElementById('stats-bar');
+  if (!allStats.total) return;
+  let html = `<span>📊 共 <strong>${allStats.total}</strong> 条公告</span>`;
+  if (allStats.by_type) {
+    for (const [t, c] of Object.entries(allStats.by_type)) {
+      html += `<span class="stat-tag">${t}: ${c}</span>`;
+    }
+  }
+  bar.innerHTML = html;
+}
+
+function renderTable() {
+  const prov = document.getElementById('filter-province').value;
+  const type = document.getElementById('filter-type').value;
+  const search = document.getElementById('filter-search').value.toLowerCase();
+
+  let filtered = allNotices;
+  if (prov) filtered = filtered.filter(n => n.province === prov);
+  if (type) filtered = filtered.filter(n => n.exam_type === type);
+  if (search) filtered = filtered.filter(n => n.title.toLowerCase().includes(search));
+
+  const tbody = document.getElementById('notice-body');
+  if (filtered.length === 0) {
+    tbody.innerHTML = '<tr><td colspan="7" class="empty">暂无匹配公告</td></tr>';
+    return;
+  }
+
+  tbody.innerHTML = filtered.map(n => `
+    <tr>
+      <td class="province">${esc(n.province)}</td>
+      <td><span class="badge badge-${n.exam_type}">${esc(n.exam_type)}</span></td>
+      <td class="title"><a href="${esc(n.source_url)}" target="_blank" rel="noopener">${esc(n.title)}</a></td>
+      <td class="date-cell">${n.apply_start ? esc(n.apply_start) + ' ~<br>' + esc(n.apply_end) : '-'}</td>
+      <td class="date-cell">${esc(n.written_exam || '-')}</td>
+      <td class="count-cell">${n.recruit_count ? esc(String(n.recruit_count)) + ' 人' : '-'}</td>
+      <td class="date-cell">${esc(n.publish_date || '-')}</td>
+    </tr>
+  `).join('');
+}
+
+function esc(s) {
+  if (!s) return '';
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+</script>
+</body>
+</html>

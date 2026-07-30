@@ -1,0 +1,75 @@
+# 公务员考试公告数据源配置
+# 每个 source 对应一个公告列表页
+
+sources:
+  # ─── 国考 ───
+  - province: 全国
+    exam_type: 国考
+    name: 国家公务员局
+    url: http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/home/gkhome.html
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: guokao
+      list_selector: ".news-list li a, .main-news-list a, [class*=news] a[href]"
+      title_attr: text
+      url_attr: href
+      date_selector: ".date, .time, [class*=date]"
+      # 列表页 URL 可能需要 JS 渲染，备用静态页
+      fallback_urls:
+        - http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/article/articelist.html?ColumnId=7
+
+  # ─── 广东省考 + 选调 ───
+  - province: 广东
+    exam_type: 省考
+    name: 广东省人事考试网
+    url: http://rsks.gd.gov.cn/zwgk/gwyks/index.html
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: guangdong
+      list_selector: ".news-list li a, .article-list a, ul.list a"
+      title_attr: text
+      url_attr: href
+      date_selector: ".date, span.time"
+
+  # ─── 河南省考 ───
+  - province: 河南
+    exam_type: 省考
+    name: 河南省人事考试中心
+    url: https://www.hnrsks.com/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: henan
+      list_selector: "a[href*='content'], .news-list a, .list a"
+      title_attr: text
+      url_attr: href
+      date_selector: ".date, .time"
+
+  # ─── 湖南省考 ───
+  - province: 湖南
+    exam_type: 省考
+    name: 湖南人事考试网
+    url: http://www.hunanpea.com/
+    parser_type: html
+    crawl_interval: 3600
+    config:
+      adapter: hunan
+      list_selector: ".news-list a, .list a, a[href*='article']"
+      title_attr: text
+      url_attr: href
+      date_selector: ".date, .time, span[class*=date]"
+
+  # ─── 国考补录 ───
+  - province: 全国
+    exam_type: 国考
+    name: 国家公务员局-补录
+    url: http://bm.scs.gov.cn/pp/gkweb/core/web/ui/business/article/articelist.html?ColumnId=7
+    parser_type: html
+    crawl_interval: 7200
+    config:
+      adapter: guokao
+      list_selector: ".news-list li a, [class*=news] a[href], a[href*='article']"
+      title_attr: text
+      url_attr: href
