@@ -247,8 +247,10 @@ def update_source_last_crawl(source_id: int, status: str, new_count: int = 0, er
 
 def _row_to_dict(row: sqlite3.Row) -> dict:
     d = dict(row)
-    if d.get("raw_fields") and isinstance(d["raw_fields"], str):
-        d["raw_fields"] = json.loads(d["raw_fields"])
-    if d.get("tags") and isinstance(d["tags"], str):
-        d["tags"] = json.loads(d["tags"])
+    for field in ("raw_fields", "tags", "config"):
+        if d.get(field) and isinstance(d[field], str):
+            try:
+                d[field] = json.loads(d[field])
+            except json.JSONDecodeError:
+                pass  # 保持原始字符串
     return d
