@@ -1,18 +1,154 @@
 {
-  "updated_at": "2026-07-30 12:43:20",
+  "updated_at": "2026-07-30 14:23:32",
   "stats": {
-    "total": 79,
+    "total": 85,
     "by_type": {
-      "省考": 79
+      "省考": 85
     },
     "by_province": {
-      "全国": 33,
+      "全国": 37,
       "吉林": 29,
       "广东": 16,
+      "宁夏": 2,
       "河南": 1
     }
   },
   "notices": [
+    {
+      "id": 84,
+      "source_url": "https://www.nxzgh.org.cn/index.html#/article/Index/25479.html",
+      "source_hash": "82665ec2f8b43e226676be7b01b7e8c33beaddaa97271040a37ff4c57ce108b1",
+      "province": "宁夏",
+      "exam_type": "省考",
+      "title": "自治区总工会直属事业单位2026年公开遴选工作人员补充公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "宁夏总工会",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-30 14:10:55",
+      "updated_at": "2026-07-30 14:10:55",
+      "is_active": 1
+    },
+    {
+      "id": 83,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468032023713792",
+      "source_hash": "11cb4869f88a82c82996673ba2c2085b8afad5f42714f71cbe57e37e9c7fc21b",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "万源市部分中小学幼儿园2026年公开选调教师的公告正在报名四川 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化教师资源配置，促进教师的合理流动，持续推进教育优质均衡发展，按照《万源市教育局　万源市人力资源和社会保障局　中共万源市委机构编制委员会办公室关于推动教师有序调配激发教师活力的通知》（万教发〔\n2025\n〕\n39\n号）文件要求，经万源市委、市政府审定同意，现将万源市部分中小学（含教师进修学校，下同）幼儿园公开选调教师公告如下。\n一选调原则\n坚持德才兼备的用人标准，按照\n“\n公开、平等、竞争、择优\n”\n的原则公开选拔，择优聘用。\n二选调名额及岗位\n本次选调教师\n121\n名，具体岗位详见《万源市部分中小学幼儿园\n2026\n年公开选调教师岗位表》（见附件\n1\n）。\n三选调范围\n万源市农村中小学幼儿园在编教师\n四选调条件\n（一）基本条件\n1.\n政治素质好，热爱祖国，拥护中国共产党的领导，具有良好的思想品德和职业道德，作风正派，遵纪守法。\n2.\n热爱教育事业，师德高尚，具有奉献精神和强烈的事业心、责任感，有较强的教育教学能力。\n3.\n近\n3\n年（\n2023\n年\n-2025\n年）年度考核合格及以上等次（试用期内年度考核为不确定等次的除外），师德考核为合格及以上。\n4.\n满农村学校工作最低",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-30 14:09:32",
+      "updated_at": "2026-07-30 14:09:32",
+      "is_active": 1
+    },
+    {
+      "id": 82,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468033100337152",
+      "source_hash": "a1390b6853d8a08d822611d894b947465c34679da52f8667ccd8a186b503cbc5",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度霍邱县事业单位公开选调工作人员公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据县委、县政府《关于加强机关事业单位人事和编制管理的意见》（邱发［\n2013\n］\n14\n号），县委组织部、县人社局《关于进一步做好我县事业单位公开招聘工作的实施意见》（邱人社秘［\n2018\n］\n93\n号）等文件精神，经县委编委批准，县重点工程管理处、县东西湖水资源保护利用中心、县林业发展中心等面向全县部分事业单位公开选调工作人员\n10\n名。现就有关事项公告如下：\n一、选调原则\n（一）\n坚持面向社会、公开选调；\n（二）\n坚持考试考察、择优聘用；\n（三）\n坚持统一组织、分工负责。\n二、选调计划\n根据县委编委批准的用编计划，计划面向全县选调事业单位工作人员\n10\n名，详见《\n2026\n年度霍邱县事业单位公开选调工作人员岗位情况一览表》（以下简称《一览表》）。\n选调计划（岗位）及本次选调过程的相关信息将在霍邱县人民政府网等媒体上同时发布。\n三、选调条件\n选调对象为除本县范围内各学校、各医院（含乡镇卫生院）外，其他事业单位中符合选调岗位条件的在编在岗工作人员，且必须符合以下条件：\n（一）\n具有中华人民共和国国籍；\n（二）\n遵守宪法和法律；\n（三）\n具有良好的品行；\n（四）\n岗位所需的专业或技能",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-30 14:09:29",
+      "updated_at": "2026-07-30 14:09:29",
+      "is_active": 1
+    },
+    {
+      "id": 81,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468036276998144",
+      "source_hash": "0e6d06c3b577f22c0a124dc2702470c2b6671b5cf681704e0f8e09a653e98bbc",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "洪江市2026年事业单位公开选调工作人员公告正在报名湖南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《关于进一步规范机关事业单位人员流动调配工作的意见》（湘组发〔2015〕26号）有关规定，为进一步优化事业单位工作人员队伍结构，现面向洪江市在编在岗中小学校教职工公开选调51人进入市直和乡镇所属事业单位工作。具体方案公告如下:\n一、公开选调原则\n1．坚持德才兼备、以德为先原则；\n2．坚持公开、平等、竞争、择优原则；\n3．坚持工作需要、人岗相适的原则；\n4．坚持考试与考察相结合的原则。\n二、公开选调岗位\n本次从教育系统公开选调中小学教职工51名，具体岗位、人数及条件等详见附件1：《洪江市2026年事业单位公开选调工作人员岗位计划表》。\n三、公开选调范围和条件\n（一）报名范围\n洪江市在编在岗的中小学校教职工（不含普通高中学段、职业中专、特殊教育学校、幼儿园在编在岗教师）。\n（二）选调条件\n1．思想政治素质高，具有良好的品行和职业道德；\n2．年龄在45周岁以下（1981年7月30日<含>以后出生）；\n3．具有国家承认大学专科及以上文化程度；\n4．近三年年度考核为合格及以上等次；\n5．具有正常履行职责的身体条件；\n6．符合岗位要求的其他资格条件；\n7．符合调动条件且所在学校和洪江市教育局同",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": "2026-08-09",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": "2026-08-09",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-30 14:09:28",
+      "updated_at": "2026-07-30 14:09:28",
+      "is_active": 1
+    },
+    {
+      "id": 80,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "b57ac29b35a143ee4ee97f52ea7bb7dfe44b0567fc6666d98965c445b300782b",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招386828人114233职位收录15807考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-30 14:09:26",
+      "updated_at": "2026-07-30 14:09:26",
+      "is_active": 1
+    },
     {
       "id": 62,
       "source_url": "http://www.jlgwyks.cn/news.aspx?id=1609",
@@ -1623,6 +1759,33 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:26:53",
       "updated_at": "2026-07-30 12:26:53",
+      "is_active": 1
+    },
+    {
+      "id": 85,
+      "source_url": "http://www.nxfeyy.cn/info/1048/29511.htm",
+      "source_hash": "b208902d10a78e8dd85dce16e93df1a2a282293de74075552b3e99d96bff4155",
+      "province": "宁夏",
+      "exam_type": "省考",
+      "title": "北京大学第一医院宁夏妇女儿童医院 （宁夏回族自治区妇幼保健院）2026年自主公开招聘工作人员公告",
+      "publish_dept": null,
+      "publish_date": "2026-06-29",
+      "content_summary": "为\n进一步加强人才队伍建设，\n根据《\n宁夏回族自治区事业单位公开招聘工作人员实施办法》\n（\n宁政办规发\n〔\n202\n3\n〕\n9\n号\n）、\n《关于贯彻落实住院医师规范化培训“两个同等对待”政策的通知》（宁卫发〔2022〕112号）\n等相关规定和自治区卫生健康委有关要求，现就医院2026年自主公开招聘工作人员有关事项公告如下\n。\n一、\n招聘计划\n计划面向社会自主公开招聘工作人员\n74名，其中事业编制工作人员30名，备案人员44名，具体岗位及条件见《2026年自主公开招聘事业单位工作人员岗位计划一览表》（附件1）和《2026年自主公开招聘备案人员岗位计划一览表》（附件2）。\n二、\n招聘条件\n（一）具\n有\n下列\n资格\n条件的人员可以报考\n1.具有中华人民共和国国籍；\n2.拥护中华人民共和国宪法，拥护中国共产党领导和社会主义制度；\n3.遵纪守法、品行端正，具有良好职业道德，能够履行事业单位工作人员职责；\n4.\n年龄一般为18周岁以上、35周岁以下（1990年6月29日至2008年6月29日期间出生）；部分岗位30周岁以下（1995年6月29日至2008年6月29日期间出生）；38周岁以下（198",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-30 14:10:56",
+      "updated_at": "2026-07-30 14:10:56",
       "is_active": 1
     },
     {
