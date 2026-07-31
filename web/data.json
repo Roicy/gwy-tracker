@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-31 03:30:53",
+  "updated_at": "2026-07-31 08:25:05",
   "stats": {
-    "total": 88,
+    "total": 93,
     "by_type": {
-      "省考": 88
+      "省考": 93
     },
     "by_province": {
-      "全国": 40,
+      "全国": 45,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,170 @@
     }
   },
   "notices": [
+    {
+      "id": 93,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468049774008320",
+      "source_hash": "4c16655d2bfc14dd45cae7f495180e6a16fca6cd466e6a1748aa3a212bd5029c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度颍上县县直机关公开选调公务员公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化县直机关干部队伍结构，根据公务员法和《公务员转任规定》等有关法律法规，经研究，决定组织开展2026年度县直机关（含参照公务员法管理机关单位，下同）公开选调公务员工作。现将有关事项公告如下：\n一、职位设置\n本次公开选调职位分为公务员、参公2类，计划选调一级主任科员及以下职级公务员（不含领导职务）13名（详见附件2）。\n二、选调范围和基本条件\n（一）选调范围\n本县乡镇机关中已进行公务员登记备案且在编在岗的科级及以下职级公务员。\n（二）基本条件\n1.政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。\n2.具有正常履行职责的身体条件和心理素质。\n3.报考所有职位均应符合在本级机关工作的最低年限要求。选调生应符合基层锻炼的规定要求。近3个年度考核均为称职及以上等次。\n4.报名人员年龄应在38周岁以下（1987年8月及以后出生）。\n5.具有大学本科及以上学历。\n6.符合选调职位要求的其他资格条件。\n7.法律、法规规定的其他条件。\n工作经历年限的计算时间截至2026年8月。\n（三）具有以下情形之一者，不得报名参加选调\n1.",
+      "apply_start": "2026-08-03",
+      "apply_end": "2026-08-04",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-03",
+        "apply_end": "2026-08-04",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-31 08:11:22",
+      "updated_at": "2026-07-31 08:11:22",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468049779168256.docx",
+        "https://hera.fbstatic.cn/468049784147968.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 92,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468049946761217",
+      "source_hash": "9e35e6c280107232dd85f3a80d38d4028c586eae8872df8f9a40eb71e7328367",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "云南隆阳区2026年区内公开选调教师的通告正在报名云南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化隆阳区教师队伍结构，科学统筹、合理配置教育人才资源，充实全区优质师资力量，补齐师资配置短板，全面提升全区教育教学质量与办学水平。经研究决定，开展2026年区内公开选调教师工作，现将有关事项通告如下：\n一、选调原则\n坚持德才兼备、以德为先的用人标准，遵循公平、公正、公开、竞争、择优的原则，做到信息公开、过程公开、结果公开。\n二、选调范围和对象\n选调对象为隆阳区辖区内符合岗位资格条件的在职在编公办教师。所有报考人员须同时满足本次选调基本条件、业绩条件及对应岗位专项资格条件，本次选调实行一人一岗报考制度，每名报考人员仅限申报一个选调岗位，不得多岗报考。\n持有中学教师资格证的优秀小学在职在编公办教师，可报考本次中学选调岗位。\n三、选调岗位\n2026年全区计划区内公开选调教师57人，具体岗位详见附件1（《隆阳区2026年区内公开选调教师岗位表》）。\n四、选调条件\n（一）基本条件\n1.具有中华人民共和国国籍。\n2.遵守宪法和法律，具有良好的品行。\n3.具有选调岗位所需的年龄、学历、专业和技能。\n4.适应岗位要求的身体条件。\n5.近三年履职考核均在合格及以上。\n6.具有岗位所需要的其他条",
+      "apply_start": "2026-08-04",
+      "apply_end": "2026-08-05",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-04",
+        "apply_end": "2026-08-05",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-31 08:11:21",
+      "updated_at": "2026-07-31 08:11:21",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468049948251137.xlsx",
+        "https://hera.fbstatic.cn/468049949822976.docx",
+        "https://hera.fbstatic.cn/468049951136768.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 91,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468051211607040",
+      "source_hash": "0dff7bc21d06570c2085289bee9602b24e8f428c98938f1f28e3d865abdab325",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "莲花县城区学校公开选调教师公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为逐步解决“城镇少、乡村多”的师资配置错位问题，全面优化县域内教育资源配置，深入推进“小县大城”总体战略，建设“宜学”之城，我县决定公开选调部分义务教育学校在编在岗教师到相关学校任教。为确保教师选调工作顺利实施，现将有关事项公告如下：\n一、选调岗位和名额\n经县政府研究同意，2026年我县城区学校公开选调在编在岗教师63名，其中莲花中学4名、城厢中学40名、甘祖昌红军小学14名、县特殊教育学校5名（具体详见附件1）。\n二、选调条件\n1.政治立场坚定，拥护党的路线、方针、政策，自觉遵守法律法规及教师职业准则，热爱教育事业，师德品行端正，作风严谨务实，具备强烈的事业心、责任感和良好的职业道德。\n2.选调对象：仅限莲花县辖区内农村义务教育阶段在编在岗且在我县中小学连续工作满5年的教师报考；以下学校在编教师均不纳入本次选调范围：莲花中学、城厢中学、莲花中等专业学校（含莲花县技工学校）、坊楼学校高中部、琴亭学校、城厢小学、城厢二小、甘祖昌红军小学、刘仁堪小学、琴亭镇城北中心小学及所辖完全小学、县保育院、县特殊教育学校。\n3.年龄要求：45周岁以下（1980年7月29日之后出生）；\n4.学历要求：报",
+      "apply_start": "2026-07-30",
+      "apply_end": "2026-08-05",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-07-30",
+        "apply_end": "2026-08-05",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-31 08:11:16",
+      "updated_at": "2026-07-31 08:11:16",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468054122895360.docx",
+        "https://hera.fbstatic.cn/468054123942913.docx",
+        "https://hera.fbstatic.cn/468054125778945.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 90,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468053821771776",
+      "source_hash": "e6d11bde76a15a4e2364b13ddf26dddc9dc0e99ec95d9948598cf061050ece00",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "通江县教育科技局通江县人力资源和社会保障局关于2026年公开选调农村在编教师到城区学校任教的公告正在报名四川 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据城区学校教育教学工作需要，经县委、县政府同意，通江县城区学校拟公开选调一批在编教师。现将有关事项公告如下：\n一、选调计划及岗位\n城区中小学选调农村在编教师150名，其中：高中教师30名、初中教师40名、小学教师66名、幼儿教师10名、特殊教育教师4名。具体选调岗位及条件详见《通江县2026年公开选调农村在编教师到城区学校任教教师岗位及条件一览表》（以下简称《岗位及条件一览表》）\n二、选调范围及原则\n（一）选调范围\n高中：聘用在学校教师岗位的县外在编教师或县内农村学校在编教师，且完全符合《岗位及条件一览表》和本公告其他要求的教师。\n初中、小学、特教、幼儿园：聘用在我县农村学校教师岗位的农村在编教师，且完全符合《岗位及条件一览表》和本公告其他要求的教师。\n（二）选调原则\n1.坚持公开、公平、竞争、择优的原则。\n2.坚持本人申请，所在学校同意，自愿报名参考的原则。\n三、选调方式\n笔试+考察\n四、选调条件\n（一）基本条件\n热爱社会主义祖国，拥护中华人民共和国宪法，拥护中国共产党，遵纪守法，品行端正，具有良好的职业道德，爱岗敬业，身心健康，能承担选调岗位的工作。\n（二）学历条件\n1.报考高中",
+      "apply_start": "2026-08-07",
+      "apply_end": null,
+      "written_exam": "2026-08-12",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-07",
+        "apply_end": null,
+        "written_exam": "2026-08-12",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-31 08:11:14",
+      "updated_at": "2026-07-31 08:11:14",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468053823789056.pdf",
+        "https://hera.fbstatic.cn/468053825623040.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 89,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "2b8fec5ee313a461780b226188e1c2720d466f89748fbe4b5835e33c48f93b56",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招384762人114212职位收录15779考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-31 08:11:12",
+      "updated_at": "2026-07-31 08:11:12",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 88,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468048196947968",
@@ -39,7 +203,10 @@
       "tags": [],
       "first_seen_at": "2026-07-31 03:16:08",
       "updated_at": "2026-07-31 03:16:08",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 87,
@@ -66,7 +233,10 @@
       "tags": [],
       "first_seen_at": "2026-07-31 03:16:05",
       "updated_at": "2026-07-31 03:16:05",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 86,
@@ -93,7 +263,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 19:31:02",
       "updated_at": "2026-07-30 19:31:02",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 84,
@@ -120,7 +293,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 14:10:55",
       "updated_at": "2026-07-30 14:10:55",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 83,
@@ -147,7 +323,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 14:09:32",
       "updated_at": "2026-07-30 14:09:32",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 82,
@@ -174,7 +353,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 14:09:29",
       "updated_at": "2026-07-30 14:09:29",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 81,
@@ -201,7 +383,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 14:09:28",
       "updated_at": "2026-07-30 14:09:28",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 80,
@@ -228,7 +413,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 14:09:26",
       "updated_at": "2026-07-30 14:09:26",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 62,
@@ -254,7 +442,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:30",
       "updated_at": "2026-07-30 12:28:30",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 61,
@@ -280,7 +471,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:28",
       "updated_at": "2026-07-30 12:28:28",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 60,
@@ -306,7 +500,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:27",
       "updated_at": "2026-07-30 12:28:27",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 59,
@@ -332,7 +529,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:26",
       "updated_at": "2026-07-30 12:28:26",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 58,
@@ -358,7 +558,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:25",
       "updated_at": "2026-07-30 12:28:25",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 57,
@@ -384,7 +587,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:24",
       "updated_at": "2026-07-30 12:28:24",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 56,
@@ -410,7 +616,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:22",
       "updated_at": "2026-07-30 12:28:22",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 55,
@@ -436,7 +645,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:20",
       "updated_at": "2026-07-30 12:28:20",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 54,
@@ -462,7 +674,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:19",
       "updated_at": "2026-07-30 12:28:19",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 52,
@@ -488,7 +703,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:18",
       "updated_at": "2026-07-30 12:28:18",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 53,
@@ -514,7 +732,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:18",
       "updated_at": "2026-07-30 12:28:18",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 51,
@@ -540,7 +761,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:17",
       "updated_at": "2026-07-30 12:28:17",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 50,
@@ -566,7 +790,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:15",
       "updated_at": "2026-07-30 12:28:15",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 49,
@@ -592,7 +819,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:14",
       "updated_at": "2026-07-30 12:28:14",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 48,
@@ -618,7 +848,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:12",
       "updated_at": "2026-07-30 12:28:12",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 47,
@@ -644,7 +877,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:11",
       "updated_at": "2026-07-30 12:28:11",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 45,
@@ -670,7 +906,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:10",
       "updated_at": "2026-07-30 12:28:10",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 46,
@@ -696,7 +935,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:10",
       "updated_at": "2026-07-30 12:28:10",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 44,
@@ -722,7 +964,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:08",
       "updated_at": "2026-07-30 12:28:08",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 43,
@@ -748,7 +993,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:07",
       "updated_at": "2026-07-30 12:28:07",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 42,
@@ -774,7 +1022,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:06",
       "updated_at": "2026-07-30 12:28:06",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 41,
@@ -800,7 +1051,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:04",
       "updated_at": "2026-07-30 12:28:04",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 40,
@@ -826,7 +1080,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:03",
       "updated_at": "2026-07-30 12:28:03",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 39,
@@ -852,7 +1109,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:01",
       "updated_at": "2026-07-30 12:28:01",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 38,
@@ -878,7 +1138,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:00",
       "updated_at": "2026-07-30 12:28:00",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 37,
@@ -904,7 +1167,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:59",
       "updated_at": "2026-07-30 12:27:59",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 36,
@@ -930,7 +1196,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:58",
       "updated_at": "2026-07-30 12:27:58",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 35,
@@ -956,7 +1225,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:56",
       "updated_at": "2026-07-30 12:27:56",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 34,
@@ -982,7 +1254,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:55",
       "updated_at": "2026-07-30 12:27:55",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 33,
@@ -1008,7 +1283,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:48",
       "updated_at": "2026-07-30 12:27:48",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 32,
@@ -1034,7 +1312,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:46",
       "updated_at": "2026-07-30 12:27:46",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 31,
@@ -1060,7 +1341,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:45",
       "updated_at": "2026-07-30 12:27:45",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 30,
@@ -1086,7 +1370,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:43",
       "updated_at": "2026-07-30 12:27:43",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 29,
@@ -1112,7 +1399,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:40",
       "updated_at": "2026-07-30 12:27:40",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 28,
@@ -1138,7 +1428,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:35",
       "updated_at": "2026-07-30 12:27:35",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 27,
@@ -1164,7 +1457,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:34",
       "updated_at": "2026-07-30 12:27:34",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 26,
@@ -1190,7 +1486,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:31",
       "updated_at": "2026-07-30 12:27:31",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 25,
@@ -1216,7 +1515,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:30",
       "updated_at": "2026-07-30 12:27:30",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 24,
@@ -1242,7 +1544,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:29",
       "updated_at": "2026-07-30 12:27:29",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 23,
@@ -1268,7 +1573,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:27",
       "updated_at": "2026-07-30 12:27:27",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 22,
@@ -1294,7 +1602,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:25",
       "updated_at": "2026-07-30 12:27:25",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 21,
@@ -1320,7 +1631,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:24",
       "updated_at": "2026-07-30 12:27:24",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 20,
@@ -1346,7 +1660,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:23",
       "updated_at": "2026-07-30 12:27:23",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 19,
@@ -1372,7 +1689,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:21",
       "updated_at": "2026-07-30 12:27:21",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 18,
@@ -1398,7 +1718,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:20",
       "updated_at": "2026-07-30 12:27:20",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 17,
@@ -1424,7 +1747,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:18",
       "updated_at": "2026-07-30 12:27:18",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 16,
@@ -1450,7 +1776,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:16",
       "updated_at": "2026-07-30 12:27:16",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 15,
@@ -1476,7 +1805,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:15",
       "updated_at": "2026-07-30 12:27:15",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 14,
@@ -1502,7 +1834,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:13",
       "updated_at": "2026-07-30 12:27:13",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 13,
@@ -1528,7 +1863,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:11",
       "updated_at": "2026-07-30 12:27:11",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 12,
@@ -1554,7 +1892,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:10",
       "updated_at": "2026-07-30 12:27:10",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 11,
@@ -1580,7 +1921,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:09",
       "updated_at": "2026-07-30 12:27:09",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 10,
@@ -1606,7 +1950,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:08",
       "updated_at": "2026-07-30 12:27:08",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 9,
@@ -1632,7 +1979,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:07",
       "updated_at": "2026-07-30 12:27:07",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 8,
@@ -1658,7 +2008,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:03",
       "updated_at": "2026-07-30 12:27:03",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 7,
@@ -1684,7 +2037,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:02",
       "updated_at": "2026-07-30 12:27:02",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 6,
@@ -1710,7 +2066,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:00",
       "updated_at": "2026-07-30 12:27:00",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 5,
@@ -1736,7 +2095,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:26:57",
       "updated_at": "2026-07-30 12:26:57",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 4,
@@ -1762,7 +2124,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:26:56",
       "updated_at": "2026-07-30 12:26:56",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 3,
@@ -1788,7 +2153,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:26:55",
       "updated_at": "2026-07-30 12:26:55",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 2,
@@ -1814,7 +2182,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:26:54",
       "updated_at": "2026-07-30 12:26:54",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 1,
@@ -1840,7 +2211,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:26:53",
       "updated_at": "2026-07-30 12:26:53",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 85,
@@ -1867,7 +2241,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 14:10:56",
       "updated_at": "2026-07-30 14:10:56",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 79,
@@ -1893,7 +2270,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:36:30",
       "updated_at": "2026-07-30 12:36:30",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 63,
@@ -1919,7 +2299,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:51",
       "updated_at": "2026-07-30 12:31:51",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 64,
@@ -1945,7 +2328,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:52",
       "updated_at": "2026-07-30 12:31:52",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 65,
@@ -1971,7 +2357,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:53",
       "updated_at": "2026-07-30 12:31:53",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 66,
@@ -1997,7 +2386,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:54",
       "updated_at": "2026-07-30 12:31:54",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 67,
@@ -2023,7 +2415,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:55",
       "updated_at": "2026-07-30 12:31:55",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 68,
@@ -2049,7 +2444,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:56",
       "updated_at": "2026-07-30 12:31:56",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 69,
@@ -2075,7 +2473,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:57",
       "updated_at": "2026-07-30 12:31:57",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 70,
@@ -2101,7 +2502,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:58",
       "updated_at": "2026-07-30 12:31:58",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 71,
@@ -2127,7 +2531,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:59",
       "updated_at": "2026-07-30 12:31:59",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 72,
@@ -2153,7 +2560,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:00",
       "updated_at": "2026-07-30 12:32:00",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 73,
@@ -2179,7 +2589,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:01",
       "updated_at": "2026-07-30 12:32:01",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 74,
@@ -2205,7 +2618,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:02",
       "updated_at": "2026-07-30 12:32:02",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 75,
@@ -2231,7 +2647,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:03",
       "updated_at": "2026-07-30 12:32:03",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 76,
@@ -2257,7 +2676,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:04",
       "updated_at": "2026-07-30 12:32:04",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 77,
@@ -2283,7 +2705,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:05",
       "updated_at": "2026-07-30 12:32:05",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     },
     {
       "id": 78,
@@ -2309,7 +2734,10 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:06",
       "updated_at": "2026-07-30 12:32:06",
-      "is_active": 1
+      "is_active": 1,
+      "attachment_urls": null,
+      "position_count": 0,
+      "positions": []
     }
   ]
 }
