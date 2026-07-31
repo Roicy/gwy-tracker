@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>备考指南 — 公务员考试公告跟踪</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav class="top-nav">
+  <span class="nav-brand">📋 公考公告跟踪</span>
+  <div class="nav-links">
+    <a href="index.html">公告列表</a>
+    <a href="analysis.html">数据分析</a>
+    <a href="guide.html" class="nav-active">备考指南</a>
+  </div>
+</nav>
+
+<main style="margin-top:2rem">
+  <h2>📚 公务员考试备考指南</h2>
+  <p style="color:#888;margin-bottom:1.5rem">考试科目 · 题型分值 · 备考资源 · 学习路线</p>
+
+  <!-- 免费可见，付费看全部 -->
+  <div id="guide-content"></div>
+</main>
+
+<footer><p>内容整理自国家公务员局、各省人事考试网、华图中公粉笔等公开资料</p></footer>
+
+<script>
+const isPremium = !!localStorage.getItem('gwy_premium_hash');
+
+if (!isPremium) {
+  document.getElementById('guide-content').innerHTML = `
+    <div class="premium-banner">
+      🔒 <strong>付费内容</strong><br>
+      备考指南包含完整的考试科目解析、题型分值分布、免费备考资源汇总和学习路线规划。<br><br>
+      <small>在首页输入兑换码激活后即可查看全部内容</small>
+    </div>
+    <div class="guide-section" style="opacity:0.5;pointer-events:none">
+      <h3>📖 考试科目概览</h3>
+      <p>所有公务员考试均包含 <strong>《行政职业能力测验》（行测）</strong>和 <strong>《申论》</strong>两门公共科目，部分岗位加试专业科目。</p>
+      <p>行测：120分钟，100分，约130-135道选择题</p>
+      <p>申论：180分钟（国考）/ 150分钟（省考），100分，主观写作题</p>
+      <p style="color:#e65100;margin-top:1rem">🔒 详细题型分值、备考资源、学习路线需激活后查看</p>
+    </div>
+  `;
+} else {
+  document.getElementById('guide-content').innerHTML = buildGuide();
+}
+
+function buildGuide() {
+  return `
+<!-- ═══════════════ 考试科目 ═══════════════ -->
+<div class="guide-section">
+  <h3>📖 一、考试科目总览</h3>
+  <p>所有公务员考试均包含两门<strong>公共科目</strong>，部分岗位加试<strong>专业科目</strong>：</p>
+  <table>
+    <tr><th>科目</th><th>类型</th><th>时间</th><th>满分</th><th>题量</th></tr>
+    <tr><td><strong>行测</strong><br><small>行政职业能力测验</small></td><td>客观选择题</td><td>120分钟</td><td>100分</td><td>130-135题</td></tr>
+    <tr><td><strong>申论</strong></td><td>主观写作题</td><td>国考180分钟<br>省考150分钟</td><td>100分</td><td>4-5大题</td></tr>
+    <tr><td><strong>专业科目</strong><br><small>(部分岗位)</small></td><td>客观题为主</td><td>120分钟</td><td>100分</td><td>依岗位而定</td></tr>
+  </table>
+
+  <h4>需要加试专业科目的岗位：</h4>
+  <ul>
+    <li>🛡️ <strong>公安机关人民警察</strong>：公安专业科目</li>
+    <li>💰 <strong>金融监管总局</strong>：金融监管专业科目</li>
+    <li>📊 <strong>中国证监会</strong>：证券期货专业科目</li>
+    <li>🌐 <strong>8个非通用语职位</strong>：外语水平测试</li>
+    <li>⚖️ <strong>法院/检察院</strong>（省考）：法律基础知识</li>
+  </ul>
+</div>
+
+<!-- ═══════════════ 行测详解 ═══════════════ -->
+<div class="guide-section">
+  <h3>🧮 二、行测题型与分值（2026年国考）</h3>
+  <p class="tip">⚠️ 2026年新增"政治理论"模块，单列20题</p>
+  <table>
+    <tr><th>模块</th><th>题量</th><th>单题分值</th><th>总分</th><th>备考重点</th></tr>
+    <tr><td>🟡 <strong>政治理论</strong> <span class="badge badge-国考">新增</span></td><td>20题</td><td>0.8分</td><td>16分</td><td>二十大精神、二十届三中全会、绿色低碳发展</td></tr>
+    <tr><td>🟢 常识判断</td><td>20题</td><td>0.5分</td><td>10分</td><td>法律、文史、科技、经济、社会、生态</td></tr>
+    <tr><td>🔵 言语理解与表达</td><td>40题</td><td>0.8分</td><td>32分</td><td>逻辑填空、片段阅读、语句表达</td></tr>
+    <tr><td>🟠 数量关系</td><td>10-15题</td><td>0.7-1分</td><td>7-12分</td><td>数学运算（省级15题/地市10题）</td></tr>
+    <tr><td>🟣 判断推理</td><td>40题</td><td>0.5-0.8分</td><td>26分</td><td>图形推理10 + 定义判断10 + 类比推理10 + 逻辑判断10</td></tr>
+    <tr><td>🔴 资料分析</td><td>20题</td><td>1分</td><td>20分</td><td>增长量/率、比重、倍数、平均数</td></tr>
+  </table>
+
+  <h4>行测做题策略：</h4>
+  <ul>
+    <li>✅ 先做<strong>资料分析</strong>（分值最高、最易拿满分）</li>
+    <li>✅ 再做<strong>言语理解</strong>和<strong>判断推理</strong>（题量最大）</li>
+    <li>✅ <strong>政治理论+常识</strong>快速过（不会就蒙）</li>
+    <li>⏱️ <strong>数量关系</strong>放最后（耗时长，选择性放弃难题）</li>
+    <li>🎯 目标正确率：资料分析90%+，言语/判断80%+，常识60%+，数量50%+</li>
+  </ul>
+</div>
+
+<!-- ═══════════════ 申论详解 ═══════════════ -->
+<div class="guide-section">
+  <h3>✍️ 三、申论题型与分值</h3>
+  <table>
+    <tr><th>题型</th><th>分值范围</th><th>考察能力</th></tr>
+    <tr><td>归纳概括</td><td>10-15分</td><td>阅读理解、信息提取</td></tr>
+    <tr><td>综合分析</td><td>15-20分</td><td>逻辑分析、多角度思考</td></tr>
+    <tr><td>提出对策</td><td>10-25分</td><td>解决问题、实操能力</td></tr>
+    <tr><td>应用文写作</td><td>20-25分</td><td>公文格式、语言规范</td></tr>
+    <tr><td><strong>文章写作</strong></td><td><strong>30分</strong></td><td>综合论述、思想深度</td></tr>
+  </table>
+
+  <div class="card-row" style="margin-top:1rem">
+    <div class="card"><div class="card-num">3类</div><div class="card-label">国考申论分类<br>省部级/地市级/行政执法</div></div>
+    <div class="card"><div class="card-num">3类</div><div class="card-label">省考申论分类<br>申论1/申论2/申论3</div></div>
+    <div class="card"><div class="card-num">800-1200字</div><div class="card-label">大作文字数要求</div></div>
+    <div class="card"><div class="card-num">180分钟</div><div class="card-label">国考申论时限<br>省考多为150分钟</div></div>
+  </div>
+</div>
+
+<!-- ═══════════════ 成绩计算 ═══════════════ -->
+<div class="guide-section">
+  <h3>📊 四、笔试成绩合成</h3>
+  <table>
+    <tr><th>职位类型</th><th>行测占比</th><th>申论占比</th><th>专业科目占比</th></tr>
+    <tr><td>普通职位</td><td>50%</td><td>50%</td><td>—</td></tr>
+    <tr><td>公安机关人民警察</td><td>40%</td><td>30%</td><td>30%</td></tr>
+    <tr><td>金融监管总局</td><td>25%</td><td>25%</td><td>50%</td></tr>
+    <tr><td>证监会</td><td>25%</td><td>25%</td><td>50%</td></tr>
+  </table>
+</div>
+
+<!-- ═══════════════ 免费资源 ═══════════════ -->
+<div class="guide-section">
+  <h3>🆓 五、免费备考资源</h3>
+
+  <h4>🏫 高校图书馆资源（强烈推荐）</h4>
+  <div class="card-row">
+    <div class="card">
+      <div class="card-label" style="font-size:1rem;font-weight:700">上岸考公网</div>
+      <div class="card-num" style="font-size:0.9rem">shangankaogong.net</div>
+      <div class="card-label">中科携手中公华图联合研发<br>500+讲师、视频课程量最大<br>支持错题本+专项练习+知识点溯源<br>需校园网IP注册（免费）</div>
+    </div>
+    <div class="card">
+      <div class="card-label" style="font-size:1rem;font-weight:700">中科VIPExam</div>
+      <div class="card-num" style="font-size:0.9rem">vipexam.cn</div>
+      <div class="card-label">2200+考试科目覆盖<br>历年真题+模拟试卷<br>支持模拟自测+错题组卷<br>高校图书馆免费试用</div>
+    </div>
+  </div>
+
+  <h4 style="margin-top:1.5rem">📱 高频使用的免费工具</h4>
+  <table>
+    <tr><th>平台</th><th>类型</th><th>核心功能</th><th>获取方式</th></tr>
+    <tr><td><strong>粉笔</strong></td><td>App</td><td>题库最大、真题最全、模考大赛</td><td>应用商店免费下载</td></tr>
+    <tr><td><strong>华图在线</strong></td><td>App</td><td>视频课+题库+直播</td><td>应用商店免费下载</td></tr>
+    <tr><td><strong>中公题库</strong></td><td>App</td><td>题库+每日一练+错题本</td><td>应用商店免费下载</td></tr>
+    <tr><td><strong>人民日报</strong></td><td>App/网站</td><td>申论素材积累（评论版）</td><td>免费</td></tr>
+    <tr><td><strong>学习强国</strong></td><td>App</td><td>政治理论+时政热点</td><td>免费</td></tr>
+    <tr><td><strong>B站</strong></td><td>网站/App</td><td>免费公开课（刘文超、李梦娇等）</td><td>免费</td></tr>
+    <tr><td><strong>国家公务员局</strong></td><td>网站</td><td>官方大纲+职位表</td><td>scs.gov.cn</td></tr>
+  </table>
+</div>
+
+<!-- ═══════════════ 学习路线 ═══════════════ -->
+<div class="guide-section">
+  <h3>🗺️ 六、备考学习路线</h3>
+
+  <div class="timeline">
+    <div class="tl-item">
+      <div class="tl-phase">第 1 阶段</div>
+      <div class="tl-title">📚 基础学习（1-2个月）</div>
+      <div class="tl-desc">
+        系统学习行测六大模块+申论五大题型<br>
+        • 每天2-3小时视频课 + 配套练习题<br>
+        • 重点：资料分析公式、言语理解技巧、判断推理规律<br>
+        • 推荐资源：B站免费课 / 粉笔系统班
+      </div>
+    </div>
+    <div class="tl-item">
+      <div class="tl-phase">第 2 阶段</div>
+      <div class="tl-title">✏️ 强化刷题（1-2个月）</div>
+      <div class="tl-desc">
+        模块化刷题 + 错题整理<br>
+        • 每天一套行测（计时）+ 一道申论小题<br>
+        • 错题本记录 + 每周复盘<br>
+        • 推荐资源：粉笔题库 / 历年真题
+      </div>
+    </div>
+    <div class="tl-item">
+      <div class="tl-phase">第 3 阶段</div>
+      <div class="tl-title">🎯 套题冲刺（1个月）</div>
+      <div class="tl-desc">
+        全真模拟 + 查漏补缺<br>
+        • 每天一套完整行测+申论（严格计时）<br>
+        • 每周参加粉笔模考，看排名定位<br>
+        • 重点突破薄弱模块
+      </div>
+    </div>
+    <div class="tl-item">
+      <div class="tl-phase">第 4 阶段</div>
+      <div class="tl-title">🔥 考前突击（2周）</div>
+      <div class="tl-desc">
+        时政热点 + 心态调整<br>
+        • 政治理论时政押题 + 申论热点话题<br>
+        • 回顾错题本 + 公式/技巧速记<br>
+        • 调整作息，保持状态
+      </div>
+    </div>
+  </div>
+
+  <div class="card-row" style="margin-top:1.5rem">
+    <div class="card"><div class="card-num">3-6个月</div><div class="card-label">建议总备考周期</div></div>
+    <div class="card"><div class="card-num">4-6h/天</div><div class="card-label">在职备考建议<br>全职建议8-10h/天</div></div>
+    <div class="card"><div class="card-num">5000+题</div><div class="card-label">行测刷题目标量</div></div>
+    <div class="card"><div class="card-num">50+篇</div><div class="card-label">申论练习目标量</div></div>
+  </div>
+</div>
+
+<!-- ═══════════════ 招考要求 ═══════════════ -->
+<div class="guide-section">
+  <h3>📋 七、常见招考要求</h3>
+  <table>
+    <tr><th>条件</th><th>国考</th><th>省考</th><th>选调生</th></tr>
+    <tr><td>年龄</td><td>18-38周岁<br>应届硕博放宽至43岁</td><td>18-35周岁<br>硕博放宽至40岁</td><td>18-30周岁<br>（各省略不同）</td></tr>
+    <tr><td>学历</td><td>大专及以上</td><td>大专及以上</td><td>全日制本科及以上</td></tr>
+    <tr><td>专业</td><td>依岗位要求</td><td>依岗位要求</td><td>不限专业居多</td></tr>
+    <tr><td>政治面貌</td><td>少数岗位要求党员</td><td>少数岗位要求党员</td><td><strong>党员/预备党员优先</strong></td></tr>
+    <tr><td>基层经验</td><td>中央机关多数要求2年</td><td>少数岗位要求</td><td>一般不要求</td></tr>
+    <tr><td>应届限制</td><td>约60%岗位限应届</td><td>约30-50%限应届</td><td><strong>全部限应届</strong></td></tr>
+  </table>
+</div>
+  `;
+}
+</script>
+</body>
+</html>

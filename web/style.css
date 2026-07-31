@@ -165,10 +165,37 @@ tr:hover { background: #f8f9ff; }
 /* ─── Footer ─── */
 footer { text-align: center; padding: 1.5rem; color: #aaa; font-size: 0.75rem; }
 
+/* ─── 备考指南 ─── */
+.guide-section {
+  background: #fff; padding: 1.5rem 2rem; border-radius: 8px;
+  margin-bottom: 1.5rem; box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+}
+.guide-section h3 { font-size: 1.1rem; color: #1a237e; margin-bottom: 0.75rem; border-left: 3px solid #3949ab; padding-left: 0.75rem; }
+.guide-section h4 { font-size: 0.9rem; color: #555; margin: 1rem 0 0.5rem; }
+.guide-section p { margin: 0.3rem 0; line-height: 1.7; }
+.guide-section ul { margin: 0.5rem 0; padding-left: 1.2rem; }
+.guide-section li { margin: 0.3rem 0; font-size: 0.85rem; line-height: 1.6; }
+.guide-section .tip { background: #fff8e1; padding: 0.5rem 1rem; border-radius: 6px; font-size: 0.85rem; color: #e65100; }
+.guide-section table { margin-top: 0.5rem; }
+
+/* 学习路径时间线 */
+.timeline { margin: 1rem 0; }
+.tl-item {
+  display: flex; gap: 1rem; padding: 0.75rem 0; border-bottom: 1px solid #eee; align-items: flex-start;
+}
+.tl-phase {
+  background: #3949ab; color: #fff; padding: 0.2rem 0.6rem; border-radius: 4px;
+  font-size: 0.75rem; font-weight: 700; white-space: nowrap; min-width: 4.5em; text-align: center;
+}
+.tl-title { font-weight: 700; font-size: 0.9rem; min-width: 10em; color: #333; }
+.tl-desc { font-size: 0.82rem; color: #666; line-height: 1.6; }
+
 @media (max-width: 900px) {
   table { font-size: 0.7rem; }
   th, td { padding: 0.35rem 0.4rem; }
   .title { max-width: 150px; }
   .toolbar { flex-direction: column; align-items: stretch; }
   .chart-grid { grid-template-columns: 1fr; }
+  .tl-item { flex-direction: column; gap: 0.3rem; }
+  .guide-section { padding: 1rem; }
 }

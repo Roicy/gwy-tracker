@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-31 08:25:05",
+  "updated_at": "2026-07-31 16:27:58",
   "stats": {
-    "total": 93,
+    "total": 94,
     "by_type": {
-      "省考": 93
+      "省考": 94
     },
     "by_province": {
-      "全国": 45,
+      "全国": 46,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -15,7 +15,7 @@
   },
   "notices": [
     {
-      "id": 93,
+      "id": 94,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468049774008320",
       "source_hash": "4c16655d2bfc14dd45cae7f495180e6a16fca6cd466e6a1748aa3a212bd5029c",
       "province": "全国",
@@ -37,8 +37,8 @@
         "interview_start": null
       },
       "tags": [],
-      "first_seen_at": "2026-07-31 08:11:22",
-      "updated_at": "2026-07-31 08:11:22",
+      "first_seen_at": "2026-07-31 08:24:24",
+      "updated_at": "2026-07-31 08:24:24",
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468049779168256.docx",
@@ -48,7 +48,7 @@
       "positions": []
     },
     {
-      "id": 92,
+      "id": 93,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468049946761217",
       "source_hash": "9e35e6c280107232dd85f3a80d38d4028c586eae8872df8f9a40eb71e7328367",
       "province": "全国",
@@ -70,8 +70,8 @@
         "interview_start": null
       },
       "tags": [],
-      "first_seen_at": "2026-07-31 08:11:21",
-      "updated_at": "2026-07-31 08:11:21",
+      "first_seen_at": "2026-07-31 08:24:21",
+      "updated_at": "2026-07-31 08:24:21",
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468049948251137.xlsx",
@@ -82,7 +82,7 @@
       "positions": []
     },
     {
-      "id": 91,
+      "id": 92,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468051211607040",
       "source_hash": "0dff7bc21d06570c2085289bee9602b24e8f428c98938f1f28e3d865abdab325",
       "province": "全国",
@@ -104,8 +104,8 @@
         "interview_start": null
       },
       "tags": [],
-      "first_seen_at": "2026-07-31 08:11:16",
-      "updated_at": "2026-07-31 08:11:16",
+      "first_seen_at": "2026-07-31 08:24:16",
+      "updated_at": "2026-07-31 08:24:16",
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468054122895360.docx",
@@ -116,7 +116,7 @@
       "positions": []
     },
     {
-      "id": 90,
+      "id": 91,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468053821771776",
       "source_hash": "e6d11bde76a15a4e2364b13ddf26dddc9dc0e99ec95d9948598cf061050ece00",
       "province": "全国",
@@ -138,8 +138,8 @@
         "interview_start": null
       },
       "tags": [],
-      "first_seen_at": "2026-07-31 08:11:14",
-      "updated_at": "2026-07-31 08:11:14",
+      "first_seen_at": "2026-07-31 08:24:13",
+      "updated_at": "2026-07-31 08:24:13",
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468053823789056.pdf",
@@ -149,12 +149,44 @@
       "positions": []
     },
     {
-      "id": 89,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "2b8fec5ee313a461780b226188e1c2720d466f89748fbe4b5835e33c48f93b56",
+      "id": 90,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468054367031296",
+      "source_hash": "8a74bb56cb915a304a37a02a2226adef1221422fdf398b6e10114c7c5e1fac60",
       "province": "全国",
       "exam_type": "省考",
-      "title": "26年国企考试合集共招384762人114212职位收录15779考试",
+      "title": "2026年九江市市直学校公开选调中小学教师公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，经研究，九江市市直学校2026年面向九江市辖区内各县（市、区）公办中小学公开选调在编在岗教师57名，现将有关事项公告如下:\n一、选调岗位\n见附件1。\n二、选调条件\n（一）报考人员应为九江市辖区内各县（市、区）公办中小学在编在岗教师，且具备下列条件:\n1.遵守中华人民共和国宪法和法律，拥护中国共产党的领导和社会主义制度；\n2.具有良好的政治素质和道德品行，爱教敬业，乐于奉献；\n3.具有正常履行职责的身体条件和心理素质；\n4.年龄在35周岁以下（1990年7月31日以后出生）；\n5.具有大学本科及以上学历、学士及以上学位；\n6.具有选调岗位相应学段及以上层次和相应学科的教师资格证；\n7.在同一县域内任教满5年及以上（“三支一扶”支教人员和特岗教师的服务期与其转为正式编制教师后的工作时间可累计计算）；\n8.报考小学岗位，应有本岗位小学相应学科5年及以上任教经历；报考初中岗位，应有本岗位中学相应学科5年及以上任教经历；\n9.报名前取得所在学校及其教育主管部门同意，并在资格审查时提供由所在学校及其教育主管部门出具的同意报考证明；\n10.具备招聘岗位要求的其他资格条件。\n（二）不得报考",
+      "apply_start": "2026-08-02",
+      "apply_end": null,
+      "written_exam": "2026-08-07",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-02",
+        "apply_end": null,
+        "written_exam": "2026-08-07",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-31 08:24:10",
+      "updated_at": "2026-07-31 08:24:10",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468054368787456.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 89,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a375e4634013ced21480062a7e4b7e03edd90cdfefe82000402ce8babca81499",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招384828人114242职位收录15786考试",
       "publish_dept": null,
       "publish_date": null,
       "content_summary": null,
@@ -171,8 +203,8 @@
         "interview_start": null
       },
       "tags": [],
-      "first_seen_at": "2026-07-31 08:11:12",
-      "updated_at": "2026-07-31 08:11:12",
+      "first_seen_at": "2026-07-31 08:24:07",
+      "updated_at": "2026-07-31 08:24:07",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
