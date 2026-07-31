@@ -22,7 +22,7 @@ from src.database import (
 from src.dedup import compute_dedup_key
 from src.extractor import extract_fields, extract_positions, extract_attachments
 from src.notifier import notify_new_notice
-from src.render import export_json, render_html
+from src.render import export_json
 from src.utils.logger import info, warn, error
 from src.utils.http import HttpClient
 
