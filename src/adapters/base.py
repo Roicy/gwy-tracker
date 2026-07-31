@@ -76,6 +76,7 @@ class BaseAdapter(ABC):
             "content": text[:2000],
             "publish_date": publish_date,
             "publish_dept": dept,
+            "html": html,  # 原始 HTML，用于职位表解析和附件提取
         }
 
     def should_include(self, title: str) -> bool:

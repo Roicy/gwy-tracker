@@ -130,3 +130,117 @@ def _extract_count(text: str) -> dict:
                 return {"recruit_count": n}
 
     return {"recruit_count": None}
+
+
+# ─── 职位表解析 ──────────────────────────────────────────────
+
+# 常见的职位表表头关键词映射
+HEADER_MAP = {
+    "职位代码": "position_code",
+    "职位编码": "position_code",
+    "岗位代码": "position_code",
+    "招录单位": "dept_name",
+    "用人单位": "dept_name",
+    "招考单位": "dept_name",
+    "单位名称": "dept_name",
+    "职位名称": "position_name",
+    "岗位名称": "position_name",
+    "招录职位": "position_name",
+    "招录人数": "recruit_num",
+    "招考人数": "recruit_num",
+    "计划人数": "recruit_num",
+    "录用人数": "recruit_num",
+    "学历要求": "education",
+    "学历": "education",
+    "学位要求": "education",
+    "专业要求": "major",
+    "专业": "major",
+    "专业类别": "major",
+    "基层工作最低年限": "experience",
+    "基层工作年限": "experience",
+    "基层经验": "experience",
+    "政治面貌": "political_status",
+    "其他条件": "other_requirements",
+    "备注": "other_requirements",
+    "其他要求": "other_requirements",
+}
+
+
+def extract_positions(html: str) -> list[dict]:
+    """从 HTML 中解析职位表"""
+    from bs4 import BeautifulSoup
+    soup = BeautifulSoup(html, "lxml")
+    tables = soup.select("table")
+
+    best_positions: list[dict] = []
+    for table in tables:
+        positions = _parse_table(table)
+        if len(positions) > len(best_positions):
+            best_positions = positions
+
+    return best_positions[:500]  # 最多 500 个岗位
+
+
+def _parse_table(table) -> list[dict]:
+    """解析单个 table 为职位列表"""
+    rows = table.select("tr")
+    if len(rows) < 2:
+        return []
+
+    # 解析表头
+    header_row = rows[0]
+    headers = []
+    for th in header_row.select("th, td"):
+        text = th.get_text(strip=True).replace("\n", "").replace("\r", "")
+        # 匹配表头关键词
+        matched = None
+        for keyword, field_name in HEADER_MAP.items():
+            if keyword in text:
+                matched = field_name
+                break
+        headers.append(matched or text)
+
+    # 如果没匹配到职位表特征列（至少要有单位名称或职位代码），跳过
+    has_key_cols = any(h in HEADER_MAP.values() for h in headers)
+    if not has_key_cols:
+        return []
+
+    # 解析数据行
+    positions = []
+    for row in rows[1:]:
+        cells = row.select("td, th")
+        if len(cells) < 2:
+            continue
+
+        pos = {}
+        for i, cell in enumerate(cells):
+            if i >= len(headers):
+                break
+            field = headers[i]
+            if field in HEADER_MAP.values():
+                pos[field] = cell.get_text(strip=True).replace("\n", " ").replace("\r", "")
+
+        if pos:  # 至少有一个匹配字段
+            # 尝试从文本中提取人数
+            if "recruit_num" in pos:
+                m = re.search(r"(\d+)", str(pos["recruit_num"]))
+                if m:
+                    pos["recruit_num"] = int(m.group(1))
+            positions.append(pos)
+
+    return positions
+
+
+def extract_attachments(html: str, base_url: str = "") -> list[str]:
+    """从 HTML 中提取附件链接（XLS、PDF、DOC 等）"""
+    from bs4 import BeautifulSoup
+    from urllib.parse import urljoin
+    soup = BeautifulSoup(html, "lxml")
+    urls = []
+    for a in soup.select("a[href]"):
+        href = (a.get("href") or "").strip().lower()
+        if any(href.endswith(ext) for ext in [".xls", ".xlsx", ".pdf", ".doc", ".docx", ".zip"]):
+            full = urljoin(base_url, a.get("href", ""))
+            if full not in urls:
+                urls.append(full)
+    return urls[:10]  # 最多 10 个附件

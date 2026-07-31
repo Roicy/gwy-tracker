@@ -17,10 +17,10 @@ sys.path.insert(0, str(ROOT_DIR))
 
 from src.database import (
     init_db, upsert_source, get_active_sources, get_existing_hashes,
-    insert_notice, update_source_last_crawl, notice_exists,
+    insert_notice, insert_positions, update_source_last_crawl, notice_exists,
 )
 from src.dedup import compute_dedup_key
-from src.extractor import extract_fields
+from src.extractor import extract_fields, extract_positions, extract_attachments
 from src.notifier import notify_new_notice
 from src.render import export_json, render_html
 from src.utils.logger import info, warn, error
@@ -110,8 +110,16 @@ def crawl_one_source(source: dict) -> dict:
 
         # 字段提取（传入发布日期用于年份推断）
         content = detail.get("content", "")
+        detail_html = detail.get("html", "")  # 适配器可返回原始 HTML
         pub_date = detail.get("publish_date") or raw.publish_date
         extracted = extract_fields(content, pub_date)
+
+        # 附件和职位表
+        attachments = detail.get("attachment_urls", [])
+        positions = []
+        if detail_html:
+            attachments = extract_attachments(detail_html, raw.url)
+            positions = extract_positions(detail_html)
 
         # 组装通知记录
         notice = {
@@ -130,6 +138,8 @@ def crawl_one_source(source: dict) -> dict:
             "recruit_count": extracted.get("recruit_count"),
             "raw_fields": extracted,
             "tags": [],
+            "attachment_urls": attachments,
+            "position_count": len(positions),
         }
 
         notice_id = insert_notice(notice)
@@ -137,12 +147,16 @@ def crawl_one_source(source: dict) -> dict:
             new_count += 1
             existing_hashes.add(dedup_key)
 
+            # 存储职位表
+            if positions:
+                insert_positions(notice_id, positions)
+
             # 推送通知
             channels = notify_new_notice(notice)
             if channels:
                 info(f"  ✅ 新公告 + 已推送 {channels}: {raw.title[:50]}...")
             else:
-                info(f"  ✅ 新公告: {raw.title[:50]}...")
+                info(f"  ✅ 新公告 ({len(positions)}岗位): {raw.title[:50]}...")
 
     duration_ms = int((time.time() - t0) * 1000)
     status = "success" if not errors else "partial"

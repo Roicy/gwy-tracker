@@ -52,6 +52,8 @@ def init_db():
             recruit_count   INTEGER,
             raw_fields      TEXT,
             tags            TEXT,
+            attachment_urls TEXT,
+            position_count  INTEGER DEFAULT 0,
             first_seen_at   TEXT NOT NULL DEFAULT (datetime('now')),
             updated_at      TEXT NOT NULL DEFAULT (datetime('now')),
             is_active       INTEGER DEFAULT 1
@@ -61,6 +63,23 @@ def init_db():
         CREATE INDEX IF NOT EXISTS idx_notices_exam_type ON notices(exam_type);
         CREATE INDEX IF NOT EXISTS idx_notices_publish_date ON notices(publish_date);
         CREATE INDEX IF NOT EXISTS idx_notices_apply_end ON notices(apply_end);
+
+        CREATE TABLE IF NOT EXISTS notice_positions (
+            id              INTEGER PRIMARY KEY AUTOINCREMENT,
+            notice_id       INTEGER NOT NULL,
+            position_code   TEXT,
+            position_name   TEXT,
+            dept_name       TEXT,
+            recruit_num     INTEGER,
+            education       TEXT,
+            major           TEXT,
+            experience      TEXT,
+            political_status TEXT,
+            other_requirements TEXT,
+            FOREIGN KEY (notice_id) REFERENCES notices(id)
+        );
+
+        CREATE INDEX IF NOT EXISTS idx_positions_notice ON notice_positions(notice_id);
 
         CREATE TABLE IF NOT EXISTS sources (
             id              INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -87,6 +106,17 @@ def init_db():
             FOREIGN KEY (source_id) REFERENCES sources(id)
         );
     """)
+
+    # 兼容旧表：尝试添加新列（如果列已存在则忽略错误）
+    for col, col_type in [
+        ("attachment_urls", "TEXT"),
+        ("position_count", "INTEGER DEFAULT 0"),
+    ]:
+        try:
+            conn.execute(f"ALTER TABLE notices ADD COLUMN {col} {col_type}")
+        except sqlite3.OperationalError:
+            pass  # 列已存在
+
     conn.commit()
     conn.close()
 
@@ -101,8 +131,8 @@ def insert_notice(notice: dict) -> int | None:
             INSERT INTO notices (source_url, source_hash, province, exam_type,
                 title, publish_dept, publish_date, content_summary,
                 apply_start, apply_end, written_exam, interview_start,
-                recruit_count, raw_fields, tags)
-            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                recruit_count, raw_fields, tags, attachment_urls, position_count)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
         """, (
             notice["source_url"],
             notice["source_hash"],
@@ -119,6 +149,8 @@ def insert_notice(notice: dict) -> int | None:
             notice.get("recruit_count"),
             json.dumps(notice.get("raw_fields", {}), ensure_ascii=False),
             json.dumps(notice.get("tags", []), ensure_ascii=False),
+            json.dumps(notice.get("attachment_urls", []), ensure_ascii=False),
+            notice.get("position_count", 0),
         ))
         conn.commit()
         return cur.lastrowid
@@ -243,14 +275,55 @@ def update_source_last_crawl(source_id: int, status: str, new_count: int = 0, er
     conn.close()
 
 
+# ─── Position CRUD ──────────────────────────────────────────
+
+def insert_positions(notice_id: int, positions: list[dict]):
+    """批量插入职位明细"""
+    if not positions:
+        return
+    conn = get_conn()
+    for pos in positions:
+        conn.execute("""
+            INSERT INTO notice_positions (notice_id, position_code, position_name,
+                dept_name, recruit_num, education, major, experience,
+                political_status, other_requirements)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+        """, (
+            notice_id,
+            pos.get("position_code"),
+            pos.get("position_name"),
+            pos.get("dept_name"),
+            pos.get("recruit_num"),
+            pos.get("education"),
+            pos.get("major"),
+            pos.get("experience"),
+            pos.get("political_status"),
+            pos.get("other_requirements"),
+        ))
+    conn.execute("UPDATE notices SET position_count = ? WHERE id = ?",
+                 (len(positions), notice_id))
+    conn.commit()
+    conn.close()
+
+
+def get_positions(notice_id: int) -> list[dict]:
+    """获取某公告的职位列表"""
+    conn = get_conn()
+    rows = conn.execute(
+        "SELECT * FROM notice_positions WHERE notice_id = ?", (notice_id,)
+    ).fetchall()
+    conn.close()
+    return [dict(r) for r in rows]
+
+
 # ─── Helpers ────────────────────────────────────────────────
 
 def _row_to_dict(row: sqlite3.Row) -> dict:
     d = dict(row)
-    for field in ("raw_fields", "tags", "config"):
+    for field in ("raw_fields", "tags", "config", "attachment_urls"):
         if d.get(field) and isinstance(d[field], str):
             try:
                 d[field] = json.loads(d[field])
             except json.JSONDecodeError:
-                pass  # 保持原始字符串
+                pass
     return d

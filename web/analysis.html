@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>数据分析 — 公务员考试公告跟踪</title>
+<link rel="stylesheet" href="style.css">
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+<nav class="top-nav">
+  <span class="nav-brand">📋 公考公告跟踪</span>
+  <div class="nav-links">
+    <a href="index.html">公告列表</a>
+    <a href="analysis.html" class="nav-active">数据分析</a>
+  </div>
+</nav>
+
+<main style="margin-top:2rem">
+  <h2 style="margin-bottom:1rem">📊 数据分析面板</h2>
+
+  <div id="premium-lock" class="premium-banner">
+    🔒 <strong>付费功能</strong> — 数据分析仅对付费用户开放，请输入兑换码解锁
+    <br><small>在首页右上角输入兑换码即可激活</small>
+  </div>
+
+  <div id="analysis-content" style="display:none">
+    <!-- 统计卡片 -->
+    <div class="card-row" id="stat-cards"></div>
+
+    <!-- 图表 -->
+    <div class="chart-grid">
+      <div class="chart-card">
+        <h3>各省招录人数排名</h3>
+        <canvas id="chart-province"></canvas>
+      </div>
+      <div class="chart-card">
+        <h3>考试类型分布</h3>
+        <canvas id="chart-type"></canvas>
+      </div>
+      <div class="chart-card">
+        <h3>公告发布月度分布</h3>
+        <canvas id="chart-monthly"></canvas>
+      </div>
+      <div class="chart-card">
+        <h3>笔试时间分布</h3>
+        <canvas id="chart-exam"></canvas>
+      </div>
+    </div>
+  </div>
+</main>
+
+<footer><p>数据自动更新 · 付费版功能</p></footer>
+
+<script>
+// 检查激活状态
+const isPremium = !!localStorage.getItem('gwy_premium_hash');
+if (isPremium) {
+  document.getElementById('premium-lock').style.display = 'none';
+  document.getElementById('analysis-content').style.display = '';
+  loadAnalysis();
+}
+
+fetch('data.json')
+  .then(r => r.json())
+  .then(data => {
+    if (isPremium) buildCharts(data);
+  });
+
+function loadAnalysis() {
+  fetch('data.json').then(r => r.json()).then(buildCharts);
+}
+
+function buildCharts(data) {
+  const notices = data.notices || [];
+  const stats = data.stats || {};
+
+  // 统计卡片
+  const total = notices.length;
+  const withCount = notices.filter(n => n.recruit_count).length;
+  const totalRecruit = notices.reduce((s, n) => s + (n.recruit_count || 0), 0);
+  const withExam = notices.filter(n => n.written_exam).length;
+
+  document.getElementById('stat-cards').innerHTML = [
+    `<div class="card"><div class="card-num">${total}</div><div class="card-label">公告总数</div></div>`,
+    `<div class="card"><div class="card-num">${totalRecruit.toLocaleString()}</div><div class="card-label">累计招录人数</div></div>`,
+    `<div class="card"><div class="card-num">${withCount}/${total}</div><div class="card-label">含人数公告</div></div>`,
+    `<div class="card"><div class="card-num">${withExam}/${total}</div><div class="card-label">含笔试日期</div></div>`,
+  ].join('');
+
+  // 省份排名
+  const byProv = {};
+  notices.forEach(n => {
+    if (n.recruit_count) byProv[n.province] = (byProv[n.province] || 0) + n.recruit_count;
+  });
+  const provSorted = Object.entries(byProv).sort((a, b) => b[1] - a[1]).slice(0, 15);
+
+  new Chart(document.getElementById('chart-province'), {
+    type: 'bar',
+    data: { labels: provSorted.map(p => p[0]), datasets: [{ label: '招录人数', data: provSorted.map(p => p[1]), backgroundColor: '#3949ab' }] },
+    options: { indexAxis: 'y', plugins: { legend: { display: false } } }
+  });
+
+  // 类型分布
+  const byType = stats.by_type || {};
+  new Chart(document.getElementById('chart-type'), {
+    type: 'doughnut',
+    data: { labels: Object.keys(byType), datasets: [{ data: Object.values(byType), backgroundColor: ['#e53935','#1e88e5','#43a047','#fb8c00','#8e24aa'] }] }
+  });
+
+  // 月度分布
+  const byMonth = {};
+  const monthNames = ['1月','2月','3月','4月','5月','6月','7月','8月','9月','10月','11月','12月'];
+  notices.forEach(n => {
+    const m = (n.publish_date || '').slice(5, 7);
+    if (m) byMonth[m] = (byMonth[m] || 0) + 1;
+  });
+  const monthData = Array.from({length:12}, (_,i) => byMonth[String(i+1).padStart(2,'0')] || 0);
+
+  new Chart(document.getElementById('chart-monthly'), {
+    type: 'bar',
+    data: { labels: monthNames, datasets: [{ label: '公告数', data: monthData, backgroundColor: '#43a047' }] },
+    options: { plugins: { legend: { display: false } } }
+  });
+
+  // 笔试时间分布
+  const examMonths = {};
+  notices.forEach(n => {
+    if (n.written_exam) {
+      const m = n.written_exam.slice(5, 7);
+      examMonths[m] = (examMonths[m] || 0) + 1;
+    }
+  });
+  const examData = Array.from({length:12}, (_,i) => examMonths[String(i+1).padStart(2,'0')] || 0);
+
+  new Chart(document.getElementById('chart-exam'), {
+    type: 'line',
+    data: { labels: monthNames, datasets: [{ label: '笔试场次', data: examData, borderColor: '#e53935', backgroundColor: 'rgba(229,57,53,0.1)', fill: true }] },
+    options: { plugins: { legend: { display: false } } }
+  });
+}
+</script>
+</body>
+</html>

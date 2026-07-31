@@ -1,89 +1,121 @@
-/* 公务员考试公告跟踪 */
+/* 公务员考试公告跟踪 — 整体样式 */
 * { box-sizing: border-box; margin: 0; padding: 0; }
-
 body {
   font-family: "Microsoft YaHei", "微软雅黑", -apple-system, sans-serif;
-  background: #f0f2f5;
-  color: #333;
-  line-height: 1.6;
+  background: #f0f2f5; color: #333; line-height: 1.6;
 }
+
+/* ─── 顶部导航 ─── */
+.top-nav {
+  display: flex; justify-content: space-between; align-items: center;
+  background: #1a237e; color: #fff; padding: 0.5rem 1.5rem;
+}
+.nav-brand { font-weight: 700; font-size: 1rem; }
+.nav-links { display: flex; gap: 1rem; }
+.nav-links a {
+  color: rgba(255,255,255,0.75); text-decoration: none;
+  font-size: 0.85rem; padding: 0.3rem 0.6rem; border-radius: 4px; transition: 0.2s;
+}
+.nav-links a:hover, .nav-links a.nav-active { color: #fff; background: rgba(255,255,255,0.15); }
 
 /* ─── Header ─── */
 header {
-  background: linear-gradient(135deg, #1a237e, #283593);
-  color: #fff;
-  padding: 1.25rem 2rem;
-  text-align: center;
-  position: sticky; top: 0; z-index: 100;
+  background: linear-gradient(135deg, #1a237e, #283593); color: #fff;
+  padding: 1rem 2rem 1.2rem; text-align: center;
 }
-header h1 { font-size: 1.5rem; margin-bottom: 0.2rem; }
-.subtitle { font-size: 0.8rem; opacity: 0.75; }
+header h1 { font-size: 1.3rem; margin-bottom: 0.15rem; }
+.subtitle { font-size: 0.75rem; opacity: 0.7; }
 
+/* ─── 激活栏 ─── */
+.activate-bar {
+  margin: 0.75rem auto 0; max-width: 500px;
+  display: flex; justify-content: center; align-items: center; gap: 0.5rem;
+  font-size: 0.8rem; background: rgba(255,255,255,0.1); padding: 0.4rem 0.8rem; border-radius: 8px;
+}
+#activate-code {
+  padding: 0.3rem 0.5rem; border: none; border-radius: 4px;
+  font-size: 0.8rem; width: 160px; font-family: monospace; text-transform: uppercase;
+}
+#activate-btn {
+  padding: 0.3rem 0.75rem; border: none; border-radius: 4px;
+  background: #ffb300; color: #333; font-weight: 700; cursor: pointer; font-size: 0.8rem;
+}
+#activate-btn:hover { background: #ffa000; }
+#activate-done { color: #81c784; font-weight: 600; }
+
+/* ─── Toolbar ─── */
 .toolbar {
   display: flex; justify-content: center; gap: 0.5rem;
-  margin-top: 0.75rem; flex-wrap: wrap; align-items: center;
+  margin-top: 0.6rem; flex-wrap: wrap; align-items: center;
 }
 .toolbar select, .toolbar input {
   padding: 0.35rem 0.6rem; border: 1px solid rgba(255,255,255,0.3);
-  border-radius: 6px; font-size: 0.8rem;
-  background: rgba(255,255,255,0.95); color: #333;
+  border-radius: 6px; font-size: 0.8rem; background: rgba(255,255,255,0.95); color: #333;
 }
-.toolbar input { width: 180px; }
-.toggle-label {
-  color: rgba(255,255,255,0.85); font-size: 0.78rem;
-  cursor: pointer; display: flex; align-items: center; gap: 0.25rem;
+.toolbar input { width: 160px; }
+.toggle-label { color: rgba(255,255,255,0.85); font-size: 0.75rem; cursor: pointer; display: flex; align-items: center; gap: 0.2rem; }
+.btn-export {
+  padding: 0.35rem 0.75rem; border: none; border-radius: 6px;
+  font-size: 0.78rem; background: #4caf50; color: #fff; cursor: pointer; font-weight: 600;
 }
-.update-time { color: rgba(255,255,255,0.65); font-size: 0.7rem; }
+.btn-export.locked { background: #757575; cursor: not-allowed; opacity: 0.7; }
+.update-time { color: rgba(255,255,255,0.6); font-size: 0.7rem; }
 
 /* ─── Main ─── */
 main { max-width: 1300px; margin: 1rem auto; padding: 0 1rem; }
 
-/* ─── Stats ─── */
 .stats-bar {
   background: #fff; padding: 0.6rem 1rem; border-radius: 8px;
   margin-bottom: 0.75rem; display: flex; gap: 0.75rem;
-  align-items: center; flex-wrap: wrap; font-size: 0.82rem;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
+  align-items: center; flex-wrap: wrap; font-size: 0.82rem; box-shadow: 0 1px 3px rgba(0,0,0,0.06);
 }
 .stat-main { font-weight: 600; }
-.stat-tag {
-  padding: 0.15rem 0.5rem; border-radius: 4px; font-size: 0.75rem;
-}
+.stat-tag { padding: 0.15rem 0.5rem; border-radius: 4px; font-size: 0.75rem; }
 .stat-tag.green { background: #e8f5e9; color: #2e7d32; }
 .stat-tag.blue  { background: #e3f2fd; color: #1565c0; }
-.stat-tag.gray  { background: #f5f5f5; color: #666; }
+.stat-tag.orange { background: #fff3e0; color: #e65100; }
 
 /* ─── Table ─── */
-table {
-  width: 100%; border-collapse: collapse;
-  background: #fff; border-radius: 8px; overflow: hidden;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.06);
-}
-th, td {
-  padding: 0.5rem 0.6rem; text-align: left;
-  border-bottom: 1px solid #eee; font-size: 0.8rem;
-  vertical-align: middle;
-}
-th {
-  background: #fafafa; font-weight: 600; color: #555; white-space: nowrap;
-  font-size: 0.75rem;
-}
+table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+th, td { padding: 0.45rem 0.55rem; text-align: left; border-bottom: 1px solid #eee; font-size: 0.78rem; vertical-align: middle; }
+th { background: #fafafa; font-weight: 600; color: #555; white-space: nowrap; font-size: 0.73rem; }
 tr:hover { background: #f8f9ff; }
+.notice-row { cursor: pointer; }
 
+.expand-col { width: 24px; }
+.expand-cell { text-align: center; font-size: 0.7rem; color: #999; }
+.expand-icon { cursor: pointer; transition: 0.2s; }
 .province { font-weight: 600; white-space: nowrap; min-width: 3em; }
-.title { max-width: 300px; }
+.title { max-width: 280px; }
 .title a { color: #1a237e; text-decoration: none; }
 .title a:hover { text-decoration: underline; }
-.date-cell { white-space: nowrap; font-size: 0.78rem; color: #555; line-height: 1.4; }
+.date-cell { white-space: nowrap; font-size: 0.76rem; color: #555; line-height: 1.4; }
 .count-cell { white-space: nowrap; text-align: center; }
-.count-cell strong { color: #e65100; font-size: 0.9rem; }
+.count-cell strong { color: #e65100; font-size: 0.85rem; }
 .empty, .loading, .error { text-align: center; padding: 2rem; }
-.error { color: #c62828; }
+
+.pos-badge {
+  display: inline-block; font-size: 0.7rem; background: #e8eaf6; color: #3949ab;
+  padding: 0.05rem 0.35rem; border-radius: 3px; margin-left: 0.3rem;
+}
+
+/* ─── 职位展开面板 ─── */
+.position-row td { padding: 0; background: #fafbff; }
+.position-panel { padding: 0.5rem 1rem; }
+.pos-table { width: 100%; font-size: 0.73rem; }
+.pos-table th { background: #e8eaf6; font-size: 0.7rem; padding: 0.25rem 0.4rem; }
+.pos-table td { font-size: 0.72rem; padding: 0.2rem 0.4rem; }
+
+.premium-blur {
+  padding: 1.5rem; text-align: center; color: #999;
+  background: linear-gradient(180deg, rgba(255,255,255,0) 0%, rgba(238,238,238,1) 60%);
+  font-size: 0.85rem;
+}
 
 /* ─── Badges ─── */
 .badge {
   display: inline-block; padding: 0.1rem 0.45rem; border-radius: 3px;
-  font-size: 0.7rem; white-space: nowrap; font-weight: 500;
+  font-size: 0.68rem; white-space: nowrap; font-weight: 500;
 }
 .badge-国考 { background: #ffebee; color: #c62828; }
 .badge-省考 { background: #e3f2fd; color: #1565c0; }
@@ -93,19 +125,17 @@ tr:hover { background: #f8f9ff; }
 
 /* ─── 倒计时 ─── */
 .countdown-col { text-align: center; white-space: nowrap; min-width: 5em; }
-.countdown-cell {
-  text-align: center; white-space: nowrap; font-weight: 600; font-size: 0.78rem;
-}
+.countdown-cell { text-align: center; white-space: nowrap; font-weight: 600; font-size: 0.76rem; }
 .countdown-cell.urgent  { color: #c62828; background: #fff5f5; }
 .countdown-cell.soon    { color: #e65100; background: #fff8e1; }
 .countdown-cell.normal  { color: #2e7d32; }
 .countdown-cell.far     { color: #78909c; }
 .countdown-cell.expired { color: #aaa; text-decoration: line-through; }
 
-/* ─── 状态标签 ─── */
+/* ─── 状态 ─── */
 .status-tag {
-  display: inline-block; padding: 0.15rem 0.5rem; border-radius: 4px;
-  font-size: 0.72rem; white-space: nowrap; font-weight: 600;
+  display: inline-block; padding: 0.12rem 0.4rem; border-radius: 4px;
+  font-size: 0.7rem; white-space: nowrap; font-weight: 600;
 }
 .status-open     { background: #c8e6c9; color: #1b5e20; }
 .status-urgent   { background: #ffcdd2; color: #b71c1c; animation: pulse 1.5s infinite; }
@@ -113,20 +143,32 @@ tr:hover { background: #f8f9ff; }
 .status-exam     { background: #e1bee7; color: #4a148c; }
 .status-done     { background: #eee; color: #999; }
 .status-tbd      { background: #f5f5f5; color: #999; }
+@keyframes pulse { 0%,100%{opacity:1} 50%{opacity:0.6} }
 
-@keyframes pulse {
-  0%, 100% { opacity: 1; }
-  50% { opacity: 0.6; }
+/* ─── 分析页 ─── */
+.premium-banner {
+  background: #fff3e0; border: 1px solid #ffb74d; border-radius: 8px;
+  padding: 2rem; text-align: center; color: #e65100; font-size: 1rem;
+  margin: 2rem auto; max-width: 500px;
 }
+
+.card-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
+.card { background: #fff; padding: 1rem; border-radius: 8px; text-align: center; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+.card-num { font-size: 1.8rem; font-weight: 800; color: #1a237e; }
+.card-label { font-size: 0.75rem; color: #888; margin-top: 0.25rem; }
+
+.chart-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 1rem; margin-bottom: 2rem; }
+.chart-card { background: #fff; padding: 1rem; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
+.chart-card h3 { font-size: 0.9rem; margin-bottom: 0.75rem; color: #444; }
+.chart-card canvas { max-height: 300px; }
 
 /* ─── Footer ─── */
 footer { text-align: center; padding: 1.5rem; color: #aaa; font-size: 0.75rem; }
 
-/* ─── Responsive ─── */
 @media (max-width: 900px) {
   table { font-size: 0.7rem; }
   th, td { padding: 0.35rem 0.4rem; }
   .title { max-width: 150px; }
   .toolbar { flex-direction: column; align-items: stretch; }
-  .toolbar input { width: 100%; }
+  .chart-grid { grid-template-columns: 1fr; }
 }
