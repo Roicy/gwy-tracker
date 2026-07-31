@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-07-30 19:43:14",
+  "updated_at": "2026-07-31 03:30:53",
   "stats": {
-    "total": 86,
+    "total": 88,
     "by_type": {
-      "省考": 86
+      "省考": 88
     },
     "by_province": {
-      "全国": 38,
+      "全国": 40,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,60 @@
     }
   },
   "notices": [
+    {
+      "id": 88,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468048196947968",
+      "source_hash": "44af630dd19e6139ee63837aec7ffb1d84777e10ecdac88a94d01edb2329444d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年铜山区部分学校公开选调教师公告正在报名江苏 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据铜山区教育事业发展需要，为调剂学段间和城乡间教师资源配置，促进教育均衡发展，经研究面向全区公办义务教育学校在编在岗教师公开开展选调工作，计划为城区部分学校选调教师50名。现将具体事项公告如下:\n一、选调原则\n严格按照“公开、公平、公正”的原则，坚持德才兼备的用人标准，遵循保证教学、公开透明、城乡互动、低学段向高学段引导的原则进行选调。\n二、选调岗位\n2026年铜山区部分学校公开选调教师公告、岗位信息在“铜山教育”微信公众号和铜山区人民政府网（http://www.zgts.gov.cn/）发布，具体的选调单位、岗位名称、选调人数、选调对象、资格条件等详见《2026年铜山区部分学校公开选调教师岗位表》（以下简称《岗位表》）。\n三、选调条件\n（一）选调人员应遵纪守法，师德高尚，具备正常履行岗位职责所需的身体条件和心理素质。\n（二）热爱教育事业，具备教师的基本素质和教育教学能力。\n（三）具备全额拨款事业编制的义务教育学校的在编在岗教师。\n（四）45周岁以下，即1980年9月1日以后出生。\n（五）具有大学本科及以上学历。\n（六）通过公开招聘进入铜山区任教的教师工作须满5年，即2021年12",
+      "apply_start": "2026-08-03",
+      "apply_end": null,
+      "written_exam": "2026-08-08",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-03",
+        "apply_end": null,
+        "written_exam": "2026-08-08",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-31 03:16:08",
+      "updated_at": "2026-07-31 03:16:08",
+      "is_active": 1
+    },
+    {
+      "id": 87,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "45053f4548b3e3dbef97b10ae505185710de0418b2d2cc3a4c69c41c6fed117c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招385246人114233职位收录15790考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-07-31 03:16:05",
+      "updated_at": "2026-07-31 03:16:05",
+      "is_active": 1
+    },
     {
       "id": 86,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
