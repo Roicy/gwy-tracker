@@ -59,6 +59,14 @@ header h1 { font-size: 1.3rem; margin-bottom: 0.15rem; }
   font-size: 0.78rem; background: #4caf50; color: #fff; cursor: pointer; font-weight: 600;
 }
 .btn-export.locked { background: #757575; cursor: not-allowed; opacity: 0.7; }
+
+.btn-star, .btn-notify {
+  padding: 0.35rem 0.6rem; border: 1px solid rgba(255,255,255,0.3); border-radius: 6px;
+  font-size: 0.78rem; background: rgba(255,255,255,0.1); color: rgba(255,255,255,0.8); cursor: pointer;
+  transition: 0.2s;
+}
+.btn-star.active { background: #ffb300; color: #333; border-color: #ffb300; font-weight: 700; }
+.btn-notify.active { background: #ef5350; color: #fff; border-color: #ef5350; font-weight: 700; }
 .update-time { color: rgba(255,255,255,0.6); font-size: 0.7rem; }
 
 /* ─── Main ─── */
@@ -74,6 +82,7 @@ main { max-width: 1300px; margin: 1rem auto; padding: 0 1rem; }
 .stat-tag.green { background: #e8f5e9; color: #2e7d32; }
 .stat-tag.blue  { background: #e3f2fd; color: #1565c0; }
 .stat-tag.orange { background: #fff3e0; color: #e65100; }
+.stat-tag.yellow { background: #fffde7; color: #f9a825; }
 
 /* ─── Table ─── */
 table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 8px; overflow: hidden; box-shadow: 0 1px 3px rgba(0,0,0,0.06); }
@@ -85,6 +94,12 @@ tr:hover { background: #f8f9ff; }
 .expand-col { width: 24px; }
 .expand-cell { text-align: center; font-size: 0.7rem; color: #999; }
 .expand-icon { cursor: pointer; transition: 0.2s; }
+
+.star-col { width: 28px; }
+.star-cell { text-align: center; }
+.star-icon { cursor: pointer; font-size: 1rem; color: #ccc; transition: 0.2s; user-select: none; }
+.star-icon:hover { color: #ffb300; transform: scale(1.2); }
+.star-icon.starred { color: #ffb300; }
 .province { font-weight: 600; white-space: nowrap; min-width: 3em; }
 .title { max-width: 280px; }
 .title a { color: #1a237e; text-decoration: none; }
@@ -98,6 +113,18 @@ tr:hover { background: #f8f9ff; }
   display: inline-block; font-size: 0.7rem; background: #e8eaf6; color: #3949ab;
   padding: 0.05rem 0.35rem; border-radius: 3px; margin-left: 0.3rem;
 }
+
+/* 职位筛选工具栏 */
+.pos-toolbar {
+  display: flex; gap: 0.5rem; align-items: center; margin-bottom: 0.5rem; flex-wrap: wrap;
+}
+.pos-filter {
+  flex: 1; min-width: 200px; padding: 0.35rem 0.6rem; border: 1px solid #ddd;
+  border-radius: 6px; font-size: 0.8rem;
+}
+.pos-filter:focus { border-color: #3949ab; outline: none; box-shadow: 0 0 0 2px rgba(57,73,171,0.15); }
+.pos-count { font-size: 0.75rem; color: #888; white-space: nowrap; }
+.pos-table-wrap { max-height: 400px; overflow-y: auto; }
 
 /* ─── 职位展开面板 ─── */
 .position-row td { padding: 0; background: #fafbff; }
