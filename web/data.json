@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-01 09:01:04",
+  "updated_at": "2026-08-01 13:44:39",
   "stats": {
-    "total": 106,
+    "total": 108,
     "by_type": {
-      "省考": 106
+      "省考": 108
     },
     "by_province": {
-      "全国": 58,
+      "全国": 60,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,69 @@
     }
   },
   "notices": [
+    {
+      "id": 108,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468075874636800",
+      "source_hash": "c7c3de851654407208e8d25ecf3fe86c4042ebcd4db1fbedda3d701b254eb27e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "德江县2026年面向县内外公开选调在编教师实施方案正在报名贵州 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化高中教师队伍结构，推进教育高质量发展，根据《事业单位人事管理条例》《干部调配工作规定》《关于进一步加强和改进干部调配工作的通知》（黔组通〔2010〕81号）等有关规定，经研究，决定面向县内外公开选调31名事业编制教师到德江县高中学校工作。为确保本次选调工作顺利开展,特制定本方案。\n一、组织机构\n本次选调工作在中共德江县委人才工作领导小组领导下进行，设德江县2026年面向县内外公开选调在编教师办公室在德江县教育局，由德江县教育局具体负责组织实施。\n二、选调原则和程序\n本次选调人选的产生，坚持“民主、公开、竞争、择优”的原则。采取公开考试与考察相结合的办法进行，按照制定计划、发布公告、现场报名及现场资格审查、考试(笔试+面试)、选岗、体检、考察、公示及调动等程序进行。\n三、选调计划\n本次面向县内外公开选调在编教师计划31名，其中：面向县外16名、面向县内15名；具体选调学校及学科岗位详见《德江县2026年面向县内外公开选调在编教师岗位一览表》（附件1，简称岗位表）。\n四、选调对象及条件\n（一）选调对象\n县内县外具有正式干部身份的在编在岗教师。\n（二）选调条件\n1.具有良好的政治",
+      "apply_start": "2026-08-07",
+      "apply_end": "2026-08-11",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-07",
+        "apply_end": "2026-08-11",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-01 13:26:41",
+      "updated_at": "2026-08-01 13:26:41",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468075876126720.pdf",
+        "https://hera.fbstatic.cn/468075877702656.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 107,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "eefdccd421c5043904ba9e1a5814f74207baf257b4f1152f36acb0a6f028af78",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招381084人114213职位收录15728考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-01 13:26:40",
+      "updated_at": "2026-08-01 13:26:40",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 106,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468054451706881",
