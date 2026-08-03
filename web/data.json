@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-02 19:34:01",
+  "updated_at": "2026-08-03 03:29:59",
   "stats": {
-    "total": 113,
+    "total": 115,
     "by_type": {
-      "省考": 113
+      "省考": 115
     },
     "by_province": {
-      "全国": 65,
+      "全国": 67,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,66 @@
     }
   },
   "notices": [
+    {
+      "id": 115,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468115668359168",
+      "source_hash": "5f8a3ca754449fb5345be56a4c75d29d7f87d2f0a6114a9dd875f61eeba88f98",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "都昌县2026年公开选调县内教师公告报名结束江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步推进我县师资均衡配置，优化教师队伍结构，适应城镇化发展进程需要，畅通教师成长渠道，营造公平竞争环境，经研究，决定公开选调本县符合下列资格条件的农村学校教师到县城学校任教。现将公开选调有关事项公告如下。\n一、选调原则\n1.坚持“按需设岗、适度从紧”的原则；\n2.坚持“公正、公平、公开”的原则。\n二、选调岗位（共150名）\n1.县城初中教师岗（简称：第壹类别，40名，包含县城九年一贯制学校初中部）：语文5名、数学5名、英语3名、物理2名、化学2名、生物2名、地理2名、历史2名、道德与法治2名、信息技术3名、体育6名、音乐2名、美术2名、心理健康2名。\n2.县城小学教师岗（简称：第贰类别，75名，包含县城九年一贯制学校小学部）：语文15名、数学15名、英语15名、道德与法治5名、信息技术4名、体育10名、音乐5名、美术5名、心理健康1名。\n3.县城公办幼儿园教师岗（简称：第叁类别，35名）。\n三、选调条件\n1.基本条件：拥护党的教育路线、方针、政策，热爱教育事业，遵纪守法、师德高尚、爱岗敬业，服从组织安排，认真履行岗位职责。\n2.工作年限：任教满5年（即2021年9月1日及以前正式参",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-03 03:16:31",
+      "updated_at": "2026-08-03 03:16:31",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 114,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "6ab924b22b6513b23958f4c22817724293e210833120bd31e751922e64c5aca4",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招377356人114076职位收录15650考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-03 03:16:29",
+      "updated_at": "2026-08-03 03:16:29",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 113,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
