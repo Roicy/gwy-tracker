@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-03 19:54:42",
+  "updated_at": "2026-08-04 02:58:08",
   "stats": {
-    "total": 122,
+    "total": 125,
     "by_type": {
-      "省考": 122
+      "省考": 125
     },
     "by_province": {
-      "全国": 74,
+      "全国": 77,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,102 @@
     }
   },
   "notices": [
+    {
+      "id": 125,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468127386719232",
+      "source_hash": "149dfa467d4958e11d7b4f365c7e973f929e46a0bf3d2471e95f71ce26ded932",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年新宁县政府发展研究中心公开选调工作人员公告正在报名湖南 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，新宁县政府发展研究中心拟从全县事业单位工作人员中选调1名工作人员。现将有关事项公告如下。\n一、选调原则\n坚持德才兼备的用人标准，贯彻公开、平等、竞争、择优的选调原则，采取公开报名、统一考试、严格考察、试用考核的方法进行。\n二、选调岗位和计划\n本次选调工作人员1名，具体见附件1。\n三、选调范围\n新宁县在编在岗事业单位中的管理岗位或专业技术岗位人员。\n四、选调条件\n（一）拥护党的路线、方针、政策，具有良好的政治素质，遵纪守法，品行端正，作风优良，清正廉洁；\n（二）学历要求（详见附件1）；\n（三）新提拔任职的应任现职务满1年；\n（四）身体健康，能适应所报考职位的工作需求；\n（五）法律、法规规定的其他条件。\n具有下列情形之一的，不得报名参加公开选调：\n（一）涉嫌违纪违法正在接受有关部门审查尚未作出结论的；\n（二）因犯罪受过刑事处罚，立案未结案的；\n（三）受过党纪政务处分或组织处理,处分影响期未满的或期满影响选调的；\n（四）按照国家有关规定，到定向单位工作未满服务年限或对选调有其他限制性规定的；\n（五）尚在新录用试用期的；\n（六）近三年年度考核未达合格及以上等次的；\n（七）人事档案中",
+      "apply_start": "2026-08-03",
+      "apply_end": "2026-08-14",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-03",
+        "apply_end": "2026-08-14",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-04 02:45:28",
+      "updated_at": "2026-08-04 02:45:28",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468127388733440.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 124,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468129379537920",
+      "source_hash": "527f6f3ab454935c5d455b0acf975e18ea153078eb5a2895d5bfba7febdad9e9",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年贺州市八步区城区中小学公开选调教师简章正在报名广西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为了解决我区城区部分中小学学生增加造成的师资不足问题，改进和优化教师队伍结构，2026年我区决定面向八步区乡镇中小学在编人员公开选调城区中小学教师30名。现将有关事项公告如下：\n一、选调单位、岗位及人数\n本次选调八步区城区中小学教师共30名，其中初中8名，小学22名，具体选调单位、岗位、人数详见《2026年贺州市八步区城区中小学公开选调教师岗位计划表》(附件1)。\n二、选调资格条件\n(一)报考人员应当具备以下条件：\n1.具有良好的思想政治品德与职业道德。拥护中国共产党的领导，热爱祖国，热爱教育事业;遵纪守法，服从组织安排。\n2.具有正常履行岗位职责所需的工作能力、身体条件和良好的心理素质。\n3.八步区乡镇在编在岗,按政策规定符合正常调动的中小学教师。\n4.年龄：45周岁以下(1980年8月10日后出生)。\n5.具有国家承认学历的相应文化程度，符合招聘岗位所要求的岗位资格条件。\n6.职称：中小学教师系列二级教师职称及以上。\n7.教师资格：具备与报考岗位相对应的中小学教师资格。\n8.有5年以上（全科生6年以上）公办学校任教经历且有3年及以上相应学段学科的一线任教经历。\n(二)具有下列情形之",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": "2026-08-15",
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": "2026-08-15"
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-04 02:45:26",
+      "updated_at": "2026-08-04 02:45:26",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468129381289984.xlsx",
+        "https://hera.fbstatic.cn/468129382865920.doc",
+        "https://hera.fbstatic.cn/468129384175616.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 123,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "592f8f666e62c288456e96f7f9fcd0dc07fd3e7ea9e657e80815098143dd1786",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招376369人114542职位收录15648考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-04 02:45:24",
+      "updated_at": "2026-08-04 02:45:24",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 122,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
