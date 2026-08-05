@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-05 14:30:02",
+  "updated_at": "2026-08-05 19:54:18",
   "stats": {
-    "total": 140,
+    "total": 142,
     "by_type": {
-      "省考": 140
+      "省考": 142
     },
     "by_province": {
-      "全国": 92,
+      "全国": 94,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,68 @@
     }
   },
   "notices": [
+    {
+      "id": 142,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468168342789120",
+      "source_hash": "f608662b8ac3631788206d3f1c2c5f4e3e6330317b8d7b40d1c2c71da8ae9b07",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "武定县实施2026年“教育人才回巢计划”通告正在报名云南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为贯彻楚雄州“兴楚英才回巢计划”，落实县委、县人民政府关于创新人才引进模式，积极通过筑巢引才，助推武定教育强效提质。经研究，决定实施武定县2026年“教育人才回巢计划”选调工作，现将有关事项通告如下：\n一、选调对象\n选调武定县外公办学校在职在编的义务教育阶段教师3人、学前教育教师2人。\n二、选调条件\n（一）报名参加选调人员须符合下列条件之一\n1.本人、配偶或双方父母有一方为武定县户籍（提供户籍证明）；\n2.配偶属武定县驻地现役军人（提供工作单位证明）；\n3.配偶属武定县企事业单位工作人员（提供工作单位证明）。\n（二）报名参加选调人员还须同时具备以下条件\n1.热爱祖国，热爱社会主义，拥护党的路线、方针、政策，遵纪守法。\n2.具有相应学段要求的教师资格，本科及以上学历。\n3.身体健康，具有适应岗位要求的身体条件，自愿到武定工作。\n4.年龄在40周岁以下（1986年7月30日以后出生）。\n5.报名时属在职在编教师，且工作年限符合属地最低服务年限要求（不含特岗教师、三支一扶服务年限）。\n6.近5年年度履职考核均为合格及以上等次。\n7.所在学校、教育主管部门及人社部门同意商调。\n（三）具有下列情",
+      "apply_start": "2026-08-07",
+      "apply_end": "2026-08-12",
+      "written_exam": "2026-08-18",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-07",
+        "apply_end": "2026-08-12",
+        "written_exam": "2026-08-18",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-05 19:39:53",
+      "updated_at": "2026-08-05 19:39:53",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468173572742144.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 141,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "7a84b2698baa2a0997bfcb16a33cd312192be9655110bf359506caa5e2bc7636",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招378791人115153职位收录15807考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-05 19:39:51",
+      "updated_at": "2026-08-05 19:39:51",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 140,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468168342789120",
