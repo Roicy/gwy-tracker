@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-05 02:56:51",
+  "updated_at": "2026-08-05 08:52:46",
   "stats": {
-    "total": 134,
+    "total": 138,
     "by_type": {
-      "省考": 134
+      "省考": 138
     },
     "by_province": {
-      "全国": 86,
+      "全国": 90,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,133 @@
     }
   },
   "notices": [
+    {
+      "id": 138,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468143840974848",
+      "source_hash": "ef3cddb7464283a752198fb54e21ddcd23111e0fe0b3d6d175f1b823fce55891",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "通榆县政务服务中心公开选调事业编制工作人员公告正在报名吉林 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "通榆县政务服务中心联合县人社局拟通过公开方式选调通榆县政务服务中心工作人员。现将有关事项公告如下：\n一、选调数量\n计划选调工作人员5名。\n二、选调范围\n符合事业单位人事管理条例规定资格条件的通榆县在编在岗人员。\n三、选调条件\n（一）基本资格条件\n1.具有中华人民共和国国籍，遵守中华人民共和国宪法和法律，政治立场坚定，政治素质过硬，能够深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n2.年龄35周岁（1990年12月31日后）以下；\n3.具有全日制大专及以上学历；\n4.具有2年以上工作经验，且近2年年度考核均为合格及以上，工作经历计算截至2025年12月31日（含）；\n5.符合公开选调岗位要求的其他资格条件；\n6.具有正常履职的身体条件和心理素质；\n7.法律法规规定的其他条件。\n（二）具有下列情形之一的，不得参加公开选调\n1.被开除中国共产党党籍的；\n2.被依法列为失信联合惩戒对象的；\n3.涉嫌违纪违法正在接受有关专门机关审查调查尚未作出结论的；\n4.受到诫勉、组织处理或者党纪政务处分等影响期未满或者期满影响使用的；\n5.基层治理专干、新录用人员",
+      "apply_start": "2026-08-04",
+      "apply_end": "2026-08-20",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-04",
+        "apply_end": "2026-08-20",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-05 08:39:09",
+      "updated_at": "2026-08-05 08:39:09",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468143842464768.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 137,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468163499153408",
+      "source_hash": "24053d9fe415dcda95786a4a60fb024f60e38f10d497e92dcc0f278624611854",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "六安市叶集区2026年教师选调公告报名结束安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "关\n为健全教师流动机制，进一步深化我区“县管校聘”工作，有效缓解城区部分中小学校师资紧缺现状，决定在全区范围内公开选调公办学校在编教师到叶集明强学校、叶集实验学校、叶集二小、叶集一小任教。现将有关事项公告如下：\n一、选调原则\n坚持公开、公正、透明的原则，按照德才兼备、以德为先的标准，择优选调。\n二、选调计划\n拟选调公办在编教师48名，其中，小学教师23名、初中教师25名，具体选调学科详见《六安市叶集区2026年教师选调学科设置一览表》（见“附件1”）。\n三、选调对象\n姚李、洪集、三元、孙岗片区的在编中小学教师（2026年度六安市叶集区在编教师转岗至区事业单位拟转岗人员不列入本次选调对象）。\n四、选调条件\n1.思想政治素质高，师德师风优良，服从组织安排。\n2.年龄50周岁及以下（1975年8月1日以后出生）。\n3.具备本科及以上学历，具备不低于报考学段教师资格，具备报考学科专业或教师资格。\n具有下列情形之一的，不得参加本次公开选调：\n1.涉嫌违纪违法，正在接受纪检监察、司法机关审查调查，尚未作出结论的；\n2.处于党纪政务处分期间或处分影响期未满的；\n3.按照有关规定，工作尚在最低服务年限",
+      "apply_start": "2026-08-10",
+      "apply_end": "2026-08-11",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-10",
+        "apply_end": "2026-08-11",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-05 08:39:08",
+      "updated_at": "2026-08-05 08:39:08",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468163500643328.doc",
+        "https://hera.fbstatic.cn/468163502215168.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 136,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468167004019712",
+      "source_hash": "69f7be95ae7b30357765f9e73c57a24ce01745ccafb8fdd8b93084c44228fc15",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年镇平县公开选调小学教师公告正在报名河南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《镇平县教师队伍管理暂行办法》(镇政〔2018〕9号)等文件精神，报县委、县政府同意，决定为城区学校公开选调一批小学教师。为确保选调工作公平、公正、有序进行，现将选调方案公告如下。\n一、选调岗位及名额\n选调小学教师160名，其中：涅阳中心学校50人、玉都中心学校60人、雪枫中心学校50人。\n二、选调范围、条件及要求\n1.热爱教育事业，遵纪守法，师德良好，身体健康;\n2.现任教于农村乡镇学校的公办教师;\n3.工作满3年(含2023年特岗教师，不含深山区特殊招聘教师);\n4.专科及以上学历，小学及以上教师资格证;\n5.凡受刑事处罚或党政纪处分期未满及正在立案调查尚未结案人员，不得参加本次选调;\n6.其他不符合选调情形的。\n三、选调流程\n(一)发布公告\n通过“镇平教育体育局”官网、“镇平教育”微信公众号等相关网站向社会公布。\n(二)报名\n2026年8月6日-7日，报名者持毕业证、教师资格证等原件、复印件、本人照片及电子照片(电子照片以本人身份证号码命名)到中心学校报名，报名表见附件;中心学校审核汇总后，于8月7日下午6:00前将报名表、汇总表及上述材料交教体局人事股审核。\n本次选调考试资",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-05 08:39:04",
+      "updated_at": "2026-08-05 08:39:04",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468167006558208.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 135,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "8375c379a24490c674ff9072ce64c0cfbcaeda6ca1de3e32054c3af13fdcd9f8",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招388544人114999职位收录15786考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-05 08:39:03",
+      "updated_at": "2026-08-05 08:39:03",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 134,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
