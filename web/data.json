@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-06 08:54:44",
+  "updated_at": "2026-08-06 14:30:20",
   "stats": {
-    "total": 150,
+    "total": 154,
     "by_type": {
-      "省考": 150
+      "省考": 154
     },
     "by_province": {
-      "全国": 102,
+      "全国": 106,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,132 @@
     }
   },
   "notices": [
+    {
+      "id": 154,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468191885416448",
+      "source_hash": "42bc49ca39dddb68334c5c82d78375dd0a925b279648572cc7705aaaa0eb405c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "无为市2026年城区学校选调教师公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为解决城区部分学校教师紧缺问题，保障城区学校教学需要，根据市委编委批复的选调计划，2026年城区中小学面向农村中小学公开选调80名在编在岗教师，现就有关事宜公告如下：\n一、选调原则\n坚持公开、公平、竞争、择优的原则。\n二、选调计划\n选调中小学教师计划80名，具体岗位条件等详见附表。\n三、选调对象和条件\n（一）选调对象\n无为市农村中小学在编在岗教师（不含襄安中学教师）。\n（二）选调条件\n1.遵纪守法，热爱教育事业，具有良好的品行；\n2.身心健康，能胜任教学工作；\n3.具有符合报考条件的教师资格证书；\n4.其中涉及年龄条件的，如“50周岁以下”为1975年8月6日以后出生（以身份证为准）；2021年12月31日以前参加工作；原农村高中撤并学校教师报考，年龄、参加工作时间不限。\n（三）不得报名情形：\n1.被开除中国共产党党籍的；\n2.被依法列为失信联合惩戒对象的；\n3.涉嫌违纪违法正在接受专门机关审查尚未作出结论的；\n4.受到诫勉、组织处理或者党纪政务处分等影响期未满或者期满影响使用的；\n5.定向培养乡村教师未满6年服务期的（含试用期）；\n6.按照《事业单位人事管理回避规定》（人社部规〔20",
+      "apply_start": "2026-08-10",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-10",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 14:16:58",
+      "updated_at": "2026-08-06 14:16:58",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468191887168512.docx",
+        "https://hera.fbstatic.cn/468191895031808.pdf"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 153,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468191902193664",
+      "source_hash": "e78420571b65741b7ebbec5661a6df54c9c05d3badd36478b68e82b03fe44140",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "公安县2026年公开选调县直高中和城区义务教育学校教师公告正在报名湖北 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据教学工作需要，结合教师编制、岗位空缺情况，经县委编委批准，县直高中、城区义务教育学校面向全县中小学校公开选调教师63名。现将相关事项公告如下：\n一、选调原则\n坚持公开、平等、竞争、择优的原则。\n二、选调岗位计划\n本次公开选调教师63名，其中：县直高中8名（县一中5名、县三中2名、县南闸中学1名），城区初中14名（城区初中教师根据工作需要统筹安排至城区三所初中学校任教），城区小学41名（县实验小学2名、县孱陵小学18名、县斗湖堤小学6名、县竹溪小学15名）。具体见附件1。\n三、选调范围及对象\n1.县直高中学校教师岗位选调对象为全县公办初中、高中阶段学校在编在岗教师。\n2.县城区初中教师岗位选调对象为县内乡镇公办小学、初中在编在岗教师。\n3.县城区小学教师岗位选调对象为县内乡镇公办小学在编在岗教师。\n四、选调条件\n（一）基本条件\n1.拥护党的领导，忠诚党的教育事业，贯彻党的教育方针，自觉践行社会主义核心价值观，落实立德树人根本任务。\n2.严格遵守中小学教师职业道德规范，具有良好的政治素质和道德品行。\n3.报考县城区小学、初中教师岗位年龄在40周岁及以下（1986年1月1日及以后出生）;",
+      "apply_start": "1986-01-01",
+      "apply_end": "1978-01-01",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "1986-01-01",
+        "apply_end": "1978-01-01",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 14:16:56",
+      "updated_at": "2026-08-06 14:16:56",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468191903683584.xlsx",
+        "https://hera.fbstatic.cn/468191905255424.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 152,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468194485621760",
+      "source_hash": "47af4c40d66b8b10d2b74892db2ea8197423ba7b6ea6acd0669cf546b1035820",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年赣州市南康区义务教育学校公开选调区内教师公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化教师队伍结构，推动教师交流轮岗，有效促进城乡教育资源均衡配置，化解部分义务教育学校教师紧缺矛盾，决定开展2026年（暑期）义务教育学校公开选调区内教师工作，现将有关事项公告如下:\n一、选调原则\n坚持“公开、平等、竞争、择优”原则。\n二、选调对象\n（一）全区初中（含九年一贯制学校初中部）在编在岗教师；\n（二）全区小学（含九年一贯制学校小学部）在编在岗教师（不含未满服务期限的定向师范生）。\n三、选调岗位与指标数\n坚持“稳定为先、优化配置、缓解紧缺”导向，我区2026年义务教育学校公开选调区内教师岗位设置如下：\n1.“偏远农村初中”支教岗位：合计19人（限小学教师报考）；\n2.“城区周边”初中学校岗位：合计24人；\n3.“东山片区”初中学校岗位：合计39人；\n4.“南水片区”初中学校岗位：合计39人；\n5.“南水片区”小学学校岗位：合计18人（限小学教师报考）；\n6.“东山片区”小学学校岗位：合计25人（限小学教师报考）；\n7.“高中定向”岗位（初中学校到高中学校援教）：合计46人（限初中学校教师报考）；\n8.第五中学足球教练岗位：合计2人（限持有D级足球教练员证体育教师报考）。",
+      "apply_start": "2026-08-06",
+      "apply_end": "2026-08-08",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-06",
+        "apply_end": "2026-08-08",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 14:16:53",
+      "updated_at": "2026-08-06 14:16:53",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 151,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a8c0336d842aae37db37fce24fdc8727991e98ca4abec21ab0ac2bbfc010b990",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招379469人115530职位收录15887考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 14:16:50",
+      "updated_at": "2026-08-06 14:16:50",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 150,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468149083069440",
