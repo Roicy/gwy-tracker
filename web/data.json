@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-06 02:58:26",
+  "updated_at": "2026-08-06 08:54:44",
   "stats": {
-    "total": 144,
+    "total": 150,
     "by_type": {
-      "省考": 144
+      "省考": 150
     },
     "by_province": {
-      "全国": 96,
+      "全国": 102,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,197 @@
     }
   },
   "notices": [
+    {
+      "id": 150,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468149083069440",
+      "source_hash": "50b9969d7132f25ca5914039ec4ef0ea0dab71a8a880f359b69d610fcea72d63",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "吉水县2026年面向县内公开选调城区义务教育（幼儿园）教师公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为合理配置城乡教师资源，进一步优化教师队伍结构，推动我县教育事业高质量发展，县教体局、县人社局决定面向县内开展2026年城区义务教育（幼儿园）教师公开选调工作。现将有关事项公告如下。\n一、选调原则\n1.公平、公正、竞争、择优的原则；\n2.统一政策、统一组织、统一程序的原则；\n3.保密、回避、监督的原则。\n二、选调范围及岗位\n1.面向县内乡镇中小学校在编教师，公开选调城区初中教师48名；\n2.面向县内乡镇小学在编教师，公开选调城区小学教师28名；\n3.面向乡镇幼儿园在编教师、幼儿控制数教师，以及截止2026年春季学期在公办幼儿园任教的转岗教师，公开选调城区幼儿园教师5名；\n4.符合条件的转岗教师可同时报考城区小学和城区幼儿园选调岗位；\n5.具体招聘岗位及名额详见《吉水县2026年面向县内公开选调城区义务教育（幼儿园）教师岗位表》（附件1）。\n三、县内选调条件\n1.遵纪守法、作风正派、师德良好、爱岗敬业、身心健康。\n2.近5年年度考核和师德师风学年度考核均为合格及以上等次。\n3.国编教师需任教满5年，“三定向”“三支一扶”及幼儿控制数教师需在乡镇学校任教满5年，特岗教师需在乡镇学校任教满6",
+      "apply_start": "2026-08-06",
+      "apply_end": "2026-08-07",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-06",
+        "apply_end": "2026-08-07",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 08:41:01",
+      "updated_at": "2026-08-06 08:41:01",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468149084559362.doc",
+        "https://hera.fbstatic.cn/468149085869056.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 149,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468163499153408",
+      "source_hash": "bc8e07d0dc91cfd31edcecff9db5576777ae9d07c4060718d320f81e29f783dc",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "六安市叶集区2026年教师选调公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "关\n为健全教师流动机制，进一步深化我区“县管校聘”工作，有效缓解城区部分中小学校师资紧缺现状，决定在全区范围内公开选调公办学校在编教师到叶集明强学校、叶集实验学校、叶集二小、叶集一小任教。现将有关事项公告如下：\n一、选调原则\n坚持公开、公正、透明的原则，按照德才兼备、以德为先的标准，择优选调。\n二、选调计划\n拟选调公办在编教师48名，其中，小学教师23名、初中教师25名，具体选调学科详见《六安市叶集区2026年教师选调学科设置一览表》（见“附件1”）。\n三、选调对象\n姚李、洪集、三元、孙岗片区的在编中小学教师（2026年度六安市叶集区在编教师转岗至区事业单位拟转岗人员不列入本次选调对象）。\n四、选调条件\n1.思想政治素质高，师德师风优良，服从组织安排。\n2.年龄50周岁及以下（1975年8月1日以后出生）。\n3.具备本科及以上学历，具备不低于报考学段教师资格，具备报考学科专业或教师资格。\n具有下列情形之一的，不得参加本次公开选调：\n1.涉嫌违纪违法，正在接受纪检监察、司法机关审查调查，尚未作出结论的；\n2.处于党纪政务处分期间或处分影响期未满的；\n3.按照有关规定，工作尚在最低服务年限",
+      "apply_start": "2026-08-10",
+      "apply_end": "2026-08-11",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-10",
+        "apply_end": "2026-08-11",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 08:40:59",
+      "updated_at": "2026-08-06 08:40:59",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468163500643328.doc",
+        "https://hera.fbstatic.cn/468163502215168.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 148,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468184845539328",
+      "source_hash": "a45a3ace3722c8e42d190c45a6c7871a2f46c3b6e58e777686f886f90e2ec462",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "余干县2026年城区中小学幼儿园教师选调公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据城区中小学、幼儿园教育发展需求，经县委、县政府批准，决定遵循“公开、公平、公正、择优”及“凡进必考”原则，从全县中小学、幼儿园在编在岗教师中公开选调至城区中小学、幼儿园任教。现将有关事项公告如下。\n一、公开选调计划与岗位\n（一）岗位计划\n本次选调面向全县中小学、幼儿园在编在岗教师，城区中小学及乡村学校、幼儿园教师均可按规定报考符合条件的岗位，具体岗位计划如下：\n1.高中教师95名，其中：语文18名、数学19名、英语16名、日语4名、物理6名、化学4名、生物6名、思想政治4名、历史2名、地理4名、音乐3名、体育5名、美术2名、信息技术2名。\n2.初中教师（71+N）名，其中：语文（12+M）名、数学（12+M）名、英语（8+M）名、物理(8+M)名、化学（6+M）名、生物（4+M）名、道德与法治（4+M）名、历史（5+M）名、地理（5+M）名、音乐（1+M)名、体育与健康（4+M）名、美术（1+M）名、信息技术（1+M）名。\n3.小学教师（110+N）名，其中：语文（35+M）名、数学（31+M）名、英语（13+M）名、道德与法治（3+M）名、音乐（7+M）名、体育与健康（14+M）",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": 110,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": 110,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 08:40:58",
+      "updated_at": "2026-08-06 08:40:58",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468185516809216.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 147,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468185482811392",
+      "source_hash": "123dc790bbd5a63994d8e68f1464e902f8a0ff38ecb0da4cbe3cd46967c65006",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年邳州市城区部分单位选调教师公告正在报名江苏 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要，决定为城区部分学校公开选调教师300人。现将具体事项公告如下:\n一、选调范围\n邳州市各镇街在编教师，且在邳州市镇街学校任教3年及以上（2023年12月31日之前入编邳州市）。定向师范生满五年，参加“农村学校教育硕士”师资培养计划的需满6年。\n二、岗位与职数\n1.小学教师岗位150人（全额事业）。\n2.初中教师岗位120人（全额事业）。\n3.特教教师岗位3人（全额事业）。\n4.幼儿园教师岗位27人（全额事业24人，差额事业3人）。\n5.各岗位分配情况详见《2026年邳州市城区部分单位选调岗位简介表》（附件1）。\n三、报考条件\n1.学历要求：本科及以上学历。\n2.教师资格证要求：\n①小学教师岗位要求小学及以上教师资格。\n②初中教师岗位要求初中及以上教师资格。\n③特教教师岗位要求特教教师资格证，或者特教专业持幼儿及以上教师资格证，或者持有《江苏省融合教育资源中心特教专职教师上岗培训》证及任一教师资格证。\n④幼儿园教师岗位要求幼儿园教师资格。\n3.任教学科：小学、初中岗位报考学科须与教师资格证登记学科一致（有物理、化学、生物、地理教师资格证可以报考小学科学岗位）。特教、幼教岗位不",
+      "apply_start": "2026-08-09",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-09",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 08:40:56",
+      "updated_at": "2026-08-06 08:40:56",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468185484301312.xls",
+        "https://hera.fbstatic.cn/468185485611008.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 146,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "684e29436c75d359f3dcad883e9e765fc93bdaeb8df020bbdaa5ccc23f569292",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招270人261职位收录3考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 08:40:54",
+      "updated_at": "2026-08-06 08:40:54",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 145,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "bf1064e2fb2adb741b5e69d2497727cbebc69bc801a74c9e552257e5155f8dac",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招379965人115366职位收录15858考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 08:40:52",
+      "updated_at": "2026-08-06 08:40:52",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 144,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468147696850944",
