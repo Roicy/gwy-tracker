@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-05 19:54:18",
+  "updated_at": "2026-08-06 02:58:26",
   "stats": {
-    "total": 142,
+    "total": 144,
     "by_type": {
-      "省考": 142
+      "省考": 144
     },
     "by_province": {
-      "全国": 94,
+      "全国": 96,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,71 @@
     }
   },
   "notices": [
+    {
+      "id": 144,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468147696850944",
+      "source_hash": "89a1fc4e6d298ca0ecb5dc56ba66b19113a91ee141d8f786093cb9df6c4a3786",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "随县县直学校2026年公开选调教师公告正在报名河北 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，随县教育局拟面向全县公开选调36名教师到县直学校工作（其中炎帝学校12名、实验小学24名）。现就公开选调教师事项公告如下：\n一、公开选调岗位\n公开选调岗位详情见《随县县直学校2026年公开选调教师岗位表》（附件1）。\n二、公开选调对象\n1.随县各镇（场）中心学校义务教育阶段在编在岗教师，且在随县教龄满3年及以上；\n2.在现服务单位工作满2年及以上；\n3.年龄在45周岁以内（1980年7月31日及以后出生）。\n三、选调方式\n此次选调工作采取笔试的方式进行，由随县教育局组织实施，纪检监察部门和县人社局全程监督。分报考学校学段学科根据笔试成绩从高到低确定选调对象。\n四、选调条件\n（一）公开选调教师基本条件\n1.拥护中国共产党的领导，忠诚党的教育事业；\n2.遵纪守法、品行端正，具有奉献精神和履行职责所需的专业技术能力；\n3.持有所报考岗位学段及以上学段教师资格证，普通话水平二级乙等及以上（其中语文教师普通话水平二级甲等及以上）；\n4.近两年（2024-2025年）年度考核为合格及以上；\n5.报考语文、数学、英语、历史、生物、科学等岗位需有该学段学科两年及以上的教学经历；报考心理健康",
+      "apply_start": "2026-08-10",
+      "apply_end": "2026-08-31",
+      "written_exam": "2026-08-15",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-10",
+        "apply_end": "2026-08-31",
+        "written_exam": "2026-08-15",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 02:44:55",
+      "updated_at": "2026-08-06 02:44:55",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468147698340864.doc",
+        "https://hera.fbstatic.cn/468147699650560.doc",
+        "https://hera.fbstatic.cn/468147702799360.doc",
+        "https://hera.fbstatic.cn/468147704371200.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 143,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "9fd46419979ecfb2116ad24e1a6d16cbb5c9275d25b18894e9351b8733e2225e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招378935人115230职位收录15811考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-06 02:44:53",
+      "updated_at": "2026-08-06 02:44:53",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 142,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468168342789120",
