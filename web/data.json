@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07 07:35:19",
+  "updated_at": "2026-08-07 13:25:10",
   "stats": {
-    "total": 164,
+    "total": 172,
     "by_type": {
-      "省考": 164
+      "省考": 172
     },
     "by_province": {
-      "全国": 116,
+      "全国": 124,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,269 @@
     }
   },
   "notices": [
+    {
+      "id": 172,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468206620267520",
+      "source_hash": "a385e7010eaf1268378d14045cb99b41e31cc37157c476db448cd71c6604e9cb",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "原阳县2026年为城区学校公开选调教师公告正在报名河南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为优化全县教师资源配置、促进教育均衡发展，解决城区学校教师缺编问题，经研究，决定2026年继续为城区学校公开选调教师，为做好此项工作，特制定本方案。\n一、基本原则\n（一）“公开、平等、竞争”的原则；\n（二）采取公开考试、择优录用的原则；\n（三）坚持按需设岗、专业与岗位相结合的原则。\n二、选调岗位\n为原阳县城区中小学选调60名教师。选调的教师调入新单位后，如新单位没有与其对应的工资岗位，按照上级有关政策进行岗位低聘，农村评聘的职称到城区学校按职称评审政策进行转评，按政策降低工资岗位。\n三、选调范围\n原阳县农村学校在编在岗工作满三年的教师（含试用期）。\n四、选调条件\n（一）基本条件\n1.报考初中岗位的，须具备与所报学科一致的初中及以上教师资格证，具有本科及以上学历；\n2.报考小学岗位的，须具备与所报学科一致的小学及以上教师资格证，具有专科及以上学历；\n3.报考原阳县职业教育中心（普通高中班）的，须具备与所报学科一致的高中教师资格证，具有本科及以上学历；\n4.身体健康，无精神类疾病；\n5.鼓励具备初中教师任职资格的农村小学教师报考城区初中教学岗位。\n（二）下列人员不得参加选调\n1.受党政纪处",
+      "apply_start": "2026-08-10",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-10",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 13:10:13",
+      "updated_at": "2026-08-07 13:10:13",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468206622281728.docx",
+        "https://hera.fbstatic.cn/468206624119808.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 171,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468209547368448",
+      "source_hash": "d56f3c8d25cb149eb0796e9f2284963c13335e9c5562f0b5c472ad1041dca2c3",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年衡东县洣水实验中学暑期公开选调教师公告报名结束湖南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据学校教育教学工作需要，经县教育局审批，结合本校实际，衡东县洣水实验中学现面向全县公开选调部分优秀教师。为增强教师队伍的生机与活力，规范本校教师调配秩序，确保公平公正，现就有关事项公告如下：\n一、选调原则\n1.坚持公开、平等、竞争、择优原则。\n2.坚持德才兼备、唯才是举原则。\n二、选调计划\n三、选调条件\n1.基本条件\n(1)热爱党，热爱祖国，热爱社会主义，忠诚党的教育事业，品行良好，身体健康。\n(2)认真执行师德规范，为人师表，品德良好，关心爱护学生，无体罚或变相体罚学生行为。\n(3)坚守教学岗位，近五年无违法乱纪行为，本年度在编在岗、胜任本职工作。\n(4)年龄40周岁以下（1985年8月5日以后出生）。\n2.学历要求\n具有本科及以上学历。\n3.教师资格证要求\n具有国家承认的初中及以上教师资格证和教师资格证上的任教学科与所报考科目一致）。\n4.选调对象及工作年限要求\n面向全县初中、小学服务期已满在编在岗教师。\n四、选调程序\n（一）发布公告。\n2026年8月6日在“衡东教育”和“衡东县洣水实验中学”微信公众号上发布选调教师公告。\n（二）现场报名\n1.报名时间：\n2026年8月6日-8月",
+      "apply_start": "2026-08-06",
+      "apply_end": "2026-08-12",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-06",
+        "apply_end": "2026-08-12",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 13:10:12",
+      "updated_at": "2026-08-07 13:10:12",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468209548858368.docx",
+        "https://hera.fbstatic.cn/468209550168064.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 170,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468211796561920",
+      "source_hash": "9c98815edf023cbe4981d23e0be80d0ce9eb0f119c1dd3d55845d9d2bd236151",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年铅山县教体系统“鸿雁回归计划”选调公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为贯彻落实人才强县战略和乡村教师支持计划，着力解决广大在外地工作的铅山籍教师回铅工作和团圆愿望的问题，根据全县教育教学和学科结构需求，经研究，决定实施铅山县教体系统\n“\n鸿雁回归计划\n”\n。现将相关事项公告如下\n:\n一、实施范围\n“\n鸿雁回归计划\n”\n选调对象为铅山县外任教的高中在编在岗教师及初中紧缺学科在编在岗教师，且符合以下条件之一\n:\n1.\n本人或配偶、父母、配偶父母是铅山户籍\n(\n且\n2025\n年\n12\n月\n31\n日前在籍的，下同\n);\n2.\n配偶是铅山县行政事业单位在编在岗的正式工作人员\n;\n3.\n已婚夫妻一方是铅山籍现役军人的\n;\n4.\n近\n5\n年内曾入选市级及以上人才计划的教师。\n二、基本条件\n1.\n通过各级公开招聘或其他国家规定进入方式参加工作，在编在岗且具备与报考岗位相一致的教师资格证或职称资格证\n;\n2.\n年龄要求在\n45\n周岁以内\n(1981\n年\n1\n月\n1\n日以后出生\n);\n3.\n身体健康，品行良好，近三年年度考核和师德考核必须为合格及以上且无违纪违法记录\n;\n4.\n参加铅山县\n“\n鸿雁回归计划\n”\n的教师需满足当地要求的服务期\n;\n5.\n有下列情形之一的，不符",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 13:10:10",
+      "updated_at": "2026-08-07 13:10:10",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468212295079936.铅山县教体系统“鸿雁回归计划.docx",
+        "https://hera.fbstatic.cn/468212296389633.年度考核结果证明.docx",
+        "https://hera.fbstatic.cn/468212297437184.同意报考证明.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 169,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468214102907904",
+      "source_hash": "a367c2eb16a193b35f6f6a99520ec51f736a764f8ac41edcd93c35d8319e5c5f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年枞阳县枞阳二中、枞阳中心学校公开选调教师公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "经研究，现就2026年枞阳县枞阳二中、枞阳中心学校所属公办城区小学幼儿园从我县教体系统内公办学校公开选调在编在岗教师有关事项公告如下：\n一、选调单位岗位计划\n1.枞阳二中14名：语文6名、数学2名、英语4名、物理2名；\n2.①枞阳中心学校所属公办城区小学30名：其中语文15名、数学15名；②枞阳中心学校所属公办幼儿园10名。\n二、选调原则\n1.坚持“公开、公正、竞争、择优”的原则；\n2.坚持考试与考察相结合的原则；\n3.坚持优化教育资源配置和教师队伍稳定相结合的原则。\n三、选调对象及条件\n枞阳二中：选调对象为我县农村初中或小学在编在岗教师。具有本科及以上学历且持有初中及以上教师资格证。\n枞阳中心学校：①所属公办城区小学选调对象为我县农村小学在编在岗教师。具有专科及以上学历且持有小学及以上教师资格证。②所属公办幼儿园选调对象为我县农村小学或公办幼儿园在编在岗教师。具有专科及以上学历且持有幼儿园及以上教师资格证。\n政治素质好，师德高尚，遵纪守法，身体健康。正在受党政纪处分期间的或正在接受立案审查的人员不得报考；按照国家、省有关规定尚在最低服务年限内的人员也不得报考。\n四、报名事宜\n1.报考",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 13:10:08",
+      "updated_at": "2026-08-07 13:10:08",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468214104921088.docx",
+        "https://hera.fbstatic.cn/468214106758144.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 168,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468214664944640",
+      "source_hash": "4a02b97de18c91004a6c2dfec2fdfacc189a52e54793c3117a05ca230a415531",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年中共双牌县委政法委下属事业单位及双牌县司法局下属事业单位公开选调工作人员公告报名结束湖南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步充实政法机关工作力量，经县委研究同意，中共双牌县委政法委下属事业单位及双牌县司法局下属事业单位拟面向全县公开选调工作人员。现将有关事项公告如下：\n一、选调依据和原则\n根据选调录用有关标准和程序规定，贯彻“公平、公开、竞争、择优”的原则，公开报名，统一考试，严格考察，择优选调。\n二、选调职数\n中共双牌县委政法委下属事业单位工作人员1名，双牌县司法局下属事业单位工作人员4名，要求为全额拨款事业编制（管理岗或专技岗）。\n三、选调条件\n1.本县范围内具有全额拨款事业编制（不含工勤人员，满足最低服务年限）；\n2.具备2年以上基层工作经历；\n3.近三年年度考核均为合格及以上等次；\n4.政治素质过硬、作风正派、群众公认；\n具体岗位详见《2026年中共双牌县委政法委下属事业单位及双牌县司法局下属事业单位公开选调工作人员职位表》（附件1）\n四、选调标准\n1.政治立场坚定，党性观念强。严格遵守政治纪律，认真贯彻执行党的路线方针政策，同党中央保持高度一致。\n2.身体健康，事业心强，责任感强，热爱本职工作。\n3.道德品行端正，自律意识强；团结同志，协作意识强；遵纪守法，廉洁奉公，社会形象良好。\n4.公",
+      "apply_start": "2026-08-20",
+      "apply_end": "2026-08-21",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-20",
+        "apply_end": "2026-08-21",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 13:10:06",
+      "updated_at": "2026-08-07 13:10:06",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468214668529664.doc",
+        "https://hera.fbstatic.cn/468214671678464.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 167,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468215089091585",
+      "source_hash": "3ae843c30113ef71ebcc13893cd697de8c0a8af9d5e83e858b6d884ba66c6aa5",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "陇南市武都区2026年城区学校和高中教师公开选调公告报名结束甘肃 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步推进“县管校聘”和教师交流轮岗，优化城乡教师资源配置，加强师资队伍建设，提高教育教学质量，办人民满意的教育。经区委、区政府研究，决定为城区学校和实验中学、两水中学、八一中学、安化中学的高中部公开选调一批优秀教师。现将相关事项公告如下。\n一、选调范围\n（一）在全区农村中小学在编在岗的教师中选调（不包括东江、姚寨、城关三镇和江南、江北、钟楼、吉石坝四个街道区域内学校教师）。\n（二）为加强高中学校教师队伍，小学、初中教师可报考实验中学、两水中学、八一中学、安化中学选调岗位；实验中学、两水中学、八一中学、安化中学、洛塘中学、甘泉农业中学教师暂不参加选调。\n二、选调原则\n1.遵循按需设岗、公开选调、平等竞争、择优聘用原则。\n2.坚持德才兼备和注重实绩的用人原则。\n3.实行选调名额、条件、程序和结果全面公开原则。\n三、选调名额\n按照城区学校和实验中学、两水中学、八一中学、安化中学的高中部教学需要，2026年计划选调紧缺学科教师183名。具体岗位见附件1。\n四、选调条件\n（一）基本条件\n1.积极贯彻党和国家的教育方针、政策，热爱教育事业，遵纪守法，品行端正，作风正派，团结协作；具有高尚的教师",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": 183,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": 183,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 13:10:04",
+      "updated_at": "2026-08-07 13:10:04",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468215110242304.xlsx",
+        "https://hera.fbstatic.cn/468215112079360.xls",
+        "https://hera.fbstatic.cn/468215113651200.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 166,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468215765687296",
+      "source_hash": "8b4aab5e200e6f61bab8ca807112ed3e1078117c330265b747e66fe300c7219b",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "宁陕县2026年城区5所学校公开选调教师公告正在报名陕西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《宁陕县机关和事业单位工作人员调配管理十条规定》（宁办发〔2023〕19号）《宁陕县2026年城区5所学校公开选调教师实施方案》及有关规定，拟从全县各镇中小学、幼儿园公开选调教师15名，现将本次公开选调教师相关事宜公告如下：\n一、选调学校和名额\n（一）宁陕中学：2人（语文1人，英语1人）；\n（二）城关初级中学：6人（语文2人、英语2人、思政1人、体育1人）；\n（三）宁陕小学：3人（数学2名、音乐1名）；\n（四）宁陕县幼儿园：2人；\n（五）宁陕县第二幼儿园：2人。\n二、选调范围\n全县各镇中小学、幼儿园在编在岗教师。\n三、选调教师资格条件和范围\n（一）应当具备的条件\n（1）政治素质过硬、专业素养良好，品行端正，实绩突出，群众认可度高；\n（2）身心健康，具有正常履行职责的身体条件；\n（3）具有5年及以上工作经历（核定标准参照服务年限）；\n（4）年龄要求：男性48周岁以下（1978年7月1日以后出生），女性45周岁以下（1981年7月1日以后出生）；\n（5）报考城区学校岗位须具有以下资格条件：幼儿园岗位应具有大专及以上学历，持有幼儿园及以上教师资格证；小学岗位应具有大专及以上学历，持有小学",
+      "apply_start": "2026-08-13",
+      "apply_end": "2026-08-14",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-13",
+        "apply_end": "2026-08-14",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 13:10:03",
+      "updated_at": "2026-08-07 13:10:03",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468215767439360.xls",
+        "https://hera.fbstatic.cn/468215769011200.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 165,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a2298713999a87fea3b825aa8427a2bb3199094f6c1ad6d1661eea1c2cc5ab67",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招380172人115989职位收录15977考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 13:10:01",
+      "updated_at": "2026-08-07 13:10:01",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 164,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468194485621760",
