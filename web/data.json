@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-07 00:19:24",
+  "updated_at": "2026-08-07 07:35:19",
   "stats": {
-    "total": 155,
+    "total": 164,
     "by_type": {
-      "省考": 155
+      "省考": 164
     },
     "by_province": {
-      "全国": 107,
+      "全国": 116,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,301 @@
     }
   },
   "notices": [
+    {
+      "id": 164,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468194485621760",
+      "source_hash": "1e719f3bfc48f973a55d349ed84291f65d40443cbbbc5cf91c60748caa03cd51",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年赣州市南康区义务教育学校公开选调区内教师公告报名结束江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化教师队伍结构，推动教师交流轮岗，有效促进城乡教育资源均衡配置，化解部分义务教育学校教师紧缺矛盾，决定开展2026年（暑期）义务教育学校公开选调区内教师工作，现将有关事项公告如下:\n一、选调原则\n坚持“公开、平等、竞争、择优”原则。\n二、选调对象\n（一）全区初中（含九年一贯制学校初中部）在编在岗教师；\n（二）全区小学（含九年一贯制学校小学部）在编在岗教师（不含未满服务期限的定向师范生）。\n三、选调岗位与指标数\n坚持“稳定为先、优化配置、缓解紧缺”导向，我区2026年义务教育学校公开选调区内教师岗位设置如下：\n1.“偏远农村初中”支教岗位：合计19人（限小学教师报考）；\n2.“城区周边”初中学校岗位：合计24人；\n3.“东山片区”初中学校岗位：合计39人；\n4.“南水片区”初中学校岗位：合计39人；\n5.“南水片区”小学学校岗位：合计18人（限小学教师报考）；\n6.“东山片区”小学学校岗位：合计25人（限小学教师报考）；\n7.“高中定向”岗位（初中学校到高中学校援教）：合计46人（限初中学校教师报考）；\n8.第五中学足球教练岗位：合计2人（限持有D级足球教练员证体育教师报考）。",
+      "apply_start": "2026-08-06",
+      "apply_end": "2026-08-08",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-06",
+        "apply_end": "2026-08-08",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 07:21:27",
+      "updated_at": "2026-08-07 07:21:27",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468205831658496.pdf",
+        "https://hera.fbstatic.cn/468205832443904.pdf",
+        "https://hera.fbstatic.cn/468205833491456.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 163,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468206504923136",
+      "source_hash": "a246defb0cd133fa745da5e2d7fc50917963fce68ecd1c196e87d85631338bcf",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "广东省卫生健康委2026年公开选调公务员公告正在报名广东 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要，按照《中华人民共和国公务员法》《公务员转任规定》《公务员公开遴选办法》及广东省公务员管理有关规定，现面向全省各级党政机关、中央驻粤单位机关公开选调公务员4名，统筹安排到省卫生健康委机关工作。现将有关事项公告如下。\n一、选调范围和职位\n（一）选调范围：全省各级党政机关、中央驻粤单位机关（含参照公务员法管理单位）在编在岗公务员（含参照公务员法管理人员，下同）。\n（二）选调职位：省卫生健康委机关三级主任科员及以下职位公务员4名（具体职位请登录报名系统查看《广东省卫生健康委2026年公开选调公务员职位表》）。\n二、选调人选资格条件\n（一）基本资格条件。政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。具有良好的业务素质和担当精神，有较强的文字综合、政策研究、沟通协调能力，品行端正，实绩突出，群众公认。符合公务员有关转任规定。此外应具备以下资格条件：\n1.具有大学本科及以上学历、学士及以上学位。\n2.现任乡科级副职或三级主任科员及以下相当层次职务职级公务员。本科学历、学士学位者，年龄32周岁以下（1994年8月以后出",
+      "apply_start": "2026-08-07",
+      "apply_end": "2026-08-14",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-07",
+        "apply_end": "2026-08-14",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 07:21:24",
+      "updated_at": "2026-08-07 07:21:24",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468206506678272.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 162,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468206620267520",
+      "source_hash": "51d8be6f64bafcae050574973717314e4494d597f64c79e1515285c944254530",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "原阳县2026年为城区学校公开选调教师公告报名结束河南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为优化全县教师资源配置、促进教育均衡发展，解决城区学校教师缺编问题，经研究，决定2026年继续为城区学校公开选调教师，为做好此项工作，特制定本方案。\n一、基本原则\n（一）“公开、平等、竞争”的原则；\n（二）采取公开考试、择优录用的原则；\n（三）坚持按需设岗、专业与岗位相结合的原则。\n二、选调岗位\n为原阳县城区中小学选调60名教师。选调的教师调入新单位后，如新单位没有与其对应的工资岗位，按照上级有关政策进行岗位低聘，农村评聘的职称到城区学校按职称评审政策进行转评，按政策降低工资岗位。\n三、选调范围\n原阳县农村学校在编在岗工作满三年的教师（含试用期）。\n四、选调条件\n（一）基本条件\n1.报考初中岗位的，须具备与所报学科一致的初中及以上教师资格证，具有本科及以上学历；\n2.报考小学岗位的，须具备与所报学科一致的小学及以上教师资格证，具有专科及以上学历；\n3.报考原阳县职业教育中心（普通高中班）的，须具备与所报学科一致的高中教师资格证，具有本科及以上学历；\n4.身体健康，无精神类疾病；\n5.鼓励具备初中教师任职资格的农村小学教师报考城区初中教学岗位。\n（二）下列人员不得参加选调\n1.受党政纪处",
+      "apply_start": "2026-08-10",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-10",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 07:21:21",
+      "updated_at": "2026-08-07 07:21:21",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468206622281728.docx",
+        "https://hera.fbstatic.cn/468206624119808.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 161,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468207347456000",
+      "source_hash": "e620977058dd37af5db1b729de3f32df7d67b6df12cc10fe6af7950ce4b27156",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年鹤峰县教育系统县内公开选调工作人员公告正在报名湖北 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《中共鹤峰县委机构编制委员会办公室关于同意鹤峰县教育局所属事业单位公开选调用编计划的函》（鹤编办函〔2026〕23号）文件精神，经研究，决定选调县直学校（幼儿园）教师20名、局属事业单位工作人员3名。现将有关事项公告如下：\n一、选调条件\n（一）基本条件\n1.鹤峰县内在职在编中小学、幼儿园教师，其中县学校后勤管理中心、县教育技术装备站（县家庭教育指导中心）面向全县范围选调。\n2.具有良好的政治素质和道德品行。\n3.具有正常履行职责的身体条件、心理素质和选调岗位要求的工作能力。\n4.近3年年度考核为合格以上等次。\n5.具有选调岗位要求的其他资格条件。工作经历年限计算截止时间为2026年12月31日。\n（二）具有下列情形之一者不得报考\n1.涉嫌违纪违法正在接受有关专门机关审查尚未作出结论的；\n2.受到诫勉、组织处理或者党纪政务处分尚未解除处分或者未满影响期限的或者期满影响使用的；\n3.按照有关规定，到定向单位工作或服务基层未满规定服务年限的，以及对交流调动有其它限制性规定的；\n4.近三年内主动放弃县直机关事业单位选调录用资格或县外调入我县工作未满三年的；\n5.选调后即构成回避关系的；\n6",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 07:21:17",
+      "updated_at": "2026-08-07 07:21:17",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468207349208064.xlsx",
+        "https://hera.fbstatic.cn/468207350779904.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 160,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468207403029504",
+      "source_hash": "522b16f638b4b76d5eea9600ebda37ea41a3cecf1eec13fe1b13ae738c40e732",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "芷江侗族自治县自然资源局所属事业单位2026年公开选调事业工作人员公告正在报名湖南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "芷江侗族自治县城乡规划测绘事务中心为芷江侗族自治县自然资源局所属全额拨款事业单位，因工作需要，经县委机构编制委员会研究同意，决定面向全县公开择优选调事业单位工作人员1名。现将有关事项公告如下：\n一、选调职位及人数\n公开选调县城乡规划测绘事务中心综合岗位工作人员1名。选调岗位具体详情见《芷江侗族自治县自然资源局所属事业单位2026年公开选调事业单位工作人员计划职位表》（附件1）。\n二、选调范围\n全县全额拨款事业编制的在岗人员。\n三、选调条件及要求\n本次选调坚持“公开、平等、竞争、择优”的原则。\n（一）报名须具备下列条件和要求\n1.政治立场坚定,政治素质过硬，遵纪守法，品行端正，工作勤奋踏实，实绩突出，群众公认。\n2.具有大学专科及以上学历。\n3.具有三年以上工作经验，在拟调出单位工作1年以上，符合调出单位服务期限等调出要求。\n4.近三年年度考核均为“合格”及以上等次，其中试用期内不定等次视为合格。\n5.年龄48周岁及以内，指1977年8月1日以后出生。\n6.适应岗位要求的身体条件和心理素质。\n7.法律、法规规定的其他条件。\n（二）有下列情形之一的人员，不得报名：\n1.被开除中国共产党党籍",
+      "apply_start": "2026-08-07",
+      "apply_end": "2026-08-14",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-07",
+        "apply_end": "2026-08-14",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 07:21:16",
+      "updated_at": "2026-08-07 07:21:16",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468207404522496.docx",
+        "https://hera.fbstatic.cn/468207406355456.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 159,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468208159315968",
+      "source_hash": "9ffab7aca6d5c086bdb8a434c0e2d86e03ac37b8319e641b41bfe2857962cc30",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "沿河土家族自治县城区及乡镇部分幼儿园2026年公开选调专任教师实施方案报名结束贵州 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为切实补充城区及乡镇部分幼儿园教师，适应幼儿园发展需要，经县委、县政府同意，拟选调幼儿教师到城区及乡镇部分幼儿园任教，为确保本次选调工作顺利进行，特制定此实施方案（以下简称《选调方案》）。\n一、组织领导\n为确保本次选调工作顺利进行,本次选调工作在县委人才工作领导小组的统一领导下进行,选调工作领导小组下设办公室在县教育局（以下简称“县选调办”）,负责依照本《选调方案》具体组织实施。\n二、选调原则\n选调工作坚持德才兼备、以德为先、按需选调的用人标准,按照“公开、公平、公正、择优”的原则,实行信息公开、程序公开、结果公开、择优聘用，选调人员编制编随人走。\n三、选调岗位和数量\n本次计划选调专任教师25人,选调岗位详见《沿河土家族自治县城区及乡镇部分幼儿园2026年公开选调专任教师岗位表》（附件1）。\n四、选调对象\n面向全县（除和平街道、团结街道、祐溪街道以外的）20个乡（镇、街道）在职幼儿教师招聘。原则上，拟选调教师不得超过所在乡（镇、街道）在职幼儿教师的10%（具体数量见附件2），若超过10%的，以选调成绩从高到低确定拟选调教师。\n五、选调条件\n（一）热爱祖国,拥护中国共产党领导,树立“四个",
+      "apply_start": "2026-08-12",
+      "apply_end": "2026-08-12",
+      "written_exam": "2026-08-15",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-12",
+        "apply_end": "2026-08-12",
+        "written_exam": "2026-08-15",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 07:21:15",
+      "updated_at": "2026-08-07 07:21:15",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468208161068032.xls",
+        "https://hera.fbstatic.cn/468208164999169.xls",
+        "https://hera.fbstatic.cn/468208171555840.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 158,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468208708507648",
+      "source_hash": "46ac5187d432e5a285c17cf9be0a2be5e055b1ac93d5e6d9936cb2bf001f9f0d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年环县高中学校选调专任教师公告正在报名甘肃 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "来源：教育局发布时间：2026-08-0711:32:10浏览次数：162次【字体：小大】\n根据教育教学工作需要，决定在全县范围内为高中学校选调专任教师60名，具体公告如下：\n一、选调计划\n计划公开选调专任教师60名。其中：环县第一中学6名、环县第二中学14名、环县第四中学28名、环县第五中学12名。具体岗位及有关要求详见岗位简表（附件1）\n二、选调条件\n（一）选调对象\n选调对象为乡镇学校正式教师。\n（二）报考条件\n1.拥护中国共产党的领导，热爱祖国和党的教育事业，遵纪守法，爱岗敬业，品行端正，师德良好；\n2.基层学校工作年限满3年（2023年9月30日前参加工作）；\n3.近3年年度考核结果评定为“合格”及以上等次，因当年参加工作考核结果定为“不定等次”的，视为当年年度考核结果为合格；\n4.具备高级中学教师资格证、本科及以上学历，每人限报一个岗位；\n5.身体健康，能够满足教育教学工作需要。\n（三）有下列情形之一的，不予选调\n1.近3年内受到党纪、政纪处分的、被列为失信联合惩戒对象的；\n2.近3年有违反师德师风行为或廉洁纪律方面存在问题被教育行政部门或相关部门处理的；\n3.正在接受组织立",
+      "apply_start": "2026-08-08",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-08",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 07:21:13",
+      "updated_at": "2026-08-07 07:21:13",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468208710259713.xls",
+        "https://hera.fbstatic.cn/468208712093696.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 157,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468209191114752",
+      "source_hash": "209b353db4808903a1b404b74448f92206f8275be4b7511103f2be3d4b7c94c7",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "阳西县2026年公开选调教师公告正在报名广东 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为优化我县中小学校教师学科结构，促进教师岗位人岗相适，实现我县教育高质量发展，遵循党管干部，人岗相适，规范管理，合理流动的原则。经研究，决定面向阳西县公办中小学校公开选调小学教师67名、初中教师12名、高中教师6名，现将有关事项公告如下：\n一、选调岗位（详见附件2）\n二、选调对象\n阳西县公办中小学校全额拨款事业单位在编在岗教师。\n三、选调条件\n1.具有良好的政治、业务素质，品行端正；具有良好的教师职业道德，身心健康，无违反师德师风行为；\n2.具有在职全额拨款事业编制人员身份，近三年年度考核评为合格以上等次；\n3.具有选调岗位要求的工作能力、岗位所需的专业或技能条件；\n4.具有与选调岗位相应学科、相应学段的教师资格，具有大专及以上学历（详见附件2）、初级及以上职称；\n5.现年龄距离退休年龄5年以上（不含5年，以人事档案核准的退休时间为准），截止计算时间为2026年8月13日；\n6.现所在学校为超编学校（超编学校指2026年秋季学期核定教师编制数与实有人数之差小于0的学校），报考人员现所在学校以其编制所在单位为准；\n7.每个超编学校可选调人数由报考人员所在学校根据本校教师队伍构成，在保证原",
+      "apply_start": "2026-08-13",
+      "apply_end": "2026-08-18",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-13",
+        "apply_end": "2026-08-18",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 07:21:12",
+      "updated_at": "2026-08-07 07:21:12",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468209193127936.doc",
+        "https://hera.fbstatic.cn/468209194702848.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 156,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "fe280698eb388b5ec690240c4f2c3d8c571eb356fd580d71f4f8f050cf07deca",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招379931人115759职位收录15936考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-07 07:21:09",
+      "updated_at": "2026-08-07 07:21:09",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 155,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
