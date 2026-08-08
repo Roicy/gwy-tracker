@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-08 01:59:25",
+  "updated_at": "2026-08-08 07:16:11",
   "stats": {
-    "total": 174,
+    "total": 175,
     "by_type": {
-      "省考": 174
+      "省考": 175
     },
     "by_province": {
-      "全国": 126,
+      "全国": 127,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,36 @@
     }
   },
   "notices": [
+    {
+      "id": 175,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "65db677b7d9923353d6f3d9e616ceb82d63cf433ce2a10c4cd971f942193ee19",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招380482人116187职位收录16005考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-08 06:58:58",
+      "updated_at": "2026-08-08 06:58:58",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 174,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
