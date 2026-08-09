@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-09 02:08:24",
+  "updated_at": "2026-08-09 07:16:40",
   "stats": {
-    "total": 182,
+    "total": 183,
     "by_type": {
-      "省考": 182
+      "省考": 183
     },
     "by_province": {
-      "全国": 134,
+      "全国": 135,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,38 @@
     }
   },
   "notices": [
+    {
+      "id": 183,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468251847187456",
+      "source_hash": "f106fd330978d68971cce60d0399232d927705fdd537607494ebcd46dbc12fe8",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年中共永兴县委组织部机关公开选调工作人员公告正在报名湖南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《永兴县机关事业单位人员流动调配工作实施意见》（永办发〔2023〕10号）等文件精神，经研究，决定面向全县机关事业单位公开选调工作人员，现将有关事项公告如下。\n一、选调职位和职数\n县委组织部机关工作人员2名。\n二、选调原则和方法\n按照德才兼备、以德为先、人岗相适、能力匹配和公开、平等、竞争、择优的原则，采取自愿报名与组织推荐相结合、考试与考察相结合的方式进行。\n三、选调范围和条件\n（一）选调范围\n全县机关事业单位在编在岗的科级以下工作人员（不含科级）。\n（二）选调条件\n1.报考人员条件\n（1）遵守中华人民共和国宪法和法律；\n（2）中共党员（含预备党员），政治素质好，品行端正，身体健康；\n（3）年龄要求35周岁以下（1991年8月31日以后出生），在现单位工作满1年以上；\n（4）具有本科以上学历；\n（5）具有公务员（参照公务员法管理人员）身份；\n（6）上年度考核为称职及以上等次；\n（7）符合机关事业单位人员流动调配的其他条件。\n2.不得报考的情形\n（1）在试用期内或者未满最低服务年限的；\n（2）受到诫勉、组织处理或党纪政务处分尚在影响期内，或正在接受纪律审查和监察调查的人员，处罚期限",
+      "apply_start": "2026-08-17",
+      "apply_end": "2026-08-31",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-17",
+        "apply_end": "2026-08-31",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-09 07:01:41",
+      "updated_at": "2026-08-09 07:01:41",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468251853658112.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 182,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
