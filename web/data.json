@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-10 13:30:32",
+  "updated_at": "2026-08-10 19:14:24",
   "stats": {
-    "total": 196,
+    "total": 198,
     "by_type": {
-      "省考": 196
+      "省考": 198
     },
     "by_province": {
-      "全国": 148,
+      "全国": 150,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,69 @@
     }
   },
   "notices": [
+    {
+      "id": 198,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468283395690497",
+      "source_hash": "75320fa55c6a55122dbf97a2d58939fab4111267fb57305a8256850fb95811ed",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "红河州教育体育局所属事业单位（红河州润新学校）2026年公开选调工作人员的公告正在报名云南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "红河州润新学校是2026年新设立的公办专门学校，隶属红河州教育体育局，是一所具有矫治功能的州级专门学校，负责开展对涉罪未成年人的法治教育、心理干预、行为矫正、文化学习与职业技能培训等工作。为进一步加强红河州专门学校人才队伍建设，改善人才队伍结构，提高公共服务能力，促进学校可持续发展，根据学校的办学规模、课程和岗位设置等需求，报经红河州人力资源和社会保障局批准，决定面向州内选调工作人员20名。现将有关事项公告如下：\n一、选调岗位和范围\n（一）选调岗位。具体岗位数、选调人数、条件等详见《红河州教育体育局所属事业单位（红河州润新学校）2026年公开选调工作人员岗位信息表》（附件1）。\n（二）选调范围为红河州内在职在编事业人员且符合下列条件：\n1.具有全日制本科及学士学位及以上，教师应具有初级中学及以上教师资格证、中学二级教师（含二级教师）及其以上职称（具有副高级职称及以上专业技术职务任职资格的人员学历可放宽到本科）；\n2.教师应有5年及其以上教育教学经历且目前仍在教学一线任教（特岗教师需有8年及以上），教育教学经验丰富，同等条件下，有专门学校工作经历者优先；其余岗位的报考人员工作年限须满5年",
+      "apply_start": "2026-08-18",
+      "apply_end": "2026-08-19",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-18",
+        "apply_end": "2026-08-19",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-10 19:01:57",
+      "updated_at": "2026-08-10 19:01:57",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468283397446656.xlsx",
+        "https://hera.fbstatic.cn/468283398756352.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 197,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a1e3b352ef8107b8f540b46d7aa2512d7f86a1e5af36aab4f37862630da067de",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招390710人117254职位收录16073考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-10 19:01:55",
+      "updated_at": "2026-08-10 19:01:55",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 196,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468280215886848",
