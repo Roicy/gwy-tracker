@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-11 13:26:45",
+  "updated_at": "2026-08-11 19:19:20",
   "stats": {
-    "total": 216,
+    "total": 218,
     "by_type": {
-      "省考": 216
+      "省考": 218
     },
     "by_province": {
-      "全国": 168,
+      "全国": 170,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,72 @@
     }
   },
   "notices": [
+    {
+      "id": 218,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468287003580416",
+      "source_hash": "9a9a92a43d2be49ea9edbb907413049e23256a4fc09ee1e2637ba37439d5d0cf",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年进贤县公开选调教师公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为深化教育人事制度改革，优化县域教师资源配置，调整城乡教师编制结构，推动县域城乡义务教育优质均衡发展，经研究，决定2026年面向全县乡镇公办义务教育阶段学校及民和学校公开选调50名优秀专任教师，安排到县城义务教育学校小学岗位任教；面向全县乡镇公办义务教育阶段学校及民和学校公开选调80名优秀专任教师，安排到县城义务教育学校初中岗位任教；面向全县公办义务教育阶段学校公开选调30名优秀专任教师，安排到全县高中学校高中岗位任教。为确保选调工作顺利进行，现将2026年进贤县公开选调教师有关事项公告如下：\n一、选调对象\n符合条件的本县公办义务教育阶段学校在编在职教师。\n二、选调人数及学科\n选调计划人数160人，其中：小学50人，初中80人，高中30人。具体岗位及学科人数详见附件1。\n三、选调原则\n按照德才兼备的用人标准，坚持“公开、公平、公正”的原则，择优选调。\n四、选调条件\n（一）选调对象必须同时具备下列条件：\n1.忠诚党的教育事业，有强烈的事业心和责任感，遵纪守法，师德高尚，教学能力强。\n2.近三年师德考核和年度考核合格及以上。\n3.年龄要求50周岁以下即1975年9月1日（含）后出生。年龄以",
+      "apply_start": "2026-08-17",
+      "apply_end": "2026-08-31",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-17",
+        "apply_end": "2026-08-31",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-11 19:06:01",
+      "updated_at": "2026-08-11 19:06:01",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468287005332480.docx",
+        "https://hera.fbstatic.cn/468287006904320.docx",
+        "https://hera.fbstatic.cn/468287008218112.docx",
+        "https://hera.fbstatic.cn/468287009789952.docx",
+        "https://hera.fbstatic.cn/468287011099648.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 217,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "ffeea1a9eee2b1088c433ae19ce39957df435b77c457eec2000fcfc103cf63db",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招392112人117849职位收录16164考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-11 19:06:00",
+      "updated_at": "2026-08-11 19:06:00",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 216,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468300152985600",
