@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-10 19:14:24",
+  "updated_at": "2026-08-11 02:07:20",
   "stats": {
-    "total": 198,
+    "total": 201,
     "by_type": {
-      "省考": 198
+      "省考": 201
     },
     "by_province": {
-      "全国": 150,
+      "全国": 153,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,105 @@
     }
   },
   "notices": [
+    {
+      "id": 201,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468284307951617",
+      "source_hash": "81b91f9de487d201262b4b3757bd53befc11dac777c156074c6874cab5383665",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度颍上县城区小学公开选调教师公告正在报名安徽 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为深入贯彻落实《中共中央国务院关于全面深化新时代教师队伍建设改革的意见》精神，激励广大教师专业化成长，结合城区小学学科需求情况，经研究同意，从农村小学（不含慎城镇中心学校）公开选调\n169\n名在编在岗教师到城区小学任教，现将有关事宜公告如下。\n一、选调原则\n坚持公开、公平、公正和择优选调的原则。\n二、选调对象\n颍上县农村小学（不含慎城镇中心学校）在编在岗教师。\n三、选调计划\n城区小学公开选调教师共\n169\n名（见附件\n1\n），选调岗位计划等信息在颍上县人民政府网教育信息专题活动通知栏（\nhttps://www.ahys.gov.cn/CustomTopic/opennessList/education/47834/page_1.html\n，下同）发布。\n有关选调政策及考务、面试、选岗等后续信息，请及时登录颍上县人民政府网教育信息专题活动通知栏查询、查阅。\n四、选调条件\n（一）基本条件\n1.\n年龄：\n45\n周岁及以下（\n1980\n年\n8\n月及以后出生）；\n2.\n学历：本科及以上学历（已修完教学计划规定全部课程、各科成绩合格、\n2026\n年毕业但尚未取得毕业证书的非全日制学历教育的，可凭学",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": 169,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": 169,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-11 01:54:59",
+      "updated_at": "2026-08-11 01:54:59",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468296882130944.xls",
+        "https://hera.fbstatic.cn/468296883182592.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 200,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468287003580416",
+      "source_hash": "d27f3d793082e0484ee40a8791f190fdf71beb7b8e4c1f2385563dd31d23e4ee",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年进贤县公开选调教师公告报名结束江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为深化教育人事制度改革，优化县域教师资源配置，调整城乡教师编制结构，推动县域城乡义务教育优质均衡发展，经研究，决定2026年面向全县乡镇公办义务教育阶段学校及民和学校公开选调50名优秀专任教师，安排到县城义务教育学校小学岗位任教；面向全县乡镇公办义务教育阶段学校及民和学校公开选调80名优秀专任教师，安排到县城义务教育学校初中岗位任教；面向全县公办义务教育阶段学校公开选调30名优秀专任教师，安排到全县高中学校高中岗位任教。为确保选调工作顺利进行，现将2026年进贤县公开选调教师有关事项公告如下：\n一、选调对象\n符合条件的本县公办义务教育阶段学校在编在职教师。\n二、选调人数及学科\n选调计划人数160人，其中：小学50人，初中80人，高中30人。具体岗位及学科人数详见附件1。\n三、选调原则\n按照德才兼备的用人标准，坚持“公开、公平、公正”的原则，择优选调。\n四、选调条件\n（一）选调对象必须同时具备下列条件：\n1.忠诚党的教育事业，有强烈的事业心和责任感，遵纪守法，师德高尚，教学能力强。\n2.近三年师德考核和年度考核合格及以上。\n3.年龄要求50周岁以下即1975年9月1日（含）后出生。年龄以",
+      "apply_start": "2026-08-17",
+      "apply_end": "2026-08-31",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-17",
+        "apply_end": "2026-08-31",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-11 01:54:58",
+      "updated_at": "2026-08-11 01:54:58",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468287005332480.docx",
+        "https://hera.fbstatic.cn/468287006904320.docx",
+        "https://hera.fbstatic.cn/468287008218112.docx",
+        "https://hera.fbstatic.cn/468287009789952.docx",
+        "https://hera.fbstatic.cn/468287011099648.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 199,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "3924dd78ca43c0a8ef15abfbca17dbd812e85255e3ff63cf6c30bd06ee2df088",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招390803人117267职位收录16080考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-11 01:54:56",
+      "updated_at": "2026-08-11 01:54:56",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 198,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468283395690497",
