@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-12 07:48:43",
+  "updated_at": "2026-08-12 13:30:37",
   "stats": {
-    "total": 226,
+    "total": 229,
     "by_type": {
-      "省考": 226
+      "省考": 229
     },
     "by_province": {
-      "全国": 178,
+      "全国": 181,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,99 @@
     }
   },
   "notices": [
+    {
+      "id": 229,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468327202050049",
+      "source_hash": "9d8e5b5dfc8b0456df9b1ee1372968144ff686e7496fadbb9f58903bbff5d1c9",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "仙游县教师进修学校公开选调教研员方案报名结束福建 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化我县教师进修学校教师队伍结构，不断提升教科研和教师培训工作水平，巩固提升省\n“\n示范性县级教师进修学校\n”\n创建成果。经研究，决定面向全县公办学校公开选调\n8\n名优秀教师担任教研员工作，现将选调方案公告如下：\n一、选调岗位及人数（8个岗位，共计8名）：\n学段学科\n中\n学（高中）\n小\n学\n学前教育\n数学\n化学\n英语\n生物\n语文\n数学\n科学\n人\n数\n1\n1\n1\n1\n1\n1\n1\n1\n二、选调范围与对象\n仙游县教育系统内公办学校在编在岗相应学科教师。\n三、选调条件\n（一）基本条件\n1.拥护中华人民共和国宪法，拥护中国共产党领导和社会主义制度；热爱教育事业，有强烈的事业心和责任感。\n2.遵纪守法，有良好师德、教育情怀和组织协调能力、团队合作精神。\n3.身心健康，能正常履行工作职责；热爱研训工作，具有较强的教学研究、命题研究、书面与口头表达和课堂教学及信息技术运用等工作能力。\n（二）专业能力条件\n1.必备条件\n（1）具有所选调岗位相应学段学科的国民教育大学本科及以上学历；\n（2）具有所选调岗位相应的教师资格证：中学教研员须具有相应学科高级中学教师资格证书，小学教研员须具有相应学科小学及",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-12 13:15:53",
+      "updated_at": "2026-08-12 13:15:53",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468327204330496.doc",
+        "https://hera.fbstatic.cn/468327206688768.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 228,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "bd0645b78d3a0f19d4960c7dfad36aad10801696064ba216913f8f4fe265ca08",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招935人678职位收录4考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-12 13:15:51",
+      "updated_at": "2026-08-12 13:15:51",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 227,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "7e8ead8d9fe6b4b6b56cb1785f79ea8bbde87bf2fa16e8ca583a8fc2e2e91ff7",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招392578人118255职位收录16239考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-12 13:15:49",
+      "updated_at": "2026-08-12 13:15:49",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 226,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468309174669312",
