@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-14 13:27:07",
+  "updated_at": "2026-08-14 19:11:17",
   "stats": {
-    "total": 250,
+    "total": 253,
     "by_type": {
-      "省考": 250
+      "省考": 253
     },
     "by_province": {
-      "全国": 202,
+      "全国": 205,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,101 @@
     }
   },
   "notices": [
+    {
+      "id": 253,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468367755726848",
+      "source_hash": "5c10847dd02900bec0fc232cc5da0903029dde28b2b0abb42a1783a0e17a2c69",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "贵州省总工会直属事业单位2026年公开选调工作人员方案正在报名贵州 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "贵州省总工会息烽温泉疗养院系贵州省总工会所属正县（处）级公益二类事业单位，主要承担为全国劳模、各行各业技术工人、先进工作者及广大职工群众提供疗休养服务公益性职能。为进一步拓宽选人用人渠道，着力建设忠诚干净担当的高素质专业化干部队伍，根据《贵州省人力资源和社会保障厅关于调整优化省直事业单位干部调配工作有关事宜的通知》（黔人社通〔2025〕51号）《贵州省总工会所属事业单位干部调配办法》和有关规定，结合本单位干部队伍建设需要，决定公开选调工作人员。结合工作实际，制定本方案。\n一、公开选调计划及岗位\n公开选调贵州省总工会息烽温泉疗养院工作人员3名（其中办公室1名、人事科1名、财务科1名）。具体岗位条件详见《贵州省总工会直属事业单位公开选调工作人员岗位表》（附件1）。\n二、报名范围和资格条件\n（一）报名范围\n全省各级机关、参照公务员法管理单位乡科级及以下干部，以及事业单位在职在编七级及以下管理岗位人员、八级及以下专业技术岗位人员。\n公务员（参照公务员法管理的单位工作人员）报考本次公开选调的，视为自愿放弃公务员（参照公务员法管理的单位工作人员）身份。\n（二）报考者应当具备以下资格条件\n1．政治立",
+      "apply_start": "2026-08-22",
+      "apply_end": "2026-08-30",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-22",
+        "apply_end": "2026-08-30",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-14 18:59:04",
+      "updated_at": "2026-08-14 18:59:04",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468367757483008.xlsx",
+        "https://hera.fbstatic.cn/468367758792704.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 252,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468376411986945",
+      "source_hash": "777c28c8df268bd1439e2baf0389c6d9f92594eff1d5601244306f4cdacfa50f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "望江县2026年部分高中、城区义务教育学校公开选调教师公告报名结束安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为优化教师资源配置，更好保障全县教育事业高质量发展，经研究，决定开展望江县2026年部分高中、城区义务教育学校公开选调教师工作。现就有关事项公告如下：\n一、选调范围\n全县公办学校在编在岗教师。\n二、选调岗位计划\n计划选调教师70名（小学35名、初中26名、高中9名）。具体岗位及选调条件详见《望江县2026年部分高中、城区义务教育学校公开选调教师岗位计划表》（附件1）。\n三、选调条件\n（一）参加选调人员必须同时具备下列条件：\n1.具备良好的政治素质和职业道德修养，遵纪守法，品行端正；\n2.具备专科及以上学历；\n3.年龄不超过45周岁（1980年8月1日（含）以后出生）。\n4.截至2026年9月1日，在公办学校连续任教满3年（定向培养乡村教师需连续任教满6年），且近三年（2023年～2025年）年度考核为合格及以上等次（试用期不定等次除外）；\n5.报考普通高中、初级中学岗位的人员须为全县公办义务教育学校在编在岗教师，报考小学岗位的人员须为全县公办小学在编在岗教师。\n6.具有正常履职的身体条件和心理素质；\n7.符合选调岗位所需的其他条件。\n（二）具有下列情形之一的，不得报考：\n1.涉嫌违纪违",
+      "apply_start": "2026-08-21",
+      "apply_end": "2026-09-01",
+      "written_exam": "2026-08-22",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-21",
+        "apply_end": "2026-09-01",
+        "written_exam": "2026-08-22",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-14 18:59:03",
+      "updated_at": "2026-08-14 18:59:03",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468376420030464.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 251,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "773c5c26cac388871b70bfc065ceab6964f8f6743dcb28f0b4937598e7323e43",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招413870人119062职位收录16411考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-14 18:59:02",
+      "updated_at": "2026-08-14 18:59:02",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 250,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468367069436928",
