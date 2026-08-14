@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-14 02:22:24",
+  "updated_at": "2026-08-14 07:41:41",
   "stats": {
-    "total": 240,
+    "total": 244,
     "by_type": {
-      "省考": 240
+      "省考": 244
     },
     "by_province": {
-      "全国": 192,
+      "全国": 196,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,132 @@
     }
   },
   "notices": [
+    {
+      "id": 244,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468367069436928",
+      "source_hash": "8e2ca854482e7f35c350886aa661a5138c41d7494287f91ebcce6c6be3ff36f5",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "禹州市2026年城区中小学校、市直幼儿园、第六实验学校公开选调农村教师公告报名结束河南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "结合全市教体系统实际教育教学工作需要，经市委、市政府同意，决定公开选调全市农村义务教育阶段及农村学前教育阶段学校在编教师到城区缺编学校及第六实验学校工作。\n一、选调计划及岗位\n计划公开选调农村在编教师220名，其中城区缺编中小学选调140名，市直幼儿园选调10名，第六实验学校70名；具体选调岗位和资格条件见《禹州市2026年城区中小学校市直幼儿园第六实验学校公开选调农村教师计划》（见附件1）。\n二、选调对象\n禹州市农村义务教育及农村学前教育阶段学校在编教师。\n三、选调条件\n（一）选调人员必须具备下列条件\n1.爱岗敬业，师德高尚，身体健康，能胜任教学工作。\n2.城区中小学校、第六实验学校及市直幼儿园公开选调教师年龄均要求45周岁以下（1981年8月1日后出生)。\n3.在禹州市农村义务教育阶段及农村学前教育阶段学校工作5年（含）以上在编教师（含2021年招聘教师及特岗教师）。\n4.报考学前教育岗位的须具有国家承认大学专科（含）以上学历；报考小学岗位的须具有国家承认大学专科（含）以上学历；报考初中岗位的须具有国家承认大学本科（含）以上学历。\n5.具有符合岗位要求的教师资格证和任职资格证。\n（",
+      "apply_start": "2026-08-20",
+      "apply_end": "2026-08-21",
+      "written_exam": "2026-08-25",
+      "interview_start": null,
+      "recruit_count": 140,
+      "raw_fields": {
+        "apply_start": "2026-08-20",
+        "apply_end": "2026-08-21",
+        "written_exam": "2026-08-25",
+        "recruit_count": 140,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-14 07:29:21",
+      "updated_at": "2026-08-14 07:29:21",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 243,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468367185301504",
+      "source_hash": "5bf296aa741794df2c5bf8a8d18d2cffef0d9bc4037f27a7092b36d4f1e708a2",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "公安县2026年部分卫生事业单位公开选调公告正在报名湖北 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "一、选调原则\n坚持公开、平等、竞争、择优的原则。\n本次公开选调专业技术人员2名，其中县疾控中心1名，县急救中心1名。\n三、选调范围\n本次公开选调对象为县卫生健康系统所属医疗机构在编在岗人员。\n四、选调资格条件\n（一）基本条件\n1.拥护党的领导，忠诚党的卫生事业，贯彻党的医疗卫生方针，自觉践行社会主义核心价值观，落实精医厚德根本任务；\n2.严格遵守卫生技术人员职业道德规范，具有良好的政治素质和道德品行；\n3.最低服务期限已满，在我县医疗卫生机构工作三年及以上，近三年年度考核均为合格及以上；\n4.年龄在40周岁及以下（1986年1月1日及以后出生）；\n5.具备选调岗位要求的工作能力、身体条件及其他资格条件；\n6.入选后能服从在新单位空岗内聘用，且首聘不得高于原岗位。\n（二）具体条件\n详见附件1。\n（三）以下人员不能参加选调\n1.不符合选调岗位条件要求的；\n2.最低服务年限未满或对调动有其他限制性规定的；\n3.涉嫌违法违纪正在接受审查的人员和近三年内（2024年1月以来）受过党纪、政纪等处分的人员；\n4.按照《事业单位公开招聘人员暂行规定》（人事部令第6号）、《事业单位人事管理回避规定》（人",
+      "apply_start": "2026-09-04",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-04",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-14 07:29:19",
+      "updated_at": "2026-08-14 07:29:19",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468367186795521.xls",
+        "https://hera.fbstatic.cn/468367188105217.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 242,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468367755726848",
+      "source_hash": "abd30aee8f0e5b88c6e9e98fbe9e6ac372993eec70e841dd46222a17504bdd7c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "贵州省总工会直属事业单位2026年公开选调工作人员方案报名结束贵州 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "贵州省总工会息烽温泉疗养院系贵州省总工会所属正县（处）级公益二类事业单位，主要承担为全国劳模、各行各业技术工人、先进工作者及广大职工群众提供疗休养服务公益性职能。为进一步拓宽选人用人渠道，着力建设忠诚干净担当的高素质专业化干部队伍，根据《贵州省人力资源和社会保障厅关于调整优化省直事业单位干部调配工作有关事宜的通知》（黔人社通〔2025〕51号）《贵州省总工会所属事业单位干部调配办法》和有关规定，结合本单位干部队伍建设需要，决定公开选调工作人员。结合工作实际，制定本方案。\n一、公开选调计划及岗位\n公开选调贵州省总工会息烽温泉疗养院工作人员3名（其中办公室1名、人事科1名、财务科1名）。具体岗位条件详见《贵州省总工会直属事业单位公开选调工作人员岗位表》（附件1）。\n二、报名范围和资格条件\n（一）报名范围\n全省各级机关、参照公务员法管理单位乡科级及以下干部，以及事业单位在职在编七级及以下管理岗位人员、八级及以下专业技术岗位人员。\n公务员（参照公务员法管理的单位工作人员）报考本次公开选调的，视为自愿放弃公务员（参照公务员法管理的单位工作人员）身份。\n（二）报考者应当具备以下资格条件\n1．政治立",
+      "apply_start": "2026-08-22",
+      "apply_end": "2026-08-30",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-22",
+        "apply_end": "2026-08-30",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-14 07:29:18",
+      "updated_at": "2026-08-14 07:29:18",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468367757483008.xlsx",
+        "https://hera.fbstatic.cn/468367758792704.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 241,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "f612e9fc1dfb440b053c9201828533bdad401bfe8bb5eb4c5724b287d283555d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招413168人118807职位收录16354考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-14 07:29:16",
+      "updated_at": "2026-08-14 07:29:16",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 240,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
