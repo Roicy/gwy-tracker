@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-15 01:35:10",
+  "updated_at": "2026-08-15 06:54:44",
   "stats": {
-    "total": 254,
+    "total": 257,
     "by_type": {
-      "省考": 254
+      "省考": 257
     },
     "by_province": {
-      "全国": 206,
+      "全国": 209,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,105 @@
     }
   },
   "notices": [
+    {
+      "id": 257,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468376411986945",
+      "source_hash": "c18631b151c88f9c25dfb5bd968f0ee72518ebe88a94c0d7768421d8a7109bee",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "望江县2026年部分高中、城区义务教育学校公开选调教师公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为优化教师资源配置，更好保障全县教育事业高质量发展，经研究，决定开展望江县2026年部分高中、城区义务教育学校公开选调教师工作。现就有关事项公告如下：\n一、选调范围\n全县公办学校在编在岗教师。\n二、选调岗位计划\n计划选调教师70名（小学35名、初中26名、高中9名）。具体岗位及选调条件详见《望江县2026年部分高中、城区义务教育学校公开选调教师岗位计划表》（附件1）。\n三、选调条件\n（一）参加选调人员必须同时具备下列条件：\n1.具备良好的政治素质和职业道德修养，遵纪守法，品行端正；\n2.具备专科及以上学历；\n3.年龄不超过45周岁（1980年8月1日（含）以后出生）。\n4.截至2026年9月1日，在公办学校连续任教满3年（定向培养乡村教师需连续任教满6年），且近三年（2023年～2025年）年度考核为合格及以上等次（试用期不定等次除外）；\n5.报考普通高中、初级中学岗位的人员须为全县公办义务教育学校在编在岗教师，报考小学岗位的人员须为全县公办小学在编在岗教师。\n6.具有正常履职的身体条件和心理素质；\n7.符合选调岗位所需的其他条件。\n（二）具有下列情形之一的，不得报考：\n1.涉嫌违纪违",
+      "apply_start": "2026-08-21",
+      "apply_end": "2026-09-01",
+      "written_exam": "2026-08-22",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-21",
+        "apply_end": "2026-09-01",
+        "written_exam": "2026-08-22",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-15 06:41:19",
+      "updated_at": "2026-08-15 06:41:19",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468376420030464.doc",
+        "https://hera.fbstatic.cn/468389182509056.xls",
+        "https://hera.fbstatic.cn/468389183298560.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 256,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468377744727040",
+      "source_hash": "c6c45df69002dc0c85974ce0333cbe97a9035713113a3e66c12fd9b0b3477dc2",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "江陵县2026年“教师选调”公告正在报名湖北 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为补充高中扩容师资缺口，巩固城区义务教育优质均衡创建成果，逐步解决学前教育公益性岗位人员离职后专任教师缺口等问题。决定面向全县乡镇中小学、幼儿园（不含城关镇所辖学校）采取公开选调的方式，选调部分教师到城区学校任教，特公告如下。\n一、范围条件\n（一）选调范围\n江陵县乡镇义务教育阶段、学前教育阶段在编在岗教师，不含城关镇所辖学校教师。\n（二）选调条件\n1．师德师风优良，近三年年度考核为合格及以上档次（试用期不确定档次视同为合格档次）；\n2．本科及以上学历，并持有符合报名岗位相应学段的教师资格证书；\n3．乡镇基层服务期已满，符合岗位服务年限要求（包含到城区跟岗学习时间）；\n4．报考高中岗位教师年龄应在45周岁以下（1981年7月31日以后出生）；报考义务教育岗位及学前教育岗位教师年龄应在40周岁以下（1986年7月31日以后出生）,下列情形之一年龄可适当放宽至43岁（1983年7月31日以后出生）：\n（1）具有研究生学历人员;\n（2）荣获省级及以上教育名师、优秀教育工作者、农村优秀教师、楚天园丁奖、学生最喜爱的好老师等称号；\n（3）在教育行政部门组织（或认可）的省级课堂教学比赛中获得二等奖及",
+      "apply_start": "1981-07-31",
+      "apply_end": "1983-07-31",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "1981-07-31",
+        "apply_end": "1983-07-31",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-15 06:41:16",
+      "updated_at": "2026-08-15 06:41:16",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468377746216960.xlsx",
+        "https://hera.fbstatic.cn/468377747526656.doc",
+        "https://hera.fbstatic.cn/468377748836352.xls",
+        "https://hera.fbstatic.cn/468377750150144.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 255,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "8cd634efcebaec9b5b6d197ed466c489c00904f5cee7a6692c8e7fdc01093001",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招414586人119221职位收录16409考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-15 06:41:14",
+      "updated_at": "2026-08-15 06:41:14",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 254,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
