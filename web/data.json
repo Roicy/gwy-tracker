@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-17 01:38:18",
+  "updated_at": "2026-08-17 07:12:09",
   "stats": {
-    "total": 264,
+    "total": 266,
     "by_type": {
-      "省考": 264
+      "省考": 266
     },
     "by_province": {
-      "全国": 216,
+      "全国": 218,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,70 @@
     }
   },
   "notices": [
+    {
+      "id": 266,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468432790770688",
+      "source_hash": "3161c96d06e2d258fe470bd79d9c75e2e198ed9864115079d91e38f47c2e91d7",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年射阳县教育局公开选调县教师发展中心部分学科研训员的公告正在报名江苏 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，经县委机构编制委员会同意，现在全县教育系统内公开选调部分学科研训员。具体公告如下：\n一、选调岗位\n本次公开选调学科研训员3名，详见《2026年射阳县教师发展中心公开选调部分学科研训员岗位表》（附件1）。\n二、选调原则\n1.坚持公平公正、阳光选调的原则；\n2.坚持编制许可、工作需求的原则。\n三、选调对象\n全县教育系统在编教师。\n四、选调条件\n（一）政治素质要求\n1.全面贯彻落实党的教育方针政策，坚持立德树人，执行教育行政法律法规，爱岗敬业，廉洁自律。\n2.有下列情形之一的不得参与选调：\n（1）在服务期内的乡村定向师范生和免费男幼师，首聘服务期未满的教师；（2）违反党纪政纪受到处分，处分期限未满或正接受调查未有结论的；（3）近三年（2023-2025年度）年度考核有基本合格及以下等次的；（4）近三年（2023-2025年度）以来，因违反国家法律、法规受到公安部门处理的；（5）纳入失信被执行人名单的；（6）法律法规等规定的不符合选调条件的其他情形。\n（二）业务能力要求\n1.教学能力：熟悉本学段的本学科教学，教学业绩优异。\n2.研究能力：近5年（2021年8月1日至2026年8月1",
+      "apply_start": "2026-08-20",
+      "apply_end": "2026-08-01",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-20",
+        "apply_end": "2026-08-01",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-17 06:58:45",
+      "updated_at": "2026-08-17 06:58:45",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468433165818881.docx",
+        "https://hera.fbstatic.cn/468433166603264.docx",
+        "https://hera.fbstatic.cn/468433167390720.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 265,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "25ad54c328c4a1ed85c9abe137084050fb66ffbf8e73b5dd133201c45114f291",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招415012人119571职位收录16468考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-17 06:58:43",
+      "updated_at": "2026-08-17 06:58:43",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 264,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
