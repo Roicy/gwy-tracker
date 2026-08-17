@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-17 13:02:22",
+  "updated_at": "2026-08-17 18:55:48",
   "stats": {
-    "total": 274,
+    "total": 279,
     "by_type": {
-      "省考": 274
+      "省考": 279
     },
     "by_province": {
-      "全国": 226,
+      "全国": 231,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,167 @@
     }
   },
   "notices": [
+    {
+      "id": 279,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468439144354816",
+      "source_hash": "4076a3197f25c2a917f26880c2df8b2e3d5ae7f014ffe7885cbbde373bc97ce2",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "大理州能源局2026年度公开选调事业单位工作人员公告正在报名云南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强大理州能源事务综合服务能力建设，吸收优秀专业技术人才，优化队伍配置，根据《事业单位人事管理条例》《中共大理州委办公室大理州人民政府办公室关于进一步完善州级机关和事业单位工作人员调配工作有关事项的通知》（大办发〔2021〕12号）和《中共大理州委组织部 大理州人力资源和社会保障局关于印发〈大理州事业单位公开选调工作人员暂行办法〉的通知》（大组通〔2014〕33号）等相关规定，经州人民政府、州委编办、州人力资源和社会保障局同意，决定开展2026年度公开选调事业单位工作人员工作。现将有关事项公告如下：\n一、公开选调范围\n云南省内县市（或乡镇）符合公开选调条件和岗位要求的事业单位在职在编工作人员。\n二、公开选调岗位及人数\n公开选调岗位及人数详见《大理州能源局2026年度公开选调事业单位工作人员岗位表》（附件1）。\n三、公开选调条件\n（一）报考人员应具备以下条件\n1.贯彻执行党的路线方针政策，遵守国家法律法规和单位各项规章制度，具有良好的政治、业务、身体素质，品行端正，成绩突出，群众公认。\n2.具有大学本科及以上学历（普通招生计划）。\n3.年龄在40周岁及以下（1986年7月后出生）",
+      "apply_start": "2026-08-17",
+      "apply_end": "2026-08-28",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-17",
+        "apply_end": "2026-08-28",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-17 18:43:37",
+      "updated_at": "2026-08-17 18:43:37",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468439147158528.xlsx",
+        "https://hera.fbstatic.cn/468439149516800.docx",
+        "https://hera.fbstatic.cn/468439151874048.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 278,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468439731297280",
+      "source_hash": "64aeda246cd05d559df09638afa3cf43da0a1d2a9dd48c2137eeb219836d1191",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "关于柳林县纪检监察系统2026年公开选调工作人员公告正在报名山西 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步充实纪检监察干部队伍，补强监督执纪执法力量，根据山西省纪委办公厅印发的《山西省纪检监察干部准入规定（试行）》（晋纪办发〔2025年〕23号）文件，经研究决定，开展柳林县纪检监察系统2026年公开选调工作人员工作，现将有关事项公告如下：\n一、实施对象\n全县范围内通过参加公务员招考被正式录用，在编在岗的公务员（服务期已满）。\n二、选调人数\n根据工作需要和人员编制、职位空缺情况，计划在全县范围内符合条件的在编在岗公务员中，择优选调公务员10名。其中，县纪委监委选调公务员8名，县委巡察办选调公务员2名。\n三、资格条件\n（一）拥护中国共产党领导，遵守《中华人民共和国宪法》及相关法律法规，具有良好的思想品德和职业道德。\n（二）第一学历应为全日制大学本科及以上学历、取得相应学士及以上学位。\n（三）年龄一般在40周岁及以下（1985年8月1日以后出生），中共党员（含预备党员）。\n（四）须为通过公务员公开招录考试取得编制，且完成公务员登记备案。\n（五）近三年年度考核结果均为称职及以上等次。\n（六）具有正常履行职责的身体条件。\n（七）具有下列情形之一的人员不能报名：\n1．受处分未满影响期限的；\n2",
+      "apply_start": "2026-08-17",
+      "apply_end": "2026-08-21",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-17",
+        "apply_end": "2026-08-21",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-17 18:43:36",
+      "updated_at": "2026-08-17 18:43:36",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468439732787200.doc",
+        "https://hera.fbstatic.cn/468439734096896.docx",
+        "https://hera.fbstatic.cn/468439735406593.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 277,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468439802073088",
+      "source_hash": "889eebd0857914094919a025cccc17dcccca0b35373cfa885d2ea9937f1b3e9d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "曲周县2026年面向乡镇小学公开选调教师的公告正在报名河北 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为推进基础教育优质均衡发展，适配学龄人口动态变化，目前乡镇小学师资富裕，城区初、高中师资紧缺，为优化教师资源配置，促进教师合理流动，确保我县初、高中正常教育教学工作的开展，现从教育系统乡镇小学教师队伍中公开选调教师\n40\n名。\n一、选聘原则\n坚持德才兼备，公开、平等、竞争、择优的原则。\n二、选调人数\n40\n名\n初中教师\n33\n名，高中教师\n7\n名（详见附件\n2\n）。\n三、选调范围及条件\n（一）选调范围\n曲周县教育系统内各乡镇校部在编在岗的小学教师。\n（二）基本条件\n1.\n具有中华人民共和国国籍，拥护中国共产党的领导，热爱教育事业，具有良好的职业道德；\n2.\n身体健康，责任心强，能适应岗位工作需要，具备正常履行职责的身体条件，年龄在\n45\n周岁以下（\n1981\n年\n8\n月\n19\n日以后出生，不含当天）；\n3.\n持有与报考学段一致或者更高学段的教师资格证书；\n4.\n具备本科及以上学历；\n5.\n教师资格证学科、所学专业与选调学科对应或相近（相近是指：语文、历史、地理、政治科目或专业；数学、物理、化学、生物科目或专业；音乐、体育、美术科目或专业这三大类中所涉及科目可互通报名）；\n6.\n近三年无",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-17 18:43:35",
+      "updated_at": "2026-08-17 18:43:35",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468444179272704.doc",
+        "https://hera.fbstatic.cn/468444180320258.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 276,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "c2a07aea367f45cb69aa8c448fb6872abef99f40d41f7d465ce1645f3a42d773",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招2856人2122职位收录5考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-17 18:43:34",
+      "updated_at": "2026-08-17 18:43:34",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 275,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "0081a37961f8137a69b7277231c1ad20a1a037e4f0c3ec7f79e346a5c135f372",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招425245人119862职位收录16518考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-17 18:43:32",
+      "updated_at": "2026-08-17 18:43:32",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 274,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468438872773632",
