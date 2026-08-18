@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-18 13:07:08",
+  "updated_at": "2026-08-18 18:56:52",
   "stats": {
-    "total": 286,
+    "total": 289,
     "by_type": {
-      "省考": 286
+      "省考": 289
     },
     "by_province": {
-      "全国": 238,
+      "全国": 241,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,112 @@
     }
   },
   "notices": [
+    {
+      "id": 289,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468462312116224",
+      "source_hash": "43d0cd710dc47880369bf0f644adceb37af522c34d63ba10b17f08fb11dd50b7",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年华容县委组织部面向全县公开选调工作人员公告正在报名湖南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要，县委组织部决定面向全县公开选调工作人员。现将有关事项公告如下：\n一、选调计划\n本次计划公开选调工作人员3名，具体岗位和资格条件详见《2026年华容县委组织部公开选调工作人员岗位表》（见附件1）。\n二、选调范围\n面向全县县直及乡镇机关中，已进行公务员登记且在编在岗的公务员；参照公务员法管理单位，已进行参照公务员登记且在编在岗的参照公务员法管理人员。垂直管理单位工作人员，不在本次选调范围内。\n三、选调条件\n（一）报名人员应当具备下列基本条件：\n1.政治立场坚定，综合素质高，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”，政治“判断力、领悟力、执行力”强。\n2.中共党员（含预备党员）具有良好的业务素质，工作实绩突出，责任心强，群众认可度高。\n3.具有2年以上公务员（参照公务员法管理人员）工作经历（含试用期），且在本单位工作1年以上，除试用期外年度考核均为称职及以上等次。\n4.担任三级主任科员及以下职级（含其他相当层次职务职级）。\n5.具有全日制大学本科学士及以上学历学位，年龄在35周岁以下（1991年8月24日及以后出生）。\n6.具有正常",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-18 18:42:33",
+      "updated_at": "2026-08-18 18:42:33",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468462314134528.docx"
+      ],
+      "position_count": 1,
+      "positions": [
+        {
+          "id": 1,
+          "notice_id": 289,
+          "position_code": null,
+          "position_name": "综合管理",
+          "dept_name": null,
+          "recruit_num": null,
+          "education": "大学本科学士",
+          "major": "不限",
+          "experience": null,
+          "political_status": "中共党员（含预备党员）",
+          "other_requirements": "具备较强的文字综合和统筹协调能力"
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "867593e63e1f2ef49360de6b8c80b58337de1e07650fb2ed49aeffcee3edece8",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招3829人3792职位收录6考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-18 18:42:32",
+      "updated_at": "2026-08-18 18:42:32",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 287,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "2c7748fd3276458794cbd896aa832e9ef7c00f2afde12ffd6fbfbdd17e7e1140",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招426545人120463职位收录16634考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-18 18:42:30",
+      "updated_at": "2026-08-18 18:42:30",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 286,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468460101455872",
