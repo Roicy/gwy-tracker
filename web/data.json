@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-18 01:35:46",
+  "updated_at": "2026-08-18 07:07:01",
   "stats": {
-    "total": 280,
+    "total": 282,
     "by_type": {
-      "省考": 280
+      "省考": 282
     },
     "by_province": {
-      "全国": 232,
+      "全国": 234,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,66 @@
     }
   },
   "notices": [
+    {
+      "id": 282,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468460101455872",
+      "source_hash": "691a6691a627d7dd15a66465cacee9b6ff630d343e3394a9244759f42a7eb80f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年黄梅县城区中小学公开选调教师公告报名结束湖北 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为缓解我黄梅县城区中小学教师紧缺现状，进一步加强城区义教学校师资队伍建设，做大做强高中教育，全面推进我县教育事业均衡、优质发展，实现“教育强县”的战略目标，经教育局党组研究并报请县委编委同意，今年面向全县教育系统，为黄梅县城区部分中小学选调一批学科教师。为保证公开选调工作顺利进行，现就有关事宜公告如下：\n一、选调岗位及人数\n1.城区小学：语文8人、数学8人、英语2人、体育2人、信息1人、科学1人、财务5人；\n2.城区初中：语文8人、数学4人、英语8人、物理2人、道德与法治3人、地理1人、历史1人、体育2人、财务1人；\n3.城区高中：语文6人、数学5人、英语5人、物理1人、化学2人、生物2人、地理3人、历史2人。\n以上选调岗位计划涉及具体学校见附件1《2026年黄梅县城区中小学公开选调教师岗位计划表》。\n城区中小学教师选调由县教育局集中组织实施，财务人员岗位由用人单位组织推荐及教育局计财股认定为依据，城区高中教师选调由岗位计划所在学校按要求自主组织实施。\n二、选调范围及对象\n1.城区小学岗位：全县农村小学在编教师（九年一贯制学校报考的须在小学部任教）；\n2.城区初中岗位：全县农村义务教育",
+      "apply_start": "2026-08-17",
+      "apply_end": "2026-08-19",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-17",
+        "apply_end": "2026-08-19",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-18 06:48:14",
+      "updated_at": "2026-08-18 06:48:14",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 281,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "44afda6a957fc4adc0697edbb92f3c2c7adf564871a79cbf36d8ea39f044875b",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招425584人119967职位收录16577考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-18 06:48:12",
+      "updated_at": "2026-08-18 06:48:12",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 280,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
