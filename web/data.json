@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-19 13:06:21",
+  "updated_at": "2026-08-19 18:51:17",
   "stats": {
-    "total": 303,
+    "total": 305,
     "by_type": {
-      "省考": 303
+      "省考": 305
     },
     "by_province": {
-      "全国": 255,
+      "全国": 257,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,66 @@
     }
   },
   "notices": [
+    {
+      "id": 305,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "925d703e9a1208d12aa901ae0c3997c5a935e4712fce58f1cadbc3aaf43ed4f6",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招7205人4973职位收录6考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-19 18:37:58",
+      "updated_at": "2026-08-19 18:37:58",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 304,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "f8c667655bc155fc6c53e435f0b3aa97b7e1cbfa78be08efa75ed979c4ecf5b7",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招427170人120865职位收录16718考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-19 18:37:57",
+      "updated_at": "2026-08-19 18:37:57",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 303,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468464193002496",
