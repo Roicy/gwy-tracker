@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-20 07:03:09",
+  "updated_at": "2026-08-20 13:07:56",
   "stats": {
-    "total": 309,
+    "total": 313,
     "by_type": {
-      "省考": 309
+      "省考": 313
     },
     "by_province": {
-      "全国": 261,
+      "全国": 265,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,130 @@
     }
   },
   "notices": [
+    {
+      "id": 313,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468507601689601",
+      "source_hash": "6842239faf12458012060b3994ae4568c1532c70e0e8b66a13a7e7e9b364d098",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年桃源县教育系统公开选调教师公告正在报名湖南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为满足学校教育教学工作需要，促进教师的正常流动，解决教师个人及家庭的实际困难，稳定教师队伍，报县编制委员会批准，计划选调一批目前在县外工作，并有意向调入桃源县的在编教师，相关具体事项公告如下：\n一、选调原则\n按照“任人唯贤、德才兼备”的用人标准，坚持“公开、平等、竞争、择优”的原则，采取考试和考察相结合的方式进行。\n二、选调计划及岗位\n本次选调教师共计8名，具体岗位见《2026年桃源县教育系统公开选调教师岗位计划》（附件1）。\n三、选调对象及范围\n桃源县在外省市区县工作的在编在岗教师。\n四、选调条件\n（一）基本条件\n1.遵守中华人民共和国宪法和法律；\n2.具有良好的品行和职业道德；\n3.具备岗位所需的专业或技能条件；\n4.适应岗位要求的身体条件；\n5.岗位所需要的其他条件。\n（二）具体条件\n1.具有本科及以上学历。\n2.报考小学教师岗位需持有小学及以上教师资格证。报考初中教师岗位需持有初中及以上相应学科教师资格证或毕业证书所学专业与报考岗位专业相同或持有相应学科转岗培训合格证；报考高中岗位需持有相应学科高中教师资格证。\n3.年龄须在40岁及以下（1986年8月以后出生）。具有高级教师职",
+      "apply_start": "2026-08-27",
+      "apply_end": "2026-08-28",
+      "written_exam": null,
+      "interview_start": "2026-08-30",
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-27",
+        "apply_end": "2026-08-28",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": "2026-08-30"
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 12:55:43",
+      "updated_at": "2026-08-20 12:55:43",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468507608423424.docx",
+        "https://hera.fbstatic.cn/468507612354560.docx",
+        "https://hera.fbstatic.cn/468507616548864.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 312,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468509506952192",
+      "source_hash": "e085a03c1c1f6dcadbc516eda003a4f59a76dc659e301d6c8a84d7ecced7e8d3",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "文县2026年城区学校公开选调教师公告正在报名甘肃 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 12:55:38",
+      "updated_at": "2026-08-20 12:55:38",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 311,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "77b0b94796b49673295fb3dc250e0b3a3698cc39307d4e0f233906a95fcd4840",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招9861人6950职位收录9考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 12:55:29",
+      "updated_at": "2026-08-20 12:55:29",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 310,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "e7d4ada0469663a434fcbb7f4b76d2092e6bf27cb91119a9b6a6aa026b8c3f33",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招428075人121266职位收录16792考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 12:55:27",
+      "updated_at": "2026-08-20 12:55:27",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 309,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468502469956608",
