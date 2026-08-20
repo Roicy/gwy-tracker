@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-20 01:36:35",
+  "updated_at": "2026-08-20 07:03:09",
   "stats": {
-    "total": 306,
+    "total": 309,
     "by_type": {
-      "省考": 306
+      "省考": 309
     },
     "by_province": {
-      "全国": 258,
+      "全国": 261,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,98 @@
     }
   },
   "notices": [
+    {
+      "id": 309,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468502469956608",
+      "source_hash": "b1acd89bd26a46a8c41965129f9ba39c30bea0154024b61677d39e48b7fdace1",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "随州市机关事务服务中心公开选调工作人员的公告正在报名湖北 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "随州市\n机关事务服务中心\n直属事业单位\n随州市市直机关后勤服务中心\n计划在\n全市事业单位\n范\n围内\n选调\n1\n名事业编制人员。根据市人社局《关于进一步加强和规范市直事业单位人员调配工作的补充规定》等有关要求，制定\n公告\n如下\n:\n一、\n选\n调\n岗位和数量\n随州市市直机关后勤服务中心管理\n9级科员1名，主要从事后勤管理工作\n。\n二、选调资格条件\n（一）报名资格条件\n1.具有良好的政治素质、业务素质，品行端正、实绩突出、具有较强的团队协作能力；\n2.随州市事业单位（含县市区）在编在岗人员；\n3.年龄在38周岁及以下（1988年8月14日以后出生）；\n4.具有大学本科及以上学历,本科专业为土木工程、建筑学、工程造价、安全工程、风景园林、园林、园艺、财务管理、财务会计、会计、会计学、审计、审计学、审计实务、消防管理；\n5.该岗位为一线后勤服务岗位，根据工作需要周末和节假日也要坚守岗位，经常加班加点；\n6.本岗位设置5年服务期，聘用后，在服务期内，不得跨单位调动、不得参加公务员、其他事业单位公开招录（聘）考试，不得擅自申请解除聘用关系；\n7.法律法规规定的其他条件。\n任职时间、工作经历时间、报考",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 06:49:45",
+      "updated_at": "2026-08-20 06:49:45",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468505679827968.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 308,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "9f5cd49187daa1ee2e567bb78170f43d06a0f739e63b6542d1a07fef167748b7",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招9742人6863职位收录7考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 06:49:41",
+      "updated_at": "2026-08-20 06:49:41",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 307,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "20b4903e81222fd9379d77a36d6e6ea8c12c0e1b80dd26a1c5a396b305fe7d6f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招427665人120961职位收录16753考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 06:49:40",
+      "updated_at": "2026-08-20 06:49:40",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 306,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
