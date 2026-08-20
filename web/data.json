@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-20 13:07:56",
+  "updated_at": "2026-08-20 18:55:07",
   "stats": {
-    "total": 313,
+    "total": 316,
     "by_type": {
-      "省考": 313
+      "省考": 316
     },
     "by_province": {
-      "全国": 265,
+      "全国": 268,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,138 @@
     }
   },
   "notices": [
+    {
+      "id": 316,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468508646068224",
+      "source_hash": "429b359bf47905c8fb080f75f9d77aeb208cd27d63d90b8f09c51745144054be",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年岱山县教育局机关及直属单位面向义务教育阶段学校公开选调工作人员公告（一）正在报名浙江 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为深入推进教育公共服务一体化进程，精减义务教育学校编制，优化机关及直属单位人员结构，经研究决定，面向全县义务教育阶段学校部分人员富裕学科及岗位人员中开展选调工作。现将有关事项公告如下：\n一、选调原则\n坚持德才兼备、以德为先，坚持公平、公正、公开、择优，坚持人岗相适原则。\n二、选调人数及岗位\n本次计划选调教育局机关及直属单位工作人员，共3名。\n选调岗位\n选调人数\n专业要求\n备注\n服务中心工作人员A\n1\n信息科技\n财务管理\n服务中心工作人员B\n1\n信息科技\n信息技术管理\n考试中心工作人员\n1\n不限\n面向原一线教师因身体原因转任到后勤岗位的教师\n三、选调范围\n本县教育系统在编在岗义教段教师。\n四、选调基本条件\n1.具有良好的思想政治素质，忠诚党的教育事业，贯彻党的教育方针，遵守法律法规和教师职业道德规范，无违法违纪行为及师德师风问题。\n2.具备本科及以上学历。\n3.在教育系统内工作满3年及以上教育教学工作经历（含试用期），近3年年度考核结果均为合格及以上等次。\n五、报名办法\n此次选调报名可现场报名，也可网上报名（将报名材料发送到指定邮箱）。\n1.报名时间：\n2026年8月20日—8月21日上",
+      "apply_start": "2026-08-20",
+      "apply_end": "2026-08-21",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-20",
+        "apply_end": "2026-08-21",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 18:41:41",
+      "updated_at": "2026-08-20 18:41:41",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468508651493376.xlsx"
+      ],
+      "position_count": 3,
+      "positions": [
+        {
+          "id": 2,
+          "notice_id": 316,
+          "position_code": null,
+          "position_name": null,
+          "dept_name": null,
+          "recruit_num": null,
+          "education": null,
+          "major": "信息科技",
+          "experience": null,
+          "political_status": null,
+          "other_requirements": "财务管理"
+        },
+        {
+          "id": 3,
+          "notice_id": 316,
+          "position_code": null,
+          "position_name": null,
+          "dept_name": null,
+          "recruit_num": null,
+          "education": null,
+          "major": "信息科技",
+          "experience": null,
+          "political_status": null,
+          "other_requirements": "信息技术管理"
+        },
+        {
+          "id": 4,
+          "notice_id": 316,
+          "position_code": null,
+          "position_name": null,
+          "dept_name": null,
+          "recruit_num": null,
+          "education": null,
+          "major": "不限",
+          "experience": null,
+          "political_status": null,
+          "other_requirements": "面向原一线教师因身体原因转任到后勤岗位的教师"
+        }
+      ]
+    },
+    {
+      "id": 315,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "1561ee328dbc0eb7357a1223299ca7c746db18df6470339f995f2eee1063246a",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招9861人5149职位收录9考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 18:41:39",
+      "updated_at": "2026-08-20 18:41:39",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 314,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "4a5cb79b204918ebdc085799b810ff4dab7df3ec9ea3d70adb9e848a5e8788ad",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招427702人121223职位收录16791考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-20 18:41:38",
+      "updated_at": "2026-08-20 18:41:38",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 313,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468507601689601",
