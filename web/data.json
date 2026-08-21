@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-21 07:06:09",
+  "updated_at": "2026-08-21 13:06:42",
   "stats": {
-    "total": 319,
+    "total": 324,
     "by_type": {
-      "省考": 319
+      "省考": 324
     },
     "by_province": {
-      "全国": 271,
+      "全国": 276,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,164 @@
     }
   },
   "notices": [
+    {
+      "id": 324,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468529317957632",
+      "source_hash": "b23f6a50d72260b6fceb2bf3aef6f13e0c6f4a7a21baf8f0ffb58a67c6ddf86a",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "两当县关于城区学校公开选调教师的公告正在报名甘肃 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为优化学校学科教师配置，提高教育教学质量，根据两当县人民政府《关于推行中小学教师“县管校聘”管理改革的实施意见（试行）》（两政发〔2018〕101号）精神，结合城区学校学科教师紧缺的实际，经汇报县委、政府同意，决定从全县各乡镇学校公开选调教师到城区学校任教。现将有关事宜公告如下：\n一、选调原则\n坚持公开、公平、公正、择优的原则。\n二、选调范围\n全县各乡镇学校正式在岗教师。\n三、选调岗位\n1.香泉中学共3名：其中数学1名、英语1名、体育1名。\n2.城区小学共8名：其中语文4名、数学2名、英语1名、体育1名。\n四、选调条件和要求\n1.热爱教育事业，爱岗敬业，遵纪守法，作风正派，身体健康，具有高尚的教师职业道德。\n2.选调教师须在乡镇学校工作满5年（2021年9月1日之前，以分配文件为依据）及以上的正式在岗教师。年龄原则上要求1981年7月31日后出生，获得省市骨干教师或学科带头人的适当放宽。\n3.学历要求：本科及以上学历。\n4.毕业证书专业应与所需学科相关相近或教师资格证任教学科与所需学科一致，具有小学全科教师资格证的语文、数学、英语岗位均可报考，但限报1个岗位。\n五、具有下列情况之一者，",
+      "apply_start": "2026-08-21",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": "2026-08-24",
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-21",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": "2026-08-24"
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-21 12:53:05",
+      "updated_at": "2026-08-21 12:53:05",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468529319451648.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 323,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468529570404352",
+      "source_hash": "eed9a12fe656334b29af56b0aa1c944005eb217e5f6187ca12a231d66a02b655",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "西安市宗教事务服务中心选调工作人员公告正在报名陕西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为优化宗教工作系统人才队伍结构，进一步充实工作力量，按照《事业单位人事管理条例》《陕西省事企业单位人员调配工作暂行规定》有关规定，结合西安市民族宗教事务委员会下属事业单位编制及人员配备情况，西安市民族宗教事务委员会拟为下属事业单位西安市宗教事务服务中心公开选调工作人员5名。具体情况公告如下：\n一、选调范围\n选调范围为全市市属事业单位、各区县所属事业单位在编在岗工作人员（管理八级及以下、专业技术十一级及以下）。\n二、岗位及人数\n本次共选调工作人员5名，岗位及人数见附件1。\n三、选调条件\n（一）政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n（二）有正确的国家观、历史观、民族观、文化观、宗教观；具备一定的行政管理、协调服务和群众工作能力；\n（三）具有良好的业务素质，品行端正，实绩突出，群众公认；\n（四）年龄、身体、学历及资格条件：\n1.一般为40周岁及以下（1986年8月以后出生），特别优秀的可以适当放宽年龄条件；\n2.具备正常履行岗位职责的身体条件和心理素质；\n3.具有大学本科及以上文化程度；\n4.近3年年度考核合格及",
+      "apply_start": "2026-08-28",
+      "apply_end": "2026-09-01",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-28",
+        "apply_end": "2026-09-01",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-21 12:53:03",
+      "updated_at": "2026-08-21 12:53:03",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 322,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468529942912000",
+      "source_hash": "88746b552ae0f942c601e18c9437d34003e51187e4d0f25ea37179f4b62f6dc1",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年惠东县教师发展中心公开选调教研员公告（二）报名结束广东 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "前期我县已面向全县公办教师开展教研员公开选调工作，因报名人员达不到岗位遴选资质要求，相关岗位仍存有空缺。为进一步充实县教师发展中心教研队伍，优化教研员专业梯队结构，筑牢县域基础教育教研实施、教师业务培训、教学质量监测工作根基，结合现阶段我县教研工作开展实际，现就有关选调工作公告如下：\n一、选调原则\n坚持公开、公正、平等、竞争、择优选调的原则。\n二、选调岗位及资格要求\n学段\n高中教育阶段\n义务教育阶段\n科目\n数学\n英语\n化学\n信息技术\n人数\n1\n1\n1\n2\n教师资格\n高中教师资格证\n小学及以上教师资格证\n学历资格\n全日制本科及以上\n本科及以上学历\n职称资格\n中级及以上教师专业技术职称\n三、选调范围、要求与条件\n（一）选调范围\n惠东县公办中小学校在职在编教师。\n（二）基本要求\n1.忠诚党的教育事业，坚决贯彻执行党的教育方针，有强烈的政治责任感、历史使命感和教育情怀，师德高尚、公道正派，开拓创新、爱岗敬业。\n2.具有适应岗位要求的身体条件，身心健康。\n3.具有宏观专业视野，具有较强的政策理论水平和研究能力。\n4.具有较强的统筹协调和管理能力，学科专业理论深厚、理念先进，对学科教师队伍专业发展",
+      "apply_start": "2026-08-24",
+      "apply_end": "2026-08-24",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-24",
+        "apply_end": "2026-08-24",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-21 12:53:02",
+      "updated_at": "2026-08-21 12:53:02",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468529944664064.doc",
+        "https://hera.fbstatic.cn/468529946498048.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 321,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468530911794176",
+      "source_hash": "2a34180328f45b5867f08163a42b9c464898dde6c695cee2056c705d8863c6b8",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年新邵县职中选调教师公告正在报名湖南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步充实我县职中的师资力量，有效解决我县职中综合高中部分科目教师紧缺的问题，经研究，面向本县农村初中学校具有高中相应学科教师资格证的教师选调部分教师，现就有关事项公告如下：\n一、选调计划\n科目\n数学\n物理\n化学\n地理\n小计\n人数\n1\n1\n1\n1\n4\n二、选调条件\n（一）选调对象：须同时具备以下条件\n1.现任农村初中教师，任教满5年。任教经历计算时间截止到2026年8月31日。\n2.1981年8月31日以后出生。\n3.第一学历为本科毕业，具有相应学科高中（职中）教师资格证。\n4.近三年教育教学成绩良好。任教主要学科近三年内在全镇同科目考试中排名不得列后1/5。\n5.近三年考核合格及以上。\n三、选调程序\n（一）报名。报名者持本人申请报告（所在学校、中心学校负责人同意并签字盖章）、相关证明、本人身份证、毕业证、学位证、教师资格证等证件的原件和复印件于2026年8月24日（上午8:00-12:00，下午3:00-6:00）到县教育局五楼会议室报名，限报一个岗位。选调职位计划数与报考人数原则上须达到1:2及以上的比例方可开考。\n（二）考试。考试为面试。面试为试教（上微型课）所报考科目高中教学",
+      "apply_start": "2026-08-24",
+      "apply_end": "2026-08-31",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-24",
+        "apply_end": "2026-08-31",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-21 12:52:59",
+      "updated_at": "2026-08-21 12:52:59",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468530915119104.doc",
+        "https://hera.fbstatic.cn/468530918530048.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 320,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "316729920c99493caa64cfafca58038eb59e36def3a45a0299603248468a9602",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招438018人121641职位收录16895考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-21 12:52:54",
+      "updated_at": "2026-08-21 12:52:54",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 319,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
