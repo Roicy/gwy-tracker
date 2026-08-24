@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-24 07:15:44",
+  "updated_at": "2026-08-24 13:11:21",
   "stats": {
-    "total": 341,
+    "total": 344,
     "by_type": {
-      "省考": 341
+      "省考": 344
     },
     "by_province": {
-      "全国": 293,
+      "全国": 296,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,98 @@
     }
   },
   "notices": [
+    {
+      "id": 344,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468600113092608",
+      "source_hash": "ed54cb0094671ef50dcea1a09f00033c81158b99e932937c46ade94cd724bf00",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "万载县机关事务管理中心2026年公开选调工作人员公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要，经县委县政府同意，县机关事务管理中心决定面向全县在编在岗公办小学教师公开选调接待岗位工作人员2名。具体事项公告如下：\n一、组织领导\n由县委编办、县人社局、县教体局、县机关事务管理中心共同组织实施，县纪委监委全程监督。\n二、选调人数\n本次共选调工作人员2名。\n三、选调对象及条件\n（一）对象\n本县内各公办小学符合选调条件的在编在岗教师。\n（二）条件\n1.基本条件：具备《事业单位人事管理条例》规定的基本条件，思想政治素质好，作风正派，品行端正，服从组织安排；具有正常履职的身体条件，身心健康；近五年年度考核均为合格以上档次（试用期不定档次视为合格）。\n2.年龄学历等条件：要求32周岁以下（1994年8月25日及以后出生），大专及以上学历，专业不限。具备较强的综合协调服务、语言表达、沟通联络和应急处置能力，服务意识强；能够适应弹性工作节奏，服从接待保障相关加班工作安排。\n3.我县公办小学在编在岗且任教满五年的教师（定向师范生以协议时间为准；通过考试选调进城的教师按当年公告规定执行）。\n4.不得报考情形：违反政治纪律和政治规矩的；被依法列为失信人员或失信联合惩戒对象的；涉嫌违纪违法正",
+      "apply_start": "2026-08-26",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-26",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-24 12:53:51",
+      "updated_at": "2026-08-24 12:53:51",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468600114582529.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 343,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "987b567fef35ecb739cd5122e6d120a55f83539be79dcdd24a22528bbda3bb4f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招10261人7482职位收录9考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-24 12:53:49",
+      "updated_at": "2026-08-24 12:53:49",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 342,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "15aef13350f40eedb138cec544cd075a46251dca84c56d0c3c7dff7999e29a78",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招469091人122447职位收录17019考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-24 12:53:47",
+      "updated_at": "2026-08-24 12:53:47",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 341,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468529942912000",
