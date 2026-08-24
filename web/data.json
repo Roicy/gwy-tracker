@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-24 13:11:21",
+  "updated_at": "2026-08-24 18:55:46",
   "stats": {
-    "total": 344,
+    "total": 346,
     "by_type": {
-      "省考": 344
+      "省考": 346
     },
     "by_province": {
-      "全国": 296,
+      "全国": 298,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,66 @@
     }
   },
   "notices": [
+    {
+      "id": 346,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468593744826368",
+      "source_hash": "4144985fd048c6dfb27b0945274030111b09282c9f297056e471b28971aa174a",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "瑞安市供销合作社联合社公开选调参公人员的公告正在报名浙江 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "公务员考试、事业单位、教师、司法、考研、建造和会计等考试培训-粉笔教育官网",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-24 18:42:26",
+      "updated_at": "2026-08-24 18:42:26",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 345,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "0d9b5ebf6290b2417d75ee07ab6b5e124488836d934311b124effef50a5469a0",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招468705人122549职位收录17022考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "公务员考试、事业单位、教师、司法、考研、建造和会计等考试培训-粉笔教育官网",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-24 18:42:25",
+      "updated_at": "2026-08-24 18:42:25",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 344,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468600113092608",
