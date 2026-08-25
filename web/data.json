@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-25 07:07:08",
+  "updated_at": "2026-08-25 13:05:44",
   "stats": {
-    "total": 350,
+    "total": 354,
     "by_type": {
-      "省考": 350
+      "省考": 354
     },
     "by_province": {
-      "全国": 302,
+      "全国": 306,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,136 @@
     }
   },
   "notices": [
+    {
+      "id": 354,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468616735644672",
+      "source_hash": "558642e8458539b7f6a7ca5e3d8fffc44d3044e9b887f04785227f410f3d46ff",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "阜宁县社会治安综合治理中心公开选调工作人员通告正在报名江苏 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，阜宁县委政法委直属全额拨款事业单位阜宁县社会治安综合治理中心面向全县公开选调工作人员。现将有关事项通告如下：\n一、公开选调原则\n坚持党管干部、党管人才，坚持事业至上、德才兼备的用人标准，坚持公开、平等、竞争、择优原则，在考试、考察的基础上择优选调。\n二、公开选调岗位及人数\n本次公开选调阜宁县社会治安综合治理中心工作人员4人，主要工作职责为综治信息平台相关业务、矛盾纠纷排查调处、分析研判、网格化社会治理、文稿撰写等。公开选调单位、岗位及人数等见附件1。\n三、报名范围\n符合资格条件的全县全额拨款事业单位在编工作人员（聘用在工勤技能岗位工作人员除外），年龄38周岁以下（1987年8月26日以后出生）。\n四、资格条件\n（一）基本条件\n1.具有中华人民共和国国籍；\n2.遵守中华人民共和国宪法和法律，拥护中国共产党领导和社会主义制度；\n3.具有良好的政治素质和道德品行；\n4.具有正常履行职责的身体条件和心理素质；\n5.具有符合岗位要求的工作能力；\n6.具备履行岗位职责所需要的学历要求和任职资格条件，符合岗位要求的年龄等条件，详见附件1；\n7.符合法律、法规规定的其他条件。\n（二）有下列",
+      "apply_start": "2026-08-26",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-26",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-25 12:52:10",
+      "updated_at": "2026-08-25 12:52:10",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468616737396736.xlsx",
+        "https://hera.fbstatic.cn/468616738968576.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 353,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468621073338368",
+      "source_hash": "016f8fc7cda0f8910c17367a261c401981cc800e6296f758bd51393269ae0535",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "南充市残疾人联合会关于市残疾人康复服务中心2026年公开选调事业人员的公告正在报名四川 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要，南充市残疾人联合会（以下简称“市残联”）决定开展市残疾人康复服务中心2026年公开选调事业人员工作，现将有关事项公告如下。\n一、选调名额及职位\n市残疾人康复服务中心本次计划选调事业人员1名，具体职位信息详见《市残疾人康复服务中心2026年公开选调事业人员职位表》（附件1）。\n二、选调范围及条件\n（一）选调人员范围\n1.南充市各级党政群机关公务员、参照公务员法管理人员。\n2.南充市各级事业单位在编在岗人员。\n3.中、省设在南充单位（包括垂直管理单位、派出单位等）在编在岗机关事业单位人员。\n（二）基本条件\n1.报考人员应同时具备的条件\n（1）具有中华人民共和国国籍，热爱社会主义祖国，拥护中华人民共和国宪法，拥护中国共产党，遵纪守法，品行端正，有良好的职业道德，爱岗敬业，事业心和责任感强。\n（2）身体健康，能正常履行选调岗位职责。\n（3）大学本科及以上学历。\n（4）具备本公告选调条件及《市残疾人康复服务中心2026年公开选调事业人员职位表》要求。报考人员因国家教育行政主管部门专业更名导致所学专业与选调专业名称不同，但确属同一专业的可报名（由报考人员自行提供省级及以上教育行政主管",
+      "apply_start": "2026-08-31",
+      "apply_end": "2026-09-04",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-31",
+        "apply_end": "2026-09-04",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-25 12:52:09",
+      "updated_at": "2026-08-25 12:52:09",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468621074832384.doc",
+        "https://hera.fbstatic.cn/468621076142080.doc",
+        "https://hera.fbstatic.cn/468621077713921.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 352,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468622444351488",
+      "source_hash": "2cd5ec10d7bce521cab3ac3ca8f83a208685e391b23242e0780e2eed1290bc32",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "海安市财政局结算中心公开选调工作人员公告正在报名江苏 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为充实市级事业单位队伍力量，根据市委办公室、市政府办公室《印发关于海安市科级以下干部调动和借调管理办法的通知》(海办〔2022〕109号)精神，经研究，决定面向我市事业单位公开选调1名工作人员，现将有关事项公告如下：\n一、选调范围及条件\n(一)选调范围\n选调单位、岗位、对象、人数、专业、学历及要求等具体信息，详见《海安市财政局结算中心公开选调工作人员岗位简介表》（附件1，以下简称《岗位简介表》）。\n(二)选调条件\n1.报名人员应当具备下列资格条件:\n(1)具有良好的政治素质、专业素养，品行端正，实绩突出，群众公认；\n(2)在现单位工作满3年（按月计算）;\n(3)近三年年度考核无不合格档次;\n(4)具有正常履行职责的身体条件和心理素质。\n2.有下列情形之一的人员，不得报名参加公开选调：\n(1)被开除中国共产党党籍的；\n(2)被依法列为失信联合惩戒对象的；\n(3)涉嫌违纪违法正在接受组织审查调查尚未作出结论的或受到党纪政纪处分、被追责问责影响期未满或者期满影响使用的;\n(4)未满最低服务3年年限或未满约定最低服务期限的；\n(5)选调后可能形成回避关系的；\n(6)法律法规规定的其他情形。\n工",
+      "apply_start": "2026-09-02",
+      "apply_end": "2026-09-03",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-02",
+        "apply_end": "2026-09-03",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-25 12:52:06",
+      "updated_at": "2026-08-25 12:52:06",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468622446107649.pdf",
+        "https://hera.fbstatic.cn/468622447679488.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 351,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "9ed8c2056feb4800bb0bda5afd271067f9507baaba88c173418dbcd5ec0616a3",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招469843人122994职位收录17105考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-25 12:52:05",
+      "updated_at": "2026-08-25 12:52:05",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 350,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468604239240193",
