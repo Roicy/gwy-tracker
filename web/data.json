@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-25 01:36:02",
+  "updated_at": "2026-08-25 07:07:08",
   "stats": {
-    "total": 347,
+    "total": 350,
     "by_type": {
-      "省考": 347
+      "省考": 350
     },
     "by_province": {
-      "全国": 299,
+      "全国": 302,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,103 @@
     }
   },
   "notices": [
+    {
+      "id": 350,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468604239240193",
+      "source_hash": "4110ea688ae25c14b33c8c81f7834bb3ba706fb177907975c9cda9a30f1f2286",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "丰城市2026年机关事业单位公开选调工作人员公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化丰城市机关事业单位人才队伍结构，根据《中华人民共和国公务员法》《事业单位人事管理条例》等有关法律规定，经研究决定，面向丰城市公开选调工作人员47人。现将有关事项公告如下。\n一、选调人数及岗位\n共选调工作人员47名；其中，公务员（参公人员）16名，事业编制人员31名。具体岗位要求详见《丰城市2026年公开选调岗位表》（附件1）。\n二、报考范围\n丰城市机关事业单位科级以下（不含科级）在编在岗工作人员（垂直管理单位工作人员除外）：公务员（含参公人员）职级须为四级主任科员及以下相当层次；事业编制人员（含教育、医疗卫生系统在编在岗人员）；公务员（参公人员）限报考公务员（参公）岗位，事业编制人员限报考事业编制岗位；医疗卫生系统工作人员限报岗位表序号32-35岗位。\n三、报考资格条件\n（一）基本资格条件\n1.政治立场坚定，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n2.大局观念较强，品行端正，公道正派，工作扎实，作风严谨，吃苦耐劳，廉洁自律；\n3.有一定的文字能力和较强的综合素质；\n4.除退役军（警）士、部分教师、医疗卫生工作人员外，其他报考人员须为经县级以上组织人事部门统一",
+      "apply_start": "2026-08-29",
+      "apply_end": "2026-08-30",
+      "written_exam": "2026-09-06",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-29",
+        "apply_end": "2026-08-30",
+        "written_exam": "2026-09-06",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-25 06:53:36",
+      "updated_at": "2026-08-25 06:53:36",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468604240992256.docx",
+        "https://hera.fbstatic.cn/468604242301952.docx",
+        "https://hera.fbstatic.cn/468604243611648.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 349,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468614261004288",
+      "source_hash": "6245f72849d46068588676ea28ae41ee1e95a7c829fde1b63c2ccdd2cb978dc9",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年邵阳县精神卫生中心公开选调卫生专业技术人员公告报名结束湖南 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《关于进一步规范机关事业单位人员流动调配工作的意见》（湘组发〔2015〕26号）文件精神及事业单位公开选调的基本原则，按照上级部署及我县精神卫生工作需要，经县卫生健康局党组研究，报县委编委研究同意，拟在我县卫健系统全额拨款事业单位在编在岗人员中公开选调卫生专业技术人员4名，为确保选调工作顺利进行，公告如下：\n一、选调原则\n1、坚持党管干部原则;\n2、坚持德才兼备、以德为先的用人标准；\n3、坚持公开、平等、竞争、择优的原则；\n4、坚持工作需要、人岗相适，注重综合能力和专业知识相结合。\n二、选调范围与条件\n（一）选调范围\n面向我县乡镇基层医疗卫生单位和全额拨款的县直医疗卫生机构中在编在岗的卫生专业技术人员。具体岗位要求详见《2026年邵阳县精神卫生中心公开选调卫生专业技术人员岗位表》（附件1）。\n（二）资格条件\n1.遵守中华人民共和国宪法和法律，政治立场坚定、政治素质过硬；\n2.具有良好的业务素质，品行端正，实绩突出，群众公认；\n3.具有公开选调岗位要求的工作能力、专业条件和任职经历；\n4.符合公开选调岗位规定的其他资格条件（见附件1）；\n5.具有正常履行职责的身体条件和心理素质；\n6",
+      "apply_start": "2026-09-01",
+      "apply_end": "2026-09-02",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-01",
+        "apply_end": "2026-09-02",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-25 06:53:34",
+      "updated_at": "2026-08-25 06:53:34",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468614264592384.doc",
+        "https://hera.fbstatic.cn/468614267738112.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 348,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "9c6227f1c91716943feb3539798c0842e6a76a7a4a3a290e926779c759ee2124",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招468900人122731职位收录17065考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-25 06:53:32",
+      "updated_at": "2026-08-25 06:53:32",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 347,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
