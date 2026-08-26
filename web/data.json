@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-26 07:10:28",
+  "updated_at": "2026-08-26 13:12:10",
   "stats": {
-    "total": 357,
+    "total": 362,
     "by_type": {
-      "省考": 357
+      "省考": 362
     },
     "by_province": {
-      "全国": 309,
+      "全国": 314,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,171 @@
     }
   },
   "notices": [
+    {
+      "id": 362,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468614261004288",
+      "source_hash": "0a93911dd7af52b4209dae0b0b3a0034a86d6d86e03ddde12536c68d21ce1280",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年邵阳县精神卫生中心公开选调卫生专业技术人员公告正在报名湖南 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《关于进一步规范机关事业单位人员流动调配工作的意见》（湘组发〔2015〕26号）文件精神及事业单位公开选调的基本原则，按照上级部署及我县精神卫生工作需要，经县卫生健康局党组研究，报县委编委研究同意，拟在我县卫健系统全额拨款事业单位在编在岗人员中公开选调卫生专业技术人员4名，为确保选调工作顺利进行，公告如下：\n一、选调原则\n1、坚持党管干部原则;\n2、坚持德才兼备、以德为先的用人标准；\n3、坚持公开、平等、竞争、择优的原则；\n4、坚持工作需要、人岗相适，注重综合能力和专业知识相结合。\n二、选调范围与条件\n（一）选调范围\n面向我县乡镇基层医疗卫生单位和全额拨款的县直医疗卫生机构中在编在岗的卫生专业技术人员。具体岗位要求详见《2026年邵阳县精神卫生中心公开选调卫生专业技术人员岗位表》（附件1）。\n（二）资格条件\n1.遵守中华人民共和国宪法和法律，政治立场坚定、政治素质过硬；\n2.具有良好的业务素质，品行端正，实绩突出，群众公认；\n3.具有公开选调岗位要求的工作能力、专业条件和任职经历；\n4.符合公开选调岗位规定的其他资格条件（见附件1）；\n5.具有正常履行职责的身体条件和心理素质；\n6",
+      "apply_start": "2026-09-01",
+      "apply_end": "2026-09-02",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-01",
+        "apply_end": "2026-09-02",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-26 12:57:47",
+      "updated_at": "2026-08-26 12:57:47",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468614264592384.doc",
+        "https://hera.fbstatic.cn/468614267738112.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 361,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468643077445632",
+      "source_hash": "7fb5d6a5030509bf06b99bd5290ddfe718c0f422a71d07b4cd7b1f028d340fd0",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "大理州住房和城乡建设局2026年下半年公开选调事业单位工作人员公告正在报名云南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强大理州住房和城乡建设局人才队伍建设，优化人员结构，根据《事业单位人事管理条例》《中共大理州委办公室大理州人民政府办公室关于进一步完善州级机关和事业单位工作人员调配工作有关事项的通知》（大办发〔2021〕12号）和《中共大理州委组织部 大理州人力资源和社会保障局关于印发〈大理州事业单位公开选调工作人员暂行办法〉的通知》（大组通〔2014〕33号）等相关规定，经州人民政府同意，决定开展2026年下半年公开选调事业单位工作人员工作。现将有关事项公告如下：\n一、公开选调范围\n大理州内县市（或乡镇）符合公开选调条件和岗位要求的事业单位在职在编工作人员。\n二、公开选调岗位及人数\n公开选调岗位及人数详见《大理州住房和城乡建设局2026年下半年公开选调事业单位工作人员岗位表》（附件1）。\n三、公开选调条件\n（一）报考人员应具备以下条件\n1.贯彻执行党的路线方针政策，遵守国家法律法规和单位各项规章制度，具有良好的政治、业务、身体素质，品行端正，成绩突出，群众公认。\n2.具有大学本科及以上学历（普通招生计划）。\n3.年龄在40周岁及以下（1985年9月10日及以后出生）；取得副高级及以上专业技",
+      "apply_start": "2026-09-10",
+      "apply_end": "2026-09-16",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-10",
+        "apply_end": "2026-09-16",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-26 12:57:45",
+      "updated_at": "2026-08-26 12:57:45",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468643079197696.xlsx",
+        "https://hera.fbstatic.cn/468643083656192.docx",
+        "https://hera.fbstatic.cn/468643084965888.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 360,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468643438678016",
+      "source_hash": "fe3e3ea429c2b9a85b4b9990a409482c5e02e40e1b2b79db86eb0bdadab980ab",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "中共大理州委州直机关工委2026年公开选调事业单位工作人员公告正在报名云南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为全面加强大理白族自治州州直机关党员教育中心建设，优化干部队伍结构，进一步提升机关党建与党员教育工作质效，根据《事业单位人事管理条例》《中共大理州委办公室大理州人民政府办公室关于进一步完善州级机关和事业单位工作人员调配工作有关事项的通知》（大办发〔2021〕12号）和《中共大理州委组织部 大理州人力资源和社会保障局关于印发〈大理州事业单位公开选调工作人员暂行办法〉的通知》（大组通〔2014〕33号）等相关规定，经州委组织部、州委编办、州人民政府、州人力资源和社会保障局同意，决定开展2026年公开选调事业单位人员相关工作。现将有关事项公告如下。\n一、公开选调范围\n大理州内县市（或乡镇）符合公开选调条件和岗位要求的事业单位在职在编工作人员。\n二、公开选调岗位及人数\n公开选调岗位及人数详见《中共大理州委州直机关工委2026年公开选调事业单位工作人员岗位表》（附件1）。\n三、公开选调条件\n（一）报考人员应具备以下条件\n1.贯彻执行党的路线方针政策，遵守国家法律法规和单位各项规章制度，具有良好的政治、业务、身体素质，品行端正，成绩突出，群众公认。\n2.政治面貌为中共党员（含中共预备党员）。\n3.",
+      "apply_start": "2026-09-10",
+      "apply_end": "2026-09-16",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-10",
+        "apply_end": "2026-09-16",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-26 12:57:43",
+      "updated_at": "2026-08-26 12:57:43",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468643443317760.xlsx",
+        "https://hera.fbstatic.cn/468643447510016.docx",
+        "https://hera.fbstatic.cn/468643451703296.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 359,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468644866314240",
+      "source_hash": "07017824df8e5614033df1be8fb0bfcf57684e33462edbb82a0e73bd52064b45",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "大理州国家保密局2026年公开选调事业单位工作人员公告正在报名云南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强大理州保密科技事业建设，吸收优秀专业技术人才，优化队伍配置，根据《事业单位人事管理条例》《中共大理州委办公室大理州人民政府办公室关于进一步完善州级机关和事业单位工作人员调配工作有关事项的通知》（大办发〔2021〕12号）和《中共大理州委组织部 大理州人力资源和社会保障局关于印发〈大理州事业单位公开选调工作人员暂行办法〉的通知》（大组通〔2014〕33号）等相关规定，经州委组织部、州委编办、州人力资源和社会保障局批准，决定开展2026年公开选调事业单位工作人员工作。现将有关事项公告如下：\n一、公开选调范围\n大理州内县（市）或乡（镇）符合公开选调条件和岗位要求的事业单位在职在编工作人员。\n二、公开选调岗位及人数\n公开选调岗位及人数详见《大理州国家保密局2026年公开选调事业单位工作人员岗位表》（附件1）。\n三、公开选调条件\n（一）报考人员应具备以下条件\n1.贯彻执行党的路线方针政策，遵守国家法律法规和单位各项规章制度，具有良好的政治、业务、身体素质，品行端正，成绩突出，群众公认。\n2.政治面貌为中共党员（含中共预备党员）。\n3.具有大学本科及以上学历（普通招生计划）。\n4.年龄",
+      "apply_start": "2026-09-10",
+      "apply_end": "2026-09-16",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-10",
+        "apply_end": "2026-09-16",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-26 12:57:41",
+      "updated_at": "2026-08-26 12:57:41",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468644868070400.xlsx",
+        "https://hera.fbstatic.cn/468644872525824.docx",
+        "https://hera.fbstatic.cn/468644873835520.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 358,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "d2a4a9da6fbf5584b24b95d9c435c86435bd4bd0fbc92c5662bf342af50bc1df",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招470974人123302职位收录17175考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-26 12:57:39",
+      "updated_at": "2026-08-26 12:57:39",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 357,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
