@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-27 08:25:09",
+  "updated_at": "2026-08-27 22:16:10",
   "stats": {
-    "total": 367,
+    "total": 372,
     "by_type": {
-      "省考": 367
+      "省考": 372
     },
     "by_province": {
-      "全国": 319,
+      "全国": 324,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,167 @@
     }
   },
   "notices": [
+    {
+      "id": 372,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468668028312576",
+      "source_hash": "4b34bfef847435d1d056968d73a2d8f83c9e837b451a92d173eb6d35c9a8bd3c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年邳州市纪委监委公开选调公务员公告正在报名江苏 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强我市纪检干部队伍建设，根据《江苏省公务员转任实施办法》（苏组通〔2021〕35号）和有关规定，经研究，决定面向我市公开选调公务员9名。现将有关事项公告如下：\n一、选调职位\n纪检监察科员级职位9名，专业不限。具体详见《附件：2026年邳州市纪委监委公开选调公务员职位表》（附件1）。\n二、选调范围和对象\n（1）邳州市内已进行公务员登记且在编在岗的科员级公务员；\n（2）邳州市内参照公务员法管理机关（单位）中已进行参照登记且在编在岗，符合直接交流到实施公务员法机关条件的科员级人员。\n三、选调条件\n（一）报考条件\n（1）中共党员（含中共预备党员）；\n（2）政治立场坚定、政治素质过硬，坚定拥护“两个确立”、坚决做到“两个维护”；\n（3）具有正常履行职责的身体条件和心理素质，品行端正，群众公认；\n（4）具有大学本科及以上学历，取得相应学位；\n（5）年龄在38周岁以下（1987年7月以后出生），四级主任科员及以上职级的人员年龄可放宽至40周岁（1985年7月以后出生）；\n（6）年度考核结果均为称职及以上等次，试用期满考核合格的视为称职等次；\n（7）法律、法规规定的其他条件。\n（二）有下列情",
+      "apply_start": "2026-08-31",
+      "apply_end": "2026-09-02",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-31",
+        "apply_end": "2026-09-02",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-27 21:58:44",
+      "updated_at": "2026-08-27 21:58:44",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468668029802496.xlsx",
+        "https://hera.fbstatic.cn/468668031111168.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 371,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468668081264640",
+      "source_hash": "7a1cff514bd17efdfbfce6884748fa8706d76c35dbc3f977ab2e2f03ac43401d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "蚌埠市司法局2026年面向市直事业单位公开选调所属事业单位工作人员公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强干部队伍建设，拓宽选人用人渠道，按照民主、公开、竞争、择优和人岗相适的原则，市司法局所属事业单位市法律援助中心（全额拨款事业单位）公开选调3名工作人员，现就有关事项公告如下：\n一、选调计划\n本次计划选调专业技术岗位十二级及以下岗位人员2名,管理岗位九级及以下岗位人员1名。选调计划（岗位）等信息在蚌埠市司法局（https://sfj.bengbu.gov.cn/）官方网站、、蚌埠市人力资源和社会保障局网站(http://rsj.bengbu.gov.cn)相关媒体发布。\n二、报名范围和条件\n（一）选调范围\n本市市直事业单位在编在岗工作人员。\n（二）选调条件\n1.报名人员应具备下列资格条件\n（1）政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。\n（2）具有良好的业务素质，品行端正，实绩突出，群众公认。\n（3）具有2年以上工作经历。\n（4）近2年年度考核均为合格及以上等次（试用期考核合格视为1次）。\n（5）年龄38周岁及以下（1988年8月30日以后出生），大学本科及以上学历（须同时具有相应层次的学位）。\n（6）",
+      "apply_start": "2026-09-04",
+      "apply_end": "2026-08-30",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-04",
+        "apply_end": "2026-08-30",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-27 21:58:43",
+      "updated_at": "2026-08-27 21:58:43",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468668082754560.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 370,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468668598736896",
+      "source_hash": "15e17c853abacba2bc0e1aef077cf7b5f1408300e17859f1d52ee35841f62ef2",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度蚌埠市公开选调公务员公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "2026年度蚌埠市公开选调公务员公告\n根据公务员法和《公务员调任规定》等有关法律法规，市委组织部、市人力资源和社会保障局决定开展2026年度公开选调公务员工作。现将有关事项公告如下：\n一、职位\n本次计划公开选调副科级领导职务公务员5名（详见附件1）。\n二、报名范围与条件\n（一）报名人员范围\n本市所属国有企业和科研院所以及其他不参照公务员法管理的事业单位中管理岗位和专业技术岗位工作的人员，不含工勤人员。\n（二）报名资格条件\n报名人员除应当具备公务员法、《公务员调任规定》和《安徽省公务员调任实施办法》要求的资格条件外，还应当具备以下条件：\n1.具有下列工作经历和任职资历：\n经公开招聘且在本单位连续工作3年以上，现任市属企业中层以上领导职务或县（区）属企业领导班子成员及相当职务层次的领导人员。\n现聘任在我市市属、县（区）属事业单位八级以上管理岗位的领导人员。\n专业技术人员须聘任为副高级专业技术职务2年以上或已聘任正高级专业技术职务。\n2.具有大学本科以上文化程度。\n3.具有公开选调职位要求的相关工作经历。\n4.年龄在48周岁以下（1977年8月之后出生）。\n5.具有公务员法、《党政领导干部选",
+      "apply_start": "2026-09-04",
+      "apply_end": "2026-09-04",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-04",
+        "apply_end": "2026-09-04",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-27 21:58:41",
+      "updated_at": "2026-08-27 21:58:41",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468668601013248.xls",
+        "https://hera.fbstatic.cn/468668603109376.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 369,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468670849244160",
+      "source_hash": "e8224f9c4832d9b4ece103c0187f02f1f4c141398ca24c1078ece95df4a278e4",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度合肥市市直机关公开遴选和公开选调公务员公告报名结束安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据公务员法及《公务员转任规定》《公务员调任规定》《公务员公开遴选办法》等有关法律法规，市委组织部、市人力资源和社会保障局决定开展2026年度市直机关（含参照公务员法管理机关单位，下同）公开遴选和公开选调公务员工作。现将有关事项公告如下：\n一、职位\n本次计划公开遴选和公开选调公务员35名。其中，公开遴选三级主任科员以下及其他相当职级层次的公务员33名（详见附件1）；公开选调副科级领导职务公务员2名（详见附件2）。\n二、报名范围和条件\n（一）公开遴选\n1.报名人员范围\n（1）本市各县（市、区）级及以下机关中已进行公务员登记备案且在编在岗的科级以下公务员。\n（2）本市各县（市、区）级及以下参照公务员法管理机关（单位）中已进行参照登记备案且在编在岗的科级以下工作人员。\n中央、省级机关设在本市各县（市、区）的单位（包括垂直管理单位、派出单位等）中符合条件的科级以下公务员（参照公务员法管理工作人员）也可报考。\n市直机关设在县（市、区）、开发区的派出机构，市属戒毒机构，各开发区市场监督管理局中符合报名条件的科级以下公务员（参照公务员法管理工作人员）也可报考。\n2.报名资格条件\n报名人员应具备下列资",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-27 21:58:39",
+      "updated_at": "2026-08-27 21:58:39",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468670860693504.xls",
+        "https://hera.fbstatic.cn/468670862531586.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 368,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "358918349dc3c1689a5d7213dcfd4863fda8d589a3c752fe1dba68952d2beb5d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招474226人123965职位收录17315考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-27 21:58:38",
+      "updated_at": "2026-08-27 21:58:38",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 367,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468659533798402",
