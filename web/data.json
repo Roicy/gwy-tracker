@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-26 20:06:11",
+  "updated_at": "2026-08-27 08:25:09",
   "stats": {
-    "total": 363,
+    "total": 367,
     "by_type": {
-      "省考": 363
+      "省考": 367
     },
     "by_province": {
-      "全国": 315,
+      "全国": 319,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,134 @@
     }
   },
   "notices": [
+    {
+      "id": 367,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468659533798402",
+      "source_hash": "07b77f8ebfd0167addfc4cf4da0835b1239283dedbaf2285f3dc0be08a91f833",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "寻甸回族彝族自治县卫生健康系统2026年公开选调工作人员公告正在报名云南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化全县卫生健康系统人才队伍结构，均衡县域医疗资源配置，激发系统人才队伍活力。根据《寻甸回族彝族自治县卫生健康系统人员调动管理办法（试行）》及事业单位人事管理相关规定，结合我县卫生健康工作实际，现面向全系统公开引进优秀专业技术人才。现将有关事项公告如下：\n一、选调原则\n坚持德才兼备的用人标准，遵循“公开、平等、竞争、择优”的原则，综合评定，择优聘用。\n面向全县各医疗卫生机构符合选调条件的正式在职在编在岗工作人员。\n三、选调条件\n（一）基本条件\n1.在职在编人员，在乡镇（街道）卫生院工作满5年，且在现单位工作满3年；\n2.具有良好的政治、业务素质，品行端正，实绩突出，群众公认，身体健康；\n3.人岗相适，具备胜任岗位的专业素质和工作能力；\n4.具有大专及以上学历；\n5.近3年年度考核均为合格及以上等次；\n6.符合拟选调岗位所需的资格条件，且经所在单位同意推荐。\n7.年龄为40周岁及以下（以报名之月计算，即1986年9月1日后出生）；具有中级及以上专业技术职称的可放宽到45周岁（1981年9月1日后出生）；看守所卫生室、专门学校医务室、乡镇卫生院会计核算中心三个岗位不受年龄限制。\n（",
+      "apply_start": "1986-09-01",
+      "apply_end": "2026-09-08",
+      "written_exam": "2026-09-09",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "1986-09-01",
+        "apply_end": "2026-09-08",
+        "written_exam": "2026-09-09",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-27 08:10:35",
+      "updated_at": "2026-08-27 08:10:35",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468659536336896.xlsx",
+        "https://hera.fbstatic.cn/468659538432000.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 366,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468664501164032",
+      "source_hash": "b9d422d25d8ac160081bd9a18ca10203934a9d7c02baa32bd07927e05441e18b",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "乐山市市中区农业农村局2026年面向区内公开选调事业人员的公告报名结束四川 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步拓展选人用人渠道，加强干部队伍建设，充实干部队伍工作力量，我局决定面向市中区内公开选调事业人员。现将有关事项公告如下：\n一、选调职位和人数计划\n本次公开选调事业人员6名，具体职位见《乐山市市中区农业农村局2026年面向区内公开选调事业人员岗位条件一览表》（附件1）。\n二、选调范围\n符合选调条件的区内各党政群团等事业单位和各镇（街道）已进行事业人员登记、在编在岗的事业专技岗位人员。\n三、选调条件\n（一）所有报考人员应符合《事业单位人事管理条例》等法规所规定的基本条件，同时应具备下列资格条件：\n1.具有良好的政治、业务素质，品行端正，实绩突出，群众公认；\n2.具有报考职位对应的事业人员身份，一年以上的事业单位工作经历；\n3.年龄原则上在45周岁及以下（年龄计算以干部人事档案审核认定结果为准，均截至2026年8月19日）；\n4.具有大学专科及以上学历；\n5.年度考核均为合格及以上等次；\n6.具有正常履行职责所需的身体条件；\n7.法律、法规规定和选调职位要求的其他资格条件。\n（二）具有下列情形之一的，不能参加选调：\n1.试用期未满或其他原因尚未转正的；\n2.按照相关规定，在工作单位未满",
+      "apply_start": "2026-08-27",
+      "apply_end": "2026-09-02",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-27",
+        "apply_end": "2026-09-02",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-27 08:10:33",
+      "updated_at": "2026-08-27 08:10:33",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468664502916096.xls",
+        "https://hera.fbstatic.cn/468664504487936.docx",
+        "https://hera.fbstatic.cn/468664506326016.docx",
+        "https://hera.fbstatic.cn/468664507635712.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 365,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "75388054cd42a9f8f84bc73254c547f02f97458424f92509e59fe2404476b043",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招10306人7517职位收录10考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-27 08:10:32",
+      "updated_at": "2026-08-27 08:10:32",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 364,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "09df3b5610c2a1c307b6cc7d06170027f799011a2f80d6ad5e254ab1da96062e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招473718人123754职位收录17243考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-27 08:10:29",
+      "updated_at": "2026-08-27 08:10:29",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 363,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
