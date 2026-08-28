@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-27 22:16:10",
+  "updated_at": "2026-08-28 10:28:56",
   "stats": {
-    "total": 372,
+    "total": 377,
     "by_type": {
-      "省考": 372
+      "省考": 377
     },
     "by_province": {
-      "全国": 324,
+      "全国": 329,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,168 @@
     }
   },
   "notices": [
+    {
+      "id": 377,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468669949564928",
+      "source_hash": "41030f85df76a3275760f5dfc0897eecbc013f30567468f0198a6738a6bdd06b",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年安顺市实验中学自主选调专业技术人员公告正在报名贵州 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强学校教师队伍建设，引进优质师资，切实优化教师结构，促进学校教育高质量发展，结合学校办学实际，拟自主选调2名专业技术人员。\n一、自主选调工作的原则和人员情况\n（一）选调的基本原则\n坚持党管干部、党管人才的原则；坚持德才兼备、以德为先、五湖四海、任人唯贤的原则；坚持按需设岗、按岗调动、人岗相适、人事相宜的原则；坚持公开、平等、竞争、择优的原则。\n（二）选调学科及人数\n高中生物1人；高中体育1人。\n（三）选调的范围\n安顺市范围内全额拨款事业单位在编在岗且符合调动资格条件的专业技术人员。\n二、选调人员资格条件\n（一）选调人员须符合以下基本条件：\n1.拥护党的路线方针政策，在政治上、思想上、行动上同党中央保持高度一致；\n2.有强烈的事业心和责任感，敢于坚持原则，敢于担当，清正廉洁，任劳任怨，办事认真；\n3.热爱教育事业，品行端正，为人师表，遵纪守法，未受过任何纪律处分，无违法违纪记录，未参加过任何非法组织活动；\n4.身体健康，体检合格；\n（二）选调岗位须符合以下条件：\n1.高中生物学科\n（1）具有本科及以上学历，取得生物科学类或生物工程类专业的毕业证。\n（2）具有高中教师资格证，普通",
+      "apply_start": "2026-09-01",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-01",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-28 10:13:39",
+      "updated_at": "2026-08-28 10:13:39",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468682197372928.xls",
+        "https://hera.fbstatic.cn/468682197900288.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 376,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468670849244160",
+      "source_hash": "09f1f26c07444c75b5a4ee3f725b32fe9946892cf1c6f89ac712d76e886efb29",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度合肥市市直机关公开遴选和公开选调公务员公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据公务员法及《公务员转任规定》《公务员调任规定》《公务员公开遴选办法》等有关法律法规，市委组织部、市人力资源和社会保障局决定开展2026年度市直机关（含参照公务员法管理机关单位，下同）公开遴选和公开选调公务员工作。现将有关事项公告如下：\n一、职位\n本次计划公开遴选和公开选调公务员35名。其中，公开遴选三级主任科员以下及其他相当职级层次的公务员33名（详见附件1）；公开选调副科级领导职务公务员2名（详见附件2）。\n二、报名范围和条件\n（一）公开遴选\n1.报名人员范围\n（1）本市各县（市、区）级及以下机关中已进行公务员登记备案且在编在岗的科级以下公务员。\n（2）本市各县（市、区）级及以下参照公务员法管理机关（单位）中已进行参照登记备案且在编在岗的科级以下工作人员。\n中央、省级机关设在本市各县（市、区）的单位（包括垂直管理单位、派出单位等）中符合条件的科级以下公务员（参照公务员法管理工作人员）也可报考。\n市直机关设在县（市、区）、开发区的派出机构，市属戒毒机构，各开发区市场监督管理局中符合报名条件的科级以下公务员（参照公务员法管理工作人员）也可报考。\n2.报名资格条件\n报名人员应具备下列资",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-28 10:13:37",
+      "updated_at": "2026-08-28 10:13:37",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468670860693504.xls",
+        "https://hera.fbstatic.cn/468670862531586.doc",
+        "https://hera.fbstatic.cn/468683234940928.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 375,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468686790479872",
+      "source_hash": "c0b13b4b22808805ee9daa194d645272420ef4727f79733eabf53a3d14b683dc",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "绍兴市卫生健康委员会公开选调事业单位工作人员公告正在报名浙江 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，绍兴市卫生健康委员会决定近期公开选调下属事业单位工作人员。现将有关事项公告如下：\n一、选调岗位及数量\n1.绍兴市急救中心2名；\n2.绍兴市卫生健康信息管理中心1名；\n3.绍兴市妇幼保健技术服务中心2名。\n绍兴市急救中心、绍兴市卫生健康信息管理中心、绍兴市妇幼保健技术服务中心均为绍兴市卫生健康委员会下属正科级事业单位，经费由财政全额拨款保障。\n二、选调范围\n市属卫生健康单位范围内具有事业身份（含报备员额）的在编在岗工作人员。\n三、选调条件\n1.具有良好的政治、业务素质，品行端正，工作敬业勤奋，身心健康；\n2.具有与招聘岗位要求相适应的学历学位、专业等条件（岗位要求见附件1）。专业以2026年浙江省公务员录用考试专业参考目录为准。如专业设置与境内外高校具体专业名称有一定差异，相近相似专业具体由岗位所在单位及绍兴市卫生健康委员会审核确定；\n3.年龄38周岁及以下（1987年8月31日及以后出生）；\n4.近3年年度考核均为合格及以上等次；\n5.符合省、市事业单位工作人员交流的相关规定；\n6.具有下列情形之一的，不得参加公开选调：（1）试用期未满，或试用期满考核合格但在原单位工作不满",
+      "apply_start": "2026-08-31",
+      "apply_end": "2026-09-08",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-31",
+        "apply_end": "2026-09-08",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-28 10:13:36",
+      "updated_at": "2026-08-28 10:13:36",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468686794071041.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 374,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468687670500352",
+      "source_hash": "12a92c61f469f267af9d77a49a2aa3635dd3dc7359e33c2170a1bc419248d877",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "宁波慈溪交通集团有限公司公开选调国企工作人员公告正在报名浙江 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化队伍结构，拓宽选人用人渠道，根据集团发展需要，经研究，决定公开选调国企工作人员1名。现将有关事项公告如下：\n一、选调计划及岗位\n资金财务部部长1名。\n二、选调范围\n慈溪市属国有企业正式在编职工。\n三、选调条件\n（一）遵纪守法，品行端正，身体健康，具备良好的道德品行、职业素养、敬业精神；\n（二）学历要求大专及以上；\n（三）年龄要求45周岁及以下（1980年08月28日及以后出生），符合《慈溪市国有企业劳动用工管理办法（修订）》（慈国资〔2021〕44号）选调基本条件。\n（四）市直公司中层正职1年及以上，具有财务或金融相关工作经验，持有中级及以上专业技术职称。\n（五）具有以下情形之一的，不得参加选调：\n1.涉嫌违纪违法正在接受组织审查且尚未做出结论的；\n2.受处分期间或未满影响期限的；\n3.不符合相关政策规定的其他情形；\n4.应聘人员不得报考与用人单位有《公务员法》第七十四条所列回避情形的岗位。\n四、选调程序\n主要包括报名（资格审核）、面试、考察、公示、聘用五个环节。\n（一）报名及资格审核\n1.报名时间：2026年09月03日至09月08日；上午8：30—11：30，下午14：",
+      "apply_start": "2026-09-03",
+      "apply_end": "2026-09-08",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-03",
+        "apply_end": "2026-09-08",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-28 10:13:35",
+      "updated_at": "2026-08-28 10:13:35",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468687673563136.docx",
+        "https://hera.fbstatic.cn/468687675921408.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 373,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "73b802fd2f79301a618cf3abe114233f847b09e1e2dd93279b6186aed37c0281",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招483669人124557职位收录17382考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-28 10:13:33",
+      "updated_at": "2026-08-28 10:13:33",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 372,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468668028312576",
