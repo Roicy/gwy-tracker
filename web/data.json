@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-08-30 11:46:50",
+  "updated_at": "2026-08-30 16:39:16",
   "stats": {
-    "total": 384,
+    "total": 387,
     "by_type": {
-      "省考": 384
+      "省考": 387
     },
     "by_province": {
-      "全国": 336,
+      "全国": 339,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,101 @@
     }
   },
   "notices": [
+    {
+      "id": 387,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468664501164032",
+      "source_hash": "b4de6a5dd719207ac4fc4c26211b1565de46bc1de8d1655b6bd44888ef0e2ea6",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "乐山市市中区农业农村局2026年面向区内公开选调事业人员的公告正在报名四川 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步拓展选人用人渠道，加强干部队伍建设，充实干部队伍工作力量，我局决定面向市中区内公开选调事业人员。现将有关事项公告如下：\n一、选调职位和人数计划\n本次公开选调事业人员6名，具体职位见《乐山市市中区农业农村局2026年面向区内公开选调事业人员岗位条件一览表》（附件1）。\n二、选调范围\n符合选调条件的区内各党政群团等事业单位和各镇（街道）已进行事业人员登记、在编在岗的事业专技岗位人员。\n三、选调条件\n（一）所有报考人员应符合《事业单位人事管理条例》等法规所规定的基本条件，同时应具备下列资格条件：\n1.具有良好的政治、业务素质，品行端正，实绩突出，群众公认；\n2.具有报考职位对应的事业人员身份，一年以上的事业单位工作经历；\n3.年龄原则上在45周岁及以下（年龄计算以干部人事档案审核认定结果为准，均截至2026年8月19日）；\n4.具有大学专科及以上学历；\n5.年度考核均为合格及以上等次；\n6.具有正常履行职责所需的身体条件；\n7.法律、法规规定和选调职位要求的其他资格条件。\n（二）具有下列情形之一的，不能参加选调：\n1.试用期未满或其他原因尚未转正的；\n2.按照相关规定，在工作单位未满",
+      "apply_start": "2026-08-27",
+      "apply_end": "2026-09-02",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-08-27",
+        "apply_end": "2026-09-02",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-30 16:18:28",
+      "updated_at": "2026-08-30 16:18:28",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468664502916096.xls",
+        "https://hera.fbstatic.cn/468664504487936.docx",
+        "https://hera.fbstatic.cn/468664506326016.docx",
+        "https://hera.fbstatic.cn/468664507635712.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 386,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468738801686528",
+      "source_hash": "866b6beb1bf73d8266b1fc1c8e4f0c5ef75d863f5e7b71aed3cf1f553179f37e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年袁州区事业单位面向全区在编在岗教师公开选调工作人员公告报名结束江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强事业单位工作人员队伍建设，逐步优化事业单位人员结构，根据用人单位工作的需要，经研究决定，按照“公开、平等、竞争、择优”的原则，面向全区在编在岗教师公开选调工作人员37名。现将有关事项公告如下：\n一、选调岗位、人数\n单位\n岗位类型\n人数\n单位\n岗位类型\n人数\n袁州区政策研究中心\n管理岗\n1\n袁州区文化馆\n专技岗\n2\n袁州区营商环境服务中心\n管理岗\n2\n袁州区图书馆\n专技岗\n1\n袁州区网络应急指挥中心\n管理岗\n1\n袁州区卫生健康服务中心\n管理岗\n1\n袁州区新时代文明实践促进中心\n管理岗\n1\n袁州区应急救援保障中心\n管理岗\n2\n袁州区教育教学研究室\n专技岗\n6\n袁州区检验检测中心\n管理岗\n1\n袁州区科技创新服务中心\n管理岗\n1\n袁州区医疗保险事业服务中心\n管理岗\n1\n袁州区社会救助中心\n专技岗\n2\n袁州区职工权益保障中心\n专技岗\n1\n袁州区社会救助中心\n管理岗\n2\n宜春袁州产业园管理委员会\n管理岗\n2\n袁州区就业创业服务中心\n管理岗\n1\n中国国际贸易促进委员会\n袁州区委员会\n管理岗\n1\n袁州区自然资源检查保护中心\n（含自然资源所）\n管理岗\n2\n袁州区融媒体中心\n专技岗\n2\n袁州区",
+      "apply_start": "2026-09-07",
+      "apply_end": "2026-09-08",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-07",
+        "apply_end": "2026-09-08",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-30 16:18:25",
+      "updated_at": "2026-08-30 16:18:25",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 385,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "b1421164fd26c582515e4efe43ee2a63f313bfeac9b0939a848e179e87852ebc",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招496676人125193职位收录17443考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-08-30 16:18:22",
+      "updated_at": "2026-08-30 16:18:22",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 384,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
