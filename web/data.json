@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-01 04:25:05",
+  "updated_at": "2026-09-01 11:33:31",
   "stats": {
-    "total": 396,
+    "total": 399,
     "by_type": {
-      "省考": 396
+      "省考": 399
     },
     "by_province": {
-      "全国": 348,
+      "全国": 351,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,101 @@
     }
   },
   "notices": [
+    {
+      "id": 399,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468774659316736",
+      "source_hash": "ca86cf4ad95f36193756a4ad901dccb9ad05c8e460d6712c6ee5b49dea00caa2",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年龙陵县县城事业单位公开选调专业技术人员公告正在报名云南 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步畅通和拓宽事业单位专业技术人员交流渠道，促进事业单位人才合理流动，根据《龙陵县事业单位工作人员流动调配管理办法》（龙办发〔2022〕66号）等规定，结合工作实际，现将2025年龙陵县县城事业单位公开选调专业技术人员有关事项公告如下：\n一、公开选调原则\n坚持公平公正、公开竞争的原则；坚持考试考察相结合，择优选调的原则；坚持促进人才合理有序流动与有利于事业单位发展的原则。\n二、选调人数和岗位\n2026年龙陵县县城事业单位公开选调专业技术人员3人，具体岗位详见《2026年龙陵县县城事业单位公开选调专业技术人员岗位表》（附件1）。\n三、选调范围和资格条件\n（一）选调范围\n龙陵县在职在编事业单位专业技术人员。\n（二）基本资格条件\n1.具有良好的政治、业务素质，品行端正，实绩突出，群众公认；\n2.近2年年度考核为合格及以上等次；\n3.符合公开选调岗位要求的资格条件；\n4.身体健康；\n5.法律法规规定的其他条件。\n（三）具有下列情形之一的，不得报考\n1.涉嫌违纪违法正在接受有关专门机关审查尚未作出结论的；\n2.受处分期间或者未满影响期限的；\n3.未满最低服务年限的。《龙陵县事业单位工作人员流",
+      "apply_start": "2026-09-08",
+      "apply_end": "2026-09-08",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-08",
+        "apply_end": "2026-09-08",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-01 11:19:58",
+      "updated_at": "2026-09-01 11:19:58",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468774661068800.xls",
+        "https://hera.fbstatic.cn/468774664737792.doc",
+        "https://hera.fbstatic.cn/468774668144640.doc",
+        "https://hera.fbstatic.cn/468774669720576.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 398,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "20358d41530f8438ff3eba9c05c35713ac3d1f958127028788af3e574e3332d7",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招13575人10489职位收录13考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-01 11:19:56",
+      "updated_at": "2026-09-01 11:19:56",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 397,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "dfb2b6a0c87a7806007f6021f82b0cb37423290a68f4eb315d5005bab44d8b83",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招508843人126225职位收录17667考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-01 11:19:55",
+      "updated_at": "2026-09-01 11:19:55",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 396,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
