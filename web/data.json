@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-02 20:59:21",
+  "updated_at": "2026-09-03 03:56:17",
   "stats": {
-    "total": 412,
+    "total": 414,
     "by_type": {
-      "省考": 412
+      "省考": 414
     },
     "by_province": {
-      "全国": 364,
+      "全国": 366,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,70 @@
     }
   },
   "notices": [
+    {
+      "id": 414,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468819711646720",
+      "source_hash": "839e740e08d681ee52389e25a0e8e488508ddf8435316ae4dfa682291e83c7a3",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "珠海市2026年公开选调公务员公告报名结束广东 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为加大公务员交流力度，优化公务员队伍结构，激发公务员队伍活力，根据《中华人民共和国公务员法》《公务员转任规定》和《广东省公务员转任实施办法》等法律法规和相关政策文件精神，组织开展公开选调公务员工作，现就有关事项公告如下：\n一、选调对象\n全市各级机关（单位）和参照公务员法管理机关（单位）已进行公务员登记或参照登记备案且在编在岗的公务员（以下统称公务员），含中央、省驻珠单位公务员。\n二、选调职位\n本次选调设置21个职位选调31人，具体职位详见《珠海市2026年公开选调公务员职位表》（附件1）。\n三、资格条件\n选调对象除具有《公务员转任规定》要求的资格条件外，还应符合以下条件：\n（一）具有良好的政治素质、道德品行和专业素养；\n（二）具有职位要求的工作能力、任职经历和其他资格条件；\n（三）具有大学本科学历、学士学位人员年龄在35周岁及以下，研究生学历、硕士以上学位人员年龄在40周岁及以下，我市各区区以下机关报名人员年龄可相应放宽2岁；\n（四）具有选调职位要求的职务职级。涉及领导职务和职级升降、领导职务和职级互相转任的，须符合有关规定要求。报名人员职务职级高于选调职位职务职级要求的，转任时按照选",
+      "apply_start": "2026-09-03",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-03",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-03 03:32:52",
+      "updated_at": "2026-09-03 03:32:52",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468819713397760.xls",
+        "https://hera.fbstatic.cn/468819714710528.docx",
+        "https://hera.fbstatic.cn/468819716021248.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 413,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "429250b5584eabf9ffbd4753b5e37d29432b5625cdf16d48bb60d1042afeff9d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招540066人127627职位收录17849考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-03 03:32:51",
+      "updated_at": "2026-09-03 03:32:51",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 412,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468800170644480",
