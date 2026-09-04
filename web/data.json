@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-04 11:06:18",
+  "updated_at": "2026-09-04 16:21:42",
   "stats": {
-    "total": 427,
+    "total": 432,
     "by_type": {
-      "省考": 427
+      "省考": 432
     },
     "by_province": {
-      "全国": 379,
+      "全国": 384,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,164 @@
     }
   },
   "notices": [
+    {
+      "id": 432,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468847899465728",
+      "source_hash": "6219c9736c643ecfac8e12a20f708fa84d482f3f2d8901beb8a932c0a3ac0e05",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "绍兴市生态环境局公开选调事业单位工作人员的公告正在报名浙江 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，经研究，决定面向全市公开选调事业单位工作人员，现将有关事项公告如下：\n一、选调岗位及数量\n1.浙江省绍兴生态环境监测中心工作人员1名，该单位为省驻市生态环境监测机构，相似正科级事业单位，经费全额拨款。\n2.绍兴市生态环境保护发展中心工作人员1名，该单位为绍兴市生态环境局下属相似正科级事业单位，经费全额拨款。\n二、选调范围\n绍兴市行政区域内在职在编事业单位工作人员（不区分事业单位类别）。\n三、选调条件\n1.思想政治素质好，品行端正，身心健康，有较强的服务意识和团队合作精神；\n2.工作敬业勤奋，业务素养较好，近三年年度考核均为合格及以上等次，且未受过党纪政务处分；\n3.年龄在40周岁及以下（1985年9月4日及以后出生）；\n4.具有与选调岗位要求相匹配的学历学位、专业等条件（详见附件1：《绍兴市生态环境局事业单位公开选调岗位表》），专业以2026年浙江省公务员录用考试专业参考目录为准。如专业设置与境内外高校具体专业名称有一定差异，相近相似专业具体由绍兴市生态环境局审核确定；\n5.报考人员须按照干部管理权限，征得所在工作单位及主管部门同意；\n6.符合浙江省、绍兴市事业单位工作人员",
+      "apply_start": "2026-09-07",
+      "apply_end": "2026-09-18",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-07",
+        "apply_end": "2026-09-18",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-04 15:59:11",
+      "updated_at": "2026-09-04 15:59:11",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 431,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468848435287040",
+      "source_hash": "9fc40119ffd7d8df9db7759c5d034212ceca69c230f623acb58a034c2fefefeb",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度和县部分事业单位公开选调工作人员公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要，我县部分事业单位面向全县公开选调工作人员。现将有关事项公告如下：\n一、选调标准和原则\n坚持德才兼备的选人标准和“公开、公平、竞争、择优”的原则。\n二、选调计划和岗位\n本次计划面向全县公开选调事业单位工作人员3名，具体岗位及选调资格条件详见《2026年度和县部分事业单位公开选调工作人员岗位计划表》（附件1）。\n三、选调范围和条件\n本县范围内事业单位正式在编在岗人员中符合选调条件的人员，且必须符合以下条件：\n（一）政治素质、业务素质良好，品行端正，勤奋敬业；\n（二）具有公开选调岗位要求的工作能力、专业条件和任职经历；\n（三）试用期满考核及年度考核均为合格及以上等次；\n（四）年龄要求详见岗位计划表，如年龄要求38周岁以下，为1987年9月1日及以后出生，其他涉及年龄计算依此类推；\n（五）身体健康；\n（六）法律、法规规定的其他条件。\n有下列情形之一的人员，不得报考：\n（一）涉嫌违纪违法正在接受审查尚未作出结论的；\n（二）受处分期间或未满影响期限的；\n（三）按照国家有关规定，到定向单位工作未满服务年限或有其他限制性规定的；\n（四）尚在服务期、试用期或任职试用期的；\n（五）选调后构成",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-04 15:59:09",
+      "updated_at": "2026-09-04 15:59:09",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468848437039104.xlsx",
+        "https://hera.fbstatic.cn/468848438352896.docx",
+        "https://hera.fbstatic.cn/468848439662592.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 430,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468848471461888",
+      "source_hash": "bd5f979a95f82e96149ffc547d7d445bdd8fc6e9f35d3eccf331bb023a55df94",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "中共含山县委组织部2026年度公开选调公务员公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要，经县委编委研究同意，面向全县公开选调公务员。现就有关事项公告如下：\n一、公开选调计划\n本次计划公开选调四级主任科员以下及其他相当职级层次的公务员1名，详见《中共含山县委组织部2026年度公开选调公务员职位表》（附件1）。\n二、报名范围与对象\n本县已进行公务员登记备案且在编在岗的四级主任科员以下及其他相当职级层次的公务员（含参照公务员法管理工作人员）。\n三、报名资格与条件\n报名人员应具备下列资格条件：\n（一）政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n（二）具有良好的业务素质，品行端正，实绩突出，群众公认；\n（三）具有3年以上公务员或参照公务员法管理机关（单位）工作人员工作经历(含试用期，计算时间截至2026年9月)；\n（四）近三年年度考核均为称职及以上等次；\n（五）具有公开选调职位要求的资格条件，其中“年龄”条件中“38周岁以下”为“1987年9月以后出生”；\n（六）具有正常履职的身体条件和心理素质；\n（七）法律、法规规定的其他条件。\n具有下列情形之一的，不得报考：\n（一）被开除中国共产党党籍的；\n",
+      "apply_start": "2026-09-10",
+      "apply_end": "2026-09-11",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-10",
+        "apply_end": "2026-09-11",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-04 15:59:07",
+      "updated_at": "2026-09-04 15:59:07",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468848473218048.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 429,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468848471461889",
+      "source_hash": "13a2706e49a14cf17261e7b264188a6a9cdb03f2acecf27268384be66894b47d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年含山县部分事业单位公开选调工作人员公告报名结束安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，经县委编委研究同意，含山县部分事业单位拟公开选调工作人员，现就有关事项公告如下：\n一、选调计划\n计划公开选调3名事业单位工作人员，具体岗位要求详见附件1。\n二、选调范围与对象\n含山县财政全额拨款事业单位在编在岗工作人员，具有3周年及以上事业单位工作年限(含试用期，工作年限时间计算至2026年12月31日)。\n三、报名资格与条件\n（一）基本条件\n1.具有良好的政治、业务素质，遵纪守法，品行端正；\n2.具有公开选调岗位要求的工作能力、专业条件和任职经历；\n3.近3年事业单位年度考核结果均为合格及以上等次（含试用期年度考核不定等次）；\n4.身体健康，能适应岗位要求；\n5.法律、法规规定的其他条件。\n岗位表中“38周岁以下”为：1987年9月1日（含）以后出生。\n（二）有下列情形之一的人员，不得报考：\n1.涉嫌违纪违法正在接受审查尚未作出结论的；\n2.受处分期间或未满影响期限的；\n3.按照国家有关规定，到定向单位工作未满服务年限或有其他限制性规定的；\n4.尚在服务期、试用期或任职试用期的；\n5.法律、法规规定不得报考的其他情形。\n四、选调程序\n公开选调按照发布公告、报名与资格审查、",
+      "apply_start": "2026-09-09",
+      "apply_end": "2026-09-10",
+      "written_exam": null,
+      "interview_start": "2026-09-19",
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-09",
+        "apply_end": "2026-09-10",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": "2026-09-19"
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-04 15:59:06",
+      "updated_at": "2026-09-04 15:59:06",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468848473218049.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 428,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "48fb5f1f3692bb6610ef52c7a4ce44e760b50b08df5c4f4e364bd87543516277",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招604172人129363职位收录18106考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-04 15:59:04",
+      "updated_at": "2026-09-04 15:59:04",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 427,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468846458195968",
