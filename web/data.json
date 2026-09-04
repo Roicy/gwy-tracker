@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-04 03:42:39",
+  "updated_at": "2026-09-04 11:06:18",
   "stats": {
-    "total": 423,
+    "total": 427,
     "by_type": {
-      "省考": 423
+      "省考": 427
     },
     "by_province": {
-      "全国": 375,
+      "全国": 379,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,131 @@
     }
   },
   "notices": [
+    {
+      "id": 427,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468846458195968",
+      "source_hash": "6d683c3a54fa68b2a6dc221f023ce43bd03b8e35856e3621b7e2ed61a73a55cf",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "宁都县2026年选调县直事业单位工作人员公告正在报名江西 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步优化县直单位工作人员结构，促进行业系统之间工作人员合理流动，补充县直事业单位干部力量。决定组织实施2026年县直事业单位工作人员公开选调工作。现将有关事项公告如下：\n一、选调岗位计划\n本次计划公开选调县直事业单位工作人员15名，选调岗位及具体条件要求见《宁都县2026年选调县直事业单位\n工作人员岗位表》（见附件2）。\n二、选调对象范围\n本次选调县直事业单位工作人员，限从我县中小学(幼儿园)教师(不含用人备案数)、乡镇事业编制工作人员中选调。\n三、选调原则及方法\n坚持“公开、平等、竞争、择优”的原则，采取笔试、面试、考察，择优选调。\n四、选调条件\n（一）应具备的基本条件\n1.现实表现良好，有较强的政治素质和专业素养，事业心和责任心强，能服从组织安排。\n2.参加县直事业单位工作人员选调的，乡镇事业干部需正式在编且在本单位工作满3年及以上；教师类人员需正式在编且在岗满3年及以上（有服务期要求的定向类师范生需服务期满后才能报名）；“三支一扶”“特岗教师”人员的服务期计算工作年限，但需要正式在编在岗1年及以上。计算时间均截止到2026年9月。\n3.参加选调人员，近三年（2023年、202",
+      "apply_start": "2026-09-12",
+      "apply_end": "2026-09-13",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-12",
+        "apply_end": "2026-09-13",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-04 10:52:56",
+      "updated_at": "2026-09-04 10:52:56",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468846460214272.doc",
+        "https://hera.fbstatic.cn/468846461786112.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 426,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468848471461888",
+      "source_hash": "55a221ba7de23c40e0d253ed56ec3aecee8775cfd57a2b4a852c9b18547e12ae",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "中共含山县委组织部2026年度公开选调公务员公告报名结束安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要，经县委编委研究同意，面向全县公开选调公务员。现就有关事项公告如下：\n一、公开选调计划\n本次计划公开选调四级主任科员以下及其他相当职级层次的公务员1名，详见《中共含山县委组织部2026年度公开选调公务员职位表》（附件1）。\n二、报名范围与对象\n本县已进行公务员登记备案且在编在岗的四级主任科员以下及其他相当职级层次的公务员（含参照公务员法管理工作人员）。\n三、报名资格与条件\n报名人员应具备下列资格条件：\n（一）政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n（二）具有良好的业务素质，品行端正，实绩突出，群众公认；\n（三）具有3年以上公务员或参照公务员法管理机关（单位）工作人员工作经历(含试用期，计算时间截至2026年9月)；\n（四）近三年年度考核均为称职及以上等次；\n（五）具有公开选调职位要求的资格条件，其中“年龄”条件中“38周岁以下”为“1987年9月以后出生”；\n（六）具有正常履职的身体条件和心理素质；\n（七）法律、法规规定的其他条件。\n具有下列情形之一的，不得报考：\n（一）被开除中国共产党党籍的；\n",
+      "apply_start": "2026-09-10",
+      "apply_end": "2026-09-11",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-10",
+        "apply_end": "2026-09-11",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-04 10:52:55",
+      "updated_at": "2026-09-04 10:52:55",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468848473218048.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 425,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "c66872e0d0cf33ab95a7dae45d168fa7be0b8d317a66e39e27ea67221fd28636",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招15143人11636职位收录14考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-04 10:52:54",
+      "updated_at": "2026-09-04 10:52:54",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 424,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "4bae98d53c17131f9a331fec9379ce6798df1db1ef089d84b3ba76679248a36a",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招594386人128929职位收录18071考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-04 10:52:53",
+      "updated_at": "2026-09-04 10:52:53",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 423,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
