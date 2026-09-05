@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-05 10:24:50",
+  "updated_at": "2026-09-05 15:04:15",
   "stats": {
-    "total": 435,
+    "total": 437,
     "by_type": {
-      "省考": 435
+      "省考": 437
     },
     "by_province": {
-      "全国": 387,
+      "全国": 389,
       "吉林": 29,
       "广东": 16,
       "宁夏": 2,
@@ -14,6 +14,68 @@
     }
   },
   "notices": [
+    {
+      "id": 437,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468848471461889",
+      "source_hash": "74f0aa0570fc54553aeb3f5e4522a5826fdbfe63bff44fad85599c7c01dc6bae",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年含山县部分事业单位公开选调工作人员公告正在报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，经县委编委研究同意，含山县部分事业单位拟公开选调工作人员，现就有关事项公告如下：\n一、选调计划\n计划公开选调3名事业单位工作人员，具体岗位要求详见附件1。\n二、选调范围与对象\n含山县财政全额拨款事业单位在编在岗工作人员，具有3周年及以上事业单位工作年限(含试用期，工作年限时间计算至2026年12月31日)。\n三、报名资格与条件\n（一）基本条件\n1.具有良好的政治、业务素质，遵纪守法，品行端正；\n2.具有公开选调岗位要求的工作能力、专业条件和任职经历；\n3.近3年事业单位年度考核结果均为合格及以上等次（含试用期年度考核不定等次）；\n4.身体健康，能适应岗位要求；\n5.法律、法规规定的其他条件。\n岗位表中“38周岁以下”为：1987年9月1日（含）以后出生。\n（二）有下列情形之一的人员，不得报考：\n1.涉嫌违纪违法正在接受审查尚未作出结论的；\n2.受处分期间或未满影响期限的；\n3.按照国家有关规定，到定向单位工作未满服务年限或有其他限制性规定的；\n4.尚在服务期、试用期或任职试用期的；\n5.法律、法规规定不得报考的其他情形。\n四、选调程序\n公开选调按照发布公告、报名与资格审查、",
+      "apply_start": "2026-09-09",
+      "apply_end": "2026-09-10",
+      "written_exam": null,
+      "interview_start": "2026-09-19",
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-09",
+        "apply_end": "2026-09-10",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": "2026-09-19"
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-05 14:49:44",
+      "updated_at": "2026-09-05 14:49:44",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468848473218049.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 436,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "29844bf749435d07efcea4e25b757c450f7ff1582445b8dac9b3656a9c975a82",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招605904人129736职位收录18164考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-05 14:49:42",
+      "updated_at": "2026-09-05 14:49:42",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 435,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
