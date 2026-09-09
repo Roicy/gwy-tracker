@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-09 11:14:35",
+  "updated_at": "2026-09-09 16:24:55",
   "stats": {
-    "total": 464,
+    "total": 468,
     "by_type": {
-      "省考": 464
+      "省考": 468
     },
     "by_province": {
-      "全国": 411,
+      "全国": 415,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,129 @@
     }
   },
   "notices": [
+    {
+      "id": 468,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468962077593600",
+      "source_hash": "70d9233d406f28ce7b8177f8ff748dcaba8e31f3c30a1991904cbb8a78077487",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "上海市2027年选调生招考启动，金山区招15名！正在报名上海 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步拓宽优秀年轻干部来源渠道，加强高素质专业化干部队伍建设，上海市现面向国内部分高校选调2027年度应届优秀大学毕业生，金山区招15名。具体如下：\n1\n招录职位\n2\n报名方式及相关事项\n1.报名条件\n符合上海市2027年度选调应届优秀大学毕业生公告中的国内高校范围和基本条件（详见https://shacs.gov.cn/），且所学专业及学历等符合金山区招录职位要求。\n咨询电话：021-57921692。\n2.网上报名\n请于即日起至9月24日12:00，登录上海市选调生招考平台报名（网址：https://shacs.gov.cn/Link/2027026xd.htm）。\n3.高校审核信息与综合比选\n报考者填写报名信息并经所在高校审核后，市委组织部和区委组织部按照选调生选拔标准要求进行综合比选，通过的报考者获得笔试资格。\n4.笔试、面试、体检、考察与公示\n笔试结束后，进行面试、体检、考察与公示等程序，具体事宜另行通知。\n5.录用管理\n公示无异议的选调生人选，将统一办理公务员录用手续，一般于2027年7月报到，并协助办理户籍迁移和人才公寓入住等手续。\n3\n一览金山\n近年来，金山区深化落实",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-09 16:07:57",
+      "updated_at": "2026-09-09 16:07:57",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 467,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468962817101824",
+      "source_hash": "1e482717136d34fa30e481b7fb5e79092df0b931e502e6414bc3da1b2c77dc1d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "遵义市2026年市直事业单位公开选调工作人员公告正在报名贵州 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《事业单位人事管理条例》等有关规定，市直有关事业单位拟面向全市公开选调工作人员，现将有关事项公告如下：\n一、选调计划、范围和条件\n（一）选调计划\n本次市直事业单位共计划公开选调工作人员128名，具体岗位信息见《遵义市2026年市直事业单位公开选调工作人员岗位表》（附件1，以下简称《岗位表》），如需咨询，可与选调单位联系。\n（二）选调范围\n1.遵义市及以下机关已进行公务员（参照管理）登记符合岗位条件，并自愿放弃公务员（参照管理）身份的人员。\n2.遵义市及以下事业单位符合岗位条件的人员（不含工勤人员）。\n（三）选调条件\n1.政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。\n2.具有良好的业务素质，品行端正、实绩突出、群众公认；\n3.在遵义市及以下机关事业单位工作满3年；\n4.近3年年度考核没有基本称职（合格）及以下等次和不确定等（档）次（试用期不确定等<档>次除外）；\n5.年龄在40周岁以下（1985年9月14日及以后出生），选调岗位对年龄有特别要求的以《岗位表》中明确为准；\n6.具有正常履行职责的身体条件和心理素质；",
+      "apply_start": "2026-09-14",
+      "apply_end": "2026-09-18",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-14",
+        "apply_end": "2026-09-18",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-09 16:07:56",
+      "updated_at": "2026-09-09 16:07:56",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468962818595840.xlsx",
+        "https://hera.fbstatic.cn/468962819905536.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 466,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468965833332736",
+      "source_hash": "6f377f886da1e20c23d67a25f70320e7a861f829a42119c6f6cb38fe9a91e93d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2027年度黄浦区计划选调优秀大学毕业生12名公告报名结束上海 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "一、黄浦简介\n黄浦区地处黄浦江与苏州河交汇的西南端，全域面积20.52平方公里，下辖10个街道，是上海的经济、行政、文化中心，定位为上海的“心脏、窗口、名片”。作为党的诞生地、初心始发地与伟大建党精神孕育地，区域汇聚外滩、南京路、豫园、新天地等标志性城市地标，海派文脉深厚，高端要素集聚，经济密度位居全国前列。“十五五”时期，黄浦区将立足国家构建新发展格局的战略部署，紧扣上海强化高端产业引领的发展要求，聚焦“强新质动能、树高质标杆”发展主线，围绕智能化、绿色化、融合化发展方向，重点培育壮大金融科技新兴主导产业，着力推动金融服务、科创服务、文旅商体展、专业服务四大产业集群扩能提质，加快发展内容创作和广告创意、新型消费等细分赛道，通过全要素集聚、多领域融合、开放式创新加快催生新业态新模式，建设具有国际竞争力的高端服务业体系。目标到二〇三〇年，黄浦经济质效大幅跃升，科技创新动能澎湃，品质生活精彩纷呈，社会治理充满活力，城区软实力与硬实力建设相得益彰，具有世界影响力的社会主义现代化国际大都市核心引领区建设取得决定性进展。\n二、岗位设置\n聚焦本区综合经济、产业发展、社会治理、社会保障等部门，计划1",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-09 16:07:54",
+      "updated_at": "2026-09-09 16:07:54",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 465,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "6dc95e3c04045fbecc42c69d05b771b2f4b7e2f36a495f537a030a4d0757f56b",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招702242人136594职位收录18689考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-09 16:07:53",
+      "updated_at": "2026-09-09 16:07:53",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 464,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468954355619840",
