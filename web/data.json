@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-09 03:58:52",
+  "updated_at": "2026-09-09 11:14:35",
   "stats": {
-    "total": 460,
+    "total": 464,
     "by_type": {
-      "省考": 460
+      "省考": 464
     },
     "by_province": {
-      "全国": 407,
+      "全国": 411,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,129 @@
     }
   },
   "notices": [
+    {
+      "id": 464,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468954355619840",
+      "source_hash": "b38dabe73b0aa844bbbe3d98f0a0965c68489eddab17c8fa792a696cabf4a4b1",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "上海市2027年度选调应届优秀大学毕业生公告正在报名上海 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强上海高素质专业化干部队伍建设，现决定在部分高校开展上海市2027年度选调应届优秀大学毕业生工作。具体公告如下：\n一、选调对象及数量\n根据上海干部队伍结构需求，2027年选调450名左右应届优秀大学毕业生。\n选调对象包括（具体高校名单见附件）：\n（一）北京大学等44所高校应届优秀毕业生；\n（二）中央财经大学等30所高校“双一流”建设学科硕士研究生及以上学历应届优秀毕业生；\n（三）华东政法大学等22所本市高校应届特别优秀毕业生；\n（四）中国科学院大学、上海科技大学、南方科技大学等新型研究型大学硕士研究生及以上学历应届优秀毕业生。\n选调职位一般为上海市市级和地区单位职位（具体详见职位简章）。选调专业类别具体分为综合、政法、数字信息、财经、城市建设等五大类别。\n二、选调条件\n（一）基本条件\n1.拥护党的路线方针政策，思想政治素质好，品学兼优；\n2.具有中华人民共和国国籍；\n3.本科生一般不超过25周岁（2000年9月<含>以后出生），硕士研究生一般不超过30周岁（1995年9月<含>以后出生），博士研究生一般不超过35周岁（1990年9月<含>以后出生），具有参军入伍经历的，年龄要",
+      "apply_start": "2026-09-09",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": 450,
+      "raw_fields": {
+        "apply_start": "2026-09-09",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": 450,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-09 10:57:02",
+      "updated_at": "2026-09-09 10:57:02",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468960766792705.pdf",
+        "https://hera.fbstatic.cn/468960767843328.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 463,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468962077593600",
+      "source_hash": "00c6aa331470a58cf046e1253bbfd08dfd31bf952cf09ff0fea5f304ca683dcb",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "上海市2027年选调生招考启动，金山区招15名！报名结束上海 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步拓宽优秀年轻干部来源渠道，加强高素质专业化干部队伍建设，上海市现面向国内部分高校选调2027年度应届优秀大学毕业生，金山区招15名。具体如下：\n1\n招录职位\n2\n报名方式及相关事项\n1.报名条件\n符合上海市2027年度选调应届优秀大学毕业生公告中的国内高校范围和基本条件（详见https://shacs.gov.cn/），且所学专业及学历等符合金山区招录职位要求。\n咨询电话：021-57921692。\n2.网上报名\n请于即日起至9月24日12:00，登录上海市选调生招考平台报名（网址：https://shacs.gov.cn/Link/2027026xd.htm）。\n3.高校审核信息与综合比选\n报考者填写报名信息并经所在高校审核后，市委组织部和区委组织部按照选调生选拔标准要求进行综合比选，通过的报考者获得笔试资格。\n4.笔试、面试、体检、考察与公示\n笔试结束后，进行面试、体检、考察与公示等程序，具体事宜另行通知。\n5.录用管理\n公示无异议的选调生人选，将统一办理公务员录用手续，一般于2027年7月报到，并协助办理户籍迁移和人才公寓入住等手续。\n3\n一览金山\n近年来，金山区深化落实",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-09 10:57:01",
+      "updated_at": "2026-09-09 10:57:01",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 462,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
+      "source_hash": "a9c37063021d4bd51542b9271a65713aec4cc3a19ba23c6390d28dfda51ca5a1",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26下事考公告合集共招24271人19603职位收录16考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-09 10:56:58",
+      "updated_at": "2026-09-09 10:56:58",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 461,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "62a089928b262d67761c6ed6b4274e295ae9c9cecaca4393addf6543bc7f45eb",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招701275人136435职位收录18670考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-09 10:56:57",
+      "updated_at": "2026-09-09 10:56:57",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 460,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468940655712256",
