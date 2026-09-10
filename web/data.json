@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-10 11:18:52",
+  "updated_at": "2026-09-10 16:20:51",
   "stats": {
-    "total": 476,
+    "total": 479,
     "by_type": {
-      "省考": 476
+      "省考": 479
     },
     "by_province": {
-      "全国": 423,
+      "全国": 426,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,101 @@
     }
   },
   "notices": [
+    {
+      "id": 479,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468985116381184",
+      "source_hash": "c5bf6484bffee9f6205dd3ac0bfcebec838524411b238efefac3827bc9111db8",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "湖北省面向山东大学定向选调（选聘）2027届优秀大学毕业生公告报名结束湖北 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "【工作方案】请认真阅读选聘公告，并按照以下我校工作方案提交推荐材料。\n1.考生报名：请报考考生登录考务服务平台查询招录职位，进行网上报名。同时，下载打印《2027年湖北省定向选调生（选聘生）报名推荐表》，一式两份，经学院资格初审、学校推荐审核后，加盖公章。\n2.学院进行资格初审：\n（1）请考生登录山东大学学生就业创业指导中心就业平台基层公管模块填写完善信息，并上传推荐表。【具体操作见附件】\n（2）请辅导员老师前往山东大学学生就业创业指导中心就业平台基层公管模块审核学生报名信息，并导出《汇总表》，加盖学院党委章，报送至学校审核推荐。【具体操作见附件】\n3.学校进行推荐审核：\n（1）济南校区以学院为单位统一收齐纸质版《推荐表》，连同盖章后的《汇总表》，于2026年9月29日前送至中心校区就业中心统一加盖公章。\n（2）青岛、威海校区纸质版材料由各校区就业中心收齐、审核无误后，连同盖章后的《汇总表》，于2026年9月28日前寄送中心校区，统一加盖公章。\n【济南校区】中心校区17-18号楼西连廊二楼202；\n【威海校区】含光楼301办公室；\n【青岛校区】会文南楼A区一楼就业中心136办公室。\n【",
+      "apply_start": "2027-12-31",
+      "apply_end": "2027-12-31",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2027-12-31",
+        "apply_end": "2027-12-31",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-10 16:03:53",
+      "updated_at": "2026-09-10 16:03:53",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468985117874176.pdf",
+        "https://hera.fbstatic.cn/468985119182848.pdf"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 478,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/468985566747648",
+      "source_hash": "e75d8a50725c6fed1a6ac08329529c68ae3e83736c2461457f46f27ef293ec63",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年吉林东丰经济开发区公开选调事业单位工作人员公告正在报名吉林 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强吉林东丰经济开发区工作人员队伍建设，优化队伍结构，经县委、县政府同意，吉林东丰经济开发区决定在东丰县事业编制在编在岗人员中公开选调工作人员，现将选调具体事宜公告如下：\n一、选调计划\n计划使用开发区现有事业编制空编公开选调事业编制人员4名，全部为管理岗位，分别从事经济发展、招商引资、企业服务、安全监督管理等相关工作。\n二、选调范围\n东丰县事业编制在编在岗人员。\n三、选调岗位及岗位要求\n四、报名条件\n（一）基本条件\n1.遵守中华人民共和国宪法、法律、法规；\n2.具有良好的政治素养，业务素质，品行端正，实绩突出，群众认可；\n3.热爱工作，勤政务实，信念坚定，敢于担当，服从管理，具有较强的业务能力和团结协作精神；\n4.年龄在40周岁以下(1985年9月10日以后出生)，具体出生日期以户籍信息为准;\n5.具有全日制大专及以上学历;\n6.近三年年度考核为“合格”及以上等次；\n7.具备适应岗位要求的身体条件。\n(二)其他资格条件\n1.报考人员应征得所在单位同意；\n2.本次开发区选调岗位全部为管理岗位，自愿同意转为管理岗位并符合管理岗位转岗条件者方可报名。\n(三)有下列情形之一的人员不得参",
+      "apply_start": "2026-09-20",
+      "apply_end": "2026-09-24",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-20",
+        "apply_end": "2026-09-24",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-10 16:03:52",
+      "updated_at": "2026-09-10 16:03:52",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/468985568499712.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 477,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "d481d0ea96a6fe28b112d75de0b5e133f700959c68d1a5d21bc07f7e58bc2891",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招706156人137803职位收录18891考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-10 16:03:51",
+      "updated_at": "2026-09-10 16:03:51",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 476,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468976618983425",
