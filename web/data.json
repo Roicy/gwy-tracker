@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-11 11:09:52",
+  "updated_at": "2026-09-11 16:31:59",
   "stats": {
-    "total": 492,
+    "total": 496,
     "by_type": {
-      "省考": 492
+      "省考": 496
     },
     "by_province": {
-      "全国": 439,
+      "全国": 443,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,139 @@
     }
   },
   "notices": [
+    {
+      "id": 496,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469005870061568",
+      "source_hash": "4e708e064da9b56853cd8a1f0f1639f923572d38d3a23b06fc7f64a221dc73a2",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "绍兴市信访局公开选调下属事业单位工作人员公告即将报名浙江 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "绍兴市政务热线服务中心是绍兴市信访局下属的正科级全额拨款事业单位，因工作需要，决定面向全市公开选调事业编制工作人员，现将有关事项公告如下：\n一、选调岗位\n公开选调绍兴市政务热线服务中心事业编制工作人员1名。\n二、选调范围\n浙江省行政区域内在职在编事业单位人员（不区分事业单位类别）。\n三、选调条件\n1.政治素质好，品行端正，有良好的职业操守、较强的服务意识和团队合作精神，具有2年及以上综合文字岗位工作经历，近三年年度考核均为合格及以上等次，且未受过党纪政务处分；\n2.年龄在38周岁及以下（1987年9月10日及以后出生），身心健康，无影响正常工作、正常履职的重大疾病；\n3.具有大学本科及以上学历、学士及以上学位，专业不限；\n4.按照干部管理权限，经所在工作单位及主管部门同意；\n5.符合浙江省、绍兴市事业单位工作人员交流的相关规定。\n具有下列情形之一的，不得参加公开选调：（1）试用期未满，或试用期满考核合格但在原单位工作不满1年的；（2）乡镇（街道）事业单位工作人员，在乡镇（街道）工作不满5年的；（3）通过招生招聘并轨方式为基层事业单位定向培养的人员，未满规定最低服务年限的或有其他限制性规",
+      "apply_start": "2026-09-14",
+      "apply_end": "2026-09-22",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-14",
+        "apply_end": "2026-09-22",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-11 16:09:43",
+      "updated_at": "2026-09-11 16:09:43",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469005872600064.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 495,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469007328892928",
+      "source_hash": "3fad7e473749cf63537a5a612a64a3a32ebe2775cb8c10c91aee4842b695e0ad",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年庐江县部分事业单位县内选调公告即将报名安徽 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "经县委编委会议研究同意，县委统战部所属事业单位县民族宗教服务中心、县教体局所属事业单位县教研室面向县内事业单位选调3名事业编制工作人员，现就有关事项公告如下：\n一、选调计划\n共3名（县民族宗教服务中心1名、县教研室2名），具体选调岗位及相关条件详见《2026年部分事业单位县内选调岗位表》（附件1）。\n二、选调范围\n1.县民族宗教服务中心：全县财政全供事业单位在编在聘人员（教体系统所属学校教师、卫健系统所属医院职工除外）。\n2.县教研室：全县教体系统财政全供在编在聘事业单位工作人员。\n三、选调条件\n（一）基本条件\n1.政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n2.遵纪守法、品行端正、廉洁自律、服从组织安排，工作能力和工作责任心强，具有良好的职业道德；\n3.进入我县事业单位工作满2年（即与事业单位签订的《事业单位聘用合同》聘用起始时间在2024年9月1日及以前，其他涉及聘用时间计算的依此类推）。其中，属于县外选调的教师，须在我县农村学校任教满5年；\n4.近3年年度考核须达到合格及以上档次（2023-2025年度，含",
+      "apply_start": "2026-09-14",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-14",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-11 16:09:40",
+      "updated_at": "2026-09-11 16:09:40",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469007330644992.xlsx",
+        "https://hera.fbstatic.cn/469007331954688.docx",
+        "https://hera.fbstatic.cn/469007333268480.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 494,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469007855279104",
+      "source_hash": "dd272afd408cdb6ae5642959d85943a4b59b3f8851112273a04a70f4461a9a6c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度修水县部分单位公开选调事业编制工作人员公告（三）即将报名江西 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要,经研究同意,决定公开选调部分单位事业编制工作人员,现将有关事宜公告如下:\n一、选调范围、对象\n全县事业单位在编在岗工作人员。\n二、选调岗位、人数\n见附件1:选调岗位表\n三、选调条件\n(一)选调人员应具备下列资格条件\n1.身体健康、事业心强、作风正派;\n2.教师近五年年度考核和师德考核均为合格及以上，其他人员近5年年度考核均为合格及以上等次，试用期考核不定等次的视为合格等次；\n3.符合岗位要求的其他条件(见附件1:选调岗位表)，岗位要求的年龄、工作年限等计算截止日期为2026年9月1日;\n4.法律、法规规定的其他条件。\n(二)具有下列情形之一的,不得报考\n1.被开除中国共产党党籍的;\n2.被依法列为失信联合惩戒对象的;\n3.涉嫌违纪违法正在接受有关的专门机关审查尚未作出结论的;\n4.受处分期间或者未满影响期限的;\n5.按照有关规定构成回避关系的;\n6.参加本县选调考试入闱，尚在试用期内的；\n7.按照国家有关规定,到定向单位工作未满服务年限的,对转任有其他限制性规定的;\n8.法律、法规规定的其他情形。\n四、选调方法和程序\n（一）发布公告\n2026年9月11日前通过县政府网站等",
+      "apply_start": "2026-09-18",
+      "apply_end": "2026-09-01",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-18",
+        "apply_end": "2026-09-01",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-11 16:09:38",
+      "updated_at": "2026-09-11 16:09:38",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469007857555456.xls",
+        "https://hera.fbstatic.cn/469007859913728.doc",
+        "https://hera.fbstatic.cn/469007861485568.docx",
+        "https://hera.fbstatic.cn/469007862799360.doc",
+        "https://hera.fbstatic.cn/469007863846912.docx",
+        "https://hera.fbstatic.cn/469009868197888.pdf"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 493,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "2310bbd897daf0ad8436f278ceac8ec7b131679191fb80898dcc51d279f29d04",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招711927人141368职位收录19028考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-11 16:09:37",
+      "updated_at": "2026-09-11 16:09:37",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 492,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468820697831424",
