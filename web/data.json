@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-12 15:35:02",
+  "updated_at": "2026-09-12 20:37:46",
   "stats": {
-    "total": 500,
+    "total": 501,
     "by_type": {
-      "省考": 500
+      "省考": 501
     },
     "by_province": {
-      "全国": 447,
+      "全国": 448,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 501,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "7a9dea77c65768f3bd8326309d6220d5b6b79bb3166016cdf38c2cc7ea824124",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招722266人141766职位收录19129考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-12 20:21:07",
+      "updated_at": "2026-09-12 20:21:07",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 500,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16735,35 +16765,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:05",
       "updated_at": "2026-07-30 12:32:05",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 78,
-      "source_url": "https://www.gdzz.gov.cn/tzgg/content/post_22275.html",
-      "source_hash": "4771bc0de9fba741ae1dbe47b0cbe5bfa56f0faaa7f8c65f29d4f9b266310c23",
-      "province": "广东",
-      "exam_type": "省考",
-      "title": "广东省2025年度选调优秀大学毕业生资格审核和面试等事项公告",
-      "publish_dept": null,
-      "publish_date": "2025-01-17",
-      "content_summary": "广东省2025年度选调优秀大学毕业生资格审核和面试等事项公告_中共广东省委组织部\n搜索\n首页\n综合要闻\n中央要闻\n广东新闻\n粤组动态\n组织建设\n基层党建\n党员教育\n党务问答\n干部工作\n干部教育培训\n干部管理监督\n事业单位人事管理\n公务员工作\n公务员管理\n公务员录用\n人才工作\n工作动态\n创新实践\n“粤智汇”专家人才微访谈\n才智涌流促发展\n政策法规\n先进典型\n首页\n>\n通知公告\n广东省2025年度选调优秀大学毕业生资格审核和面试等事项公告\n时间：2025-01-17 09:47:27\n来源：本网\n【字体：\n大\n中\n小\n】\n分享到:\n根据有关规定和《广东省2025年度选调优秀大学毕业生公告》，现就广东省2025年度选调优秀大学毕业生资格审核、面试等事项公告如下：\n一、合格分数线\n笔试、面试和考试综合成绩的合格分数线均为60分。笔试成绩已经公布，报考者可登录报名系统查询。\n二、资格审核和体能测评\n资格审核在2月13日至19日期间组织，采取线上审核方式进行。报考者需在指定时间通过选调报名系统上传相关审核资料照片（jpg格式），上传照片需清晰、准确，以便审核。需上传的资料主要包括：身份证、学生证、",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:32:06",
-      "updated_at": "2026-07-30 12:32:06",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
