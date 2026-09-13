@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-12 20:37:46",
+  "updated_at": "2026-09-13 04:10:36",
   "stats": {
-    "total": 501,
+    "total": 502,
     "by_type": {
-      "省考": 501
+      "省考": 502
     },
     "by_province": {
-      "全国": 448,
+      "全国": 449,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 502,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "5fc38def0401ec1e9068f8661a95c634f24b3343bd509bd6afe69857dbb37772",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招721779人141762职位收录19135考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-13 03:53:10",
+      "updated_at": "2026-09-13 03:53:10",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 501,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16736,35 +16766,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:04",
       "updated_at": "2026-07-30 12:32:04",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 77,
-      "source_url": "https://www.gdzz.gov.cn/tzgg/content/post_22327.html",
-      "source_hash": "c17f2d077ac04d510370193ee4b25467d562ce2521fe21a1c45725a3a7af4a36",
-      "province": "广东",
-      "exam_type": "省考",
-      "title": "广东省事业单位2025年集中公开招聘高校毕业生公告",
-      "publish_dept": null,
-      "publish_date": "2025-01-24",
-      "content_summary": "广东省事业单位2025年集中公开招聘高校毕业生公告_中共广东省委组织部\n搜索\n首页\n综合要闻\n中央要闻\n广东新闻\n粤组动态\n组织建设\n基层党建\n党员教育\n党务问答\n干部工作\n干部教育培训\n干部管理监督\n事业单位人事管理\n公务员工作\n公务员管理\n公务员录用\n人才工作\n工作动态\n创新实践\n“粤智汇”专家人才微访谈\n才智涌流促发展\n政策法规\n先进典型\n首页\n>\n通知公告\n广东省事业单位2025年集中公开招聘高校毕业生公告\n时间：2025-01-24 18:20:38\n来源：广东省人力资源和社会保障厅网站\n【字体：\n大\n中\n小\n】\n分享到:\n根据《中共中央组织部 人力资源社会保障部关于进一步做好事业单位公开招聘工作的通知》（人社部发〔2024〕57号）和《广东省事业单位公开招聘人员办法》（粤府令第301号）等有关规定，省委组织部、省人力资源社会保障厅决定集中开展2025年全省事业单位公开招聘高校毕业生工作。现就有关事项公告如下：\n一、招聘岗位\n全省各级事业单位招聘工作人员15381名。应聘人员可通过广东省人力资源和社会保障厅网站（http://hrss.gd.gov.cn）、广东组织工作网（h",
-      "apply_start": "2026-02-10",
-      "apply_end": "2026-02-14",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": 15381,
-      "raw_fields": {
-        "apply_start": "2026-02-10",
-        "apply_end": "2026-02-14",
-        "written_exam": null,
-        "recruit_count": 15381
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:32:05",
-      "updated_at": "2026-07-30 12:32:05",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
