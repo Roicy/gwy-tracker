@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-13 16:15:09",
+  "updated_at": "2026-09-13 20:48:42",
   "stats": {
-    "total": 504,
+    "total": 506,
     "by_type": {
-      "省考": 504
+      "省考": 506
     },
     "by_province": {
-      "全国": 451,
+      "全国": 453,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,68 @@
     }
   },
   "notices": [
+    {
+      "id": 506,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469005870061568",
+      "source_hash": "11537b062d828e1fe478b567dc0ed28b95e2be3853c77f2d7cc8d001330d56af",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "绍兴市信访局公开选调下属事业单位工作人员公告正在报名浙江 · 选调考试时间表职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "绍兴市政务热线服务中心是绍兴市信访局下属的正科级全额拨款事业单位，因工作需要，决定面向全市公开选调事业编制工作人员，现将有关事项公告如下：\n一、选调岗位\n公开选调绍兴市政务热线服务中心事业编制工作人员1名。\n二、选调范围\n浙江省行政区域内在职在编事业单位人员（不区分事业单位类别）。\n三、选调条件\n1.政治素质好，品行端正，有良好的职业操守、较强的服务意识和团队合作精神，具有2年及以上综合文字岗位工作经历，近三年年度考核均为合格及以上等次，且未受过党纪政务处分；\n2.年龄在38周岁及以下（1987年9月10日及以后出生），身心健康，无影响正常工作、正常履职的重大疾病；\n3.具有大学本科及以上学历、学士及以上学位，专业不限；\n4.按照干部管理权限，经所在工作单位及主管部门同意；\n5.符合浙江省、绍兴市事业单位工作人员交流的相关规定。\n具有下列情形之一的，不得参加公开选调：（1）试用期未满，或试用期满考核合格但在原单位工作不满1年的；（2）乡镇（街道）事业单位工作人员，在乡镇（街道）工作不满5年的；（3）通过招生招聘并轨方式为基层事业单位定向培养的人员，未满规定最低服务年限的或有其他限制性规",
+      "apply_start": "2026-09-14",
+      "apply_end": "2026-09-22",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-14",
+        "apply_end": "2026-09-22",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-13 20:31:55",
+      "updated_at": "2026-09-13 20:31:55",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469005872600064.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 505,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "ee83b1f96cf56a0255508a7c59e9b6335297965ec9dba7076ac51baf59cf6910",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招728824人142069职位收录19186考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-13 20:31:53",
+      "updated_at": "2026-09-13 20:31:53",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 504,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16710,64 +16772,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:32:00",
       "updated_at": "2026-07-30 12:32:00",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 73,
-      "source_url": "https://www.gdzz.gov.cn/tzgg/content/post_22778.html",
-      "source_hash": "7a7f004d897fdc13bd55d4cc00b30837ea6e39fec291c35516570ff3d8a1222f",
-      "province": "广东",
-      "exam_type": "省考",
-      "title": "广东省2025年考试录用公务员资格审核和面试等事项公告",
-      "publish_dept": null,
-      "publish_date": "2025-04-02",
-      "content_summary": "广东省2025年考试录用公务员资格审核和面试等事项公告_中共广东省委组织部\n搜索\n首页\n综合要闻\n中央要闻\n广东新闻\n粤组动态\n组织建设\n基层党建\n党员教育\n党务问答\n干部工作\n干部教育培训\n干部管理监督\n事业单位人事管理\n公务员工作\n公务员管理\n公务员录用\n人才工作\n工作动态\n创新实践\n“粤智汇”专家人才微访谈\n才智涌流促发展\n政策法规\n先进典型\n首页\n>\n通知公告\n广东省2025年考试录用公务员资格审核和面试等事项公告\n时间：2025-04-02 09:00:00\n来源：本网\n【字体：\n大\n中\n小\n】\n分享到:\n根据公务员法和公务员录用有关规定，按照《广东省2025年考试录用公务员公告》，现就广东省2025年考试录用公务员资格审核和面试等事项公告如下：\n一、合格分数线\n笔试、面试及考试总成绩合格分数线均为60分。笔试成绩已经公布，考生可登录报名系统查询。\n二、资格审核\n资格审核在4月9日至22日期间组织，主要采取线上审核方式进行，有必要的可现场审核。考生须在指定时间通过广东省公务员考试录用管理信息系统上传相关资料照片（jpg格式），上传照片需清晰、准确，以便审核。\n需上传的资料主要",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:32:01",
-      "updated_at": "2026-07-30 12:32:01",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 74,
-      "source_url": "https://www.gdzz.gov.cn/tzgg/content/post_22449.html",
-      "source_hash": "98c253b336472d0bbe001849c8f732c9bbb10884e9ec19c13cbe3ee64659ccef",
-      "province": "广东",
-      "exam_type": "省考",
-      "title": "中共广东省委党校（广东行政学院）2025年度公开招聘教研人员公告",
-      "publish_dept": null,
-      "publish_date": "2025-02-24",
-      "content_summary": "中共广东省委党校（广东行政学院）2025年度公开招聘教研人员公告_中共广东省委组织部\n搜索\n首页\n综合要闻\n中央要闻\n广东新闻\n粤组动态\n组织建设\n基层党建\n党员教育\n党务问答\n干部工作\n干部教育培训\n干部管理监督\n事业单位人事管理\n公务员工作\n公务员管理\n公务员录用\n人才工作\n工作动态\n创新实践\n“粤智汇”专家人才微访谈\n才智涌流促发展\n政策法规\n先进典型\n首页\n>\n通知公告\n中共广东省委党校（广东行政学院）2025年度公开招聘教研人员公告\n时间：2025-02-24 18:12:13\n来源：中共广东省委党校（广东行政学院）网\n【字体：\n大\n中\n小\n】\n分享到:\n为适应校（院）事业发展，进一步加强教师队伍建设，根据《广东省事业单位公开招聘人员办法》（广东省人民政府令第301号），按照公开、平等、竞争、择优的原则，现面向社会公开招聘教研人员，制定以下公告。\n一、招聘单位简介\n校（院）是中共广东省委直接领导的培养党的领导干部的学校，属正厅级公益一类事业单位，是省委的重要部门，是广东省培训党的领导干部的主渠道，是党的思想理论建设的重要阵地，是哲学社会科学研究机构和重要智库。\n校（院）创办于",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": 15,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": 15
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:32:02",
-      "updated_at": "2026-07-30 12:32:02",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
