@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-14 12:30:09",
+  "updated_at": "2026-09-14 21:57:52",
   "stats": {
-    "total": 511,
+    "total": 512,
     "by_type": {
-      "省考": 511
+      "省考": 512
     },
     "by_province": {
-      "全国": 458,
+      "全国": 459,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 512,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "c8aae651c84f385254586d3ed1b6fe1d527a2c985a17c842ac5b403b2fba02b2",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招739331人143121职位收录19433考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-14 21:42:18",
+      "updated_at": "2026-09-14 21:42:18",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 511,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468940655712256",
@@ -16758,35 +16788,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:31:54",
       "updated_at": "2026-07-30 12:31:54",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 67,
-      "source_url": "https://www.gdzz.gov.cn/tzgg/content/post_24510.html",
-      "source_hash": "08849b54c50a54301f6daab2d58be37cb7be7dba8a65cec2341afd154d22c5ae",
-      "province": "广东",
-      "exam_type": "省考",
-      "title": "广东省2026年考试录用公务员资格审核和面试等事项公告",
-      "publish_dept": null,
-      "publish_date": "2026-01-15",
-      "content_summary": "广东省2026年考试录用公务员资格审核和面试等事项公告_中共广东省委组织部\n搜索\n首页\n综合要闻\n中央要闻\n广东新闻\n粤组动态\n组织建设\n基层党建\n党员教育\n党务问答\n干部工作\n干部教育培训\n干部管理监督\n事业单位人事管理\n公务员工作\n公务员管理\n公务员录用\n人才工作\n工作动态\n创新实践\n“粤智汇”专家人才微访谈\n才智涌流促发展\n政策法规\n先进典型\n首页\n>\n通知公告\n广东省2026年考试录用公务员资格审核和面试等事项公告\n时间：2026-01-15 13:34:51\n来源：本网\n【字体：\n大\n中\n小\n】\n分享到:\n根据公务员法和公务员录用有关规定，按照《广东省2026年考试录用公务员公告》，现就广东省2026年考试录用公务员资格审核和面试等事项公告如下：\n一、合格分数线\n笔试、面试及考试总成绩合格分数线均为60分。\n二、资格审核\n资格审核在2026年1月16日至30日期间组织，主要采取线上审核方式，有必要的可现场审核。考生须在指定时间通过广东省公务员考试录用管理信息系统上传相关资料。资格审核的具体要求及需提交的材料，请考生密切留意公务员主管部门或招录机关的相关公告或通知。\n三、体能测",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:31:55",
-      "updated_at": "2026-07-30 12:31:55",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
