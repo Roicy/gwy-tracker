@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-15 11:43:34",
+  "updated_at": "2026-09-15 16:53:28",
   "stats": {
-    "total": 516,
+    "total": 518,
     "by_type": {
-      "省考": 516
+      "省考": 518
     },
     "by_province": {
-      "全国": 463,
+      "全国": 465,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 518,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469098082882560",
+      "source_hash": "95fc0dbfaa512ce92697dc0844ebb992eb0a4e4e3343a9620fed534a69316060",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "随县2026年下半年事业单位公开选调工作人员公告即将报名湖北 · 选调职位表",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为解决部分事业单位工作人员紧缺问题，根据《随县事业单位工作人员调配管理办法》，经研究同意开展随县\n2026\n年下半年事业单位公开选调工作，现将有关事项公告如下：\n一、选调岗位\n本次全县计划选调事业单位工作人员\n22\n名，具体岗位及资格条件详见《随县\n2026\n年下半年事业单位公开选调工作人员岗位表》（附件\n1\n，以下简称《岗位表》）。\n二、选调条件\n1\n、具有良好的政治、业务素质，品行端正，实绩突出，群众认可；\n2\n、随县事业编制在编在岗人员；\n3\n、事业单位年度考核近两年均为合格及以上等次；\n4\n、大学专科及以上文化程度；\n5\n、在现服务单位工作满\n2\n年及以上，身体健康；\n6\n、近三年未受过党政纪处分；\n7\n、符合公开选调职位要求的其他资格条件（见岗位表）；\n8\n、符合法律、法规规定的其他条件。\n有下列情形之一的不得参加公开选调：在试用期内或未满最低服务年限的；涉嫌违纪违法正在接受有关专门机关调查审查尚未作出结论的；受到诫勉、组织处理或者党纪政务处分等影响期未满或者期满影响使用的；正在接受审计机关审计的；被依法列为失信联合惩戒对象的；法律、法规、政策规定的其他情形。\n报名人员不能申",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-15 16:36:11",
+      "updated_at": "2026-09-15 16:36:11",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469101518461952.xlsx",
+        "https://hera.fbstatic.cn/469101519247360.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 517,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "ee23baba37c2cad058cf56d4691d16c90ace3008267650ee40c224bed7323bc8",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招731957人144127职位收录19661考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-15 16:36:10",
+      "updated_at": "2026-09-15 16:36:10",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 516,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468940655712256",
@@ -16743,65 +16806,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:26:53",
       "updated_at": "2026-07-30 12:26:53",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 85,
-      "source_url": "http://www.nxfeyy.cn/info/1048/29511.htm",
-      "source_hash": "b208902d10a78e8dd85dce16e93df1a2a282293de74075552b3e99d96bff4155",
-      "province": "宁夏",
-      "exam_type": "省考",
-      "title": "北京大学第一医院宁夏妇女儿童医院 （宁夏回族自治区妇幼保健院）2026年自主公开招聘工作人员公告",
-      "publish_dept": null,
-      "publish_date": "2026-06-29",
-      "content_summary": "为\n进一步加强人才队伍建设，\n根据《\n宁夏回族自治区事业单位公开招聘工作人员实施办法》\n（\n宁政办规发\n〔\n202\n3\n〕\n9\n号\n）、\n《关于贯彻落实住院医师规范化培训“两个同等对待”政策的通知》（宁卫发〔2022〕112号）\n等相关规定和自治区卫生健康委有关要求，现就医院2026年自主公开招聘工作人员有关事项公告如下\n。\n一、\n招聘计划\n计划面向社会自主公开招聘工作人员\n74名，其中事业编制工作人员30名，备案人员44名，具体岗位及条件见《2026年自主公开招聘事业单位工作人员岗位计划一览表》（附件1）和《2026年自主公开招聘备案人员岗位计划一览表》（附件2）。\n二、\n招聘条件\n（一）具\n有\n下列\n资格\n条件的人员可以报考\n1.具有中华人民共和国国籍；\n2.拥护中华人民共和国宪法，拥护中国共产党领导和社会主义制度；\n3.遵纪守法、品行端正，具有良好职业道德，能够履行事业单位工作人员职责；\n4.\n年龄一般为18周岁以上、35周岁以下（1990年6月29日至2008年6月29日期间出生）；部分岗位30周岁以下（1995年6月29日至2008年6月29日期间出生）；38周岁以下（198",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 14:10:56",
-      "updated_at": "2026-07-30 14:10:56",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 79,
-      "source_url": "http://www.hnrsks.com/sitesources/hnsrskszx/page_pc/xwdt/article194399d733df448cadbb7e476c51d3cf.html",
-      "source_hash": "d3a13ead865d2ff2ec812c4635b1c748492610cfc1a955415ac1f4ec37f44719",
-      "province": "河南",
-      "exam_type": "省考",
-      "title": "河南省人事考试中心（河南省公务员考试测评...",
-      "publish_dept": null,
-      "publish_date": "2026-03-27",
-      "content_summary": "河南省人事考试中心\n（河南省公务员考试测评中心）\n开展树立和践行正确政绩观集中学习研讨活动\n为深入学习贯彻习近平总书记关于树立和践行正确政绩观的重要论述，全面落实省委、省人社厅党组关于开展树立和践行正确政绩观学习教育的部署要求，\n3月26日至27日，河南省人事考试中心组织全体党员干部开展为期两天的集中学习研讨活动\n。\n通过领读领学、视频辅导、研讨交流、\n个人\n自学等形式，推动正确政绩观\n学习教育\n入脑入心、落地落实，切实把学习成果转化为推动人事考试工作高质量发展的实际行动。\n3月26日上午，集中领读领学环节有序进行，\n中心主任、书记\n蔡树峰同志首先传达学习习近平总书记在党的二十届四中全会上的重要讲话、在省部级主要领导干部学习贯彻党的二十届四中全会精神专题研讨班开班式上的重要讲话精神\n。\n随后，\n其他班子成员\n分别领学《习近平总书记地方工作期间坚持正确政绩观生动实践》\n“河北正定篇\n”、“福建篇”、“浙江篇”、“上海篇”4个篇目\n，从总书记地方工作的生动实践中汲取树立和践行正确政绩观的智慧和力量\n，\n为全体党员干部筑牢思想根基。当日下午，全体党员干部集中观看\n了\n相关视频辅导课程\n。\n3",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:36:30",
-      "updated_at": "2026-07-30 12:36:30",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
