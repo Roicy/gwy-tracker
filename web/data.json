@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-16 11:29:49",
+  "updated_at": "2026-09-16 16:45:20",
   "stats": {
-    "total": 553,
+    "total": 554,
     "by_type": {
-      "省考": 553
+      "省考": 554
     },
     "by_province": {
-      "全国": 500,
+      "全国": 501,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 554,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "89deba86b0f3ce4339191c1ddf78bf4a362a56f13f1b9e1b9dc6f7b4211e0f31",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招732258人145399职位收录19899考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-16 16:27:36",
+      "updated_at": "2026-09-16 16:27:36",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 553,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/468954355619840",
@@ -16890,35 +16920,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:27:59",
       "updated_at": "2026-07-30 12:27:59",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 36,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1498",
-      "source_hash": "514c1a1744d274b51b9ef8d2e6010682c5983e80ddb8ab64fa84645ec5999c91",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "2025年度吉林省公安机关考试录用特殊职位公务员（人民警察）公告",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n2025\n年度吉林省公安机关考试录用特殊职位公务员（人民警察）公告\n根据公务员法和《公务员录用规定》等有关法律法规，为加强吉林省公安机关队伍建设，\n决定\n组织实施\n2025\n年度吉林省公安机关考试录用特殊职位公务员（人民警察）工作。现将有关事项公告如下：\n一、报考条件\n（一）报考人员应具备以下条件\n1.\n具有中华人民共和国国籍。\n2.\n拥护中华人民共和国宪法，拥护中国共产党领导和社会主义制度。\n3.\n具有良好的政治素质和道德品行。\n4.\n具有正常履行职责的身体条件和心理素质。\n5.\n具有符合职位要求的工作能力。\n6.\n具有高中（中专）及以上文化程度。\n7.\n年龄\n在\n18\n周岁以上、\n30\n周岁以下（\n1994\n年\n12\n月\n至\n2007\n年\n12\n月期间出生）\n。\n8.\n曾在中国人民解放军和中国人民武装警察部队相关部（分）队中从事突击（侦察）、狙击、排爆等并服役\n5\n年（含）以上且已办理完成退役手续的退役士官，限男性。\n（二）有下列情形之一的人员不得报考\n1.\n现役军人、在读的非应届毕业生、在职公务员和参照公务员法管理的机关（单位）工作人员。\n2.\n",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:27:58",
-      "updated_at": "2026-07-30 12:27:58",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
