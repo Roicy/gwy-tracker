@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-17 11:34:37",
+  "updated_at": "2026-09-17 16:48:35",
   "stats": {
-    "total": 560,
+    "total": 561,
     "by_type": {
-      "省考": 560
+      "省考": 561
     },
     "by_province": {
-      "全国": 507,
+      "全国": 508,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 561,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "5745676de2d3a7938248c4ef5fb48b6b52f581807f463767387678cc1b63efad",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招740462人146239职位收录20064考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-17 16:32:43",
+      "updated_at": "2026-09-17 16:32:43",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 560,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469138025240576",
@@ -16904,35 +16934,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:08",
       "updated_at": "2026-07-30 12:28:08",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 43,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1563",
-      "source_hash": "311319b5beb3f3de95dd7755b86a5882f3ec305d057fec46b7b50a6b806087f9",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "2026年度吉林省司法行政机关考试录用公务员（人民警察）体能测评公告",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n2026\n年\n度吉林省司法行政机关考试录用\n公务员（人民警察）体能测评公告\n现将\n2026\n年度\n吉林省司法行政机关考试录用公务员（人民警察）体能测评\n有关事宜公告如下：\n一、体能测评时间及地点\n时间：\n2026\n年\n4\n月\n9\n日，下午\n13:00\n至\n16:30\n；\n2026\n年\n4\n月\n10\n日，上午\n8:00\n至\n11:\n0\n0\n。\n地点：吉林司法警官职业学院（宽城区北青年路与学苑路交汇处）\n二、体能测评人员范围\n1.\n报考\n2026\n年省戒毒康复所\n戒毒康复医生职位、康复训练职位\n的\n考生：按照体能测评人选与录用计划\n6:1\n比例，在笔试总成绩合格线以上且资格复审合格的人员中，从高分到低分依次确定参加体能测评人选。\n如笔试总成绩相同，以《行政职业能力测验》成绩高者优先，如各科成绩均相同，一并进入体能测评。\n2.\n中央司法警官学院\n2026\n年相关专业吉林省生源普通全日制毕业生中，联考总成绩合格线以上的所有考生。\n3.\n吉林司法警官职业学院\n2026\n年报考吉林省司法行政机关定向招录职位的司法行政警察类专业毕业生中，联考总成绩合格线以上的所有考",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:07",
-      "updated_at": "2026-07-30 12:28:07",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
