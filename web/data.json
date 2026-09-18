@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-18 04:08:01",
+  "updated_at": "2026-09-18 11:06:32",
   "stats": {
-    "total": 563,
+    "total": 565,
     "by_type": {
-      "省考": 563
+      "省考": 565
     },
     "by_province": {
-      "全国": 510,
+      "全国": 512,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 565,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469157992748033",
+      "source_hash": "8cf240d254c4ddeb3f4cfa8db82c7d11cdef20d9683a79ce0ab678ca511b5186",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "芷江侗族自治县文化遗产保护中心2026年公开选调事业单位工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "芷江侗族自治县文化遗产保护中心为芷江侗族自治县文化旅游广电体育局所属全额拨款事业单位，因工作需要，经县委机构编制委员会研究同意，决定面向全县公开择优选调事业单位工作人员1名。现将有关事项公告如下：\n一、选调职位及人数\n公开选调县文化遗产保护中心专技岗位工作人员1名。选调岗位具体详情见《芷江侗族自治县文化遗产保护中心2026年公开选调事业单位工作人员计划职位表》（附件1）。\n二、选调范围\n全县全额拨款事业编制的在岗人员。\n三、选调条件及要求\n本次选调坚持“公开、平等、竞争、择优”的原则。\n（一）报名须具备下列条件和要求\n1.政治立场坚定，政治素质过硬，遵纪守法，品行端正，工作勤奋踏实，实绩突出，群众公认。\n2.具有大学专科及以上学历。\n3.具备岗位所需的专业或者技能条件。\n4.近三年年度考核均为“合格”及以上等次，其中试用期内不定等次视为合格。\n5.年龄38周岁以下，具有乡镇三年以上工作经验。\n6.适应岗位要求的身体条件和心理素质。\n7.法律、法规规定的其他条件。\n（二）有下列情形之一的人员，不得报名：\n1.被开除中国共产党党籍的。\n2.被依法列为失信联合惩戒对象的。\n3.涉嫌违纪违法正",
+      "apply_start": "2026-09-18",
+      "apply_end": "2026-09-24",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-18",
+        "apply_end": "2026-09-24",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-18 10:48:57",
+      "updated_at": "2026-09-18 10:48:57",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469157994500096.docx",
+        "https://hera.fbstatic.cn/469157996076032.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 564,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "76d3dab367f2668e5ba920ebaa0d6b2e8cbe5e74d397bda0de0c75daa865b649",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招742000人146879职位收录20182考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-18 10:48:56",
+      "updated_at": "2026-09-18 10:48:56",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 563,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
@@ -16878,64 +16941,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:12",
       "updated_at": "2026-07-30 12:28:12",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 47,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1559",
-      "source_hash": "caec4b235b4c9cecdaf6bf656578a01e72a942f4856f5efe6eb6e777f7c2b3af",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "2025年度吉林省公安机关考试录用特殊职位公务员（人民警察）核减录用计划公告",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n2025\n年度吉林省公安机关考试录用特殊职位公务员\n（\n人民警察\n）\n核减录用计划公告\n按照《\n2025\n年度吉林省公安机关考试录用特殊职位公务员\n（\n人民警察\n）\n公告》规定，根据不同职位通过警务技能测试人数\n，现对核减职位的录用计划予以公告：\n突击职位核减\n20\n个计划，核减后\n剩余\n录用计划\n20\n个\n；\n排爆职位核减\n10\n个计划，核减后\n剩余\n录用计划\n2\n个。\n特此公告。\n附件：\n2025\n年度吉林省公安机关考试录用特殊职位公务员（人民警察）职位核减录用计划表\n吉林省公安厅干部处\n2026\n年\n3\n月\n23\n日\n附件：\n附件：2025年度吉林省公安机关考试录用特殊职位公务员（人民警察）职位核减录用计划表.xls\n首页\n回顶部\n版权所有：吉林省公务员录用考试中心 地址：长春市南关区南环城路1958号  邮政编码：130022\n吉ICP备12001674号-2\n技术支持：吉林省科飞软件有限公司  网址：\nwww.kefei.com.cn",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:11",
-      "updated_at": "2026-07-30 12:28:11",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 45,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1561",
-      "source_hash": "e53857a3ecf429e9dd73c20471779d8ab46d86721e911eba6f11689ddbfa7f76",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "关于报考2026年度吉林省各级机关考试录用公务员公安机关招录职位资格复审、体能测评有关事宜的公告",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n关于报考\n2026\n年度吉林省各级机关考试录用公务员公安机关招录职位资格复审、体能测评\n有关事宜的公告\n现就报考吉林省各级公安机关招录职位考生的资格复审、体能测评有关事宜公告如下：\n一、资格复审\n（一）参加资格复审人员范围\n考生需同时满足以下条件方可按本公告要求参加资格复审，资格复审不合格或因个人原因不能按要求参加资格复审的人员，不得参加下一环节考试。\n1.\n报考\n2026\n年度吉林省各级机关考试录用公务员\n公安机关\n招录职位的考生；\n2.\n原则上按照参加资格复审、体能测评人选与计划录用人数不低于\n5:1\n的比例，在笔试总成绩合格线以上考生中从高分到低分依次确定人选。如笔试总成绩相同，依次以《行政职业能力测验》《申论》成绩高者优先，如各科成绩均相同，一并进入体能测评。\n（二）资格复审有关要求\n1.\n参加资格复审人员及时间安排：\n①报考\n长春市公安局、梅河新区公安局\n的考生于\n4\n月\n7\n日\n参加资格复审；\n②报考\n省公安厅（含交通管理总队高速公路各支队）、省公安厅长白山公安局、省公安厅森林公安局各分局、省公安厅机场公安局、省强制医疗所，公主岭市公安局、",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:10",
-      "updated_at": "2026-07-30 12:28:10",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
