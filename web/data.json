@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-18 16:24:18",
+  "updated_at": "2026-09-18 20:55:58",
   "stats": {
-    "total": 567,
+    "total": 568,
     "by_type": {
-      "省考": 567
+      "省考": 568
     },
     "by_province": {
-      "全国": 514,
+      "全国": 515,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 568,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "9baec028a7d31585a4a1b9e7bbda08302131ac4f40f18fe5ad52ad458605253d",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招752283人147233职位收录20201考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-18 20:40:14",
+      "updated_at": "2026-09-18 20:40:14",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 567,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469120282548224",
@@ -16917,35 +16947,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:17",
       "updated_at": "2026-07-30 12:28:17",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 50,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1506",
-      "source_hash": "a8b6b116e196b6ea40a85a930dab9d4c16d88ec7f64284913e22c21cfcb99339",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "2026年度吉林省各级机关考试录用公务员考务问答",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n2026\n年度吉林省各级机关考试录用公务员考务问答\n一、\n报名系统相关问题\n1.报考者发现本人姓名或相关信息有误，如何修改报名信息？\n答：\n资格审核通过前\n，\n报考者\n可在系统中自行修改报名信息\n。\n资格审核通过以后\n，\n报考者\n无法自行修改任何信息。\n如报考者\n发现姓名填写有误\n（\n包括明显的错别字、同音字、形似字\n）\n，\n且资格审核已经通过，\n须本人到全省报名现场进行修改，其他报名信息不予更改。\n在修改报名信息时，\n报考者\n应出示本人有效\n居民\n身份证\n（\n本人身份证信息须与网上报名填报信息一致\n）\n，现场填写《报名信息更改申请表》，由本人签字并经考试机构审核后方可更改。如本人因特殊情况，不能到现场修改的，可委托代办人进行办理。代办人须出示报考者本人签字的委托情况说明，并出示代办人身份证原件和报考者的身份证复印件。\n时间地点\n：\n2026\n年\n2\n月\n2\n日\n—\n2\n月\n6\n日，上午\n8:30\n—\n11:30\n，下午\n13:00\n—\n16:30\n；\n吉林省公务员录用考试中心\n（\n长春市南关区南环城路\n1958\n号吉林人事考试大厦四楼会议室\n）\n。\n",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:15",
-      "updated_at": "2026-07-30 12:28:15",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
