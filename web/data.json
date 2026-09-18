@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-18 11:06:32",
+  "updated_at": "2026-09-18 16:24:18",
   "stats": {
-    "total": 565,
+    "total": 567,
     "by_type": {
-      "省考": 565
+      "省考": 567
     },
     "by_province": {
-      "全国": 512,
+      "全国": 514,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 567,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469120282548224",
+      "source_hash": "de1b402c9efbf290b5aa74e7ebd08324c891bc9b0550debc0e78b8d87811d329",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年常州市武进区卫健系统部分事业单位公开选调工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强卫生人才队伍建设，促进人力资源优化配置，推动全区卫生事业单位人员的合理流动，经研究，武进区卫健系统部分事业单位公开选调事业编制人员3名。\n一、选调原则\n选调工作坚持公开公正、人岗相适、竞争择优的基本原则。\n二、选调岗位\n选调事业编制人员3名，具体岗位及条件见《2026年常州市武进区卫健系统部分事业单位公开选调工作人员岗位表》（附件1）。\n三、选调范围\n武进区各直属医疗卫生单位、各镇（街道）卫生院（医院、社区卫生服务中心）在编在岗工作人员。\n四、选调条件\n（一）具有良好政治思想素质，遵纪守法，爱岗敬业，无违法违纪记录，具备正常履行岗位职责的身体条件和选调岗位规定的具体资格条件(详见岗位表)；\n（二）近2年年度考核结果为合格及以上等次；\n具有下列情形之一的，不得参加选调：正在接受有关部门审查尚未作出结论的；受处分尚未解除的；未满规定服务年限或有其他限制性规定的；具有应当实行回避的情形；法律、法规规定的其他情形。\n五、选调程序\n（一）报名和资格审核\n1、本次选调采用现场报名方式。\n报名时间：2026年9月23日—9月24日(上午9：00—11：30；下午13：30—16：00）\n",
+      "apply_start": "2026-09-23",
+      "apply_end": "2026-09-24",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-23",
+        "apply_end": "2026-09-24",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-18 16:06:23",
+      "updated_at": "2026-09-18 16:06:23",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469120284824576.xls",
+        "https://hera.fbstatic.cn/469120286920704.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 566,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "f58ac84a8da29360a0677a3cce7db275a8bc2cf9db2272baafbf1e3db477f006",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招751928人147233职位收录20199考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-18 16:06:22",
+      "updated_at": "2026-09-18 16:06:22",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 565,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469157992748033",
@@ -16883,64 +16946,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:15",
       "updated_at": "2026-07-30 12:28:15",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 49,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1507",
-      "source_hash": "a07354d081627016a2635089b59cbf7e2b7ae10a1cd0c49773cef74c639a204c",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "2026年度吉林省各级机关考试录用公务员网上报名须知",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n2026年度吉林省各级机关考试录用公务员网上报名须知\n一、\n重要提示\n（一）\n报考者应明确《\n2026\n年度吉林省各级机关考试录用公务员公告》中各项工作的时间安排，在规定时间内报名，只允许报考一个职位。逾期系统将自动关闭，不再受理报名事宜，即\n2026\n年\n2\n月\n6\n日\n14\n：\n30\n后系统不再接受新的报考者报名，不再接受资格审核未通过人员改报其他职位，不能进行报名信息修改。未在规定时间内完成职位选报、确认或未在规定时间内完成缴费的，均视为放弃报名，责任自负。\n（二）\n报考者不得以他人身份证、照片进行报名，如造成其他报考者因无法进行网上报名确认等情况而引起纠纷的，需承担全部责任。报考者不能用新、旧两个身份证号同时报名，报名与考试使用的身份证必须一致。\n（三）\n报名序号、密码是报考者查询考试信息、下载打印准考证、查询成绩等事项的重要依据，请务必牢记。\n（四）\n参考往年情况，报名初始阶段人员较少，资格审核速度较快，报名最后阶段人员集中，可能造成网络拥挤，届时资格审核速度将有所下降。建议报考者合理安排报名时间，根据本人的专业、意愿和职业规划等尽早报名，尽",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:14",
-      "updated_at": "2026-07-30 12:28:14",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 48,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1508",
-      "source_hash": "786351e5607d543d48b68ace245f5946aa3e879dc4bc89ae58f4e70a97afc7e7",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "2026年度吉林省各级机关考试录用公务员享受国家最低生活保障家庭考生笔试费用减免说明",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n202\n6\n年度吉林省各级机关考试录用公务员\n享受国家最低生活保障家庭考生\n笔试费用减免说明\n享受国家最低生活保障家庭的考生可向本人所在的笔试考区申请减免笔试费用。申请减免笔试费用的考生需要按报名流程进行考生注册、选择职位、填写信息、上传证件照片和资格审核，资格审核通过后，不进行网上缴费操作，可拨打本人所在笔试考区的考务咨询电话，按要求在规定时间内上交减免材料，办理减免手续。\n（注：如果考生已经在报名系统上进行了网上缴费操作，则不能再申请减免笔试费用）。\n笔试费用减免审核工作时间：\n2026\n年\n2\n月\n2\n日\n8\n：\n30\n开始至\n2\n月\n6\n日\n14\n：\n30\n截止，未按期办理减免费用且未在规定时间自行网上缴费的考生视为自动放弃报考。\n笔试费用减免采取\n网上办理\n的形式，具体流程如下：\n一、\n考生须按要求下载并填写表格\n《\n2026\n年度吉林省各级机关考试录用公务员笔试\n享受国家最低生活保障家庭考生笔试费用减免登记表》\n（以下简称《笔试费用减免登记表》）。\n要求：将此表格填写完毕，打印后签字\n（考生确认签字处必须手写）\n，签字完毕后将表格拍成照片或",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:12",
-      "updated_at": "2026-07-30 12:28:12",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
