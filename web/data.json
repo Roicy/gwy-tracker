@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-19 04:11:43",
+  "updated_at": "2026-09-19 10:52:50",
   "stats": {
-    "total": 570,
+    "total": 572,
     "by_type": {
-      "省考": 570
+      "省考": 572
     },
     "by_province": {
-      "全国": 517,
+      "全国": 519,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,83 @@
     }
   },
   "notices": [
+    {
+      "id": 572,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469120980374528",
+      "source_hash": "67fe4b2d8ec15cf4ab134ac7c54aed7d22a1ea06acfb5836602808feebdfd9ef",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "湘阴县纪委监委和县委巡察办2026年公开选调工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "因工作需要，经县委同意，湘阴县纪委监委和县委巡察办拟公开选调工作人员，现将选调公告发布如下：\n一、选调计划\n本次共计划选调工作人员9名（均适合男性），其中：\n1.县纪委监委执纪执法岗位计划选调公务员、参照公务员法管理人员6名；\n2.县纪委监委信息技术保障中心综合管理岗位计划选调事业编制工作人员1名；\n3.县委巡察办信息中心综合管理岗位计划选调事业编制工作人员2名。\n二、选调范围\n1.县纪委监委执纪执法岗位选调范围：湘阴县范围内在编在岗的公务员或参照公务员法管理工作人员。\n2.县纪委监委信息技术保障中心和县委巡察办信息中心综合管理岗位选调范围：湘阴县范围内事业单位在编在岗的工作人员。\n三、基本条件\n报名人员应当具备下列条件：\n1.中共党员（含预备党员），政治素质过硬，品行端正，作风正派。\n2.报考县纪委监委执纪执法岗位需具有公务员身份或者参照公务员法管理人员身份；报考县纪委监委信息技术保障中心和县委巡察办信息中心综合管理岗位需具有县内事业单位的管理或专业技术人员身份。\n3.大学本科及以上学历，年龄要求为38周岁及以下（1987年9月以后出生）。\n4.报考县纪委监委执纪执法岗位的人员需有2",
+      "apply_start": "2026-09-21",
+      "apply_end": "2026-09-30",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-21",
+        "apply_end": "2026-09-30",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-19 10:35:14",
+      "updated_at": "2026-09-19 10:35:14",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469120983437312.docx",
+        "https://hera.fbstatic.cn/469120984751104.docx"
+      ],
+      "position_count": 1,
+      "positions": [
+        {
+          "id": 97,
+          "notice_id": 572,
+          "position_code": null,
+          "position_name": null,
+          "dept_name": null,
+          "recruit_num": null,
+          "education": "本科",
+          "major": "1.需具有公务员身份或者参照公务员法管理人员身份。2.报考人员需有2年以上公务员（参照公务员法管理）工作经历（含试用期），且在现单位工作1年以上。3.满足公务员转任相关条件，近三年年度考核均为称职及以上等次。4.具有正常履行职责的身体条件和心理素质。5.符合流动调配的其他条件。",
+          "experience": null,
+          "political_status": "中共党员（含预备党员）",
+          "other_requirements": null
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "f8e08bfd40dadf35ba0b31353e2a8d07a29a3b845e410b8a36e68f562dd4f740",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招752589人147387职位收录20233考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-19 10:35:13",
+      "updated_at": "2026-09-19 10:35:13",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 570,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
@@ -16891,64 +16968,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:20",
       "updated_at": "2026-07-30 12:28:20",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 54,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1497",
-      "source_hash": "4207551bd87dc8c711c5d4ee5614ea4ffe1f3fac8d90a6656ffc328b14c6b4f7",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "2025年度吉林省市州级以上机关公开遴选公务员报考指南",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n202\n5\n年\n度\n吉林省市州级以上机关\n公开遴选公务员报考指南\n1.\n基层工作经历\n如何界定？\n答：\n基层工作经历是指在县（市、区）、乡（镇、街道）党政机关，村（社区）党组织或者村（居）委会，以及各类企业、事业单位工作过（\n市州级以上\n参照公务员法管理的事业单位不在此列）。在军队团和相当团以下单位工作的经历，退役士兵在军队服现役经历，可视为基层工作经历。长春市\n的\n区\n级\n机关工作经历视同为基层工作经历。\n报名人员在录用为公务员或者参照公务员法管理的事业单位工作人员之前有上述相关工作经历的，视为具有基层工作经历。\n经各级组织部门批准，担任驻村第一书记、驻村工作队队员和在县（市、区）级及以下机关挂职锻炼等工作经历；市州级公安、生态环境、自然资源、市场监督管理等机关所属区级分局工作经历；\n省级公安机关所属高速公路公安局所属分局、森林公安局所属分局、看守所、机场公安局等工作经历；市州级公安机关（含长白山公安局）所属特警支队、交警支队所属大队、看守所、拘留所、戒毒所、派出所、车管所等工作经历；各级司法行政机关所属监狱、戒毒场所工作经历，均视同为基层工作经历。",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:19",
-      "updated_at": "2026-07-30 12:28:19",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 52,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1424",
-      "source_hash": "b9b21b33db28a45cfa6ca7ae6961dbca54ab9a34575d8a43409cc40f12d395bf",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "2026年度吉林省各级机关考试录用公务笔试科目代码与笔试科目名称",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n2026\n年度吉林省各级机关考试录用公务笔试\n科目代码与笔试科目名称\n科目代码\n笔试科目名称\n考试级别\n报名费用\nA\n《行政职业能力测验》\n,《申论》（甲）\n甲级\n95元\nB\n《行政职业能力测验》\n,《申论》（乙）\n乙级\n95元\nC\n《行政职业能力测验》\n,《申论》（丙）\n丙级\n95元\nD\n《行政职业能力测验》\n,《申论》（丙）,《公安专业科目》\n丙级\n130元\n首页\n回顶部\n版权所有：吉林省公务员录用考试中心 地址：长春市南关区南环城路1958号  邮政编码：130022\n吉ICP备12001674号-2\n技术支持：吉林省科飞软件有限公司  网址：\nwww.kefei.com.cn",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:18",
-      "updated_at": "2026-07-30 12:28:18",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
