@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-19 15:55:29",
+  "updated_at": "2026-09-19 20:31:36",
   "stats": {
-    "total": 573,
+    "total": 574,
     "by_type": {
-      "省考": 573
+      "省考": 574
     },
     "by_province": {
-      "全国": 520,
+      "全国": 521,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 574,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "b4b56ed792274014bc2e5016114e98421210b25ab4ca845d5d68687c830371fe",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招12435人723职位收录39考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-19 20:15:49",
+      "updated_at": "2026-09-19 20:15:49",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 573,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16940,35 +16970,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:24",
       "updated_at": "2026-07-30 12:28:24",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 56,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=827",
-      "source_hash": "cde1a6a12d60ed8a971494eaa83cbc33dcf65c3ed9bab4e5959566d438f02fd1",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "公安机关录用人民警察体能测评实施规则",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n公安机关录用人民警察体能测评实施规则\n一、\n10米×4往返跑\n场地器材：场地为\n10米长的直线跑道，在跑道的两端各划一条5cm宽直线（S1和S2），将木块（10cm×5cm×5cm）按每道3块竖立摆放（其中2块放在S2线上，1块放在S1线上），秒表若干块。\n组测方法：发令员、计时员、监督员、成绩记录员若干名。按组别进行测试，每人最多可测\n2次，1次测评达标，即视为该项目测评合格。成绩以“秒”为单位，保留1位小数,第2位小数非“0”时则进1。\n动作要求：受测试者采用站立式起跑，听到发令后从\nS1线外跑到S2线前（脚不得踩线）用手将竖立的木块推倒后折返，往返跑2次，每次推倒1个木块，第2次返回时冲出S1线。\n注意事项：测试时有以下任一情况，不计取成绩：\n1.出发时抢跑；\n2.折返时脚踩S1或S2线；\n3.折返时未推倒木块。\n二、男子\n1000米跑、女子800米跑\n场地器材：\n400米标准田径场，发令枪、发令旗、秒表、号码标识若干。\n组测方法：发令员、计时员、弯道检查员、监督员、成绩记录员若干名。按组别进行测试，每人最多可测\n1次。计时员看到发令信号计时开始",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:22",
-      "updated_at": "2026-07-30 12:28:22",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
