@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-19 10:52:50",
+  "updated_at": "2026-09-19 15:55:29",
   "stats": {
-    "total": 572,
+    "total": 573,
     "by_type": {
-      "省考": 572
+      "省考": 573
     },
     "by_province": {
-      "全国": 519,
+      "全国": 520,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 573,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "39ee2cf86e0e5da627020ad2665490b21f43feca9edc9990bb224f4b2024d817",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招753079人147583职位收录20235考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-19 15:39:01",
+      "updated_at": "2026-09-19 15:39:01",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 572,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469120980374528",
@@ -16939,35 +16969,6 @@
       "tags": [],
       "first_seen_at": "2026-07-30 12:28:22",
       "updated_at": "2026-07-30 12:28:22",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 55,
-      "source_url": "http://www.jlgwyks.cn/news.aspx?id=1309",
-      "source_hash": "3586808b4d9a5761fd51277e9f10fcd2ef4c84a5f94cd9e36c8431042bb4bb9d",
-      "province": "吉林",
-      "exam_type": "省考",
-      "title": "公安机关录用人民警察体能测评项目和标准",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "吉林公务员考试网\n回到首页\n首页\n公安机关录用人民警察体能测评项目和标准\n备注：\n综合管理、执法勤务职位测查全部3个项目，警务技术职位免予测查1000米（男）/800米（女）跑项目；对专业人才紧缺难以形成竞争的特殊职位，经省级以上公务员主管部门同意，可以适当放宽体能测评有关项目标准或者免予测查体能测评项目；凡应测项目中任意一项不达标的，即为体能测评不合格。年龄计算时间截止到参加体能测评当月。\n首页\n回顶部\n版权所有：吉林省公务员录用考试中心 地址：长春市南关区南环城路1958号  邮政编码：130022\n吉ICP备12001674号-2\n技术支持：吉林省科飞软件有限公司  网址：\nwww.kefei.com.cn",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 12:28:20",
-      "updated_at": "2026-07-30 12:28:20",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
