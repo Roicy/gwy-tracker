@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-20 11:14:23",
+  "updated_at": "2026-09-20 16:02:37",
   "stats": {
-    "total": 584,
+    "total": 586,
     "by_type": {
-      "省考": 584
+      "省考": 586
     },
     "by_province": {
-      "全国": 531,
+      "全国": 533,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 586,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469212246070272",
+      "source_hash": "1c2f330854102281914c010ea5b4f10ebd9bb66e0bdedb2fe51b663c96b2c4e4",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "甘肃省面向武汉大学选调2027届优秀大学毕业生公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "【推荐表校内盖章流程】\n考生填写《甘肃省2027年选调应届优秀大学毕业生报名推荐登记表》纸质版（个人承诺处需手写签名）提交所在培养单位。各培养单位收齐材料后，对照公告要求进行审核，确定无误后，将报名信息及学院审核信息录入指定共享文档【腾讯文档】武汉大学2027甘肃省选调报名情况汇总表(https://docs.qq.com/sheet/DS2VQV3J4RnpsVU1X?tab=BB08J2)，待各培养单位完成初审（在共享文档里填写审核意见），再由就业中心审核。就业中心在共享文档中审核通过后，各学院查看到\"审核通过\"状态，再集中办理【院系党委公章】、【学校就业推荐章】，完成院系、就业部门推荐意见，各培养单位将学生推荐表和各单位报名汇总表统一交至就业中心，由就业中心收齐后统一至组织部盖章。各培养单位务必于10月15日前完成个人申请、学院初审、信息录入等电子资料准备，盖章后交至就业中心。中心到学校组织部盖章后预计10月中下旬将推荐表返至各考生。\n现就甘肃省2027年选调全日制应届优秀大学毕业生工作公告如下。\n一、选调范围和数量\n2027年计划选调应届优秀大学毕业生600名，其中定向选调30",
+      "apply_start": "2026-10-08",
+      "apply_end": null,
+      "written_exam": "2026-11-15",
+      "interview_start": null,
+      "recruit_count": 600,
+      "raw_fields": {
+        "apply_start": "2026-10-08",
+        "apply_end": null,
+        "written_exam": "2026-11-15",
+        "recruit_count": 600,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-20 15:44:57",
+      "updated_at": "2026-09-20 15:44:57",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469212247560192.doc",
+        "https://hera.fbstatic.cn/469212249136128.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 585,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "1161b2c70b8d1ef6b7cdb764cfb750e7f00793f0921a6216a9f9a1b4b5ff01c6",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招763516人148066职位收录20335考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-20 15:44:56",
+      "updated_at": "2026-09-20 15:44:56",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 584,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469204496571392",
@@ -16973,66 +17036,6 @@
       "tags": [],
       "first_seen_at": "2026-07-31 03:16:05",
       "updated_at": "2026-07-31 03:16:05",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 86,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "e557c1a0c389e68dc96599ef416fb5e8eff4afbcbe0cedff0c67a8efd11d55c2",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招385170人114203职位收录15792考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 19:31:02",
-      "updated_at": "2026-07-30 19:31:02",
-      "is_active": 1,
-      "attachment_urls": null,
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 84,
-      "source_url": "https://www.nxzgh.org.cn/index.html#/article/Index/25479.html",
-      "source_hash": "82665ec2f8b43e226676be7b01b7e8c33beaddaa97271040a37ff4c57ce108b1",
-      "province": "宁夏",
-      "exam_type": "省考",
-      "title": "自治区总工会直属事业单位2026年公开遴选工作人员补充公告",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "宁夏总工会",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-07-30 14:10:55",
-      "updated_at": "2026-07-30 14:10:55",
       "is_active": 1,
       "attachment_urls": null,
       "position_count": 0,
