@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-21 12:39:57",
+  "updated_at": "2026-09-21 22:11:44",
   "stats": {
-    "total": 595,
+    "total": 597,
     "by_type": {
-      "省考": 595
+      "省考": 597
     },
     "by_province": {
-      "全国": 542,
+      "全国": 544,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 597,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469234264857600",
+      "source_hash": "6ffcd5ba5b7186327c6f6556d7907bae7a383af6c2ad9214daf764463a0b8f5f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "关于2026年西和县县直（所属）事业单位公开选调工作人员的公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《中共西和县委办公室西和县人民政府办公室关于印发<西和县机关事业单位公开选调工作人员实施办法（试行）>的通知》（西办发〔2022〕75号）精神，结合工作实际需要，决定在全县范围内为部分县直（所属）事业单位公开选调工作人员，现将有关事宜通知如下：\n一、公开选调的计划、范围和条件\n(一)选调计划\n本次公开选调涉及9个县直（所属）事业单位，共设置13个职位，计划选调13人(详见附件1)。\n（二）报名范围\n全县各乡镇、县直派驻乡镇在册的正式事业干部（不含担任事管八级及以上领导职务人员、教师、医护人员、驻西单位工作人员）。\n（三）报考资格条件\n（1）政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n（2）具有良好的业务素质，品行端正，实绩突出，群众公认，有较强的文字功底，吃苦精神和组织纪律观念强；\n（3）具有正常履行职责的身体条件和心理素质；\n（4）具备岗位所需的年龄、学历、政治面貌、专业或者技能条件；\n（5）参加工作时间5年及以上，近三年年度考核结果为称职(合格)及以上等次；\n（6）参加工作时间、年龄等计算截止时间为202",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-21 21:53:16",
+      "updated_at": "2026-09-21 21:53:16",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469234278667265.doc",
+        "https://hera.fbstatic.cn/469234279976960.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 596,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "14113d176ae7e77ccf401df2d49d4dae4020aad8b848f188f3298dcd5023e444",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招765645人148701职位收录20480考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-21 21:53:14",
+      "updated_at": "2026-09-21 21:53:14",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 595,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16980,69 +17043,6 @@
         "https://hera.fbstatic.cn/468059510477824.pdf",
         "https://hera.fbstatic.cn/468059512049664.pdf"
       ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 97,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468059983466496",
-      "source_hash": "35c8f5aebc728ddd388442cfe44ebe6991945a2cd6a86160b9839728b00b1c81",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "兴宁市教育局关于公开选调教研员的公告正在报名广东 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为深入贯彻落实习近平总书记关于教育工作重要论述精神，着力打造高素质教师队伍，强化教科研工作水平，推进兴宁教育高质量发展，根据兴宁市教师发展中心教研工作需要，现面向我市在编在岗公办教师公开选调7名中小学教研员。具体如下：\n一、岗位及名额\n本次公开选调学科教研员共计7名，分学段、分学科定岗，具体岗位及名额如下：\n（一）高中学段（3人）：\n高中语文教研员1人、高中数学教研员1人、高中物理教研员1人。\n（二）初中学段（2人）：\n初中数学教研员1人、初中英语教研员1人。\n（三）小学学段（2人）：\n小学语文教研员1人、小学数学教研员1人。\n（四）岗位职责\n承担全市对应学段学科教研、教学视导、质量测评、课题科研与教师培养，落实课改政策，完成各类教研专项工作。\n二、报考条件\n（一）基本条件\n1.政治立场坚定，拥护党的教育方针，遵纪守法，恪守教师职业道德规范，作风正派、爱岗敬业、廉洁自律；\n2.兴宁市在编在岗公办中小学专任教师、专职教研员，身体健康，能够胜任教研视导、赛事组织、课题研究、外出培训等常态化教研工作；\n3.无师德失范、违法违纪行为，近三年年度考核均为合格及以上等次，无不良从业记录。\n（二）岗",
-      "apply_start": "2026-08-06",
-      "apply_end": "2026-08-07",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-06",
-        "apply_end": "2026-08-07",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-01 08:47:27",
-      "updated_at": "2026-08-01 08:47:27",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468059984960512.docx",
-        "https://hera.fbstatic.cn/468059986532352.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 96,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "e2b2043a3b7b6c1f64ddef2e5287490293faa6efd5d71164188f1a0f8e853b7d",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招382824人114419职位收录15782考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-01 08:47:25",
-      "updated_at": "2026-08-01 08:47:25",
-      "is_active": 1,
-      "attachment_urls": [],
       "position_count": 0,
       "positions": []
     }
