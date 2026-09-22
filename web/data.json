@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-22 11:39:44",
+  "updated_at": "2026-09-22 16:54:28",
   "stats": {
-    "total": 604,
+    "total": 606,
     "by_type": {
-      "省考": 604
+      "省考": 606
     },
     "by_province": {
-      "全国": 551,
+      "全国": 553,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,66 @@
     }
   },
   "notices": [
+    {
+      "id": 606,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469256904398848",
+      "source_hash": "acc5632d5a1f8d67fa49e1f6ea8db50e9ce4101b8388a728f89139e9e1e26e18",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "深圳市福田区深大附中创新中学2026年市内选调在编教师公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "学校简介\n深圳市福田区深大附中创新中学（原深圳市福田区北环中学）创办于1994年8月，位于全国文明示范小区深圳市福田区莲花北村内，是隶属于深圳市福田区教育局的一所公办全日制初级中学，是一所校风正、质量优，政府肯定、社会信赖、家长认可、学生向往的一所优质学校。校园占地面积22699平方米，建筑面积26456平方米。现有教学班40个，在校学生1970人。\n学校非常重视青年教师的培养，为青年教师的专业发展铺路子、搭台子、给位子、压担子，引领年轻教师快速成长，促进了青年教师的快速成长。\n因学校发展需要，现开展市内选调工作，相关事宜通告如下：\n01\n选调对象\n深圳市内在编老师\n02\n选调岗位\n初中语文教师1名\n初中数学教师1名\n初中英语教师1名\n初中历史教师1名\n初中体育教师1名\n03\n选调条件\n1.深圳市内在编在岗教师。\n2.35周岁及以下（具有全日制普通高等院校博士学位可放宽至40周岁、副高级职称可放宽至45周岁、高级职称可放宽至50周岁）。\n3.具有全日制普通高等院校硕士研究生及以上学历且获得相应学位。\n4.具有五年及以上初中相应学科教学工作经历且目前仍从事该岗位工作。中考学科岗位需具有一",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-22 16:36:45",
+      "updated_at": "2026-09-22 16:36:45",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 605,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "e24d91d968496310b1a029b1f08571e6eecb8cd2c2ac223788f5b3ac904ac892",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招764219人149199职位收录20594考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-22 16:36:44",
+      "updated_at": "2026-09-22 16:36:44",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 604,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469249036146688",
@@ -16969,71 +17029,6 @@
       "updated_at": "2026-08-01 13:26:40",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 106,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468054451706881",
-      "source_hash": "441a5a874ad4e038891b2ed882312172a9d4777530562bf6e8e12c500a7e45bf",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年中共泗县县委党校公开选调事业单位工作人员公告正在报名安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为适应新时代党员干部教育培训工作需要，根据《事业单位人事管理条例》（国务院令第652号）、《关于印发〈安徽省事业单位公开招聘人员暂行办法〉的通知》（皖人社发〔2010〕78号）和《关于进一步做好艰苦边远地区县乡事业单位公开招聘工作的实施意见》（皖人社发〔2017〕21号）规定和要求，经县委批准，决定公开选调县委党校工作人员2名。现将有关事项公告如下：\n一、选调程序\n公开选调工作按照发布公告、报名与资格审查、笔试、资格复审、专业测试、体检、考察、公示、办理聘用手续等步骤进行。\n二、选调计划\n2026年中共泗县县委党校公开选调事业单位工作人员选调计划（岗位）等信息于7月31日起同时在泗县人民政府网(https://www.sixian.gov.cn/)、泗县人力资源和社会保障局政务公开平台（https://www.sixian.gov.cn/public/column/25162?type=4&catId=60739701&action=list&nav=3）统一发布。选调后续相关信息，均在上述网站发布，不再另行通知。因报考者不主动、不按要求登录相关网站查阅相关信息，导致本人未能按要求参加",
-      "apply_start": "2026-08-03",
-      "apply_end": null,
-      "written_exam": "2026-08-15",
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-03",
-        "apply_end": null,
-        "written_exam": "2026-08-15",
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-01 08:47:45",
-      "updated_at": "2026-08-01 08:47:45",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468054459750400.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 105,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468054691827712",
-      "source_hash": "a2cd951654c298b407ceb164dd094c8947bd9b5a77a865442621521141b2e347",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "井冈山市融媒体中心等二十八家事业单位公开选调工作人员公告正在报名江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据工作需要，井冈山市融媒体中心等二十八家事业单位公开选调工作人员35名。为确保选调工作的公开、公平、公正性，现将选调工作有关事项公告如下：\n一、选调岗位\n详见《附件1》。\n二、报考范围和资格条件\n（一）报考范围\n井冈山市卫生健康服务中心岗位面向本市卫生系统符合岗位条件的在编在岗全额拨款事业单位人员，其他岗位面向全市除教育、卫生系统以外的符合岗位条件的在编在岗全额拨款事业单位人员。\n（二）报考资格条件\n1.具有良好的政治、业务素质，品行端正、身心健康；\n2.年龄在40周岁及以下(1985年7月29日以后出生)；\n3.具有连续2年（含试用期）以上事业单位工作经历，须在现单位连续工作1年以上(计算截止时间2026年7月29日)；\n4.近三年年度考核均为合格及以上等次，试用期考核合格的视为合格等次；\n5.符合选调岗位要求的学历条件、其他资格条件，以及法律、法规及相关政策规定的其他条件。\n（三）具有下列情形之一的，不得报考：\n1.被依法列为失信联合惩戒对象的；\n2.涉嫌违纪违法正在接受审查调查尚未作出结论的；\n3.受到诫勉、组织处理等影响期未满或期满影响调动的；\n4.按照有关规定，到乡镇机关、",
-      "apply_start": "2026-08-04",
-      "apply_end": "2026-07-29",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-04",
-        "apply_end": "2026-07-29",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-01 08:47:43",
-      "updated_at": "2026-08-01 08:47:43",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468054693321728.doc",
-        "https://hera.fbstatic.cn/468054694631424.docx"
-      ],
       "position_count": 0,
       "positions": []
     }
