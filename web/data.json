@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-22 04:14:01",
+  "updated_at": "2026-09-22 11:39:44",
   "stats": {
-    "total": 601,
+    "total": 604,
     "by_type": {
-      "省考": 601
+      "省考": 604
     },
     "by_province": {
-      "全国": 548,
+      "全国": 551,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,106 @@
     }
   },
   "notices": [
+    {
+      "id": 604,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469249036146688",
+      "source_hash": "dc83d52a2fe35863d8ae4f981d16311ee54b6cc2255f78b2edd1a680f59a9ef2",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "酒泉市2026年市属事业单位公开选调工作人员（第二批）公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《事业单位人事管理条例》《关于进一步做好市直部门单位工作人员公开遴选和调配工作的通知》等相关政策规定，结合工作实际，经研究决定，组织开展酒泉市2026年市属事业单位公开选调工作人员（第二批）工作。现将有关事宜公告如下：\n一、公开选调计划\n本次计划公开选调事业单位工作人员29名，具体条件详见《酒泉市2026年市属事业单位公开选调工作人员（第二批）岗位简表》（附件1，以下简称《岗位简表》）。\n二、公开选调范围和条件\n（一）公开选调范围\n1.事业编制岗位：酒泉市所属县（市、区）及以下事业单位中，具有事业编制的在编在岗工作人员。市直部门单位设在酒泉市所属县（市、区）的机构中符合公开选调条件的也可报名。酒泉市所属县（市、区）及以下机关、参照公务员法管理单位中已进行公务员登记和参公登记且在编在岗的人员（以下统称“公务员”），自愿放弃公务员身份的，也可报名。\n2.备案制员额岗位：酒泉市所属县（市、区）及以下事业单位中，在机构编制部门纳入备案制管理的在岗员额人员。\n（二）公开选调条件\n1.政治立场坚定、政治素质过硬，增强“四个意识”、坚定“四个自信”、做到“两个维护”。\n2.具有良好的业务素质，品",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-22 11:14:05",
+      "updated_at": "2026-09-22 11:14:05",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469249038423040.pdf",
+        "https://hera.fbstatic.cn/469249039994880.doc",
+        "https://hera.fbstatic.cn/469249041570816.pdf",
+        "https://hera.fbstatic.cn/469249042880512.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 603,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469249952863232",
+      "source_hash": "2b3d646215bbe2689d48fc3ae8fbbeaee46b90d8e929e1d132b41e05cd971b0e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度平江县县直单位及乡镇街道公开遴选（选调）工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《中华人民共和国公务员法》《湖南省公务员转任实施办法》《湖南省公务员公开遴选实施办法》和《事业单位人事管理条例》《关于进一步规范机关事业单位人员流动调配工作的意见》等有关规定，决定面向全县公开遴选（选调）工作人员。现将有关事项公告如下：\n一、公开遴选公务员（含参照公务员法管理人员）\n（一）遴选职位\n本次县直（街道）机关及参照管理单位公开遴选职位27个，具体职位及资格条件详见《平江县县直（街道）机关及参照管理单位公开遴选公务员职位表》（附件1，以下简称职位表）。\n（二）遴选范围与条件\n1.报名范围\n全县已进行公务员登记且在编在岗的公务员。\n全县参照公务员法管理单位及机构改革涉改参照公务员法管理单位中，已进行参照登记且在编在岗的工作人员。\n2.报名条件\n报名人员应当具备下列资格条件：\n⑴政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、坚决做到“两个维护”。\n⑵具有正常履行职责的身体条件和心理素质。\n⑶具有良好的业务素质，品行端正，实绩突出，群众公认。\n⑷在机关工作2年以上，且在本单位工作1年以上，新提拔职务的应在现任职务工作满1年。\n⑸",
+      "apply_start": "2026-09-28",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-28",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-22 11:14:04",
+      "updated_at": "2026-09-22 11:14:04",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469249956450304.doc",
+        "https://hera.fbstatic.cn/469249959861248.doc",
+        "https://hera.fbstatic.cn/469249961170944.doc",
+        "https://hera.fbstatic.cn/469249962480640.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 602,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "d3c95ad3814b0be898914450c06e4766bbc677b286503c9584010642ed55a7b6",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招764211人149090职位收录20567考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-22 11:14:02",
+      "updated_at": "2026-09-22 11:14:02",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 601,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469159699566592",
@@ -16933,104 +17033,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468054693321728.doc",
         "https://hera.fbstatic.cn/468054694631424.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 104,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468055588625408",
-      "source_hash": "fd9a349c7ea5e1b9f3a7fa94b6318643ca54d5f507dc0a92b32d986ccdb68e34",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年凤阳县教育体育局公开选调教研员公告正在报名安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为加强和改进新时代基础教育教研工作，全面建设高素质专业化教研队伍，提升教研工作质量和服务水平，全面提高我县中小学教育教学质量，经研究决定，现面向全县公开选调教研员4名。现将有关事项公告如下：\n一、选调原则\n坚持“公开公平，竞争择优”的原则，按照德才兼备的标准，采取考试与考察相结合的方式进行。\n二、选调范围与岗位\n选调范围为全县范围内正式在编在岗教师。选调初中思政、初中英语、初中历史、初中化学学科教研员各1名。\n三、选调条件\n（一）基本条件\n1.忠诚于党和人民的教育事业，全面贯彻党的教育方针，落实立德树人根本任务，遵守国家宪法和法律，模范履行岗位职责，品行修养良好。\n2.具有国家承认的大学本科及以上学历，一级教师及以上职称。\n3.具有初中及以上教师资格，具有满10年以上从教经历，其中满3年以上初中及以上学段报考学科从教经历（截至报名时）。\n4.年龄45周岁以下（1980年8月1日（含）以后出生）。\n6.近3年年度考核和师德考核均为合格及以上等次。\n（二）资格条件\n同时具备下列2项及以上资格条件\n1.师德师风高尚，获得县级教育行政部门颁发的荣誉证书或通报表扬。\n2.教学能力突出，获得省特级",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-01 08:47:42",
-      "updated_at": "2026-08-01 08:47:42",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468055590377472.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 103,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468055588622336",
-      "source_hash": "2faea577581e89cb4394ca70042ac886471f33f575fbbe1bba8fa6d8dbaf825b",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年凤阳县教师进修学校公开选调工作人员公告正在报名安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步完善教师发展培训体制机制，拓展教师发展空间，保障全县中小学、幼儿园、中职学校教师继续教育的学习、指导、管理，培训与派训等工作，经研究决定，2026年凤阳县教师进修学校选调工作人员6名。现将有关事项公告如下。\n一、选调原则\n坚持“公开公平，竞争择优”的原则，按照德才兼备的标准，采取考试与考察相结合的方式进行。\n二、选调范围与岗位\n凤阳县教师进修学校面向全县教体系统在编在岗教师公开选调工作人员6名。具体岗位见附件1。\n三、选调条件\n（一）忠诚于党和人民的教育事业，全面贯彻党的教育方针，落实立德树人根本任务，遵守国家宪法和法律，模范履行岗位职责，师德高尚，品行修养良好。\n（二）学历、教师资格、职称等要求详见附件1。\n（三）近3年事业单位年度考核和教师职业道德考核均为合格及以上等次。\n（五）有下列情形之一的，不得报考：\n1.不符合选调范围、岗位、条件要求的人员；\n2.近3年病假（因公负伤除外）、事假、非单位派出外出学习累计超过半年；\n3.正在接受司法调查尚未作出结论的人员，受到党纪政纪处分期限未满或者正在接受审查、调查的人员；\n4.法律、法规及有关政策规定的其他不得报考情形。\n四、选调",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-01 08:47:39",
-      "updated_at": "2026-08-01 08:47:39",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468055590116352.doc",
-        "https://hera.fbstatic.cn/468055591688192.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 102,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468055949333504",
-      "source_hash": "e26c284c8a5f83729933cda8ffb237597ec201bf4e40ea0e8c39304338f8baa1",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "秦安县2026年教育局所属事业单位公开选调工作人员公告正在报名甘肃 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为了加强秦安县教育局所属事业单位干部职工队伍建设，根据《事业单位人事管理条例》等有关法律法规规定，决定为秦安县教育局所属事业单位公开选调工作人员。现将有关事项公告如下。\n一、选调岗位计划\n教育综合业务岗位18名（招生考试中心1名、电教馆1名、教育教研室1名、教育质量评估监测中心15名），岗位要求详见《秦安县2026年教育局所属事业单位公开选调工作人员岗位表》（附件1）。\n二、选调范围及对象\n全县教育系统各级各类学校（幼儿园）、学区在编在岗工作人员。\n三、资格条件\n1.具有良好的思想政治素质，遵纪守法，品行端正，身体健康。\n2.具有良好的业务素质，实绩突出，群众公认。\n3.具有大学本科及以上文化程度、教师资格证。\n4.年龄45周岁及以下（1980年8月及以后出生）。\n5.参加工作5年及以上（时间计算截止2026年8月）。\n6.近3年（2023年至2025年）年度考核结果均为合格及以上等次。\n7.具有正常履行职责的身体条件和心理素质。\n8.法律法规规定的其他条件。\n有下列情形之一的人员，不得参加选调：\n1.被开除中国共产党党籍的。\n2.被依法列为失信联合惩戒对象的。\n3.涉嫌违纪违法正在接",
-      "apply_start": "2026-08-03",
-      "apply_end": "2026-08-04",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-03",
-        "apply_end": "2026-08-04",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-01 08:47:36",
-      "updated_at": "2026-08-01 08:47:36",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468055950826496.xls",
-        "https://hera.fbstatic.cn/468055952397312.docx"
       ],
       "position_count": 0,
       "positions": []
