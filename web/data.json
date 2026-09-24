@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-23 21:35:33",
+  "updated_at": "2026-09-24 04:10:27",
   "stats": {
-    "total": 616,
+    "total": 618,
     "by_type": {
-      "省考": 616
+      "省考": 618
     },
     "by_province": {
-      "全国": 563,
+      "全国": 565,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 618,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469281777144832",
+      "source_hash": "dc07422fdb15143ffde5121a15142097b114fc885289ab31a4c681ea4d860850",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "深圳市龙华区委统战部面向市内公开选调事业单位工作人员的公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据深圳市事业单位人员管理有关规定，结合我单位工作需要，现决定面向市内公开选调事业单位工作人员1名。有关事项公告如下：\n一、选调范围及职位\n（一）选调范围：深圳市内事业单位在编在岗工作人员，报考者现聘岗位级别不得低于选调职位岗位级别。\n（二）选调职位：龙华区民主党派服务中心（台港澳经贸合作交流服务中心）九级管理岗职员1名。具体选调职位及资格要求详见附件《深圳市龙华区委统战部面向市内公开选调事业单位工作人员职位表》（附件1）。\n二、选调条件\n（一）选调对象应具备以下条件：\n1.具有普通高等院校研究生及以上学历及硕士及以上学位，专业不限，其他要求详见职位表；\n2.通过市、区人事综合管理部门组织或者授权组织的公开招聘，已办理聘用备案手续并经试用期转正的管理岗或者专业技术岗位人员，人员经费形式为财政核拨；\n3.事业单位工作人员年度考核均为合格（称职）以上等次；\n4.符合其所在单位最低服务年限要求，并经所在单位同意；\n5.选调后聘用级别依据报考岗位级别确定。现聘职务级别高于选调职位最高级别的，报考人员需提交自愿放弃原职务级别承诺书；\n6.符合任职回避规定。\n（二）具有下列情形之一的，不得参加本次",
+      "apply_start": "2026-09-23",
+      "apply_end": "2026-10-23",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-09-23",
+        "apply_end": "2026-10-23",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-24 03:48:39",
+      "updated_at": "2026-09-24 03:48:39",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469281780731904.xlsx",
+        "https://hera.fbstatic.cn/469281783880705.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 617,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "e338ee782565a80903bdaa04c43ea8ff18e4be7e068a8de76e4d981031985121",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招778715人149821职位收录20743考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-24 03:48:38",
+      "updated_at": "2026-09-24 03:48:38",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 616,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16975,72 +17038,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468117043222528.xlsx",
         "https://hera.fbstatic.cn/468117044794368.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 118,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468117543214081",
-      "source_hash": "ba6bf51de2cc04631ab45a210caac3c852d6ee10640bdb332d0116e3e705741e",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "大庆市邮政管理局所属事业单位公开选调工作人员公告正在报名黑龙江 · 选调职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据工作需要，大庆市邮政管理局所属事业单位大庆市邮政业安全中心面向全市公开选调工作人员。现将有关事项公告如下：\n一、选调计划\n大庆市邮政管理局所属事业单位大庆市邮政业安全中心计划选调工作人员2名，具体岗位和要求详见《大庆市邮政管理局所属事业单位2026年公开选调工作人员岗位计划表》（附件1）。\n二、选调范围\n全市范围内（包括县、区）的各级机关、事业单位在编在岗工作人员。\n三、选调条件\n（一）基本条件：\n1.具有中华人民共和国国籍；\n2.中共党员，政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n3.具有统招本科及以上学历，取得与报考学历相对应的学位；\n4.年龄在38周岁及以下（1987年8月3日以后出生，含当日），具备博士研究生学历或具有专业技术中级及以上职称人员年龄可放宽至40周岁及以下（1985年8月3日以后出生，含当日）；\n5.具有干部身份，纳入编制2年及以上（时间截至2026年8月3日，含当日），参加工作以来，年度考核结果均为称职或合格及以上等次；\n6.身体健康、具有正常履行职责所需的身体条件；\n7.法律法规规",
-      "apply_start": "2026-08-10",
-      "apply_end": "1985-08-03",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-10",
-        "apply_end": "1985-08-03",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-03 09:52:19",
-      "updated_at": "2026-08-03 09:52:19",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468117545227264.doc",
-        "https://hera.fbstatic.cn/468117546802176.doc",
-        "https://hera.fbstatic.cn/468117548110848.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 117,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468118881197056",
-      "source_hash": "da3bcfd65f63477c6d19033e4d6ba0b707b85641f9a1c4ea3d9ee1b42a18e8ac",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "应城市2026年公开选调乡镇义务教育学校公办教师到城区学校任教公告正在报名湖北 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据我市教育现状及今后发展趋势，结合当前城乡教师队伍实际，为进一步调动乡镇教师的工作积极性，合理调配城乡教师资源，拟从全市乡镇在职(在编、在岗)的义务教育学校教师中通过考试选调一批教师进入城区学校工作，解决城区学校部分学科教师紧缺问题。\n一、公开选调岗位及条件\n（一）公开选调人数及岗位\n公开选调人数为60名，具体岗位为：\n1.小学语文教师16人。其中实验小学7人，开发区学校小学部2人，蒲润实验学校7人。\n2.小学数学教师13人。其中实验小学7人，开发区学校小学部2人，蒲润实验学校4人。\n3.小学英语教师2人。其中开发区学校小学部1人，蒲润实验学校1人。\n4.小学音乐教师2人。其中开发区学校小学部1人，蒲润实验学校1人。\n5.小学体育教师1人。招聘学校为蒲润实验学校。\n6.小学美术教师1人。招聘学校为蒲润实验学校。\n7.小学信息技术教师1人。招聘学校为开发区学校小学部。\n8.初中道法教师3人。其中实验初中2人，西河中学教联体1人。\n9.初中语文教师5人。其中实验初中1人，西河中学教联体2人，开发区学校初中部2人。\n10.初中数学教师5人。其中实验初中1人，西河中学教联体2人，开发区学校初",
-      "apply_start": "2026-08-05",
-      "apply_end": "2026-08-31",
-      "written_exam": "2026-08-07",
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-05",
-        "apply_end": "2026-08-31",
-        "written_exam": "2026-08-07",
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-03 09:52:17",
-      "updated_at": "2026-08-03 09:52:17",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468118882949120.xls"
       ],
       "position_count": 0,
       "positions": []
