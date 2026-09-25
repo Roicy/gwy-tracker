@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-25 04:20:53",
+  "updated_at": "2026-09-25 11:47:01",
   "stats": {
-    "total": 623,
+    "total": 624,
     "by_type": {
-      "省考": 623
+      "省考": 624
     },
     "by_province": {
-      "全国": 570,
+      "全国": 571,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 624,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "e3334ea521d9f8a3c3b5cca27220ecf36140a505adeb2a7354cb1fb0aa672c1e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招777859人150254职位收录20864考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-25 11:29:27",
+      "updated_at": "2026-09-25 11:29:27",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 623,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -17006,40 +17036,6 @@
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468127388733440.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 124,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468129379537920",
-      "source_hash": "527f6f3ab454935c5d455b0acf975e18ea153078eb5a2895d5bfba7febdad9e9",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年贺州市八步区城区中小学公开选调教师简章正在报名广西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为了解决我区城区部分中小学学生增加造成的师资不足问题，改进和优化教师队伍结构，2026年我区决定面向八步区乡镇中小学在编人员公开选调城区中小学教师30名。现将有关事项公告如下：\n一、选调单位、岗位及人数\n本次选调八步区城区中小学教师共30名，其中初中8名，小学22名，具体选调单位、岗位、人数详见《2026年贺州市八步区城区中小学公开选调教师岗位计划表》(附件1)。\n二、选调资格条件\n(一)报考人员应当具备以下条件：\n1.具有良好的思想政治品德与职业道德。拥护中国共产党的领导，热爱祖国，热爱教育事业;遵纪守法，服从组织安排。\n2.具有正常履行岗位职责所需的工作能力、身体条件和良好的心理素质。\n3.八步区乡镇在编在岗,按政策规定符合正常调动的中小学教师。\n4.年龄：45周岁以下(1980年8月10日后出生)。\n5.具有国家承认学历的相应文化程度，符合招聘岗位所要求的岗位资格条件。\n6.职称：中小学教师系列二级教师职称及以上。\n7.教师资格：具备与报考岗位相对应的中小学教师资格。\n8.有5年以上（全科生6年以上）公办学校任教经历且有3年及以上相应学段学科的一线任教经历。\n(二)具有下列情形之",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": "2026-08-15",
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": "2026-08-15"
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-04 02:45:26",
-      "updated_at": "2026-08-04 02:45:26",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468129381289984.xlsx",
-        "https://hera.fbstatic.cn/468129382865920.doc",
-        "https://hera.fbstatic.cn/468129384175616.xls"
       ],
       "position_count": 0,
       "positions": []
