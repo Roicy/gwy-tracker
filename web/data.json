@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-26 11:22:31",
+  "updated_at": "2026-09-26 16:22:52",
   "stats": {
-    "total": 627,
+    "total": 628,
     "by_type": {
-      "省考": 627
+      "省考": 628
     },
     "by_province": {
-      "全国": 574,
+      "全国": 575,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 628,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "ed3dffab9bd7912c9ed948fdcc352420ec7572b7104dd50775aead58d852be32",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招777981人150262职位收录20871考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-26 16:04:52",
+      "updated_at": "2026-09-26 16:04:52",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 627,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -17001,38 +17031,6 @@
       "updated_at": "2026-08-04 14:22:14",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 128,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468139302738944",
-      "source_hash": "57e579722acdfbc8cb1c858e18043de1864acba8fcb2d4b700719f29c65dbfb7",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "新化县2026年城区缺员学校暨农村高中学校选调教师实施方案正在报名湖南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为补齐城区缺员学校和农村高中学校因扩大办学规模、教师退休、调出、化解大班额产生的教师缺口，确保秋季学期教育教学正常开展，有效推动县域内教师均衡配置，经研究，决定选调一批教师到城区缺员学校和农村高中学校任教。具体方案如下：\n一、选调原则\n坚持编制许可、学科需要、资格符合、公平公正的选调原则。\n二、选调计划及学科岗位\n本次城区缺员学校和农村高中学校面向县内公办中小学校（含幼儿园）符合条件的在编在岗教师选调计划共200名，具体安排如下：\n（一）城区缺员学校选调教师。共选调100名，其中学前教育教师6名，初中教师47名，城区高中学校（含楚怡工业学校，下同）教师45名，县社会福利院特殊教育教师2名。\n（二）农村普通高中学校选调教师。共选调100名。\n（三）具体层次及学科岗位见附件1。\n三、选调条件及规定\n（一）学历要求：报考幼儿园教师和社会福利院特殊教育教师岗位的应具有中师及以上学历；报考初中岗位的教师应具有大专及以上学历；报考高中学校的应具有本科及以上学历。\n（二）资格要求：报考幼儿园教师岗位的应具有幼儿园教师资格证；报考社会福利院特殊教育教师岗位的应具有幼儿园及以上教师资格证（具有特殊教育教",
-      "apply_start": "2023-09-01",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": 100,
-      "raw_fields": {
-        "apply_start": "2023-09-01",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": 100,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-04 08:42:26",
-      "updated_at": "2026-08-04 08:42:26",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468139304491008.docx"
-      ],
       "position_count": 0,
       "positions": []
     }
