@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-27 11:59:02",
+  "updated_at": "2026-09-27 16:59:30",
   "stats": {
-    "total": 631,
+    "total": 632,
     "by_type": {
-      "省考": 631
+      "省考": 632
     },
     "by_province": {
-      "全国": 578,
+      "全国": 579,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 632,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "02ef16ffa591f4e34aa402ce24b2adb47f39c7eaf32ffd6df36b199e560a95c0",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招779451人150293职位收录20881考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-27 16:42:22",
+      "updated_at": "2026-09-27 16:42:22",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 631,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16990,38 +17020,6 @@
         "https://hera.fbstatic.cn/468145998861312.xls",
         "https://hera.fbstatic.cn/468146000433152.docx",
         "https://hera.fbstatic.cn/468146002008064.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 132,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468146031975426",
-      "source_hash": "f963550fc25f93460e2c01a3a5155767960f278e9737956b3dccecc469a012bf",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "中国国际贸易促进委员会浙江省义乌市委员会公开选调事业人员公告正在报名浙江 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "中国国际贸易促进委员会浙江省义乌市委员会系义乌市商务局下属全额预算事业单位，因工作需要，拟面向全市范围公开选调事业单位工作人员2名。现将有关事项公告如下：\n一、选调对象\n全市范围内事业单位在职在编工作人员，思想政治素质好，遵纪守法，品行端正。\n二、资格条件\n（一）报名参加公开选调的人员应当符合以下条件：\n1.在事业单位工作满5年，计算时间截止至2026年8月4日；\n2.身体健康，年龄在35周岁以下（1991年8月5日及以后出生）；\n3.符合选调岗位的具体要求。\n（二）有下列情形之一的人员，不能参加选调：\n1.正处于试用期或按有关规定服务期未满的;\n2.在接受有关部门审查处理的；\n3.受党纪、政纪处分未撤销或处分影响期未满的；\n4.有其他不能参加选调情形的。\n三、岗位要求\n1.专业要求：专业不限（经济贸易类专业或有相关从业经历者优先）。\n2.学历要求：全日制本科及以上学历。\n四、选调程序\n（一）报名审核。\n1.报名。根据岗位要求填写《中国国际贸易促进委员会浙江省义乌市委员会公开选调报名表》，由所在单位、主管部门同意并盖章。报名人员请于报名时间内携带一式一份报名表，本人毕业证书、身份证等相",
-      "apply_start": "2026-08-04",
-      "apply_end": "2026-08-13",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-04",
-        "apply_end": "2026-08-13",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-04 14:22:19",
-      "updated_at": "2026-08-04 14:22:19",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468146033989632.docx"
       ],
       "position_count": 0,
       "positions": []
