@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-26 21:07:25",
+  "updated_at": "2026-09-27 04:40:42",
   "stats": {
-    "total": 629,
+    "total": 630,
     "by_type": {
-      "省考": 629
+      "省考": 630
     },
     "by_province": {
-      "全国": 576,
+      "全国": 577,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 630,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "83caeaba3feef6a834706e89723999031c326c0bcf917645de9656615baa523e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招777861人150269职位收录20871考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-27 04:23:16",
+      "updated_at": "2026-09-27 04:23:16",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 629,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16997,39 +17027,6 @@
         "https://hera.fbstatic.cn/468147699650560.doc",
         "https://hera.fbstatic.cn/468147702799360.doc",
         "https://hera.fbstatic.cn/468147704371200.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 130,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468149083069440",
-      "source_hash": "feb8b72bc6aa939b28a0e1a6bee7aeef7676aff1cf984bc6ea2b448c4878e73e",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "吉水县2026年面向县内公开选调城区义务教育（幼儿园）教师公告报名结束江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为合理配置城乡教师资源，进一步优化教师队伍结构，推动我县教育事业高质量发展，县教体局、县人社局决定面向县内开展2026年城区义务教育（幼儿园）教师公开选调工作。现将有关事项公告如下。\n一、选调原则\n1.公平、公正、竞争、择优的原则；\n2.统一政策、统一组织、统一程序的原则；\n3.保密、回避、监督的原则。\n二、选调范围及岗位\n1.面向县内乡镇中小学校在编教师，公开选调城区初中教师48名；\n2.面向县内乡镇小学在编教师，公开选调城区小学教师28名；\n3.面向乡镇幼儿园在编教师、幼儿控制数教师，以及截止2026年春季学期在公办幼儿园任教的转岗教师，公开选调城区幼儿园教师5名；\n4.符合条件的转岗教师可同时报考城区小学和城区幼儿园选调岗位；\n5.具体招聘岗位及名额详见《吉水县2026年面向县内公开选调城区义务教育（幼儿园）教师岗位表》（附件1）。\n三、县内选调条件\n1.遵纪守法、作风正派、师德良好、爱岗敬业、身心健康。\n2.近5年年度考核和师德师风学年度考核均为合格及以上等次。\n3.国编教师需任教满5年，“三定向”“三支一扶”及幼儿控制数教师需在乡镇学校任教满5年，特岗教师需在乡镇学校任教满6",
-      "apply_start": "2026-08-06",
-      "apply_end": "2026-08-07",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-06",
-        "apply_end": "2026-08-07",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-04 14:22:15",
-      "updated_at": "2026-08-04 14:22:15",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468149084559362.doc",
-        "https://hera.fbstatic.cn/468149085869056.doc"
       ],
       "position_count": 0,
       "positions": []
