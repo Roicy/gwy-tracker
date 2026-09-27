@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-27 16:59:30",
+  "updated_at": "2026-09-27 21:26:26",
   "stats": {
-    "total": 632,
+    "total": 633,
     "by_type": {
-      "省考": 632
+      "省考": 633
     },
     "by_province": {
-      "全国": 579,
+      "全国": 580,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 633,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "76659ce64453f8d1cd8190311cb83636230cb2bd79608a206651688790447034",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招779451人150294职位收录20881考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-27 21:08:21",
+      "updated_at": "2026-09-27 21:08:21",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 632,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16987,40 +17017,6 @@
       "updated_at": "2026-08-05 02:43:07",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 133,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468145997371393",
-      "source_hash": "014161606a12fcc275c034a92c18aa22f5d7f3252c97ea80cb9018f49e67d89d",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "奈曼旗驻镇中小学2026—2027学年度公开选调教师公告正在报名内蒙古 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步缓解驻镇中小学专任教师短缺问题，推动教育教学高质量发展，结合实际，决定开展驻镇中小学2026—2027学年度公开选调教师工作，现将相关事项公告如下。\n一、招聘原则\n（一）坚持党管干部、党管人才;\n（二）坚持公开、平等、竞争、择优;\n（三）坚持德才兼备、以德为先;\n（四）坚持人岗相适、人事相宜。\n二、选调岗位\n此次公开选调教师共计132人，其中高中教师37人、初中教师35人、小学教师60人。选调教师所需编制从选调教师原学校连人带编调剂解决，具体岗位要求详见岗位表附件1。\n三、选调条件\n（一）基本条件\n1.具有中华人民共和国国籍。\n2.遵守中华人民共和国宪法和法律，拥护中国共产党领导和社会主义制度。\n3.铸牢中华民族共同体意识，自觉维护民族团结进步。\n4.品行端正，具有较强的事业心和责任感，牢固树立“四个意识”，坚定“四个自信”，坚决做到“两个维护”，认真贯彻党的教育方针;忠诚教育事业，具有强烈的事业心、责任感及良好的职业道德，遵纪守法；具备胜任教学工作的身体条件；教育观念正确，愿意服从岗位安排。\n（二）学历及其他条件\n1.学历要求。\n选调高中教师岗位学历要求：\n全日制本科（不含专",
-      "apply_start": "2026-08-11",
-      "apply_end": "2026-08-01",
-      "written_exam": null,
-      "interview_start": "2026-08-13",
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-11",
-        "apply_end": "2026-08-01",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": "2026-08-13"
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-04 14:22:20",
-      "updated_at": "2026-08-04 14:22:20",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468145998861312.xls",
-        "https://hera.fbstatic.cn/468146000433152.docx",
-        "https://hera.fbstatic.cn/468146002008064.docx"
-      ],
       "position_count": 0,
       "positions": []
     }
