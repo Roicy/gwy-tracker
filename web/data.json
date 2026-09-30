@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-09-30 12:28:20",
+  "updated_at": "2026-09-30 22:22:45",
   "stats": {
-    "total": 646,
+    "total": 647,
     "by_type": {
-      "省考": 646
+      "省考": 647
     },
     "by_province": {
-      "全国": 593,
+      "全国": 594,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 647,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "87adc8d7a08d114e3cd9b152c3afc829b95b69e98f3a6353e7192d4f161d8a37",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招792864人151993职位收录21228考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-09-30 22:04:00",
+      "updated_at": "2026-09-30 22:04:00",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 646,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469435277135872",
@@ -16990,39 +17020,6 @@
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468185516809216.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 147,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468185482811392",
-      "source_hash": "123dc790bbd5a63994d8e68f1464e902f8a0ff38ecb0da4cbe3cd46967c65006",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年邳州市城区部分单位选调教师公告正在报名江苏 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据工作需要，决定为城区部分学校公开选调教师300人。现将具体事项公告如下:\n一、选调范围\n邳州市各镇街在编教师，且在邳州市镇街学校任教3年及以上（2023年12月31日之前入编邳州市）。定向师范生满五年，参加“农村学校教育硕士”师资培养计划的需满6年。\n二、岗位与职数\n1.小学教师岗位150人（全额事业）。\n2.初中教师岗位120人（全额事业）。\n3.特教教师岗位3人（全额事业）。\n4.幼儿园教师岗位27人（全额事业24人，差额事业3人）。\n5.各岗位分配情况详见《2026年邳州市城区部分单位选调岗位简介表》（附件1）。\n三、报考条件\n1.学历要求：本科及以上学历。\n2.教师资格证要求：\n①小学教师岗位要求小学及以上教师资格。\n②初中教师岗位要求初中及以上教师资格。\n③特教教师岗位要求特教教师资格证，或者特教专业持幼儿及以上教师资格证，或者持有《江苏省融合教育资源中心特教专职教师上岗培训》证及任一教师资格证。\n④幼儿园教师岗位要求幼儿园教师资格。\n3.任教学科：小学、初中岗位报考学科须与教师资格证登记学科一致（有物理、化学、生物、地理教师资格证可以报考小学科学岗位）。特教、幼教岗位不",
-      "apply_start": "2026-08-09",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-09",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-06 08:40:56",
-      "updated_at": "2026-08-06 08:40:56",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468185484301312.xls",
-        "https://hera.fbstatic.cn/468185485611008.doc"
       ],
       "position_count": 0,
       "positions": []
