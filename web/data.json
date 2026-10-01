@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-01 05:41:09",
+  "updated_at": "2026-10-01 13:13:19",
   "stats": {
-    "total": 648,
+    "total": 649,
     "by_type": {
-      "省考": 648
+      "省考": 649
     },
     "by_province": {
-      "全国": 595,
+      "全国": 596,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 649,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "79295af4a6677bc6b738c68fbb827f62cd78d95f51fe0ac87cc23aa975c80558",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招793018人152027职位收录21247考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-01 12:55:39",
+      "updated_at": "2026-10-01 12:55:39",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 648,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16985,39 +17015,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468149084559362.doc",
         "https://hera.fbstatic.cn/468149085869056.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 149,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468163499153408",
-      "source_hash": "bc8e07d0dc91cfd31edcecff9db5576777ae9d07c4060718d320f81e29f783dc",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "六安市叶集区2026年教师选调公告正在报名安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "关\n为健全教师流动机制，进一步深化我区“县管校聘”工作，有效缓解城区部分中小学校师资紧缺现状，决定在全区范围内公开选调公办学校在编教师到叶集明强学校、叶集实验学校、叶集二小、叶集一小任教。现将有关事项公告如下：\n一、选调原则\n坚持公开、公正、透明的原则，按照德才兼备、以德为先的标准，择优选调。\n二、选调计划\n拟选调公办在编教师48名，其中，小学教师23名、初中教师25名，具体选调学科详见《六安市叶集区2026年教师选调学科设置一览表》（见“附件1”）。\n三、选调对象\n姚李、洪集、三元、孙岗片区的在编中小学教师（2026年度六安市叶集区在编教师转岗至区事业单位拟转岗人员不列入本次选调对象）。\n四、选调条件\n1.思想政治素质高，师德师风优良，服从组织安排。\n2.年龄50周岁及以下（1975年8月1日以后出生）。\n3.具备本科及以上学历，具备不低于报考学段教师资格，具备报考学科专业或教师资格。\n具有下列情形之一的，不得参加本次公开选调：\n1.涉嫌违纪违法，正在接受纪检监察、司法机关审查调查，尚未作出结论的；\n2.处于党纪政务处分期间或处分影响期未满的；\n3.按照有关规定，工作尚在最低服务年限",
-      "apply_start": "2026-08-10",
-      "apply_end": "2026-08-11",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-10",
-        "apply_end": "2026-08-11",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-06 08:40:59",
-      "updated_at": "2026-08-06 08:40:59",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468163500643328.doc",
-        "https://hera.fbstatic.cn/468163502215168.doc"
       ],
       "position_count": 0,
       "positions": []
