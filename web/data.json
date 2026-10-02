@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-02 12:36:56",
+  "updated_at": "2026-10-02 18:41:02",
   "stats": {
-    "total": 652,
+    "total": 653,
     "by_type": {
-      "省考": 652
+      "省考": 653
     },
     "by_province": {
-      "全国": 599,
+      "全国": 600,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 653,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "9aef4036befc5111c287f5c3da9ee5eab205ca5eac2fee7574529be955d8eebb",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招793921人152042职位收录21251考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-02 18:23:15",
+      "updated_at": "2026-10-02 18:23:15",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 652,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16979,39 +17009,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468191887168512.docx",
         "https://hera.fbstatic.cn/468191895031808.pdf"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 153,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468191902193664",
-      "source_hash": "e78420571b65741b7ebbec5661a6df54c9c05d3badd36478b68e82b03fe44140",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "公安县2026年公开选调县直高中和城区义务教育学校教师公告正在报名湖北 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据教学工作需要，结合教师编制、岗位空缺情况，经县委编委批准，县直高中、城区义务教育学校面向全县中小学校公开选调教师63名。现将相关事项公告如下：\n一、选调原则\n坚持公开、平等、竞争、择优的原则。\n二、选调岗位计划\n本次公开选调教师63名，其中：县直高中8名（县一中5名、县三中2名、县南闸中学1名），城区初中14名（城区初中教师根据工作需要统筹安排至城区三所初中学校任教），城区小学41名（县实验小学2名、县孱陵小学18名、县斗湖堤小学6名、县竹溪小学15名）。具体见附件1。\n三、选调范围及对象\n1.县直高中学校教师岗位选调对象为全县公办初中、高中阶段学校在编在岗教师。\n2.县城区初中教师岗位选调对象为县内乡镇公办小学、初中在编在岗教师。\n3.县城区小学教师岗位选调对象为县内乡镇公办小学在编在岗教师。\n四、选调条件\n（一）基本条件\n1.拥护党的领导，忠诚党的教育事业，贯彻党的教育方针，自觉践行社会主义核心价值观，落实立德树人根本任务。\n2.严格遵守中小学教师职业道德规范，具有良好的政治素质和道德品行。\n3.报考县城区小学、初中教师岗位年龄在40周岁及以下（1986年1月1日及以后出生）;",
-      "apply_start": "1986-01-01",
-      "apply_end": "1978-01-01",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "1986-01-01",
-        "apply_end": "1978-01-01",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-06 14:16:56",
-      "updated_at": "2026-08-06 14:16:56",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468191903683584.xlsx",
-        "https://hera.fbstatic.cn/468191905255424.docx"
       ],
       "position_count": 0,
       "positions": []
