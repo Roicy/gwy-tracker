@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-03 02:12:35",
+  "updated_at": "2026-10-03 08:14:18",
   "stats": {
-    "total": 653,
+    "total": 654,
     "by_type": {
-      "省考": 653
+      "省考": 654
     },
     "by_province": {
-      "全国": 600,
+      "全国": 601,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 654,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "1d1e7b45c8d71cf7ac21ce3a599eef090b874aaafe86503f0f3613981c9f064e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招794169人152212职位收录21253考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-03 07:57:48",
+      "updated_at": "2026-10-03 07:57:48",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 653,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16977,39 +17007,6 @@
       "updated_at": "2026-08-07 00:06:05",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 154,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468191885416448",
-      "source_hash": "42bc49ca39dddb68334c5c82d78375dd0a925b279648572cc7705aaaa0eb405c",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "无为市2026年城区学校选调教师公告正在报名安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为解决城区部分学校教师紧缺问题，保障城区学校教学需要，根据市委编委批复的选调计划，2026年城区中小学面向农村中小学公开选调80名在编在岗教师，现就有关事宜公告如下：\n一、选调原则\n坚持公开、公平、竞争、择优的原则。\n二、选调计划\n选调中小学教师计划80名，具体岗位条件等详见附表。\n三、选调对象和条件\n（一）选调对象\n无为市农村中小学在编在岗教师（不含襄安中学教师）。\n（二）选调条件\n1.遵纪守法，热爱教育事业，具有良好的品行；\n2.身心健康，能胜任教学工作；\n3.具有符合报考条件的教师资格证书；\n4.其中涉及年龄条件的，如“50周岁以下”为1975年8月6日以后出生（以身份证为准）；2021年12月31日以前参加工作；原农村高中撤并学校教师报考，年龄、参加工作时间不限。\n（三）不得报名情形：\n1.被开除中国共产党党籍的；\n2.被依法列为失信联合惩戒对象的；\n3.涉嫌违纪违法正在接受专门机关审查尚未作出结论的；\n4.受到诫勉、组织处理或者党纪政务处分等影响期未满或者期满影响使用的；\n5.定向培养乡村教师未满6年服务期的（含试用期）；\n6.按照《事业单位人事管理回避规定》（人社部规〔20",
-      "apply_start": "2026-08-10",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-10",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-06 14:16:58",
-      "updated_at": "2026-08-06 14:16:58",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468191887168512.docx",
-        "https://hera.fbstatic.cn/468191895031808.pdf"
-      ],
       "position_count": 0,
       "positions": []
     }
