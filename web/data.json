@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-04 12:31:00",
+  "updated_at": "2026-10-04 17:44:08",
   "stats": {
-    "total": 657,
+    "total": 658,
     "by_type": {
-      "省考": 657
+      "省考": 658
     },
     "by_province": {
-      "全国": 604,
+      "全国": 605,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 658,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "91546688c16659269b4fb58345dfbf56bf5a2073488a4ea5d2632feb1262d71b",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招794960人152227职位收录21270考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-04 17:27:05",
+      "updated_at": "2026-10-04 17:27:05",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 657,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16970,39 +17000,6 @@
         "https://hera.fbstatic.cn/468208161068032.xls",
         "https://hera.fbstatic.cn/468208164999169.xls",
         "https://hera.fbstatic.cn/468208171555840.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 158,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468208708507648",
-      "source_hash": "46ac5187d432e5a285c17cf9be0a2be5e055b1ac93d5e6d9936cb2bf001f9f0d",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年环县高中学校选调专任教师公告正在报名甘肃 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "来源：教育局发布时间：2026-08-0711:32:10浏览次数：162次【字体：小大】\n根据教育教学工作需要，决定在全县范围内为高中学校选调专任教师60名，具体公告如下：\n一、选调计划\n计划公开选调专任教师60名。其中：环县第一中学6名、环县第二中学14名、环县第四中学28名、环县第五中学12名。具体岗位及有关要求详见岗位简表（附件1）\n二、选调条件\n（一）选调对象\n选调对象为乡镇学校正式教师。\n（二）报考条件\n1.拥护中国共产党的领导，热爱祖国和党的教育事业，遵纪守法，爱岗敬业，品行端正，师德良好；\n2.基层学校工作年限满3年（2023年9月30日前参加工作）；\n3.近3年年度考核结果评定为“合格”及以上等次，因当年参加工作考核结果定为“不定等次”的，视为当年年度考核结果为合格；\n4.具备高级中学教师资格证、本科及以上学历，每人限报一个岗位；\n5.身体健康，能够满足教育教学工作需要。\n（三）有下列情形之一的，不予选调\n1.近3年内受到党纪、政纪处分的、被列为失信联合惩戒对象的；\n2.近3年有违反师德师风行为或廉洁纪律方面存在问题被教育行政部门或相关部门处理的；\n3.正在接受组织立",
-      "apply_start": "2026-08-08",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-08",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-07 07:21:13",
-      "updated_at": "2026-08-07 07:21:13",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468208710259713.xls",
-        "https://hera.fbstatic.cn/468208712093696.xls"
       ],
       "position_count": 0,
       "positions": []
