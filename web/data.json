@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-04 05:47:50",
+  "updated_at": "2026-10-04 12:31:00",
   "stats": {
-    "total": 656,
+    "total": 657,
     "by_type": {
-      "省考": 656
+      "省考": 657
     },
     "by_province": {
-      "全国": 603,
+      "全国": 604,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 657,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a97941f9913b97b1fa3457009aadae21daae7066d9d5503f188ab7bcf96998e4",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招794188人152216职位收录21259考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-04 12:12:27",
+      "updated_at": "2026-10-04 12:12:27",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 656,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16973,39 +17003,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468208710259713.xls",
         "https://hera.fbstatic.cn/468208712093696.xls"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 157,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468209191114752",
-      "source_hash": "209b353db4808903a1b404b74448f92206f8275be4b7511103f2be3d4b7c94c7",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "阳西县2026年公开选调教师公告正在报名广东 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为优化我县中小学校教师学科结构，促进教师岗位人岗相适，实现我县教育高质量发展，遵循党管干部，人岗相适，规范管理，合理流动的原则。经研究，决定面向阳西县公办中小学校公开选调小学教师67名、初中教师12名、高中教师6名，现将有关事项公告如下：\n一、选调岗位（详见附件2）\n二、选调对象\n阳西县公办中小学校全额拨款事业单位在编在岗教师。\n三、选调条件\n1.具有良好的政治、业务素质，品行端正；具有良好的教师职业道德，身心健康，无违反师德师风行为；\n2.具有在职全额拨款事业编制人员身份，近三年年度考核评为合格以上等次；\n3.具有选调岗位要求的工作能力、岗位所需的专业或技能条件；\n4.具有与选调岗位相应学科、相应学段的教师资格，具有大专及以上学历（详见附件2）、初级及以上职称；\n5.现年龄距离退休年龄5年以上（不含5年，以人事档案核准的退休时间为准），截止计算时间为2026年8月13日；\n6.现所在学校为超编学校（超编学校指2026年秋季学期核定教师编制数与实有人数之差小于0的学校），报考人员现所在学校以其编制所在单位为准；\n7.每个超编学校可选调人数由报考人员所在学校根据本校教师队伍构成，在保证原",
-      "apply_start": "2026-08-13",
-      "apply_end": "2026-08-18",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-13",
-        "apply_end": "2026-08-18",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-07 07:21:12",
-      "updated_at": "2026-08-07 07:21:12",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468209193127936.doc",
-        "https://hera.fbstatic.cn/468209194702848.xls"
       ],
       "position_count": 0,
       "positions": []
