@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-05 16:08:27",
+  "updated_at": "2026-10-05 22:55:37",
   "stats": {
-    "total": 660,
+    "total": 661,
     "by_type": {
-      "省考": 660
+      "省考": 661
     },
     "by_province": {
-      "全国": 607,
+      "全国": 608,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 661,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "0210c289e5ac87ee6e0599fa7b8065fb62518261ef723a90584b59c5b83cb28f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招794960人152307职位收录21278考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-05 22:30:03",
+      "updated_at": "2026-10-05 22:30:03",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 660,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16960,39 +16990,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468206622281728.docx",
         "https://hera.fbstatic.cn/468206624119808.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 161,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468207347456000",
-      "source_hash": "e620977058dd37af5db1b729de3f32df7d67b6df12cc10fe6af7950ce4b27156",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年鹤峰县教育系统县内公开选调工作人员公告正在报名湖北 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据《中共鹤峰县委机构编制委员会办公室关于同意鹤峰县教育局所属事业单位公开选调用编计划的函》（鹤编办函〔2026〕23号）文件精神，经研究，决定选调县直学校（幼儿园）教师20名、局属事业单位工作人员3名。现将有关事项公告如下：\n一、选调条件\n（一）基本条件\n1.鹤峰县内在职在编中小学、幼儿园教师，其中县学校后勤管理中心、县教育技术装备站（县家庭教育指导中心）面向全县范围选调。\n2.具有良好的政治素质和道德品行。\n3.具有正常履行职责的身体条件、心理素质和选调岗位要求的工作能力。\n4.近3年年度考核为合格以上等次。\n5.具有选调岗位要求的其他资格条件。工作经历年限计算截止时间为2026年12月31日。\n（二）具有下列情形之一者不得报考\n1.涉嫌违纪违法正在接受有关专门机关审查尚未作出结论的；\n2.受到诫勉、组织处理或者党纪政务处分尚未解除处分或者未满影响期限的或者期满影响使用的；\n3.按照有关规定，到定向单位工作或服务基层未满规定服务年限的，以及对交流调动有其它限制性规定的；\n4.近三年内主动放弃县直机关事业单位选调录用资格或县外调入我县工作未满三年的；\n5.选调后即构成回避关系的；\n6",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-07 07:21:17",
-      "updated_at": "2026-08-07 07:21:17",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468207349208064.xlsx",
-        "https://hera.fbstatic.cn/468207350779904.xlsx"
       ],
       "position_count": 0,
       "positions": []
