@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-05 00:59:51",
+  "updated_at": "2026-10-05 07:06:39",
   "stats": {
-    "total": 658,
+    "total": 659,
     "by_type": {
-      "省考": 658
+      "省考": 659
     },
     "by_province": {
-      "全国": 605,
+      "全国": 606,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 659,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "46b66b41d3fa44e9152336ab19d285da1bb91179a691e694252b22b04c4becef",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招794960人152238职位收录21274考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-05 06:50:08",
+      "updated_at": "2026-10-05 06:50:08",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 658,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16966,40 +16996,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468207404522496.docx",
         "https://hera.fbstatic.cn/468207406355456.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 159,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468208159315968",
-      "source_hash": "9ffab7aca6d5c086bdb8a434c0e2d86e03ac37b8319e641b41bfe2857962cc30",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "沿河土家族自治县城区及乡镇部分幼儿园2026年公开选调专任教师实施方案报名结束贵州 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为切实补充城区及乡镇部分幼儿园教师，适应幼儿园发展需要，经县委、县政府同意，拟选调幼儿教师到城区及乡镇部分幼儿园任教，为确保本次选调工作顺利进行，特制定此实施方案（以下简称《选调方案》）。\n一、组织领导\n为确保本次选调工作顺利进行,本次选调工作在县委人才工作领导小组的统一领导下进行,选调工作领导小组下设办公室在县教育局（以下简称“县选调办”）,负责依照本《选调方案》具体组织实施。\n二、选调原则\n选调工作坚持德才兼备、以德为先、按需选调的用人标准,按照“公开、公平、公正、择优”的原则,实行信息公开、程序公开、结果公开、择优聘用，选调人员编制编随人走。\n三、选调岗位和数量\n本次计划选调专任教师25人,选调岗位详见《沿河土家族自治县城区及乡镇部分幼儿园2026年公开选调专任教师岗位表》（附件1）。\n四、选调对象\n面向全县（除和平街道、团结街道、祐溪街道以外的）20个乡（镇、街道）在职幼儿教师招聘。原则上，拟选调教师不得超过所在乡（镇、街道）在职幼儿教师的10%（具体数量见附件2），若超过10%的，以选调成绩从高到低确定拟选调教师。\n五、选调条件\n（一）热爱祖国,拥护中国共产党领导,树立“四个",
-      "apply_start": "2026-08-12",
-      "apply_end": "2026-08-12",
-      "written_exam": "2026-08-15",
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-12",
-        "apply_end": "2026-08-12",
-        "written_exam": "2026-08-15",
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-07 07:21:15",
-      "updated_at": "2026-08-07 07:21:15",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468208161068032.xls",
-        "https://hera.fbstatic.cn/468208164999169.xls",
-        "https://hera.fbstatic.cn/468208171555840.doc"
       ],
       "position_count": 0,
       "positions": []
