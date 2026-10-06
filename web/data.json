@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-06 03:17:30",
+  "updated_at": "2026-10-06 10:20:12",
   "stats": {
-    "total": 662,
+    "total": 663,
     "by_type": {
-      "省考": 662
+      "省考": 663
     },
     "by_province": {
-      "全国": 609,
+      "全国": 610,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 663,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "490cfef3fec0324483470d305f8fa419b1a5f2cdfcc8c82d0499543aaa8bd400",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招841906人152316职位收录21279考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-06 10:02:41",
+      "updated_at": "2026-10-06 10:02:41",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 662,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16955,38 +16985,6 @@
         "https://hera.fbstatic.cn/468205831658496.pdf",
         "https://hera.fbstatic.cn/468205832443904.pdf",
         "https://hera.fbstatic.cn/468205833491456.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 163,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468206504923136",
-      "source_hash": "a246defb0cd133fa745da5e2d7fc50917963fce68ecd1c196e87d85631338bcf",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "广东省卫生健康委2026年公开选调公务员公告正在报名广东 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据工作需要，按照《中华人民共和国公务员法》《公务员转任规定》《公务员公开遴选办法》及广东省公务员管理有关规定，现面向全省各级党政机关、中央驻粤单位机关公开选调公务员4名，统筹安排到省卫生健康委机关工作。现将有关事项公告如下。\n一、选调范围和职位\n（一）选调范围：全省各级党政机关、中央驻粤单位机关（含参照公务员法管理单位）在编在岗公务员（含参照公务员法管理人员，下同）。\n（二）选调职位：省卫生健康委机关三级主任科员及以下职位公务员4名（具体职位请登录报名系统查看《广东省卫生健康委2026年公开选调公务员职位表》）。\n二、选调人选资格条件\n（一）基本资格条件。政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。具有良好的业务素质和担当精神，有较强的文字综合、政策研究、沟通协调能力，品行端正，实绩突出，群众公认。符合公务员有关转任规定。此外应具备以下资格条件：\n1.具有大学本科及以上学历、学士及以上学位。\n2.现任乡科级副职或三级主任科员及以下相当层次职务职级公务员。本科学历、学士学位者，年龄32周岁以下（1994年8月以后出",
-      "apply_start": "2026-08-07",
-      "apply_end": "2026-08-14",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-07",
-        "apply_end": "2026-08-14",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-07 07:21:24",
-      "updated_at": "2026-08-07 07:21:24",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468206506678272.docx"
       ],
       "position_count": 0,
       "positions": []
