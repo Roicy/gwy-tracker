@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-05 22:55:37",
+  "updated_at": "2026-10-06 03:17:30",
   "stats": {
-    "total": 661,
+    "total": 662,
     "by_type": {
-      "省考": 661
+      "省考": 662
     },
     "by_province": {
-      "全国": 608,
+      "全国": 609,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 662,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a1f6962a95f189e57451a20d4ddde0a8e36ad79d72f5c7aebf1c56a79bf87c32",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招794906人152317职位收录21276考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-06 02:54:44",
+      "updated_at": "2026-10-06 02:54:44",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 661,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16957,39 +16987,6 @@
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468206506678272.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 162,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468206620267520",
-      "source_hash": "51d8be6f64bafcae050574973717314e4494d597f64c79e1515285c944254530",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "原阳县2026年为城区学校公开选调教师公告报名结束河南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为优化全县教师资源配置、促进教育均衡发展，解决城区学校教师缺编问题，经研究，决定2026年继续为城区学校公开选调教师，为做好此项工作，特制定本方案。\n一、基本原则\n（一）“公开、平等、竞争”的原则；\n（二）采取公开考试、择优录用的原则；\n（三）坚持按需设岗、专业与岗位相结合的原则。\n二、选调岗位\n为原阳县城区中小学选调60名教师。选调的教师调入新单位后，如新单位没有与其对应的工资岗位，按照上级有关政策进行岗位低聘，农村评聘的职称到城区学校按职称评审政策进行转评，按政策降低工资岗位。\n三、选调范围\n原阳县农村学校在编在岗工作满三年的教师（含试用期）。\n四、选调条件\n（一）基本条件\n1.报考初中岗位的，须具备与所报学科一致的初中及以上教师资格证，具有本科及以上学历；\n2.报考小学岗位的，须具备与所报学科一致的小学及以上教师资格证，具有专科及以上学历；\n3.报考原阳县职业教育中心（普通高中班）的，须具备与所报学科一致的高中教师资格证，具有本科及以上学历；\n4.身体健康，无精神类疾病；\n5.鼓励具备初中教师任职资格的农村小学教师报考城区初中教学岗位。\n（二）下列人员不得参加选调\n1.受党政纪处",
-      "apply_start": "2026-08-10",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-10",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-07 07:21:21",
-      "updated_at": "2026-08-07 07:21:21",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468206622281728.docx",
-        "https://hera.fbstatic.cn/468206624119808.docx"
       ],
       "position_count": 0,
       "positions": []
