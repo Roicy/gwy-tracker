@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-06 10:20:12",
+  "updated_at": "2026-10-06 17:08:13",
   "stats": {
-    "total": 663,
+    "total": 664,
     "by_type": {
-      "省考": 663
+      "省考": 664
     },
     "by_province": {
-      "全国": 610,
+      "全国": 611,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 664,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "5ea20d6e819d6d1805687d755b105fed437b20914229f0d8697266acc4bc1775",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招844069人152319职位收录21283考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-06 16:47:12",
+      "updated_at": "2026-10-06 16:47:12",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 663,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16952,40 +16982,6 @@
       "updated_at": "2026-08-07 13:10:01",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 164,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468194485621760",
-      "source_hash": "1e719f3bfc48f973a55d349ed84291f65d40443cbbbc5cf91c60748caa03cd51",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年赣州市南康区义务教育学校公开选调区内教师公告报名结束江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步优化教师队伍结构，推动教师交流轮岗，有效促进城乡教育资源均衡配置，化解部分义务教育学校教师紧缺矛盾，决定开展2026年（暑期）义务教育学校公开选调区内教师工作，现将有关事项公告如下:\n一、选调原则\n坚持“公开、平等、竞争、择优”原则。\n二、选调对象\n（一）全区初中（含九年一贯制学校初中部）在编在岗教师；\n（二）全区小学（含九年一贯制学校小学部）在编在岗教师（不含未满服务期限的定向师范生）。\n三、选调岗位与指标数\n坚持“稳定为先、优化配置、缓解紧缺”导向，我区2026年义务教育学校公开选调区内教师岗位设置如下：\n1.“偏远农村初中”支教岗位：合计19人（限小学教师报考）；\n2.“城区周边”初中学校岗位：合计24人；\n3.“东山片区”初中学校岗位：合计39人；\n4.“南水片区”初中学校岗位：合计39人；\n5.“南水片区”小学学校岗位：合计18人（限小学教师报考）；\n6.“东山片区”小学学校岗位：合计25人（限小学教师报考）；\n7.“高中定向”岗位（初中学校到高中学校援教）：合计46人（限初中学校教师报考）；\n8.第五中学足球教练岗位：合计2人（限持有D级足球教练员证体育教师报考）。",
-      "apply_start": "2026-08-06",
-      "apply_end": "2026-08-08",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-06",
-        "apply_end": "2026-08-08",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-07 07:21:27",
-      "updated_at": "2026-08-07 07:21:27",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468205831658496.pdf",
-        "https://hera.fbstatic.cn/468205832443904.pdf",
-        "https://hera.fbstatic.cn/468205833491456.doc"
-      ],
       "position_count": 0,
       "positions": []
     }
