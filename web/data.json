@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-07 01:47:08",
+  "updated_at": "2026-10-07 08:47:41",
   "stats": {
-    "total": 665,
+    "total": 666,
     "by_type": {
-      "省考": 665
+      "省考": 666
     },
     "by_province": {
-      "全国": 612,
+      "全国": 613,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 666,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "1b6004e38b2e72663edda611bd00e6ea581bcb3ae4ba75291850a564cd462302",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招844431人152535职位收录21315考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-07 08:31:27",
+      "updated_at": "2026-10-07 08:31:27",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 665,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16948,39 +16978,6 @@
         "https://hera.fbstatic.cn/468215110242304.xlsx",
         "https://hera.fbstatic.cn/468215112079360.xls",
         "https://hera.fbstatic.cn/468215113651200.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 166,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468215765687296",
-      "source_hash": "8b4aab5e200e6f61bab8ca807112ed3e1078117c330265b747e66fe300c7219b",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "宁陕县2026年城区5所学校公开选调教师公告正在报名陕西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据《宁陕县机关和事业单位工作人员调配管理十条规定》（宁办发〔2023〕19号）《宁陕县2026年城区5所学校公开选调教师实施方案》及有关规定，拟从全县各镇中小学、幼儿园公开选调教师15名，现将本次公开选调教师相关事宜公告如下：\n一、选调学校和名额\n（一）宁陕中学：2人（语文1人，英语1人）；\n（二）城关初级中学：6人（语文2人、英语2人、思政1人、体育1人）；\n（三）宁陕小学：3人（数学2名、音乐1名）；\n（四）宁陕县幼儿园：2人；\n（五）宁陕县第二幼儿园：2人。\n二、选调范围\n全县各镇中小学、幼儿园在编在岗教师。\n三、选调教师资格条件和范围\n（一）应当具备的条件\n（1）政治素质过硬、专业素养良好，品行端正，实绩突出，群众认可度高；\n（2）身心健康，具有正常履行职责的身体条件；\n（3）具有5年及以上工作经历（核定标准参照服务年限）；\n（4）年龄要求：男性48周岁以下（1978年7月1日以后出生），女性45周岁以下（1981年7月1日以后出生）；\n（5）报考城区学校岗位须具有以下资格条件：幼儿园岗位应具有大专及以上学历，持有幼儿园及以上教师资格证；小学岗位应具有大专及以上学历，持有小学",
-      "apply_start": "2026-08-13",
-      "apply_end": "2026-08-14",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-13",
-        "apply_end": "2026-08-14",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-07 13:10:03",
-      "updated_at": "2026-08-07 13:10:03",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468215767439360.xls",
-        "https://hera.fbstatic.cn/468215769011200.docx"
       ],
       "position_count": 0,
       "positions": []
