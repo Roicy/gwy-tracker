@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-07 08:47:41",
+  "updated_at": "2026-10-07 16:34:45",
   "stats": {
-    "total": 666,
+    "total": 667,
     "by_type": {
-      "省考": 666
+      "省考": 667
     },
     "by_province": {
-      "全国": 613,
+      "全国": 614,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 667,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "5093835a4f632ffc6d03d62b07dc635569f2bf6e72146398de6ad67a7947384a",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招845860人152615职位收录21337考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-07 16:18:56",
+      "updated_at": "2026-10-07 16:18:56",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 666,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16944,40 +16974,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468214668529664.doc",
         "https://hera.fbstatic.cn/468214671678464.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 167,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468215089091585",
-      "source_hash": "3ae843c30113ef71ebcc13893cd697de8c0a8af9d5e83e858b6d884ba66c6aa5",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "陇南市武都区2026年城区学校和高中教师公开选调公告报名结束甘肃 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步推进“县管校聘”和教师交流轮岗，优化城乡教师资源配置，加强师资队伍建设，提高教育教学质量，办人民满意的教育。经区委、区政府研究，决定为城区学校和实验中学、两水中学、八一中学、安化中学的高中部公开选调一批优秀教师。现将相关事项公告如下。\n一、选调范围\n（一）在全区农村中小学在编在岗的教师中选调（不包括东江、姚寨、城关三镇和江南、江北、钟楼、吉石坝四个街道区域内学校教师）。\n（二）为加强高中学校教师队伍，小学、初中教师可报考实验中学、两水中学、八一中学、安化中学选调岗位；实验中学、两水中学、八一中学、安化中学、洛塘中学、甘泉农业中学教师暂不参加选调。\n二、选调原则\n1.遵循按需设岗、公开选调、平等竞争、择优聘用原则。\n2.坚持德才兼备和注重实绩的用人原则。\n3.实行选调名额、条件、程序和结果全面公开原则。\n三、选调名额\n按照城区学校和实验中学、两水中学、八一中学、安化中学的高中部教学需要，2026年计划选调紧缺学科教师183名。具体岗位见附件1。\n四、选调条件\n（一）基本条件\n1.积极贯彻党和国家的教育方针、政策，热爱教育事业，遵纪守法，品行端正，作风正派，团结协作；具有高尚的教师",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": 183,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": 183,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-07 13:10:04",
-      "updated_at": "2026-08-07 13:10:04",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468215110242304.xlsx",
-        "https://hera.fbstatic.cn/468215112079360.xls",
-        "https://hera.fbstatic.cn/468215113651200.xlsx"
       ],
       "position_count": 0,
       "positions": []
