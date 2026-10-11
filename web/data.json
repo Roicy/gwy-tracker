@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-11 12:48:27",
+  "updated_at": "2026-10-11 18:24:57",
   "stats": {
-    "total": 692,
+    "total": 693,
     "by_type": {
-      "省考": 692
+      "省考": 693
     },
     "by_province": {
-      "全国": 639,
+      "全国": 640,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 693,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "fa66da7abf25236c340262a4893f8123cc853117b4cad659355356c90dbb204f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招818584人155667职位收录21772考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-11 18:00:22",
+      "updated_at": "2026-10-11 18:00:22",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 692,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16929,38 +16959,6 @@
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468282156191744.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 193,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468282268472320",
-      "source_hash": "c09edcef70cecb7d74f87395c10ccd78caf76599b775e1bf8fadf1f9725bb05c",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "祁东县2026年城区中小学校（含玉合街道中心幼儿园）公开选调教师公告正在报名湖南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为有效解决乡村学校教师富余和城区学校师资不足问题，优化城乡教师结构，促进教师均衡配置，经县委、县政府同意，决定通过考试公开选调一批中小学教师和幼儿园教师到城区中小学校（含玉合街道中心幼儿园）任教，特制定本方案。\n一、选调原则\n公开选调，公平公正，择优录用。\n二、选调范围及人数\n面向全县各乡镇（管理处）及白鹤街道中小学校（幼儿园）的公办教师（含临时抽调从事专项工作的教师和依规办理了请假手续的教师）。计划选调教师共计114名：初中教师70名、小学教师32名，幼儿园教师12名。（具体岗位及计划见附1-1、1-2、1-3）。\n三、选调条件及优惠加分\n（一）中小学教师选调基本条件\n1、具有大专及以上学历，报考初中学科岗位须具有初中及以上教师资格证，报考小学学科岗位须具有小学及以上层次的教师资格证。报考中小学英语、体育、美术、信息技术和心理健康学科的，其学历专业必须与报考学科一致；报考初中其他学科的，其学历专业或教师资格证的任教学科与报考学科一致,个别教师的教师资格证因以前手写内容不规范、要求不严或工作不细造成“任教学科”空缺或不具体的，可以实际任教的学科（单位出具证明,并提供相关佐证材料）作为报",
-      "apply_start": "2026-08-12",
-      "apply_end": "2026-08-13",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": 114,
-      "raw_fields": {
-        "apply_start": "2026-08-12",
-        "apply_end": "2026-08-13",
-        "written_exam": null,
-        "recruit_count": 114,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-10 13:12:52",
-      "updated_at": "2026-08-10 13:12:52",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468282269962240.doc"
       ],
       "position_count": 0,
       "positions": []
