@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-11 05:34:00",
+  "updated_at": "2026-10-11 12:48:27",
   "stats": {
-    "total": 691,
+    "total": 692,
     "by_type": {
-      "省考": 691
+      "省考": 692
     },
     "by_province": {
-      "全国": 638,
+      "全国": 639,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 692,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "9ac79c6378c5c4d016f742af18202e6e6e64af315fb65c9f89946ef1e40e5d9e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招818030人155526职位收录21769考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-11 12:32:53",
+      "updated_at": "2026-10-11 12:32:53",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 691,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16931,39 +16961,6 @@
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468282269962240.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 192,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468283235259392",
-      "source_hash": "ab8c8d31a09353d5503b96160f9fad7d951d828d292352e12b4be979b8c5a796",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "庐江县2026年选调中学教师公告正在报名安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "经会议研究同意，庐江县部分高中和城区初中选调80名中学教师，现就选调工作有关事项公告如下：\n一、选调计划\n本次选调中学教师计划共80名。其中，部分高中30名、城区初中50名（具体岗位详见附件1）。\n二、选调范围\n（一）高中教师选调范围\n1.安徽师范大学附属庐江第三中学选调范围为：全县城区义务教育学校在编在岗教师；\n2.部分农村高中选调范围为：全县农村义务教育学校在编在岗教师。\n（二）城区初中教师选调范围\n全县城区小学和农村义务教育学校在编在岗教师。\n三、选调条件\n1.政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n2.忠诚党的教育事业，执行党的教育方针，遵纪守法、品行端正、廉洁自律、服从组织安排，工作能力和工作责任心强，具有良好的职业道德；\n3.具有国家承认的大学本科及以上学历；\n4.具备与报考学科一致的相应及以上层次教师资格；\n5.年龄在45周岁及以下（1980年8月11日及以后出生，以有效居民身份证为准）；\n6.在本完职中、镇中心学校任教满3年（时间计算到2026年9月30日，定向培养乡村教师需满6年，县外选调在",
-      "apply_start": "2026-08-11",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-11",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-10 13:12:50",
-      "updated_at": "2026-08-10 13:12:50",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468283236752384.xlsx",
-        "https://hera.fbstatic.cn/468283238062080.docx"
       ],
       "position_count": 0,
       "positions": []
