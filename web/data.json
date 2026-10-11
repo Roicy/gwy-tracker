@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-10 23:44:21",
+  "updated_at": "2026-10-11 05:34:00",
   "stats": {
-    "total": 690,
+    "total": 691,
     "by_type": {
-      "省考": 690
+      "省考": 691
     },
     "by_province": {
-      "全国": 637,
+      "全国": 638,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 691,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "55434378c567c2e55d782b6d2f3cf467eaaf6003131f13f02b5d56467e944125",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招866359人155587职位收录21782考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-11 05:16:30",
+      "updated_at": "2026-10-11 05:16:30",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 690,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16935,36 +16965,6 @@
         "https://hera.fbstatic.cn/468283236752384.xlsx",
         "https://hera.fbstatic.cn/468283238062080.docx"
       ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 191,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468284307951617",
-      "source_hash": "06637cb133d0e6ff2afdc746248ef503e2fb7ce960f5c5a8c5800011f42ec76c",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年度颍上县城区小学公开选调教师报名结束安徽 · 选调职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "颍上县人事考试网上报名系统2026年度颍上县城区小学公开选调教师\n报名首页|专题首页|报名登录|查询/打印资格审查结果|信息修改|打印准考证/通知单\n当前位置：首页>>2026年度颍上县城区小学公开选调教师\n联系信息\n咨询电话：\n0558-4432602\n0558-2827878\n重要通知\n招考公告\n2026年度颍上县城区小学公开选调教师公告\n[2026-08-10]\n招考公示\n人事考试/人才测评专用网上服务平台\n技术支持：普众互联电话：0561-3039039\n皖ICP备13019159号-2\n职位表.xls",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-10 13:12:49",
-      "updated_at": "2026-08-10 13:12:49",
-      "is_active": 1,
-      "attachment_urls": [],
       "position_count": 0,
       "positions": []
     }
