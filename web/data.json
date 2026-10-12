@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-12 09:13:47",
+  "updated_at": "2026-10-12 19:18:51",
   "stats": {
-    "total": 697,
+    "total": 699,
     "by_type": {
-      "省考": 697
+      "省考": 699
     },
     "by_province": {
-      "全国": 644,
+      "全国": 646,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 699,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469707069873153",
+      "source_hash": "0c51d12fc571b77386e838ab8e70eb5916b3c873f14c8239164e6d910c5c6970",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年度绥化市北林区公开选调事业单位工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步夯实基层治理、政务服务、民生保障等基层服务建设工作力量，优化基层事业单位人才队伍结构，破解基层岗位人才短缺、队伍活力不足等问题，根据《事业单位人事管理条例》，结合北林区发展需要，拟开展2026年度绥化市北林区公开选调事业单位工作人员工作，公开选调事业单位工作人员46人。\n一、选调范围及名额\n1.选调范围。北林区行政区域内事业单位副科级以下在编在岗工作人员（工勤人员除外）。\n2.选调计划。具体岗位计划及要求详见《2026年度绥化市北林区公开选调工作人员职位计划表》（详见附件1）。\n二、资格条件\n1.拥护中国共产党领导，遵守《中华人民共和国宪法》及相关法律法规；具有良好的思想品德和职业道德，具备正常履行岗位职责的政治素质、业务能力和身体条件。\n2.具备岗位所需的学历（学位）。\n3.年龄不超过38周岁（1987年10月12日以后出生）。具备专业技术中级职称人员可放宽至45周岁（1980年10月12日及以后出生）。\n4.参加工作以来，年度考核结果均为合格及以上等次（不含试用期内考核）。\n5.具备拟选调岗位所要求的其他条件。\n工作经历年限、任职经历年限的计算时间以公告发布之日为准，现任职",
+      "apply_start": "2026-10-15",
+      "apply_end": "2026-10-22",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-15",
+        "apply_end": "2026-10-22",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-12 18:53:54",
+      "updated_at": "2026-10-12 18:53:54",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469707073461248.xlsx",
+        "https://hera.fbstatic.cn/469707079225345.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 698,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "bbfb67b98566075064264ef8006aec6e2b4d03c44d2089b0a35f9865b8675909",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招818725人157592职位收录21894考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-12 18:53:52",
+      "updated_at": "2026-10-12 18:53:52",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 697,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469640801704960",
@@ -16896,69 +16959,6 @@
         "https://hera.fbstatic.cn/468287008218112.docx",
         "https://hera.fbstatic.cn/468287009789952.docx",
         "https://hera.fbstatic.cn/468287011099648.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 199,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "3924dd78ca43c0a8ef15abfbca17dbd812e85255e3ff63cf6c30bd06ee2df088",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招390803人117267职位收录16080考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-11 01:54:56",
-      "updated_at": "2026-08-11 01:54:56",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 198,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468283395690497",
-      "source_hash": "75320fa55c6a55122dbf97a2d58939fab4111267fb57305a8256850fb95811ed",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "红河州教育体育局所属事业单位（红河州润新学校）2026年公开选调工作人员的公告正在报名云南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "红河州润新学校是2026年新设立的公办专门学校，隶属红河州教育体育局，是一所具有矫治功能的州级专门学校，负责开展对涉罪未成年人的法治教育、心理干预、行为矫正、文化学习与职业技能培训等工作。为进一步加强红河州专门学校人才队伍建设，改善人才队伍结构，提高公共服务能力，促进学校可持续发展，根据学校的办学规模、课程和岗位设置等需求，报经红河州人力资源和社会保障局批准，决定面向州内选调工作人员20名。现将有关事项公告如下：\n一、选调岗位和范围\n（一）选调岗位。具体岗位数、选调人数、条件等详见《红河州教育体育局所属事业单位（红河州润新学校）2026年公开选调工作人员岗位信息表》（附件1）。\n（二）选调范围为红河州内在职在编事业人员且符合下列条件：\n1.具有全日制本科及学士学位及以上，教师应具有初级中学及以上教师资格证、中学二级教师（含二级教师）及其以上职称（具有副高级职称及以上专业技术职务任职资格的人员学历可放宽到本科）；\n2.教师应有5年及其以上教育教学经历且目前仍在教学一线任教（特岗教师需有8年及以上），教育教学经验丰富，同等条件下，有专门学校工作经历者优先；其余岗位的报考人员工作年限须满5年",
-      "apply_start": "2026-08-18",
-      "apply_end": "2026-08-19",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-18",
-        "apply_end": "2026-08-19",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-10 19:01:57",
-      "updated_at": "2026-08-10 19:01:57",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468283397446656.xlsx",
-        "https://hera.fbstatic.cn/468283398756352.xls"
       ],
       "position_count": 0,
       "positions": []
