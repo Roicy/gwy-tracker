@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-11 22:11:50",
+  "updated_at": "2026-10-12 01:25:43",
   "stats": {
-    "total": 693,
+    "total": 694,
     "by_type": {
-      "省考": 693
+      "省考": 694
     },
     "by_province": {
-      "全国": 640,
+      "全国": 641,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 694,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "438f668e82a3ee7ac9362a49603584146b27dce31093e4939aa7de3e24109e90",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招818610人155656职位收录21773考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-12 01:10:18",
+      "updated_at": "2026-10-12 01:10:18",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 693,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16927,38 +16957,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468281587339265.pdf",
         "https://hera.fbstatic.cn/468281588653056.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 194,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468282154701824",
-      "source_hash": "6bf53de310085ad1f733e34368077cea01fd6458514aa872c961adc47e80220c",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "大荔县2026年面向县域外公开选调优秀教师的公告正在报名陕西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步优化教师队伍结构，提升师资整体素质，经研究，决定面向县域外公开选调一批优秀学科教师，现将有关事项公告如下。\n一、选调对象\n大荔县域外的事业单位在编在岗、符合选调条件的教师。\n二、选调数量及岗位\n选调数量：20名。\n选调岗位：城区中小学、幼儿园学科专任教师，优先选调高中学科专任教师。\n三、选调条件\n1.遵纪守法，品行端正，师德优良，热爱教育事业。\n2.具有相应学段学科及以上教师资格。\n3.年龄在40周岁（1986年7月31日及以后出生），身体健康，能胜任教育教学工作。\n4.具备大学本科及以上学历，从事一线教学工作5年及以上，且具有县级及以上教育行政部门表彰奖励的人员。\n四、选调程序\n1.报名（8月11日—8月25日）报名人员持报名所需材料原件及复印件到大荔县教育体育局人事股（大荔县北大街39号教育体育局3楼）进行报名初审并确定报考岗位，同时将报名所需材料制作成PDF版，发送至dljyrs001@163.com。\n报名材料：\n（1）《大荔县2026年选调优秀教师报名登记表》（需所在县市区教育局签署同意报考意见，并加盖公章）；\n（2）身份证、毕业证书（初始学历及最高学历）、学位证书、",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-10 13:12:54",
-      "updated_at": "2026-08-10 13:12:54",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468282156191744.doc"
       ],
       "position_count": 0,
       "positions": []
