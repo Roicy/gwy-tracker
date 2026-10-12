@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-12 01:25:43",
+  "updated_at": "2026-10-12 09:13:47",
   "stats": {
-    "total": 694,
+    "total": 697,
     "by_type": {
-      "省考": 694
+      "省考": 697
     },
     "by_province": {
-      "全国": 641,
+      "全国": 644,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,104 @@
     }
   },
   "notices": [
+    {
+      "id": 697,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469640801704960",
+      "source_hash": "7808fc8ec7d4a6189f70a5533f80cab927c1a6cb8b5687cfe3d753889212ae42",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "会昌县公开选调乡镇敬老院院长、会计公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步加强我县公办养老机构管理员队伍建设，充实乡镇敬老院管理骨干力量，提升养老服务水平，决定从全县事业编干部中公开选调乡镇敬老院院长、会计。根据选调工作有关规定，现制定本公告。\n一、选调名额及岗位\n1.选调名额。公开选调乡镇敬老院院长8名、乡镇敬老院会计2名。\n2.选调岗位。根据报考岗位按总成绩从高到低进行选岗（岗位表见附件1）。\n二、选调范围\n全县财政全额拨款事业编制工作人员（含中小学教师，不含备案制人员及幼儿园教职工），且已满相应服务年限。\n三、选调原则及方法\n坚持“公开、平等、竞争、择优”的原则，主要采取面试、考察相结合的方式，择优选调。\n四、选调条件\n（一）应具备的基本条件\n1.现实表现良好，有较强的政治素质和专业素养，事业心和责任心强，能服从组织安排，无不良从业记录和违法违纪行为。\n2.热爱养老事业，具有强烈的事业心、责任感和无私奉献精神，作风严谨细致，群众口碑良好。\n3.具备较强的综合管理能力、组织协调能力、人际沟通能力及应急处置能力，能有效应对敬老院日常运营、安全管理、老人照护等工作中的各类问题。\n4.身体健康，心理素质良好，无传染性疾病及影响履职的重大疾病。\n5.年龄",
+      "apply_start": "2026-10-10",
+      "apply_end": "2026-10-16",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-10",
+        "apply_end": "2026-10-16",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-12 08:56:25",
+      "updated_at": "2026-10-12 08:56:25",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469640803194880.docx",
+        "https://hera.fbstatic.cn/469640804766720.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 696,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469702193731584",
+      "source_hash": "c228c228a42b7880db5244941e279891dd9c0f24ee1a9e51e7202405efa78f88",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "台州市2026年四季度市直事业单位公开选聘工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《事业单位人事管理条例》《进一步规范市直事业单位公开选聘工作的意见（试行）》有关规定，经研究，决定开展台州市2026年四季度市直事业单位公开选聘工作人员工作。为确保公开选聘工作顺利进行，特制定本公告。\n一、计划及职位\n本次市直事业单位共计划选聘工作人员10名，详细职位见《台州市2026年四季度市直事业单位公开选聘工作人员职位表》（附件1）。\n二、范围和条件\n（一）选聘范围\n全市各级党政机关（含参公单位）在编在岗公务员或事业单位在编在岗人员。选聘职位有其他要求的，可放宽至全省或全国在编在岗人员（具体以职位表为准）。\n（二）选聘条件\n1.政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。\n2.具有良好的业务素质，品行端正，实绩突出。\n3.具有国家承认的大学本科以上学历。\n4.年龄一般在40周岁以下（具体以职位表为准）。学历、职称与对应岗位要求相匹配，具有副高级专业技术职称或博士研究生学历（学位）的，年龄可放宽到45周岁；具有正高级专业技术职称的，年龄可放宽到50周岁。八级（含八级）以上管理岗位领导职务人员选聘相应层级领导",
+      "apply_start": "2026-10-21",
+      "apply_end": "2026-10-12",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-21",
+        "apply_end": "2026-10-12",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-12 08:56:24",
+      "updated_at": "2026-10-12 08:56:24",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469702196007936.xls",
+        "https://hera.fbstatic.cn/469702197841920.docx",
+        "https://hera.fbstatic.cn/469702199417856.docx",
+        "https://hera.fbstatic.cn/469702201513984.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 695,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "d567fcd36f48853f80f4e0d370c0a882f29df83eed02a21b624bb52fcaf52a2c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招819595人156417职位收录21872考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-12 08:56:22",
+      "updated_at": "2026-10-12 08:56:22",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 694,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16861,102 +16959,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468283397446656.xlsx",
         "https://hera.fbstatic.cn/468283398756352.xls"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 197,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "a1e3b352ef8107b8f540b46d7aa2512d7f86a1e5af36aab4f37862630da067de",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招390710人117254职位收录16073考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-10 19:01:55",
-      "updated_at": "2026-08-10 19:01:55",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 196,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468280215886848",
-      "source_hash": "82dda866a16a97228d8f04c7ab5587b9498d3db791b63b3dcacee32bb6c3fe63",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "平川区2026年普通高中学校公开选调教师公告正在报名甘肃 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步优化全区普通高中教师队伍结构，有效缓解高中师资紧缺压力，经研究，决定在全区中小学（幼儿园）在职在编及项目人员中公开选调优秀教师补充到普通高中学校任教。为确保选调工作规范有序、公平公正开展，现将有关事项公告如下：\n一、选调岗位及人数\n本次面向全区公开选调高中专任教师共28名，具体岗位：语文2名，数学9名，物理5名，化学6名，生物3名，音乐1名，体育2名。\n二、选调对象\n全区中小学（幼儿园）在职在编及项目人员。\n三、报名条件\n（一）思想品德优良，热爱教育事业，恪守教师职业道德规范，事业心、责任心强，作风正派，无师德失范记录。\n（二）遵纪守法，无违法违纪、党纪政务处分记录，年度考核均为合格及以上等次。\n（三）报考岗位与所学专业、教师资格证学科一致，每人仅限报考一个岗位。\n（四）报名人员学历为全日制本科及以上，持有高级中学教师资格证书，且服务期已满。\n（五）身体健康，能胜任高中教育教学工作。\n四、选调程序\n（一）发布公告\n通过平川区教育局官方微信公众号公开发布，各中小学（幼儿园）要积极做好宣传工作。\n（二）组织报名\n经个人自愿申请，所在学校、乡镇教管中心初审后，符合报名条件的人员携带全",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-10 13:12:57",
-      "updated_at": "2026-08-10 13:12:57",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468280217901056.doc",
-        "https://hera.fbstatic.cn/468280219473920.xls"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 195,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468281585849344",
-      "source_hash": "6ca8fb07b873438b3099cfbc62635345b1dc9194faf5c043c18152b870752f64",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "长丰县2026年部分学校公开选调教师公告正在报名安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步促进县域内教师交流，根据县编委员会《关于进一步加强机构编制和人员流动管理的通知》（长编〔2011〕6号）《长丰县中小学教师“县管校聘”管理改革实施意见》等文件精神及学校实际需要，经县政府同意，采取公开选调的方式，给予部分学校补充教师，具体事宜如下：\n一、选调原则\n坚持“自荐、公开、竞争、择优”的原则，实行专业素质测试考核办法。\n二、选调名额及岗位\n中小学教师选调45人、幼儿教师选调15人。具体岗位详见附表。\n三、选调范围与条件\n（一）选调范围：本次选调面向全县义务教育阶段学校、中等职业学校在编在岗教师及部分幼儿园在编在岗教师。\n（二）选调条件\n1.拥护中国共产党的领导，热爱社会主义祖国，遵纪守法、为人师表，具有良好的师德修养和奉献精神。\n2.选调初中教师岗位的，必须取得国家承认的本科及以上学历且具备相应的教师资格；选调小学教师岗位，须取得国家承认的专科及以上学历且具备相应的教师资格；选聘语文教师岗位的，须取得普通话二级甲等及以上证书；选调幼儿教师岗位，须取得国家承认的专科及以上学历且具备相应的教师资格。\n3.年龄要求：男教师须1971年1月1日以后出生，女教师须1976年1月1",
-      "apply_start": "2026-08-14",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-14",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-10 13:12:55",
-      "updated_at": "2026-08-10 13:12:55",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468281587339265.pdf",
-        "https://hera.fbstatic.cn/468281588653056.docx"
       ],
       "position_count": 0,
       "positions": []
