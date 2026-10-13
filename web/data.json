@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-13 17:44:50",
+  "updated_at": "2026-10-13 22:46:02",
   "stats": {
-    "total": 706,
+    "total": 707,
     "by_type": {
-      "省考": 706
+      "省考": 707
     },
     "by_province": {
-      "全国": 653,
+      "全国": 654,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 707,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "e0825ac32135a0bb71a76042b6a45e56c4d5e0f36968e774c5773ad89a09835a",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招838155人159121职位收录22012考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-13 22:29:39",
+      "updated_at": "2026-10-13 22:29:39",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 706,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469709902073856",
@@ -16916,41 +16946,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468301534927872.xlsx",
         "https://hera.fbstatic.cn/468301535975425.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 207,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468298969143296",
-      "source_hash": "72396cfe4c086be05d670920d7b25d67635ba2a377ba715c6f8322a28803053b",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年葫芦岛市连山区公开选调教师公告正在报名辽宁 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步加强连山区教师队伍建设，保证教育教学工作高质量发展，结合全区教师队伍实际情况，经区委、区政府研究决定，在保证农村学校正常教育教学工作的前提下，本着公平、公正、公开的原则，面向连山区农村中小学公开选调教师18名，补充城内学校短缺学科教师。现将有关事宜公告如下：\n一、选调名额\n计划公开选调18名教师，其中中学教师8名、小学教师10名。\n中学：数学1人、语文2人、英语1人、物理1人、化学1人、道德与法治1人、历史1人。\n小学：班主任7人、英语2人、音乐1人。\n二、选调范围\n连山区农村中小学学校（含九年一贯制学校）公办在编教师。\n三、选调条件\n1.遵纪守法，有良好的思想政治素质和社会公德；热爱教育工作，忠诚教育事业，师德高尚、事业心强；有坚实的专业功底，过硬的教育教学和教科研能力，有组织协调能力和团队协作精神。\n2.身体健康，能够正常履行本岗位职责。\n3.具备国家承认专科及以上学历。\n4.具有同等级别及以上教师资格证书，具有同学段教师专业技术职称资格。\n5.在农村学校工作服务期已满5年（2021年9月1日前入编），近5年年度考核等次均为合格及以上。\n6.学历专业和选调学科相同或曾任教本",
-      "apply_start": "2026-08-14",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-14",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-11 07:13:22",
-      "updated_at": "2026-08-11 07:13:22",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468298970633216.xls",
-        "https://hera.fbstatic.cn/468298971942912.doc",
-        "https://hera.fbstatic.cn/468298973256704.docx",
-        "https://hera.fbstatic.cn/468298974828544.xlsx"
       ],
       "position_count": 0,
       "positions": []
