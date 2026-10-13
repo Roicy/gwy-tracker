@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-13 09:33:11",
+  "updated_at": "2026-10-13 17:44:50",
   "stats": {
-    "total": 704,
+    "total": 706,
     "by_type": {
-      "省考": 704
+      "省考": 706
     },
     "by_province": {
-      "全国": 651,
+      "全国": 653,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,68 @@
     }
   },
   "notices": [
+    {
+      "id": 706,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469709902073856",
+      "source_hash": "c35081afb3c063109f08f1df7a8ece7e3b413b18c1ac3a3baa9c224db50bded6",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "鸡东县农田建设服务中心公开选调工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据工作需要,鸡东县农田建设服务中心在全县事业单位范围内公开选调具有正式干部身份工作人员,现将有关事项公告如下:\n一、选调单位及岗位职能\n鸡东县农田建设服务中心计划选调具有正式干部身份工作人员1人。鸡东县农田建设服务中心隶属于鸡东县农业农村局，为公益一类财政全额拨款事业单位。鸡东县农田建设服务中心贯彻落实省委、市委、县委的方针政策和决策部署。\n主要职责:\n（一）为机关提供支持保障的职能\n1.承担高标准农田建设等重点项目的实施，研究制定项目工作计划、方案等工作。\n2.承担完成年度工作任务，按计划组织项目建设，认真做好项目实施工作。为项目设计和施工提供服务，高标准完成建设任务。\n（二）面向社会提供公益服务的职能\n1.承担项目建设的资料归档，数据统计，内业整理工作。积极宣传农田建设的目的意义。\n2.承担协调项目建设过程中的各类矛盾，处理信访纠纷工作。\n（三）完成鸡东县农业农村局交办的其他任务\n二、选调范围\n全县事业单位范围内，在编在岗具有正式干部身份工作人员。\n三、选调条件\n（一）具有良好的政治、业务素质，品行端正，群众公认，身体健康；\n（二）大专及以上文化程度；\n（三）年龄45周岁及以下（",
+      "apply_start": "2026-10-21",
+      "apply_end": "2026-10-23",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-21",
+        "apply_end": "2026-10-23",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-13 17:28:04",
+      "updated_at": "2026-10-13 17:28:04",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469732653476864.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 705,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "ba2591b052062eeb7fcc93436aad3a7457cbef60af0568650451b54a22902e73",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招838133人159111职位收录22008考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-13 17:28:02",
+      "updated_at": "2026-10-13 17:28:02",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 704,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469636466628608",
@@ -16889,73 +16951,6 @@
         "https://hera.fbstatic.cn/468298971942912.doc",
         "https://hera.fbstatic.cn/468298973256704.docx",
         "https://hera.fbstatic.cn/468298974828544.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 206,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468300152985600",
-      "source_hash": "f405918e62f397477794a86314575b00027f9680726ab8e0a935e12cfaecf14d",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "通许县第三实验学校2026年选调工作方案报名结束河南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "通许县第三实验学校始建于2024年，是一所环境雅致、书香浓郁的园林式现代化学校。校园占地107亩，设施完善、布局规整。学校配有标准化教学楼、塑胶操场、篮球场，教室全员配备冷暖空调与智慧黑板，智慧教学全覆盖，环境优美、设备精良，为学生优质成长提供坚实保障。学校师资精良、梯队完善。现有教职工109人，青年教师占比近80%，队伍活力充沛、锐意进取。拥有河南省名校长1人，河南省优秀教师2人，河南省优秀班主任2人，河南省学科带头人1人，省、市级名师及骨干教师共29人，高级教师9人。为进一步加强教师队伍建设，提升教师队伍整体素质，合理配置学校教师资源，面向全县公开选调优秀教师，现将选调有关事项公告如下：\n基本原则\n1.公开公正原则。选调工作全程公开，实行阳光作业，自觉接受监督。\n2.竞争择优原则，采取乡镇中心校推荐、教体局集中说课考核相结合的方法，经局党组研究后录用。\n选调名额\n初中部：语文4名，数学4名，英语4名，政治2名，历史2名，地理2名，生物2名，体育2名，音乐1名，美术1名。\n小学部：语文9名，数学9名，英语2名，体育2名，音乐4名，美术4名。\n报名范围和条件\n1.在编在岗中小学教师，要",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-11 07:13:19",
-      "updated_at": "2026-08-11 07:13:19",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468300154998784.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 205,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468300221665280",
-      "source_hash": "9ee0a55c54186879d4ea9aa98de309650a997f77b6f237fdb1edd086c108649f",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "上饶市广信区2026年高中学校选调教师公告正在报名江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为推动我区高中学校高质量发展，经研究，决定在全区中小学中选调高中学校部分紧缺学科教师。现公告如下。\n一、选调原则\n选调工作坚持公开、公正、公平、择优的原则。\n二、选调名额\n选调高中教师共23名，具体学科如下:\n高中岗位：语文3人、数学6人、英语7人、化学4人、物理3人。\n以上岗位高中学校教师、2026年城区学校选调入闱的教师不得报考；当报名人数小于或等于选调计划名额时，该学科录取人数确定为选调计划名额减1；如某学科仅有1人报考，则取消该学科本次选调。\n三、选调条件\n参加选调的教师须同时具备以下条件：\n1.本区在编在岗的公办教师；\n2.持有高中教师资格证；\n3.在公办学校入编后工作满五年以上（2021年9月1日前在公办学校任教）；“特岗教师”入编后工作满三年；\n4.2024-2026年度师德考核合格及以上等次；\n5.具备大学本科及以上学历；\n6.年龄不限。\n四、有下列情形之一者不能报考\n1.在编不在岗或返岗未满一年的；\n2.2024、2025及2026年事业单位年度考核有一次“不合格”的；\n3.2024-2026年期间有重大工作失误，被区教体局以文件形式点名通报处理的；\n4.2024-2",
-      "apply_start": "2026-08-10",
-      "apply_end": "2026-08-12",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-10",
-        "apply_end": "2026-08-12",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-11 07:13:17",
-      "updated_at": "2026-08-11 07:13:17",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468300223683584.doc",
-        "https://hera.fbstatic.cn/468300225517568.doc",
-        "https://hera.fbstatic.cn/468300227089408.doc",
-        "https://hera.fbstatic.cn/468300228923392.xlsx"
       ],
       "position_count": 0,
       "positions": []
