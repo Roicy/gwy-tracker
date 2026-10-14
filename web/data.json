@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-13 22:46:02",
+  "updated_at": "2026-10-14 01:58:56",
   "stats": {
-    "total": 707,
+    "total": 708,
     "by_type": {
-      "省考": 707
+      "省考": 708
     },
     "by_province": {
-      "全国": 654,
+      "全国": 655,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 708,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "7e03638908a43dfd17983592ae558cbcd9e9ba1bf170588612dbeca944f7ec84",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招838311人159201职位收录22030考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-14 01:43:32",
+      "updated_at": "2026-10-14 01:43:32",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 707,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16913,39 +16943,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468301572150272.2026年射阳县县城部分学校公开选调教师岗位表.xlsx",
         "https://hera.fbstatic.cn/468301573198848.2026年射阳县县城部分学校公开选调教师报名表.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 208,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468298884470784",
-      "source_hash": "3ae930a1c83ddcba915143bb0d3225b8982aa421ba7f4fe5871ca100b8a27d6f",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年射阳县教育局相关直属事业单位公开选调工作人员公告正在报名江苏 · 选调职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "因工作需要，经县委机构编制委员会同意，现公开选调工作人员12名充实到射阳县教育局相关直属事业单位工作。现将有关事项公告如下：\n一、选调原则\n1.坚持公平公正、阳光选调的原则；\n2.坚持编制许可、工作需求的原则。\n二、选调岗位\n本次公开选调工作人员共12名，详见《2026年射阳县教育局相关直属事业单位公开选调工作人员岗位表》（附件1）。\n三、选调对象及条件\n（一）选调对象：\n面向全县教育系统在编在岗的教师（工勤岗位除外）。\n（二）选调条件：\n1.政治素质要求：\n（1）忠诚党的教育事业，遵纪守法；\n（2）品行端正，严于律己，爱岗敬业，身心健康；\n（3）能胜任相应岗位工作要求；\n（4）本科及以上学历；\n（5）年龄须在45周岁以下（1980年8月13日及以后出生）；\n（6）参加选调的中层及以上干部若选调成功，原任职务自然免去，且不保留原职级待遇。射阳县教育局下属事业单位现任校级干部报名参加选调，须经县教育局同意。\n（7）报名参加选调人员，办理人事调动手续后，根据岗位设置管理相关文件规定，对其岗位进行重新聘任。以“乡村教师”名义申报并取得高一级专业技术职务人员执行省人力资源社会保障厅、省教育厅《",
-      "apply_start": "2026-08-13",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-13",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-11 07:13:24",
-      "updated_at": "2026-08-11 07:13:24",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468301534927872.xlsx",
-        "https://hera.fbstatic.cn/468301535975425.docx"
       ],
       "position_count": 0,
       "positions": []
