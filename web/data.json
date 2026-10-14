@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-14 18:42:40",
+  "updated_at": "2026-10-14 22:24:58",
   "stats": {
-    "total": 714,
+    "total": 715,
     "by_type": {
-      "省考": 714
+      "省考": 715
     },
     "by_province": {
-      "全国": 661,
+      "全国": 662,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 715,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "d0f6ea4c7088d726cdd0e2813219431900a5a6546125dda213fb06f8758899f0",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招837723人159822职位收录22129考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-14 22:09:42",
+      "updated_at": "2026-10-14 22:09:42",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 714,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16908,40 +16938,6 @@
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468300154998784.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 215,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468300226121728",
-      "source_hash": "a5b00115f2bee61b5a79058887e8b42a4a9c547a93ce58861fdc21748c56265f",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "安远县2026年城区及周边乡镇学校公开选调教师公告正在报名江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据我县城区及周边乡镇学校教育教学工作需要，决定通过考试择优选调部分农村中小学教师到城区及周边乡镇学校任教，现将有关事项公告如下：\n一、选调计划\n二、选调对象及选调条件\n(一)选调对象\n在我县农村中小学任教，且在编制所在学校任教年限已满3学年的在编在岗教师(含2026年服务期满即将转正的特岗教师)。定向师范生在定向乡镇学校任教年限须满5学年方可参加选调考试。\n持有中学教师资格证的乡镇小学教师主动申请到乡镇初中任教者，其在乡镇初中和乡镇小学的任教年限累计达3年(定向师范毕业生累计达5年)的，视为任教年限合格;因学校缩减编制数导致分流者，其在现任教学校和原任教学校任教年限累计达3年(定向师范毕业生累计达5年)的，视为任教年限合格。\n(二)基本条件\n1.爱岗敬业，遵纪守法，身心健康、为人师表，教育教学业绩良好;\n2.近三年年度考核均为合格(含)以上;\n3.近三学年师德考核均为合格(含)以上;\n4.根据《安远县中小学幼儿园教师积分制管理办法(试行)》，2025-2026学年度教学质量考核积分需B等次及以上(2025年7月-2026年8月学年度休产假者，不受此条件限制);\n5.择优选调后，自愿参",
-      "apply_start": "2026-08-12",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-12",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-11 13:11:48",
-      "updated_at": "2026-08-11 13:11:48",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468300228140032.doc",
-        "https://hera.fbstatic.cn/468300229711872.doc",
-        "https://hera.fbstatic.cn/468300231545856.doc"
       ],
       "position_count": 0,
       "positions": []
