@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-15 07:29:09",
+  "updated_at": "2026-10-15 13:30:25",
   "stats": {
-    "total": 717,
+    "total": 719,
     "by_type": {
-      "省考": 717
+      "省考": 719
     },
     "by_province": {
-      "全国": 664,
+      "全国": 666,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,66 @@
     }
   },
   "notices": [
+    {
+      "id": 719,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "74ed257a7ba5078c898d9f3fe7c68b28809a8ccc94f47ea84bb33eab0d5c0a87",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招842881人161121职位收录22275考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-15 13:15:05",
+      "updated_at": "2026-10-15 13:15:05",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 718,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/204",
+      "source_hash": "7f694e20cc7a2c63162a94444fd621cffe18c5409e6627b04cfbc43cfa52391b",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "27国省考公告合集共招35691人19426职位收录1考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-15 13:15:04",
+      "updated_at": "2026-10-15 13:15:04",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 717,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16871,72 +16931,6 @@
       "updated_at": "2026-08-12 02:07:50",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 219,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "a7ec50e0dbfea39f81f0812e3e21b185d9abc79a60aaff44a743c2846d94dc05",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招392161人117893职位收录16177考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-12 02:07:49",
-      "updated_at": "2026-08-12 02:07:49",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 218,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468287003580416",
-      "source_hash": "9a9a92a43d2be49ea9edbb907413049e23256a4fc09ee1e2637ba37439d5d0cf",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年进贤县公开选调教师公告正在报名江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为深化教育人事制度改革，优化县域教师资源配置，调整城乡教师编制结构，推动县域城乡义务教育优质均衡发展，经研究，决定2026年面向全县乡镇公办义务教育阶段学校及民和学校公开选调50名优秀专任教师，安排到县城义务教育学校小学岗位任教；面向全县乡镇公办义务教育阶段学校及民和学校公开选调80名优秀专任教师，安排到县城义务教育学校初中岗位任教；面向全县公办义务教育阶段学校公开选调30名优秀专任教师，安排到全县高中学校高中岗位任教。为确保选调工作顺利进行，现将2026年进贤县公开选调教师有关事项公告如下：\n一、选调对象\n符合条件的本县公办义务教育阶段学校在编在职教师。\n二、选调人数及学科\n选调计划人数160人，其中：小学50人，初中80人，高中30人。具体岗位及学科人数详见附件1。\n三、选调原则\n按照德才兼备的用人标准，坚持“公开、公平、公正”的原则，择优选调。\n四、选调条件\n（一）选调对象必须同时具备下列条件：\n1.忠诚党的教育事业，有强烈的事业心和责任感，遵纪守法，师德高尚，教学能力强。\n2.近三年师德考核和年度考核合格及以上。\n3.年龄要求50周岁以下即1975年9月1日（含）后出生。年龄以",
-      "apply_start": "2026-08-17",
-      "apply_end": "2026-08-31",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-17",
-        "apply_end": "2026-08-31",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-11 19:06:01",
-      "updated_at": "2026-08-11 19:06:01",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468287005332480.docx",
-        "https://hera.fbstatic.cn/468287006904320.docx",
-        "https://hera.fbstatic.cn/468287008218112.docx",
-        "https://hera.fbstatic.cn/468287009789952.docx",
-        "https://hera.fbstatic.cn/468287011099648.docx"
-      ],
       "position_count": 0,
       "positions": []
     }
