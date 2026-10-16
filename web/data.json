@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-16 07:17:02",
+  "updated_at": "2026-10-16 12:40:57",
   "stats": {
-    "total": 725,
+    "total": 726,
     "by_type": {
-      "省考": 725
+      "省考": 726
     },
     "by_province": {
-      "全国": 672,
+      "全国": 673,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 726,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "e911de62ca0f45e3da8800db6c60c3e1eaf667e607949957a1949419a31feb14",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招846625人161989职位收录22387考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-16 12:15:56",
+      "updated_at": "2026-10-16 12:15:56",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 725,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469791829421056",
@@ -16896,40 +16926,6 @@
       "updated_at": "2026-08-12 13:15:49",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 226,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468309174669312",
-      "source_hash": "55a8a1843ac29736dcee32d72cd68d905280251658727bb708d2521ac96e0ed0",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年贺州市八步区面向全区公开选调公办中学副校长简章正在报名广西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "八步区是广西贺州市主城区，地处桂粤湘三省（区）交汇地带，是广西东融先行示范区的核心区域，教育资源集聚、发展平台广阔。为深化八步区教育系统人事制度改革，优化区内教育管理人才资源配置，推动城乡教育优质均衡发展，我区2026年计划面向广西区内公办中学公开选调中学副校长6名，根据上级有关文件精神，结合我区实际情况，现将有关事项公告如下：\n一、选调原则\n（一）坚持党管干部、党管人才原则，突出政治标准，树立正确选人用人导向。\n（二）坚持德才兼备、以德为先、注重实绩、群众公认，突出办学治校能力与岗位适配性。\n（三）坚持公开、平等、竞争、择优，严格规范程序，全程接受监督。\n（四）坚持结构优化、人岗相适，统筹考虑班子建设需要与干部综合素质。\n二、选调条件及待遇\n(一)选调基本条件\n1.政治素质过硬，拥护党的教育方针，落实立德树人根本任务，具有强烈的教育事业心和责任感。具备较强的组织协调、教育科研及课程领导能力，善于规划学校发展。品行端正，廉洁自律，在师生中有较高威信。近3年年度考核均为合格(称职)及以上等次。\n2.岗位资质要求：具有大学本科及以上学历，持有相应学段教师资格证；具有中学一级教师及以上专业技",
-      "apply_start": "2026-08-19",
-      "apply_end": "1975-08-18",
-      "written_exam": null,
-      "interview_start": "2026-08-22",
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-19",
-        "apply_end": "1975-08-18",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": "2026-08-22"
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-12 07:29:53",
-      "updated_at": "2026-08-12 07:29:53",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468309176425473.xlsx",
-        "https://hera.fbstatic.cn/468309177997312.doc",
-        "https://hera.fbstatic.cn/468309179831296.doc"
-      ],
       "position_count": 0,
       "positions": []
     }
