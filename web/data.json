@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-16 01:31:19",
+  "updated_at": "2026-10-16 07:17:02",
   "stats": {
-    "total": 722,
+    "total": 725,
     "by_type": {
-      "省考": 722
+      "省考": 725
     },
     "by_province": {
-      "全国": 669,
+      "全国": 672,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,103 @@
     }
   },
   "notices": [
+    {
+      "id": 725,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469791829421056",
+      "source_hash": "3472880d4cdf928ca1d53eca72cf9bea132e72d542d6bf192fed1db4e1568059",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "吉林省面向吉林大学定向招录2027届选调生公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为贯彻落实中组部《关于进一步加强和改进选调生工作的意见》，选拔优秀高校毕业生到吉林省各级党政机关工作，不断加强推动吉林高质量发展的高素质专业化干部队伍源头建设，根据公务员法和选调生工作有关政策规定，现就吉林省定向招录2027届选调生工作有关事项公告如下：\n一、选调对象\n选调对象为2027年全日制应届博士、硕士毕业生（2027年1月1日至12月31日期间取得博士毕业证、学位证，2027年1月1日至7月31日期间取得硕士毕业证、学位证）。\n2027年毕业的少数民族高层次骨干人才计划培养、且在毕业后定向到吉林省或按教育部门规定可以到吉林省服务的非在职应届毕业生，与校本部同批次录取且学历学位证书颁发单位署名一致的分校全日制应届毕业生可以报考。\n高等教育就读期间，自学考试、在职培养和网络学院、成人教育学院、独立学院、民办院校，以及按全日制教育方式培养、但毕业证书明确为“非全日制”的应届毕业生，具有国（境）外永久居留资格的应届毕业生不列入选调范围。\n二、选调条件\n选调生在具备《公务员录用规定》报考条件的基础上，还应具备以下条件：\n1．认真学习习近平新时代中国特色社会主义思想，深刻领悟“两个确立”的",
+      "apply_start": "2026-10-19",
+      "apply_end": "2027-01-01",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-19",
+        "apply_end": "2027-01-01",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-16 06:56:12",
+      "updated_at": "2026-10-16 06:56:12",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469791830910976.doc",
+        "https://hera.fbstatic.cn/469791832220673.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 724,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469793092429824",
+      "source_hash": "b35c2e136340c078a1df3feb0428bf3097d82c242cc24f2fed4927b7b3d69d92",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "吉林省面向重庆大学定向招录2027届选调生公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "重庆大学校内推荐流程：\n1.学院审核推荐：考生填写《吉林省定向招录2027届选调生推荐表》（详见附件1），报所在学院党组织把关推荐、审核盖党委公章。中共党员（含预备党员）、担任学生干部经历、获得奖励荣誉和参军入伍等证明材料须由所在学院党组织出具证明并盖章。考生同时提交《承诺书》（见附件3），《承诺书》由学院留存。\n2.职就中心审核推荐：报考人员登录就业系统（cqu.cqbys.com），在“用章申请”栏目提交用章申请后，持已由学院盖章的《推荐表》到职就中心办理盖章。办理地点：沙坪坝校区（A校园）主教学楼一楼103服务平台或科学城校区（虎溪校园）学生活动中心B101服务平台。\n3.网上报名：考生于2026年10月19日8:30至10月23日16:00，通过吉林公务员考试网（www.jlgwyks.cn）报名。上传提交由学院和职就中心审核盖章的《推荐表》，与由学院党组织出具证明并盖章的中共党员（含预备党员）、担任学生干部经历、获得奖励荣誉和参军入伍等证明材料。\n吉林省面向重庆大学定向招录\n2027届选调生公告\n为贯彻落实中组部《关于进一步加强和改进选调生工作的意见》，选拔优秀高校毕业生到吉",
+      "apply_start": "2026-10-19",
+      "apply_end": "2027-01-01",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-19",
+        "apply_end": "2027-01-01",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-16 06:56:11",
+      "updated_at": "2026-10-16 06:56:11",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469793093918720.doc",
+        "https://hera.fbstatic.cn/469793095493632.doc",
+        "https://hera.fbstatic.cn/469793097065472.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 723,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "b9bcd16f695ac5d6ba2efb3d27e5033714833ab58d6abedcb7e33d9aa72ae20c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招845323人161489职位收录22337考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-16 06:56:09",
+      "updated_at": "2026-10-16 06:56:09",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 722,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16832,104 +16929,6 @@
         "https://hera.fbstatic.cn/468309176425473.xlsx",
         "https://hera.fbstatic.cn/468309177997312.doc",
         "https://hera.fbstatic.cn/468309179831296.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 225,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468319959275520",
-      "source_hash": "05fabdd1e812065a0ecca67648bb8e9025534c270ae02d6d7d1bd1e4219033c4",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "通榆县财政局所属事业单位公开选调事业编制工作人员公告正在报名吉林 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "通榆县财政局所属事业单位通榆县债务管理服务中心、通榆县财税督查办公室、通榆县会计管理中心，拟通过公开方式选调事业编制工作人员，现将有关事项公告如下。\n一、选调职位及数量\n通榆县债务管理服务中心拟选调3名专业技术岗位人员。\n通榆县财税督查办公室拟选调3名专业技术岗位人员。\n通榆县会计管理中心拟选调2名专业技术岗位人员。\n二、选调范围\n符合《事业单位人事管理条例》规定资格条件的通榆县在编在岗人员。\n三、选调条件\n（一）基本资格条件\n1.具有中华人民共和国国籍，遵守中华人民共和国宪法和法律，政治立场坚定，政治素质过硬；\n2.年龄38周岁（1988年8月以后）以下，具有全日制大学本科及以上学历；会计、金融、审计类专业或目前从事财务工作者优先，特别优秀者条件可以适当放宽；\n3.具有2年及以上工作经验，且近2年年度考核均为合格及以上等次，工作经历计算截至2026年8月（含）；\n4.具有正常履职的身体条件和心理素质；\n5.法律法规规定的其他条件。\n（二）具有下列情形之一的，不得参加公开选调\n1.被开除中国共产党党籍的；\n2.被依法列为失信联合惩戒对象的；\n3.涉嫌违纪违法正在接受有关专门机关审查调查",
-      "apply_start": "2026-08-17",
-      "apply_end": "2026-08-28",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-17",
-        "apply_end": "2026-08-28",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-12 07:29:51",
-      "updated_at": "2026-08-12 07:29:51",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468319962600448.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 224,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468320750949377",
-      "source_hash": "44cd4338260cbab000f739121a51775a2808f947635c095116ad70d7d706e135",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年屏边县幼儿园公开选调教师公告正在报名云南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据屏边县教育体育局县内教师选调工作要求，经研究并报屏边县教育体育局批准，决定面向县内玉屏镇之外的其他乡镇（以下简称县内其他乡镇）公开选调2名学前教育教师。现将选调有关事项公告如下：\n一、选调岗位数及人数\n此次选调2名一线教师，岗位：学前教育（岗位详见附件1）。\n二、选调对象和条件\n（一）选调对象\n县内其他乡镇在职在编的一线教师。\n（二）选调条件\n1.遵纪守法，作风正派，师德良好，忠诚于党的教育事业。\n2.年龄在35周岁及以下，即1990年8月31日及以后出生。\n3.工作年限：必须具有五年（特岗教师八年）及以上任教经历（即：2021年9月及以前参加工作，特岗教师2018年9月及以前参加工作，以录用文件为准）。\n4.年度考核：近三年以来年度考核结果均在“合格”及以上。\n5.学历及专业：具备本科及以上学历。专业不限。\n6.具有学前教育及以上教师资格证。\n7.具有正常履行工作职责的身体条件。\n8.具有下列情形之一者不予报名：\n（1）有违反教师职业道德规范及其他有损教师形象和声誉现象，涉嫌违纪违法等正在接受有关部门审查处理未做出结论的人员；\n（2）近三年有年度考核不合格、不定等次或受过党纪、政",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": "2026-08-23",
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": "2026-08-23"
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-12 07:29:50",
-      "updated_at": "2026-08-12 07:29:50",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468320754275328.xls",
-        "https://hera.fbstatic.cn/468320755847168.xls"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 223,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468320755145728",
-      "source_hash": "303810e1e1e66ab7cc20eaf2dea3beb9454f5fdfaeab5eb10c631accd8c39c36",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年屏边县第一中学公开选调教师公告正在报名云南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据屏边县教育体育局县内教师选调工作要求，经研究，决定面向县内公开选调2名教师。现将选调有关事项公告如下：\n一、选调岗位数及人数\n此次共选调2名一线教师：数学教师1人、生物教师1人（岗位详见附件1）。\n二、选调对象和条件\n（一）选调对象\n县内符合条件的在职在编一线教师。\n（二）选调条件\n1.纪律：遵纪守法，作风正派，师德良好，忠诚于党的教育事业。\n2.年龄：在40周岁及以下，即1985年8月31日及以后出生。每人限报1个岗位。\n3.工作年限：必须具有五年（特岗教师八年）及以上任教经历（即：2021年9月及以前参加工作，特岗教师2018年9月及以前参加工作，以录用文件为准）。\n4.年度考核：近三年以来年度考核结果均在“合格”及以上。\n5.学历及专业：具备本科及以上学历，不限专业。\n6.资格证：具有初中及以上教师资格证。\n7.健康状况：具有正常履行工作职责的身体条件。\n8.具有下列情形之一者不予报名：\n（1）有违反教师职业道德规范及其他有损教师形象和声誉现象，涉嫌违纪违法等正在接受有关部门审查处理未作出结论的人员；\n（2）近三年有年度考核不合格、不定等次或受过党纪、政纪处分影响期未满的；\n",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": "2026-08-20",
-      "interview_start": "2026-08-20",
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": "2026-08-20",
-        "recruit_count": null,
-        "interview_start": "2026-08-20"
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-12 07:29:48",
-      "updated_at": "2026-08-12 07:29:48",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468320758994945.xls",
-        "https://hera.fbstatic.cn/468320760566785.xls"
       ],
       "position_count": 0,
       "positions": []
