@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-17 16:33:35",
+  "updated_at": "2026-10-17 19:25:48",
   "stats": {
-    "total": 734,
+    "total": 735,
     "by_type": {
-      "省考": 734
+      "省考": 735
     },
     "by_province": {
-      "全国": 681,
+      "全国": 682,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 735,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "c914ca4ecc4e4a85c43d5f2694812be828aa6ab243384397e5adabea699895d5",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招844179人162332职位收录22424考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-17 19:09:12",
+      "updated_at": "2026-10-17 19:09:12",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 734,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16885,41 +16915,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468327204330496.doc",
         "https://hera.fbstatic.cn/468327206688768.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 235,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468346020843520",
-      "source_hash": "a506f54370d8d32f80e0436cb241cee48346d5fcc1105d8db24047cd97833cb2",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "关于泸州市江阳区2026年公开考试转任公务员和公开选调事业单位工作人员的公告正在报名四川 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "中共泸州市江阳区委组织部\n泸州市江阳区人力资源和社会保障局\n关于泸州市江阳区2026年公开考试转任公务员和公开选调事业单位工作人员的公告\n因工作需要,按照公开、平等、竞争、择优的原则,泸州市江阳区拟通过公开考试方式转任公务员和选调事业单位工作人员,现就有关事项公告如下:\n一、公开考试转任职位(选调岗位)、名额及要求\n本次公开考试转任公务员职位16个,转任19人;公开选调公益一类事业单位工作人员岗位9个,选调9人。其中转任职位(选调岗位)名额及报考条件详见《泸州市江阳区2026年公开考试转任公务员职位需求表》(附件1)和《泸州市江阳区2026年公开选调事业单位工作人员岗位需求表》(附件2)。\n二、公开考试转任(选调)对象、范围及基本条件\n(一)公开考试转任(选调)对象和范围\n1.公开考试转任公务员:泸州市范围内符合相应职位要求的在编在职公务员(参公人员)。\n2.公开选调事业人员:全国范围内符合相应岗位要求的在编在职公务员(参公人员)(注:要求被录用后自愿放弃原公务员或参公人员身份)和事业单位工作人员。\n(二)公开考试转任(选调)对象基本条件\n1.政治立场坚定、政治素质过硬,深刻领悟“两个",
-      "apply_start": "2026-08-24",
-      "apply_end": "2026-08-26",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-24",
-        "apply_end": "2026-08-26",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-13 07:38:00",
-      "updated_at": "2026-08-13 07:38:00",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468346022599680.docx",
-        "https://hera.fbstatic.cn/468346023909376.xls",
-        "https://hera.fbstatic.cn/468346025219072.doc",
-        "https://hera.fbstatic.cn/468346026790912.docx"
       ],
       "position_count": 0,
       "positions": []
