@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-18 20:54:46",
+  "updated_at": "2026-10-18 23:13:06",
   "stats": {
-    "total": 741,
+    "total": 742,
     "by_type": {
-      "省考": 741
+      "省考": 742
     },
     "by_province": {
-      "全国": 688,
+      "全国": 689,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 742,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "491c979972498f5c4c8922298801da0093424af04086fca59a159e6284f74eca",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招841472人162333职位收录22414考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-18 22:55:36",
+      "updated_at": "2026-10-18 22:55:36",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 741,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16876,39 +16906,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468367186795521.xls",
         "https://hera.fbstatic.cn/468367188105217.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 242,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468367755726848",
-      "source_hash": "abd30aee8f0e5b88c6e9e98fbe9e6ac372993eec70e841dd46222a17504bdd7c",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "贵州省总工会直属事业单位2026年公开选调工作人员方案报名结束贵州 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "贵州省总工会息烽温泉疗养院系贵州省总工会所属正县（处）级公益二类事业单位，主要承担为全国劳模、各行各业技术工人、先进工作者及广大职工群众提供疗休养服务公益性职能。为进一步拓宽选人用人渠道，着力建设忠诚干净担当的高素质专业化干部队伍，根据《贵州省人力资源和社会保障厅关于调整优化省直事业单位干部调配工作有关事宜的通知》（黔人社通〔2025〕51号）《贵州省总工会所属事业单位干部调配办法》和有关规定，结合本单位干部队伍建设需要，决定公开选调工作人员。结合工作实际，制定本方案。\n一、公开选调计划及岗位\n公开选调贵州省总工会息烽温泉疗养院工作人员3名（其中办公室1名、人事科1名、财务科1名）。具体岗位条件详见《贵州省总工会直属事业单位公开选调工作人员岗位表》（附件1）。\n二、报名范围和资格条件\n（一）报名范围\n全省各级机关、参照公务员法管理单位乡科级及以下干部，以及事业单位在职在编七级及以下管理岗位人员、八级及以下专业技术岗位人员。\n公务员（参照公务员法管理的单位工作人员）报考本次公开选调的，视为自愿放弃公务员（参照公务员法管理的单位工作人员）身份。\n（二）报考者应当具备以下资格条件\n1．政治立",
-      "apply_start": "2026-08-22",
-      "apply_end": "2026-08-30",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-22",
-        "apply_end": "2026-08-30",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-14 07:29:18",
-      "updated_at": "2026-08-14 07:29:18",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468367757483008.xlsx",
-        "https://hera.fbstatic.cn/468367758792704.doc"
       ],
       "position_count": 0,
       "positions": []
