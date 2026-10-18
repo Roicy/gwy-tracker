@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-18 05:53:37",
+  "updated_at": "2026-10-18 11:01:45",
   "stats": {
-    "total": 737,
+    "total": 739,
     "by_type": {
-      "省考": 737
+      "省考": 739
     },
     "by_province": {
-      "全国": 684,
+      "全国": 686,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,68 @@
     }
   },
   "notices": [
+    {
+      "id": 739,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469663272688640",
+      "source_hash": "461508a7185a070e7173bdbd016b4e44889dbbf2eede873141e9e1ea52dd9bc6",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "大余县2026年面向全县事业单位选调县属国企中层管理工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为加强县属国企工作人员队伍建设，促进县属国企高质量发展，解决目前县属国企中层骨干管理人员、相关专业技术人员和生产经营人才不足的问题，经研究，决定面向全县事业单位工作人员进行选调，现将有关事项公告如下。\n一、选调原则\n坚持“公开、平等、竞争、择优、人岗相适”的原则，采用公开选调与自主考察相结合的方式开展。\n二、选调对象范围\n全县事业单位在编在岗（含小学教师）副科级（不含）以下工作人员。\n三、选调岗位计划\n本次选调20名事业单位工作人员前往县属国企中层正职岗位交流锻炼培养。县属国企中层正职岗位主要包括集团公司总部部门负责人、一级子公司副职班子成员、二级子公司主要负责人。\n四、选调条件\n（一）应具备的基本条件\n1.政治素质好，品行端正，服务意识强;\n2.符合岗位调动规定，事业编身份期间（如超三年以上则近三年）年度考核等次“合格”以上，试用期考核为不定等次的视为合格等次；\n3.具有正常履行职责的身体条件。\n（二）有下列情形之一的，不得参加选调\n1.被开除中国共产党党籍的；\n2.依法列为失信联合惩戒对象的；\n3.涉嫌违纪违法正在接受有关专门机关审查调查尚未作出结论的；\n4.受到诫勉、组织处理或党",
+      "apply_start": "2026-10-12",
+      "apply_end": "2026-10-21",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-12",
+        "apply_end": "2026-10-21",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-18 10:45:21",
+      "updated_at": "2026-10-18 10:45:21",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469663274178560.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 738,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "b2c96fe23d63eb85da94817769f37345c7c07d080352edcf6207e871f1752a1f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招841382人162258职位收录22403考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-18 10:45:20",
+      "updated_at": "2026-10-18 10:45:20",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 737,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16848,71 +16910,6 @@
       "updated_at": "2026-08-14 02:07:59",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 239,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "57295895933681ebb5f2bd221d593c1ccd8fc14e00c3c2c258f5ed5955c25247",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招412922人118644职位收录16318考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-13 19:08:05",
-      "updated_at": "2026-08-13 19:08:05",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 238,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468347454773248",
-      "source_hash": "e824e4456f66daf56d66767d851e294271a08f63afb66ac421b773aeec60b7f2",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "宜丰县老干部服务中心（老年大学）面向全县小学教师公开选调工作人员公告正在报名江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步夯实我县老干部服务、老年教育及关心下一代工作基础，加强老干部服务中心队伍建设，优化干部队伍结构，根据用人单位的工作需要，按照“公开、平等、竞争、择优”的原则，经研究决定，面向全县小学教师公开选调县老干部服务中心（老年大学）工作人员，现将有关事项公告如下：\n一、选调职位\n在编在岗事业编工作人员3人，具体职位见《宜丰县老干部服务中心（老年大学）2026年公开选调事业单位工作人员职位表》（附件1）。\n二、报考条件\n（一）选调范围\n面向县内小学教师（入围宜丰县2026年公开选调城区学校的老师不参与本次选调），2006年1月1日以后参加工作的，需通过公开招聘考试或国家政策性安置方式进入事业单位。\n（二）报考条件\n报考人员须同时具备下列条件：\n1.遵守宪法和法律，拥护中国共产党的领导和社会主义制度；\n2.具有良好的业务素质，品行端正，实绩突出，群众公认；\n3.年龄为35周岁及以下（岗位有具体要求的以岗位要求为准）；\n4.近3年来年度考核为合格及以上（参加工作不足3年的，除试用期不定等次外，其余年度考核为合格及以上）；\n5.须在编在岗工作满2年（“三支一扶”、大学生基层专干、定向培养等人员按",
-      "apply_start": "1991-08-31",
-      "apply_end": "2026-08-31",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "1991-08-31",
-        "apply_end": "2026-08-31",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-13 13:18:11",
-      "updated_at": "2026-08-13 13:18:11",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468347456787456.doc",
-        "https://hera.fbstatic.cn/468347458621440.doc",
-        "https://hera.fbstatic.cn/468347460459520.doc",
-        "https://hera.fbstatic.cn/468347462555648.pdf"
-      ],
       "position_count": 0,
       "positions": []
     }
