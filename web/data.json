@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19 07:51:03",
+  "updated_at": "2026-10-19 15:43:45",
   "stats": {
-    "total": 746,
+    "total": 748,
     "by_type": {
-      "省考": 746
+      "省考": 748
     },
     "by_province": {
-      "全国": 693,
+      "全国": 695,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,68 @@
     }
   },
   "notices": [
+    {
+      "id": 748,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469862776856577",
+      "source_hash": "63f6b1f85818dc3a7b9304ef29e200ffeaaa20cdbcb2947d4ddd789af6b86b7e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "兰州市2026年度市直事业单位第二轮公开选调人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为大力选拔适应强省会行动需要的优秀年轻干部，根据《事业单位人事管理条例》《兰州市机关事业单位工作人员调配工作规定》等有关规定，现就兰州市2026年度市直事业单位第二轮公开选调人员有关事宜公告如下。\n一、选调岗位\n市直事业单位公开选调47名人员。具体岗位详见《兰州市2026年度市直事业单位第二轮公开选调人员岗位表》（以下简称《岗位表》）。\n二、选调范围和条件\n（一）选调范围\n1.我省市（州）及以下事业单位、中央在甘单位市（州）及以下事业单位、省直机关设在地方事业单位在编在岗工作人员（工勤人员除外）。\n2.省内已进行公务员登记或参照登记备案且在编在岗的工作人员也可报名（聘用后不再保留原身份）。\n（二）选调条件\n1.政治立场坚定，政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。\n2.具有良好的业务素质，品行端正，实绩突出，群众公认。\n3.具有3年以上机关事业单位正式工作经历。\n4.近3年年度考核结果未出现基本合格（基本称职）及以下等次（除试用期年度考核为不确定等次外）。\n5.具有公开选调岗位要求的工作能力和聘用资格，年龄在38周岁以下（1",
+      "apply_start": "2026-10-20",
+      "apply_end": "2026-10-27",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-20",
+        "apply_end": "2026-10-27",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-19 15:27:01",
+      "updated_at": "2026-10-19 15:27:01",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469862778350592.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 747,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "307607b828d0a4ae0285d4c921620143e2351273c478348aa67fec4f0e521603",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招847501人163301职位收录22542考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-19 15:26:59",
+      "updated_at": "2026-10-19 15:26:59",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 746,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469755201872896",
@@ -16840,72 +16902,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468373089229824.docx",
         "https://hera.fbstatic.cn/468373095520256.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 248,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468373500876800",
-      "source_hash": "da6695867dc55b083d71e4aa95be6f06b8c1281a69636056734327ed72afdc7f",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "东莞市人民政府办公室公开选调公务员公告正在报名广东 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据《中华人民共和国公务员法》《公务员转任规定》《公务员公开遴选办法》等有关规定，东莞市人民政府办公室面向全市各级机关公开选调5名公务员。现将有关事项公告如下：\n一、职位\n东莞市人民政府办公室公开选调公务员5名（副科级领导职务，或三级主任科员及以下职级）。具体职位详见《东莞市人民政府办公室公开选调公务员职位表》（以下简称《职位表》，见附件1）。\n二、报名范围和条件\n（一）报名范围\n我市各级机关中已进行公务员登记且在编在岗的公务员（含参照公务员法管理单位工作人员）。\n（二）报名条件\n报名人员符合相关文件规定的基本条件，同时需具备下列资格条件：\n1．政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。\n2．具有良好的业务素质，品行端正，实绩突出，群众公认。\n3．具有2年以上基层工作经历。\n4．一般应当在本级机关工作2年以上。\n5．年度考核没有基本称职及以下等次。\n6．具有公开选调职位要求的工作能力和任职经历。\n7．具有全日制大学本科及以上学历，并获得学士及以上学位。\n8．年龄条件详见职位表。\n9．具有正常履行职责的身体条件和心",
-      "apply_start": "2026-08-17",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-17",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-14 13:12:31",
-      "updated_at": "2026-08-14 13:12:31",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468373502628864.xls",
-        "https://hera.fbstatic.cn/468373504200704.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 247,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468373934460928",
-      "source_hash": "5218f6bf9e2fb0b165617fa490e3f859262f98af0d2d11e5edeed55e7ec070ca",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "江苏省扬中市2026年度公开选调事业单位工作人员公告正在报名江苏 · 选调职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据工作需要和用编计划，决定开展我市2026年度公开选调事业单位工作人员工作，共选调事业单位工作人员9名，现将有关事项公告如下：\n一、选调对象及条件\n（一）选调对象：在编在岗的事业单位工作人员。\n（二）选调条件\n1.具有良好的政治、业务素质，品行端正，实绩突出，群众公认；\n2.试用期满，年度考核均为合格及以上等次，并满足岗位最低服务年限；\n3.具有下列情形之一的人员不予报名：涉嫌违纪违法正在接受有关专门机关审查尚未作出结论的、受过党纪政纪处分的或违反干部任用规定的其他相关情形；\n4.取得现工作单位、主管单位同意，扬中以外地区的人员还需经当地组织或人社部门同意；\n5.年龄一般为38周岁及以下（1987年9月1日及以后出生），部分选调岗位对年龄有特殊要求的，从其要求，年龄计算方法不变；工作经历计算的基准日期为2026年8月14日。\n6.选调岗位、人数、范围和所要求的学历、专业、政治面貌、工作经历等资格条件，详见《扬中市2026年公开选调事业单位工作人员岗位表》（附1，以下简称选调岗位表）。\n二、选调程序\n（一）报名\n本次公开选调报名采取网上报名的形式，参加选调人员请下载并如实填写《江苏省扬",
-      "apply_start": "2026-08-20",
-      "apply_end": "2026-08-20",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-20",
-        "apply_end": "2026-08-20",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-14 13:12:29",
-      "updated_at": "2026-08-14 13:12:29",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468373936217088.xlsx",
-        "https://hera.fbstatic.cn/468373937525760.doc"
       ],
       "position_count": 0,
       "positions": []
