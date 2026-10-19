@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-18 23:13:06",
+  "updated_at": "2026-10-19 01:18:24",
   "stats": {
-    "total": 742,
+    "total": 743,
     "by_type": {
-      "省考": 742
+      "省考": 743
     },
     "by_province": {
-      "全国": 689,
+      "全国": 690,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 743,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "05abd85c6f30c42e8ecbfd7288cf061b9c9768a6734d2807d843b97d6aa914ab",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招843599人162314职位收录22414考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-19 01:00:30",
+      "updated_at": "2026-10-19 01:00:30",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 742,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16874,39 +16904,6 @@
       "updated_at": "2026-08-14 07:29:21",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 243,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468367185301504",
-      "source_hash": "5bf296aa741794df2c5bf8a8d18d2cffef0d9bc4037f27a7092b36d4f1e708a2",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "公安县2026年部分卫生事业单位公开选调公告正在报名湖北 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "一、选调原则\n坚持公开、平等、竞争、择优的原则。\n本次公开选调专业技术人员2名，其中县疾控中心1名，县急救中心1名。\n三、选调范围\n本次公开选调对象为县卫生健康系统所属医疗机构在编在岗人员。\n四、选调资格条件\n（一）基本条件\n1.拥护党的领导，忠诚党的卫生事业，贯彻党的医疗卫生方针，自觉践行社会主义核心价值观，落实精医厚德根本任务；\n2.严格遵守卫生技术人员职业道德规范，具有良好的政治素质和道德品行；\n3.最低服务期限已满，在我县医疗卫生机构工作三年及以上，近三年年度考核均为合格及以上；\n4.年龄在40周岁及以下（1986年1月1日及以后出生）；\n5.具备选调岗位要求的工作能力、身体条件及其他资格条件；\n6.入选后能服从在新单位空岗内聘用，且首聘不得高于原岗位。\n（二）具体条件\n详见附件1。\n（三）以下人员不能参加选调\n1.不符合选调岗位条件要求的；\n2.最低服务年限未满或对调动有其他限制性规定的；\n3.涉嫌违法违纪正在接受审查的人员和近三年内（2024年1月以来）受过党纪、政纪等处分的人员；\n4.按照《事业单位公开招聘人员暂行规定》（人事部令第6号）、《事业单位人事管理回避规定》（人",
-      "apply_start": "2026-09-04",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-04",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-14 07:29:19",
-      "updated_at": "2026-08-14 07:29:19",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468367186795521.xls",
-        "https://hera.fbstatic.cn/468367188105217.docx"
-      ],
       "position_count": 0,
       "positions": []
     }
