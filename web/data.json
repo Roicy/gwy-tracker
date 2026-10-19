@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19 15:43:45",
+  "updated_at": "2026-10-19 21:13:03",
   "stats": {
-    "total": 748,
+    "total": 749,
     "by_type": {
-      "省考": 748
+      "省考": 749
     },
     "by_province": {
-      "全国": 695,
+      "全国": 696,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 749,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "6e0930532a9cc0a6e0125a65862b7ce29703f774de03e5ff04a92db9ea7ee72e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招4320人925职位收录42考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-19 20:56:44",
+      "updated_at": "2026-10-19 20:56:44",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 748,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469862776856577",
@@ -16870,39 +16900,6 @@
       "updated_at": "2026-08-14 13:12:34",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 249,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468373084329984",
-      "source_hash": "1320b3436c6ea7614cd4c901f4ef39a2d2b146377df2df05ee39153596cce75b",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年东乡区事业单位公开选调工作人员公告正在报名江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为解决我区乡镇小学教师富余问题，逐步优化事业单位人员结构，现面向全区乡镇小学教师择优选调一批事业单位工作人员，公告如下：\n一、选调的基本原则\n坚持德才兼备，以德为先；坚持公开、平等、竞争、择优；坚持编制员额内进人；坚持组织监督与群众监督相结合。\n二、选调范围\n全区在编在岗的乡镇小学教师（不含乡镇幼儿园教师，不含区级及以上学科带头人和骨干教师、紧缺学科教师、名师培养对象等），报考需经区教体局同意。\n三、选调考试报名资格条件\n1.具有良好的政治、业务素质，有较强的事业心、责任感和吃苦奉献的精神，品行端正，群众公认；\n2.大专及以上学历；\n3.具有招聘岗位所需的身体条件；\n4.符合选调单位要求的其他条件。\n具有以下情形之一的，不得报考：\n1.新聘用尚在试用期内的；\n2.涉嫌违法违纪正在接受审查尚未作出结论的；\n3.受处分期间或未满影响期限的；\n4.聘用后构成回避关系的；\n5.法律、法规规定的其他情形。\n四、选调方法和程序\n报考人员应仔细阅读对外公布的全区事业单位公开选调公告及各事业单位招聘条件，如因不符合条件造成取消考选资格的，后果由报考人员自行承担。\n（一）信息发布\n在东乡政务信息公开网发",
-      "apply_start": "2026-08-19",
-      "apply_end": "2026-08-21",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-19",
-        "apply_end": "2026-08-21",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-14 13:12:33",
-      "updated_at": "2026-08-14 13:12:33",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468373089229824.docx",
-        "https://hera.fbstatic.cn/468373095520256.xlsx"
-      ],
       "position_count": 0,
       "positions": []
     }
