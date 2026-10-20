@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-19 21:13:03",
+  "updated_at": "2026-10-20 00:33:14",
   "stats": {
-    "total": 749,
+    "total": 750,
     "by_type": {
-      "省考": 749
+      "省考": 750
     },
     "by_province": {
-      "全国": 696,
+      "全国": 697,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 750,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "950c419d1da9feb07370f2096d4a1024cee98c359e6c4fc3b6d74f0128bf4c21",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招847488人163300职位收录22543考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-20 00:12:31",
+      "updated_at": "2026-10-20 00:12:31",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 749,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16868,36 +16898,6 @@
       "tags": [],
       "first_seen_at": "2026-08-14 18:59:02",
       "updated_at": "2026-08-14 18:59:02",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 250,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468367069436928",
-      "source_hash": "73559c090543ac0a363634ca82c2c6fa2c55b32e5a84dc0a7904e8f99aaa0e42",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "禹州市2026年城区中小学校、市直幼儿园、第六实验学校公开选调农村教师公告正在报名河南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "结合全市教体系统实际教育教学工作需要，经市委、市政府同意，决定公开选调全市农村义务教育阶段及农村学前教育阶段学校在编教师到城区缺编学校及第六实验学校工作。\n一、选调计划及岗位\n计划公开选调农村在编教师220名，其中城区缺编中小学选调140名，市直幼儿园选调10名，第六实验学校70名；具体选调岗位和资格条件见《禹州市2026年城区中小学校市直幼儿园第六实验学校公开选调农村教师计划》（见附件1）。\n二、选调对象\n禹州市农村义务教育及农村学前教育阶段学校在编教师。\n三、选调条件\n（一）选调人员必须具备下列条件\n1.爱岗敬业，师德高尚，身体健康，能胜任教学工作。\n2.城区中小学校、第六实验学校及市直幼儿园公开选调教师年龄均要求45周岁以下（1981年8月1日后出生)。\n3.在禹州市农村义务教育阶段及农村学前教育阶段学校工作5年（含）以上在编教师（含2021年招聘教师及特岗教师）。\n4.报考学前教育岗位的须具有国家承认大学专科（含）以上学历；报考小学岗位的须具有国家承认大学专科（含）以上学历；报考初中岗位的须具有国家承认大学本科（含）以上学历。\n5.具有符合岗位要求的教师资格证和任职资格证。\n（",
-      "apply_start": "2026-08-20",
-      "apply_end": "2026-08-21",
-      "written_exam": "2026-08-25",
-      "interview_start": null,
-      "recruit_count": 140,
-      "raw_fields": {
-        "apply_start": "2026-08-20",
-        "apply_end": "2026-08-21",
-        "written_exam": "2026-08-25",
-        "recruit_count": 140,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-14 13:12:34",
-      "updated_at": "2026-08-14 13:12:34",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
