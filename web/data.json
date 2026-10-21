@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-20 20:39:52",
+  "updated_at": "2026-10-21 00:00:30",
   "stats": {
-    "total": 755,
+    "total": 756,
     "by_type": {
-      "省考": 755
+      "省考": 756
     },
     "by_province": {
-      "全国": 702,
+      "全国": 703,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 756,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "1e235641f3d493557a2b6fa47edbeeeb87265a96190f745fb9d2bef29c3e27d5",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招865551人167720职位收录22631考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-20 23:43:03",
+      "updated_at": "2026-10-20 23:43:03",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 755,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16866,41 +16896,6 @@
         "https://hera.fbstatic.cn/468376420030464.doc",
         "https://hera.fbstatic.cn/468389182509056.xls",
         "https://hera.fbstatic.cn/468389183298560.xls"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 256,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468377744727040",
-      "source_hash": "c6c45df69002dc0c85974ce0333cbe97a9035713113a3e66c12fd9b0b3477dc2",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "江陵县2026年“教师选调”公告正在报名湖北 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为补充高中扩容师资缺口，巩固城区义务教育优质均衡创建成果，逐步解决学前教育公益性岗位人员离职后专任教师缺口等问题。决定面向全县乡镇中小学、幼儿园（不含城关镇所辖学校）采取公开选调的方式，选调部分教师到城区学校任教，特公告如下。\n一、范围条件\n（一）选调范围\n江陵县乡镇义务教育阶段、学前教育阶段在编在岗教师，不含城关镇所辖学校教师。\n（二）选调条件\n1．师德师风优良，近三年年度考核为合格及以上档次（试用期不确定档次视同为合格档次）；\n2．本科及以上学历，并持有符合报名岗位相应学段的教师资格证书；\n3．乡镇基层服务期已满，符合岗位服务年限要求（包含到城区跟岗学习时间）；\n4．报考高中岗位教师年龄应在45周岁以下（1981年7月31日以后出生）；报考义务教育岗位及学前教育岗位教师年龄应在40周岁以下（1986年7月31日以后出生）,下列情形之一年龄可适当放宽至43岁（1983年7月31日以后出生）：\n（1）具有研究生学历人员;\n（2）荣获省级及以上教育名师、优秀教育工作者、农村优秀教师、楚天园丁奖、学生最喜爱的好老师等称号；\n（3）在教育行政部门组织（或认可）的省级课堂教学比赛中获得二等奖及",
-      "apply_start": "1981-07-31",
-      "apply_end": "1983-07-31",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "1981-07-31",
-        "apply_end": "1983-07-31",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-15 06:41:16",
-      "updated_at": "2026-08-15 06:41:16",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468377746216960.xlsx",
-        "https://hera.fbstatic.cn/468377747526656.doc",
-        "https://hera.fbstatic.cn/468377748836352.xls",
-        "https://hera.fbstatic.cn/468377750150144.doc"
       ],
       "position_count": 0,
       "positions": []
