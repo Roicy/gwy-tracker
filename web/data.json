@@ -1,20 +1,50 @@
 {
-  "updated_at": "2026-10-21 10:14:09",
+  "updated_at": "2026-10-21 15:20:05",
   "stats": {
-    "total": 760,
+    "total": 762,
     "by_type": {
-      "省考": 760
+      "省考": 762
     },
     "by_province": {
-      "全国": 707,
+      "全国": 708,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
       "宁夏": 2,
-      "河南": 1
+      "河南": 2
     }
   },
   "notices": [
+    {
+      "id": 761,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "7b887a9a4734fe92965d8ff52329bec88f3e2d61c09be5d6340de7f2615e78d7",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招878466人168233职位收录22730考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-21 15:03:26",
+      "updated_at": "2026-10-21 15:03:26",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 760,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469906055260160",
@@ -137,6 +167,38 @@
       "updated_at": "2026-10-21 04:12:26",
       "is_active": 1,
       "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 762,
+      "source_url": "http://www.hnrsks.com/sitesources/hnsrskszx/page_pc/zngg/article2a450d298fb24d82845a558b6bb93a02.html",
+      "source_hash": "95902c5bde232db9d60315d9eddc94c1372567293d8685b463b2c609a119bda9",
+      "province": "河南",
+      "exam_type": "省考",
+      "title": "中央机关及其直属机构2027年度考试录用...",
+      "publish_dept": null,
+      "publish_date": "2026-10-21",
+      "content_summary": "一、现场确认对象\n已通过网上报名资格审查且在河南考区参加考试的下列两种情况的考生可进行现场报名确认。\n1. 报考特殊部门或职位的考生。\n2.更改姓名的考生（身份证号必须与信息库中身份证号一致）先在网上确认，再到现场提交《报名信息更改申请表》即可。\n二、确认时间、地点\n2026年11月2日—4日9:00—12:00；13:00—17:00。\n河南省人事考试中心（郑州航空港区华夏大道和通航路交叉口东北角，中国中原人力资源服务产业园区主楼1621房间）。\n三、现场确认注意事项\n1.报考特殊部门或职位的考生，现场确认时应携带以下材料：一是本人有效身份证；二是《考生报名登记表》；三是符合要求的近期免冠正面电子证件照片（蓝底或白底，JPG 或 JPEG 格式，像素尺寸不低于 295×413，并经官方照片处理软件处理，不得对分辨率不达标的照片放大使用）；四是考务费（标准为每人每科 30 元）。\n报考特殊部门或职位的考生请于11月23日至11月27日工作时间内到河南省人事考试中心领取准考证。\n2.更改考试报名信息中姓名的考生必须先在中央机关及其直属机构2027年度考试录用公务员报名确认系统（网址：\nh",
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-21 15:10:12",
+      "updated_at": "2026-10-21 15:10:12",
+      "is_active": 1,
+      "attachment_urls": [
+        "http://www.hnrsks.com/sitesources/hnsrskszx/upload/202610/20261021171810296.xls"
+      ],
       "position_count": 0,
       "positions": []
     },
@@ -16836,66 +16898,6 @@
       "tags": [],
       "first_seen_at": "2026-08-16 18:32:36",
       "updated_at": "2026-08-16 18:32:36",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 262,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "6118156977e20df93d8cea715b223297377cff9452306f48927243b40951c61a",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招414700人119372职位收录16418考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-16 12:42:00",
-      "updated_at": "2026-08-16 12:42:00",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 261,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "6cb00d45560913bdde0dde66c60ceee5213ff2c2381c127eec06d806029e692d",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招414751人119348职位收录16416考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-16 06:44:13",
-      "updated_at": "2026-08-16 06:44:13",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
