@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22 20:11:00",
+  "updated_at": "2026-10-22 23:25:51",
   "stats": {
-    "total": 769,
+    "total": 770,
     "by_type": {
-      "省考": 769
+      "省考": 770
     },
     "by_province": {
-      "全国": 715,
+      "全国": 716,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 770,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "c770e89efd4820bc91f7f1f4d5d60fceafaac514ebf0b6d825cd0d09ebdb3191",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招881530人169097职位收录22825考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-22 23:08:30",
+      "updated_at": "2026-10-22 23:08:30",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 769,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16860,40 +16890,6 @@
         "https://hera.fbstatic.cn/468441091217408.xls",
         "https://hera.fbstatic.cn/468441092789248.docx",
         "https://hera.fbstatic.cn/468441094361088.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 270,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468441898179584",
-      "source_hash": "bb6c0669f9b768aa580e1edc4c8c2953cd8ce3f3afca596b5adb230c00fc7327",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "富裕县关于为第二中学、富裕牧场学校、繁荣乡中心学校、特殊教育学校选调教师的公告正在报名黑龙江 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "依据相关规定，为促进各中小学师资均衡配置、解决学科师资短缺的问题，县教育局面向全县师资较为富余的公办中小学在编在岗工作人员公开选调教师，现公告如下：\n一、选调单位及岗位人数\n1.富裕县第二中学选调历史教师2人、体育教师1人。\n2.富裕牧场学校选调初中语文教师1人、初中英语教师1人。\n3.富裕县繁荣乡中心学校选调小学英语教师1人。\n4.富裕县特殊教育学校选调生活指导男教师1人、生活指导女教师1人。\n二、选调对象\n除师资较为紧张的富裕县繁荣乡中心学校、富裕县富裕牧场学校、富裕县逸夫小学、富裕县第二中学、富裕县益海学校、富裕县特殊教育学校、富裕县职业技术教育中心学校、富裕县第一幼儿园、富裕县第二幼儿园外，其他师资较为富余的中小学在编在岗教师。\n三、选调条件\n1.认真遵守《中小学教师职业道德规范》,热爱教育事业；\n2.身体健康,能够正常承担教育教学工作任务；\n3.具有履行职责所需的专业技术技能的能力；\n4.近三学年度（2023-2026学年度）考核均为合格及以上等次；\n5.选调人员年龄、学历、所学专业及任教学科等要求，详见《富裕县2026年秋季开学前选调教师计划表》（后附）；\n6.下列情形之一",
-      "apply_start": "2026-08-17",
-      "apply_end": "2026-08-20",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-17",
-        "apply_end": "2026-08-20",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-17 12:49:46",
-      "updated_at": "2026-08-17 12:49:46",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468441899669504.xlsx",
-        "https://hera.fbstatic.cn/468441900979200.xls",
-        "https://hera.fbstatic.cn/468441902288896.docx"
       ],
       "position_count": 0,
       "positions": []
