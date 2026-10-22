@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22 15:21:38",
+  "updated_at": "2026-10-22 20:11:00",
   "stats": {
-    "total": 768,
+    "total": 769,
     "by_type": {
-      "省考": 768
+      "省考": 769
     },
     "by_province": {
-      "全国": 714,
+      "全国": 715,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 769,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a101ef2996fe79a431938a435f49575ea79956070307867cc31ba22d60859eff",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招879398人169094职位收录22822考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-22 19:54:12",
+      "updated_at": "2026-10-22 19:54:12",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 768,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16864,40 +16894,6 @@
         "https://hera.fbstatic.cn/468441899669504.xlsx",
         "https://hera.fbstatic.cn/468441900979200.xls",
         "https://hera.fbstatic.cn/468441902288896.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 269,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468442764039168",
-      "source_hash": "da8e5e7576c00eb31e7f5d67e74108d9952e3c1890b115296c8563f263baf2db",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年容县公开选调教师公告正在报名广西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "2026年容县公开选调教师公告\n为深化容县教师队伍结构改革，夯实全县中小学教育教学基础，构建科学合理的教师资源配置体系，经研究，决定面向全县教育系统公开选调教师，部分岗位面向全区选调。现将有关事项公告如下：\n一、选调岗位及人数\n本次选调共设置40个专业技术岗位，计划选调各学科教师共79名。具体岗位及人数详见《2026年容县公开选调教师岗位计划表》（附件1），下称岗位计划表。\n二、选调范围及对象\n（一）高中教师岗位\n1.容县实验高中选调对象为：一是广西区内公办高中在编在岗教师（不含容县高中学段公办教师）。二是全县公办初中、小学、幼儿园在编在岗，并持有高中相应学科教师资格证书的教师。\n2.容县容州镇都峤中学（高中部）选调对象：一是广西区内公办高中在编在岗教师（包含容县高中学段公办教师）。二是全县公办初中、小学、幼儿园在编在岗，并持有高中相应学科教师资格证书的教师。\n（二）初中教师岗位\n选调对象为全县公办初中、小学、幼儿园在编在岗教师，并持有初中及以上相应学科教师资格证书的教师。\n（三）小学教师岗位\n选调对象为全县公办小学在编在岗教师，并持有小学及以上相应学科教师资格证书的教师。\n（四）幼儿",
-      "apply_start": "2026-08-17",
-      "apply_end": "2026-08-19",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-17",
-        "apply_end": "2026-08-19",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-17 12:49:44",
-      "updated_at": "2026-08-17 12:49:44",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468442765791233.xlsx",
-        "https://hera.fbstatic.cn/468442769202176.xls",
-        "https://hera.fbstatic.cn/468442770774016.xlsx"
       ],
       "position_count": 0,
       "positions": []
