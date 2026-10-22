@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-22 04:28:00",
+  "updated_at": "2026-10-22 10:15:33",
   "stats": {
-    "total": 765,
+    "total": 767,
     "by_type": {
-      "省考": 765
+      "省考": 767
     },
     "by_province": {
-      "全国": 711,
+      "全国": 713,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 767,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469933582999552",
+      "source_hash": "c52f31f541c941917a1cfb26c2c6079c1c291180f0409f363196f7b8b273a142",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年江山市公开选调公务员、事业单位工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步拓宽选人用人渠道，优化我市干部队伍结构，根据工作需要，经研究，决定开展2026年江山市公开选调公务员（含参照公务员法管理单位工作人员，下同）、事业单位工作人员工作。现将有关事项公告如下：\n一\n选调计划\n本次计划公开选调公务员5名、事业单位工作人员5名，具体职位详见附件1。\n二\n选调原则\n公开选调按照“公开、平等、竞争、择优”的原则，坚持人岗相适、德才兼备的选人标准，采取公开报名、统一笔试面试、严格考察、择优选调的方式进行。\n三\n选调范围和条件\n（一）选调范围\n江山市各机关事业单位在编在岗工作人员。报名时应选择相应编制性质的职位，参照公务员法管理单位工作人员可报考公务员职位。\n（二）报考人员应当具备下列资格条件\n1.政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n2.具有良好的业务素质，品行端正，实绩突出，群众公认；\n3.在现单位工作1年以上，本级机关工作2年以上，历年年度考核均为称职以上等次（不含试用期）；\n4.纳入平时考核的，前4个季度平时考核结果应有1次以上好等次，且无一般、较差等次；\n5.具备选调职位要",
+      "apply_start": "2026-10-28",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-28",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-22 09:57:00",
+      "updated_at": "2026-10-22 09:57:00",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469933584493568.xlsx",
+        "https://hera.fbstatic.cn/469933585803264.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 766,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "eaf22b70170f8407d0983dead45e66357c03918c302bdf512edf556b71583bb7",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招878858人168667职位收录22796考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-22 09:56:59",
+      "updated_at": "2026-10-22 09:56:59",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 765,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16836,70 +16899,6 @@
       "updated_at": "2026-08-17 12:49:42",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 267,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "48dbc2689464c3ec3dbbea83e2a2f1ed5ffef5caee673052527702a6db770274",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招425250人119817职位收录16514考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-17 12:49:41",
-      "updated_at": "2026-08-17 12:49:41",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 266,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468432790770688",
-      "source_hash": "3161c96d06e2d258fe470bd79d9c75e2e198ed9864115079d91e38f47c2e91d7",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年射阳县教育局公开选调县教师发展中心部分学科研训员的公告正在报名江苏 · 选调职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "因工作需要，经县委机构编制委员会同意，现在全县教育系统内公开选调部分学科研训员。具体公告如下：\n一、选调岗位\n本次公开选调学科研训员3名，详见《2026年射阳县教师发展中心公开选调部分学科研训员岗位表》（附件1）。\n二、选调原则\n1.坚持公平公正、阳光选调的原则；\n2.坚持编制许可、工作需求的原则。\n三、选调对象\n全县教育系统在编教师。\n四、选调条件\n（一）政治素质要求\n1.全面贯彻落实党的教育方针政策，坚持立德树人，执行教育行政法律法规，爱岗敬业，廉洁自律。\n2.有下列情形之一的不得参与选调：\n（1）在服务期内的乡村定向师范生和免费男幼师，首聘服务期未满的教师；（2）违反党纪政纪受到处分，处分期限未满或正接受调查未有结论的；（3）近三年（2023-2025年度）年度考核有基本合格及以下等次的；（4）近三年（2023-2025年度）以来，因违反国家法律、法规受到公安部门处理的；（5）纳入失信被执行人名单的；（6）法律法规等规定的不符合选调条件的其他情形。\n（二）业务能力要求\n1.教学能力：熟悉本学段的本学科教学，教学业绩优异。\n2.研究能力：近5年（2021年8月1日至2026年8月1",
-      "apply_start": "2026-08-20",
-      "apply_end": "2026-08-01",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-20",
-        "apply_end": "2026-08-01",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-17 06:58:45",
-      "updated_at": "2026-08-17 06:58:45",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468433165818881.docx",
-        "https://hera.fbstatic.cn/468433166603264.docx",
-        "https://hera.fbstatic.cn/468433167390720.docx"
-      ],
       "position_count": 0,
       "positions": []
     }
