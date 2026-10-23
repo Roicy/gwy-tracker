@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-23 15:12:42",
+  "updated_at": "2026-10-23 19:17:48",
   "stats": {
-    "total": 777,
+    "total": 778,
     "by_type": {
-      "省考": 777
+      "省考": 778
     },
     "by_province": {
-      "全国": 723,
+      "全国": 724,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 778,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "5f9c6d1e3ab6990d776cdc8b56bbdfa6be5184be9f875828b34e7ebff30dc686",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招898526人170071职位收录22940考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-23 18:59:54",
+      "updated_at": "2026-10-23 18:59:54",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 777,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469957564720128",
@@ -16845,40 +16875,6 @@
         "https://hera.fbstatic.cn/468439147158528.xlsx",
         "https://hera.fbstatic.cn/468439149516800.docx",
         "https://hera.fbstatic.cn/468439151874048.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 278,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468439731297280",
-      "source_hash": "64aeda246cd05d559df09638afa3cf43da0a1d2a9dd48c2137eeb219836d1191",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "关于柳林县纪检监察系统2026年公开选调工作人员公告正在报名山西 · 选调职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步充实纪检监察干部队伍，补强监督执纪执法力量，根据山西省纪委办公厅印发的《山西省纪检监察干部准入规定（试行）》（晋纪办发〔2025年〕23号）文件，经研究决定，开展柳林县纪检监察系统2026年公开选调工作人员工作，现将有关事项公告如下：\n一、实施对象\n全县范围内通过参加公务员招考被正式录用，在编在岗的公务员（服务期已满）。\n二、选调人数\n根据工作需要和人员编制、职位空缺情况，计划在全县范围内符合条件的在编在岗公务员中，择优选调公务员10名。其中，县纪委监委选调公务员8名，县委巡察办选调公务员2名。\n三、资格条件\n（一）拥护中国共产党领导，遵守《中华人民共和国宪法》及相关法律法规，具有良好的思想品德和职业道德。\n（二）第一学历应为全日制大学本科及以上学历、取得相应学士及以上学位。\n（三）年龄一般在40周岁及以下（1985年8月1日以后出生），中共党员（含预备党员）。\n（四）须为通过公务员公开招录考试取得编制，且完成公务员登记备案。\n（五）近三年年度考核结果均为称职及以上等次。\n（六）具有正常履行职责的身体条件。\n（七）具有下列情形之一的人员不能报名：\n1．受处分未满影响期限的；\n2",
-      "apply_start": "2026-08-17",
-      "apply_end": "2026-08-21",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-17",
-        "apply_end": "2026-08-21",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-17 18:43:36",
-      "updated_at": "2026-08-17 18:43:36",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468439732787200.doc",
-        "https://hera.fbstatic.cn/468439734096896.docx",
-        "https://hera.fbstatic.cn/468439735406593.doc"
       ],
       "position_count": 0,
       "positions": []
