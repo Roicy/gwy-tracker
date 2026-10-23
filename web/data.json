@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-23 04:33:59",
+  "updated_at": "2026-10-23 10:08:08",
   "stats": {
-    "total": 772,
+    "total": 774,
     "by_type": {
-      "省考": 772
+      "省考": 774
     },
     "by_province": {
-      "全国": 718,
+      "全国": 720,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,68 @@
     }
   },
   "notices": [
+    {
+      "id": 774,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469862772400128",
+      "source_hash": "2d52f9a63acc00c039625cc5260c118ba40f42a456593c58054274298f869d7c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "兰州市2026年度市直机关及参照公务员法管理单位第二轮公开选调公务员及参照公务员法管理单位工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据公务员法和《公务员转任规定》等有关法律法规，兰州市委组织部决定开展2026年度市直机关及参照公务员法管理单位第二轮公开选调公务员及参照公务员法管理单位工作人员（以下简称公务员）工作。现将有关事项公告如下：\n一、选调职位\n公开选调职位为一级主任科员及以下职级。\n二、选调范围和条件\n（一）选调范围\n1.我省市（州）及以下机关中已进行公务员登记备案且在编在岗的公务员。\n2.我省市（州）及以下参照公务员法管理机关（单位）中已进行参照登记备案且在编在岗的工作人员。\n3.中央在甘单位市（州）及以下机关中已进行公务员登记或参照登记备案且在编在岗的工作人员。\n省直机关设在地方的单位（包括垂直管理单位、派出单位等）中已进行公务员登记或参照登记备案且在编在岗的工作人员也可报名。\n（二）选调条件\n1.政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”。\n2.具有良好的业务素质，品行端正，实绩突出，群众公认。\n3.具有2年以上基层工作经历。\n本次公开选调要求的基层工作经历，是指在县（市、区）、乡镇（街道）党政机关，村（社区）党组织或者村（居）",
+      "apply_start": "2026-10-20",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-20",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-23 09:51:49",
+      "updated_at": "2026-10-23 09:51:49",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469862774156288.xlsx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 773,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "0e9ead98a604073f1b35c2ec20635e7586790eaa4a621d9f253c81279111cb08",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招880461人169336职位收录22891考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-23 09:51:47",
+      "updated_at": "2026-10-23 09:51:47",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 772,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/469950115375104",
@@ -16821,72 +16883,6 @@
       "updated_at": "2026-08-17 18:43:32",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 274,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468438872773632",
-      "source_hash": "b9b8ead97e257c3d6f14e4787cf72c8524d8b2a4e51869956440c0b485864da0",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "麻城实验高中2026年公开选调乡镇教师公告正在报名湖北 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为适应教育发展要求，进一步加强市级示范高中教师队伍建设，根据《麻城市2026年城区学校公开选调乡镇教师公告》，麻城实验高中制定选调方案报市教育局备案后，在市教育局监督下，面向市内乡镇（不含龙池、鼓楼、开发区）公办初中学校公开选调在编在岗专任教师。现将有关事项公告如下：\n一、招聘对象、人数\n面向麻城市内乡镇农村公办初中学校在编在岗专任教师选调数学教师1名、物理教师1名、化学教师2名、生物教师1名。\n二、资格条件\n（一）基本条件\n1.思想政治素质好，拥护党的路线方针政策，遵纪守法，品行端正，热爱教育事业，为人师表，事业心、责任心强。\n2.近三年年度考核均在合格及以上等次，师德师风考核合格。\n3.具备岗位所需专业知识和业务能力，有较丰富的教育教学工作经验，业绩优先。\n4.在乡镇学校任教1年及以上。\n5.具备岗位所必需的其他条件（具体详见《麻城实验高中2026年公开选调教师岗位表》（附件1，以下简称《岗位表》）。\n（二）有以下情形之一的人员不得参加选调\n1.近三年受到党纪政纪处分或正在接受立案调查的人员；\n2.2023年9月至2026年7月期间，病、事假（因公除外）累计超过60个工作日的人员；",
-      "apply_start": "2026-08-18",
-      "apply_end": "2026-08-18",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-18",
-        "apply_end": "2026-08-18",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-17 12:49:54",
-      "updated_at": "2026-08-17 12:49:54",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468438874263552.xlsx",
-        "https://hera.fbstatic.cn/468438875577344.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 273,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468438949319680",
-      "source_hash": "8f5c097ead2c490319d970bf6d3aa769fde5c3d64109ef84030c1146d9580948",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年九江市柴桑区城区中小学校（幼儿园）选调教师公告正在报名江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "因工作需要，经研究决定，城区中小学校（幼儿园）面向全区学校公开选调在编在岗教师242名，现将有关事项公告如下：\n一、选调岗位\n本次公开选调计划共242名，具体选调岗位及要求详见附件1。\n二、选调条件\n(一)报考人员应为柴桑区公办学校在编在岗教师，且具备下列条件：\n1.遵守中华人民共和国宪法和法律，拥护中国共产党的领导和社会主义制度；\n2.具有良好的政治素质和道德品行，爱教敬业，乐于奉献；\n3.具有正常履行职责的身体条件和心理素质；\n4.近五年内年度和师德考核结果均在“合格”及以上等次；\n5.正式从教满5年及以上（“三支一扶”支教人员和特岗教师的服务期与其转为正式编制教师后的工作时间可累计计算）；\n6.具有报考岗位所需要的任职条件；\n7.具备报考岗位所要求的其他条件。\n（二）不得报考的情形\n1.因犯罪受过刑事处罚的人员；\n2.被开除中国共产党党籍或被开除公职的人员；\n3.涉嫌违法违纪正在接受审查调查的人员，尚未解除党纪、政务等处分的人员；\n4.被依法列为失信联合惩戒对象的人员；\n5.有服务期要求且仍在服务期内的人员；\n6.区一中、区二中、区三中在编教师不得参与城区学校选调考试。\n7.近5",
-      "apply_start": "2026-08-16",
-      "apply_end": "2026-08-17",
-      "written_exam": "2026-08-20",
-      "interview_start": null,
-      "recruit_count": 242,
-      "raw_fields": {
-        "apply_start": "2026-08-16",
-        "apply_end": "2026-08-17",
-        "written_exam": "2026-08-20",
-        "recruit_count": 242,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-17 12:49:52",
-      "updated_at": "2026-08-17 12:49:52",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468438950809600.pdf",
-        "https://hera.fbstatic.cn/468438952123393.pdf"
-      ],
       "position_count": 0,
       "positions": []
     }
