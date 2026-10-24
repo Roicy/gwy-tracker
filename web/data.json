@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-24 01:46:55",
+  "updated_at": "2026-10-24 07:23:38",
   "stats": {
-    "total": 779,
+    "total": 781,
     "by_type": {
-      "省考": 779
+      "省考": 781
     },
     "by_province": {
-      "全国": 725,
+      "全国": 727,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 781,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/469960164139008",
+      "source_hash": "f0d03d613f360272a49f3aca719075951c43652c576eaa0626591de0ea34b84a",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "普洱市2026年度市级事业单位统一公开选调工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《事业单位人事管理条例》《云南省机关工作人员、企事业单位管理人员和专业技术人员调配工作暂行规定》《普洱市市级事业单位工作人员调配实施办法（试行）》等政策规定，经研究，决定开展2026年度市级事业单位统一公开选调工作。现将有关事项公告如下。\n一、选调职位\n公开选调市级事业单位工作人员28名，具体岗位、人数及要求等详见《普洱市2026年度市级事业单位统一公开选调工作人员职位表》（以下简称《职位表》，附件1）。\n二、选调范围和条件\n（一）报名范围\n全市县（区）级及以下事业单位（含市属派出、派驻，不包括中央、省驻普）在编在岗、聘任在七级管理岗及以下或专业技术岗，或县（区）级及以下机关在编在岗公务员（含参照公务员法管理单位工作人员）担任乡科级正职及以下职务和一级主任科员及以下相当职级层次，经所属县（区）按干管权限审批同意报名的工作人员。被选调人员入职市级事业单位后，不再保留原岗位聘用等级及相关待遇，按选调单位实际重新进行岗位聘用和确定工资待遇。若公务员（含参照公务员法管理单位工作人员）参加选调，报名即视为自愿放弃原身份及职务职级。\n（二）资格条件\n1.报名人员应当具备下列资格条件：\n（1）具",
+      "apply_start": "2026-10-26",
+      "apply_end": "2026-10-31",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-26",
+        "apply_end": "2026-10-31",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-24 07:04:52",
+      "updated_at": "2026-10-24 07:04:52",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/469960165895168.xls",
+        "https://hera.fbstatic.cn/469960167467008.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 780,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "636cdebdc248e46364aca20f3ae262e4b35f7b742af4f86a4b09b84eb2491fd9",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招898863人170150职位收录22983考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-24 07:04:51",
+      "updated_at": "2026-10-24 07:04:51",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 779,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16810,66 +16873,6 @@
       "tags": [],
       "first_seen_at": "2026-08-18 06:48:14",
       "updated_at": "2026-08-18 06:48:14",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 281,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "44afda6a957fc4adc0697edbb92f3c2c7adf564871a79cbf36d8ea39f044875b",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招425584人119967职位收录16577考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-18 06:48:12",
-      "updated_at": "2026-08-18 06:48:12",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 280,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "0a17f1a5e378826eb2068dcc1169ee2b1201d700310e85337d995f75fe896a02",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招425606人119887职位收录16527考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-18 01:21:28",
-      "updated_at": "2026-08-18 01:21:28",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
