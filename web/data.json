@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-23 22:20:44",
+  "updated_at": "2026-10-24 01:46:55",
   "stats": {
-    "total": 778,
+    "total": 779,
     "by_type": {
-      "省考": 778
+      "省考": 779
     },
     "by_province": {
-      "全国": 724,
+      "全国": 725,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 779,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "058f3a44c6075532559020e0129be5fa3c1acc5b44efdaa588866408021e30fd",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招898586人170104职位收录22941考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-24 01:27:48",
+      "updated_at": "2026-10-24 01:27:48",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 778,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16842,40 +16872,6 @@
       "updated_at": "2026-08-18 01:21:28",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 279,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468439144354816",
-      "source_hash": "4076a3197f25c2a917f26880c2df8b2e3d5ae7f014ffe7885cbbde373bc97ce2",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "大理州能源局2026年度公开选调事业单位工作人员公告正在报名云南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步加强大理州能源事务综合服务能力建设，吸收优秀专业技术人才，优化队伍配置，根据《事业单位人事管理条例》《中共大理州委办公室大理州人民政府办公室关于进一步完善州级机关和事业单位工作人员调配工作有关事项的通知》（大办发〔2021〕12号）和《中共大理州委组织部 大理州人力资源和社会保障局关于印发〈大理州事业单位公开选调工作人员暂行办法〉的通知》（大组通〔2014〕33号）等相关规定，经州人民政府、州委编办、州人力资源和社会保障局同意，决定开展2026年度公开选调事业单位工作人员工作。现将有关事项公告如下：\n一、公开选调范围\n云南省内县市（或乡镇）符合公开选调条件和岗位要求的事业单位在职在编工作人员。\n二、公开选调岗位及人数\n公开选调岗位及人数详见《大理州能源局2026年度公开选调事业单位工作人员岗位表》（附件1）。\n三、公开选调条件\n（一）报考人员应具备以下条件\n1.贯彻执行党的路线方针政策，遵守国家法律法规和单位各项规章制度，具有良好的政治、业务、身体素质，品行端正，成绩突出，群众公认。\n2.具有大学本科及以上学历（普通招生计划）。\n3.年龄在40周岁及以下（1986年7月后出生）",
-      "apply_start": "2026-08-17",
-      "apply_end": "2026-08-28",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-17",
-        "apply_end": "2026-08-28",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-17 18:43:37",
-      "updated_at": "2026-08-17 18:43:37",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468439147158528.xlsx",
-        "https://hera.fbstatic.cn/468439149516800.docx",
-        "https://hera.fbstatic.cn/468439151874048.docx"
-      ],
       "position_count": 0,
       "positions": []
     }
