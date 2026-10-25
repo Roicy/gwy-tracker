@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-25 01:14:42",
+  "updated_at": "2026-10-25 06:14:01",
   "stats": {
-    "total": 783,
+    "total": 784,
     "by_type": {
-      "省考": 783
+      "省考": 784
     },
     "by_province": {
-      "全国": 729,
+      "全国": 730,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 784,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "26a5a44af6e8e438a2b16465ee6d90099908a604f9ba903f0c1fed63727318ff",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招907769人170643职位收录22983考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-25 05:54:23",
+      "updated_at": "2026-10-25 05:54:23",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 783,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16843,36 +16873,6 @@
       "tags": [],
       "first_seen_at": "2026-08-18 12:52:20",
       "updated_at": "2026-08-18 12:52:20",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 284,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
-      "source_hash": "1bf9b9ae19c470e6970a3151f442c21979464676860fc92d00f21b13c0980fbb",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26下事考公告合集共招3829人3791职位收录6考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-18 12:52:18",
-      "updated_at": "2026-08-18 12:52:18",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
