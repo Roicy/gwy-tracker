@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-26 11:14:04",
+  "updated_at": "2026-10-26 17:36:15",
   "stats": {
-    "total": 792,
+    "total": 793,
     "by_type": {
-      "省考": 792
+      "省考": 793
     },
     "by_province": {
-      "全国": 738,
+      "全国": 739,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 793,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "136a0ebc473fe829284674fd18fe861cbfc0a92e12839cae35ce0aacab541607",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招921810人216614职位收录23220考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-26 17:14:01",
+      "updated_at": "2026-10-26 17:14:01",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 792,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/470024149298176",
@@ -16830,39 +16860,6 @@
         "https://hera.fbstatic.cn/468482744061952.xls",
         "https://hera.fbstatic.cn/468482745112576.docx",
         "https://hera.fbstatic.cn/468482746162176.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 293,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468481185173505",
-      "source_hash": "d06c5772f5fc24db684ac7f536e4c382dc6ee6616dca189eeded29489224ddf7",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "肃州区教育系统2026年选调教师公告正在报名甘肃 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步优化城乡教师资源配置，统筹调配师资力量，补齐城区学校教师岗位空缺，保障全区教育教学工作有序开展，经区教育局研究决定，在全区教育系统范围内公开选调农村学区教师到城区中小学任教。现将具体事宜公告如下：\n一、选调对象及条件\n1.选调对象：\n肃州区属乡镇学校在编在岗中小学教师。\n2.选调条件\n（1）拥护中国共产党的领导，具有良好的政治业务素质和道德品行；\n（2）近3年来年度考核结果为合格等次及以上；\n（3）具备大专及以上学历，在肃州区乡镇学校工作满5年，计算时间截止2026年8月；\n（4）报考报账员岗位的，须具备连续1年及以上财务会计或报账工作经历（需提供单位证明），或持有初级及以上会计专业技术资格证书；\n（5）报考幼儿园后勤岗位的，年龄在40周岁及以上（1985年8月17日及以前出生），身体素质及工作能力能适应岗位要求，且近一年有从事学校后勤岗位工作的经历（需单位出具相关证明），具体由区教育局结合岗位需求进行判定，不符合条件者不予通过。\n3.有下列情形之一的，不得报考：\n（1）有失信行为被法院纳入失信被执行人名单且尚未撤销的；\n（2）涉嫌违纪违法正在接受有关专门机关审查尚未作出结论的",
-      "apply_start": "1985-08-17",
-      "apply_end": "2026-08-19",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "1985-08-17",
-        "apply_end": "2026-08-19",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-19 06:49:30",
-      "updated_at": "2026-08-19 06:49:30",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468481199250432.xlsx",
-        "https://hera.fbstatic.cn/468481200822272.xls"
       ],
       "position_count": 0,
       "positions": []
