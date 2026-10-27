@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-27 02:16:00",
+  "updated_at": "2026-10-27 08:04:00",
   "stats": {
-    "total": 795,
+    "total": 798,
     "by_type": {
-      "省考": 795
+      "省考": 798
     },
     "by_province": {
-      "全国": 741,
+      "全国": 744,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,101 @@
     }
   },
   "notices": [
+    {
+      "id": 798,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/470041609397248",
+      "source_hash": "b9ef21dfbb40ed9b8290101456f7e5ee50b8c23563a77ffb254f14deb02d59b1",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年邵阳县法律援助中心公开选调工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为充实我县法律援助中心工作力量，优化干部队伍结构，保障单位日常工作正常运转，经研究决定，面向全县各级全额拨款事业单位（不含教育系统）公开选调工作人员2名。为确保公开选调工作依法依规，公平、公正、公开，现将有关事项公告如下：\n一、选调原则\n（一）坚持党管干部原则；\n（二）坚持德才兼备、以德为先的用人标准；\n（三）坚持公开、平等、竞争、择优的原则；\n（四）坚持工作需要、人岗相适，注重能力素质与职位要求相结合；\n（五）坚持考试与考察相结合原则。\n二、选调岗位和计划\n（一）选调计划与选调对象范围\n本次计划公开选调工作人员2名，选调对象为全县各级全额拨款事业单位在编在岗的管理和专技岗位工作人员。具体岗位和资格条件详见《2026年邵阳县法律援助中心公开选调工作人员岗位表》（附件1）。\n（二）选调资格条件\n1.报名人员须同时具备以下条件：\n（1）具有中华人民共和国国籍，遵守国家法律法规；\n（2）政治素质好，业务能力强，爱岗敬业，具有正常履行职责的身体条件和心理素质；\n（3）具有岗位要求的其他资格条件（见附件1）；\n（4）近三年年度考核均为合格及以上等次，其中新录用事业单位工作人员试用期内年度考核结果",
+      "apply_start": "2026-11-04",
+      "apply_end": "2026-11-06",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-11-04",
+        "apply_end": "2026-11-06",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-27 07:41:04",
+      "updated_at": "2026-10-27 07:41:04",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/470041610890240.docx",
+        "https://hera.fbstatic.cn/470041612462080.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 797,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/470042063956992",
+      "source_hash": "2c037b2848ca5821becd516581334fd04528566284125485a39f496059b8ac9c",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "芷江侗族自治县教育局所属事业单位2026年公开选调工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "芷江侗族自治县教育局所属事业单位2026年公开选调工作人员公告\n因工作需要，经县委机构编制委员会研究同意，决定在全县教师队伍中公开选调教育局所属事业单位工作人员2名。现将有关事项公告如下：\n一、选调职位及人数\n教育局所属事业单位公开选调工作人员2人，其中：普通教育工作站1人、勤工俭学管理站1人。选调岗位具体详情见《芷江侗族自治县教育局所属事业单位2026年公开选调工作人员计划职位表》（附件1）。\n二、选调范围\n全县教育系统在编在岗教师\n三、选调原则\n1、坚持德才兼备、以德为先的用人标准;\n2、坚持公开、平等、竞争、择优原则;\n3、坚持工作需要、人岗相适,注重综合能力和专业知识相结合。\n四、选调条件及要求\n（一）报名须具备下列条件和要求\n1.政治思想表现好，热爱教育事业，具有良好的品行和职业道德，服从组织安排。\n2.具备岗位所需的专业或技能条件，具有正常履行职责的身体条件和心理素质。\n3.近三年年度考核均为“合格”及以上等次。\n4.在现工作单位或新提任现职务（职级）满1年的；\n5.年龄不超过45周岁（1980年10月27日以后出生），具有校长工作经历（2年以上）的可放宽到50周岁（197",
+      "apply_start": "2026-11-09",
+      "apply_end": "2026-11-11",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-11-09",
+        "apply_end": "2026-11-11",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-27 07:41:03",
+      "updated_at": "2026-10-27 07:41:03",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/470042065709056.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 796,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "d0452845de35d0baf8ba2d7011d0bf70282c4474845b277e9fc6baa798b44447",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招919412人225495职位收录23337考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-27 07:41:00",
+      "updated_at": "2026-10-27 07:41:00",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 795,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16756,101 +16851,6 @@
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468481190596609.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 298,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
-      "source_hash": "2e60463834aa3b1dffb17f54c6402de755f8996e1712784a8ffaa9f1f33808ce",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26下事考公告合集共招7212人4973职位收录6考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-19 12:52:50",
-      "updated_at": "2026-08-19 12:52:50",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 297,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "d86fe906178c3fbfffc16a0d1b7c7530eb1624fb037248b2f413d1464f035dae",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招427118人120758职位收录16717考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-19 12:52:49",
-      "updated_at": "2026-08-19 12:52:49",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 296,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468463366199296",
-      "source_hash": "8f94a49beff269a3012e0bd71ba1f556bcac0e5de2e6007cb8fedebc98e32757",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "湘西自治州州直事业单位2026年公开选调工作人员公告正在报名湖南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据《事业单位人事管理条例》(中华人民共和国国务院令第652号)和《关于印发<州直机关事业单位科级及以下人员管理规定>的通知》（州组发〔2019〕10号）等有关规定，结合实际工作需要，湘西自治州人力资源和社会保障局、中共湘西自治州委机构编制委员会办公室决定开展2026年湘西自治州州直事业单位公开选调工作人员工作。现将具体选调方案公告如下：\n一、组织实施\n本次湘西自治州州直事业单位公开选调工作，由湘西自治州人力资源和社会保障局负责组织实施。纪检监察部门派员全程参与监督。\n二、选调岗位计划\n本次州直事业单位计划公开选调工作人员35名（详见附件1）。\n三、选调范围\n面向全州符合条件的在编在岗机关（参公）单位科员及以下人员；州直事业单位管理七级及以下人员，县市事业单位管理九级及以下人员；专技人员。\n四、选调条件\n（一）报名人员应当具备以下资格条件：\n1.思想政治素质好，严格遵守政治纪律、政治规矩，有较强的事业心和责任心，品行端正；\n2.具备良好的身体与心理素质，能够胜任岗位工作；\n3.有公开选调岗位要求的学历及专业或技能条件，报考人员应取得毕业证书且国家承认的学历（学位）；\n4.有工作经历要求",
-      "apply_start": "2026-08-25",
-      "apply_end": null,
-      "written_exam": "2026-09-12",
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-25",
-        "apply_end": null,
-        "written_exam": "2026-09-12",
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-19 06:49:36",
-      "updated_at": "2026-08-19 06:49:36",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468463369786369.xlsx",
-        "https://hera.fbstatic.cn/468463373193216.xls",
-        "https://hera.fbstatic.cn/468463375817728.doc",
-        "https://hera.fbstatic.cn/468463379224576.xlsx"
       ],
       "position_count": 0,
       "positions": []
