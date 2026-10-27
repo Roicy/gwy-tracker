@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-26 22:51:04",
+  "updated_at": "2026-10-27 02:16:00",
   "stats": {
-    "total": 794,
+    "total": 795,
     "by_type": {
-      "省考": 794
+      "省考": 795
     },
     "by_province": {
-      "全国": 740,
+      "全国": 741,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 795,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "70be698189ee7b72a7a5dded5a456fd4f394522435b01ae6e09754b531cae91e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招922561人216631职位收录23232考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-27 01:56:21",
+      "updated_at": "2026-10-27 01:56:21",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 794,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16821,40 +16851,6 @@
         "https://hera.fbstatic.cn/468463373193216.xls",
         "https://hera.fbstatic.cn/468463375817728.doc",
         "https://hera.fbstatic.cn/468463379224576.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 295,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468463760724992",
-      "source_hash": "cc8048e776749d4a34fd5be50727ad79ffb4979f6fed8988da51667a3620c64a",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "静宁县2026年8月县直部门及所属事业单位和城区医疗卫生机构公开选调工作人员公告正在报名甘肃 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步充实县直部门及所属事业单位和城区医疗卫生机构工作力量，优化干部队伍结构，经研究，决定为部分县直部门及所属事业单位和城区医疗卫生机构公开选调工作人员，现将有关事宜公告如下。\n一、选调原则\n公开选调工作坚持公开、平等、竞争、择优原则，严格落实德才兼备、以德为先的用人标准，牢固树立注重实绩、突出能力的用人导向，做到人岗相适、规模适度。\n二、选调人数及岗位\n为23个县直部门及所属事业单位公开选调工作人员80名，其中，公务员（参公人员）3名、事业人员11名，项目人员66名。为4个城区医疗卫生机构选调工作人员13名，其中，定向医学生8名，项目人员4名，工勤人员1名。\n具体选调人数及岗位条件详见《岗位表》。\n三、选调范围\n1.党群部门选调岗位从县直部门（单位）和乡镇公务员（参公人员）、事业单位在编在岗人员，教育系统乡镇学区、初中在编在岗人员，以及各类民生实事、基层服务项目服务期满转正人员中选调（卫健系统除外）。\n2.县教育局下属事业单位岗位，限从全县教育系统工作人员中选调。\n3.县卫健局下属事业单位及城区医疗卫生机构岗位，限从乡镇卫生院工作人员中选调。\n4.政府部门其他选调岗位从县直部门（单",
-      "apply_start": "2026-08-20",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-20",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-19 06:49:34",
-      "updated_at": "2026-08-19 06:49:34",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468463762217984.xlsx",
-        "https://hera.fbstatic.cn/468463763789824.doc",
-        "https://hera.fbstatic.cn/468463765098496.doc"
       ],
       "position_count": 0,
       "positions": []
