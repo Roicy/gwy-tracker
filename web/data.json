@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-28 12:49:48",
+  "updated_at": "2026-10-28 19:01:54",
   "stats": {
-    "total": 822,
+    "total": 824,
     "by_type": {
-      "省考": 822
+      "省考": 824
     },
     "by_province": {
-      "全国": 768,
+      "全国": 770,
       "吉林": 29,
       "广东": 16,
       "湖北": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 824,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/470064757760000",
+      "source_hash": "e05082ac3967fbe72c17e2b13791e30353a9d80741e38bf9a8e7d204e5b9a48f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年桐城市市直单位公开选调工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《桐城市机关事业单位一般工作人员调动管理办法（试行）》规定，市委编委会同意市直单位公开选调工作人员25名。现将有关事项公告如下：\n一、报名范围\n20260501-20260503岗位：桐城市内在编在岗一般公务员(含参公)。\n20260511-20260513岗位：桐城市内在编在岗全额拨款事业单位工作人员。\n20260504-20260510、20260514-20260517岗位：桐城市内在编在岗全额拨款事业单位工作人员（卫生系统除外）。\n二、报名条件\n（一）身体健康，具有良好的政治、业务素质，品行端正;\n（二）年度考核除因试用期不定等次外，均为称职或合格及以上等次；\n（三）岗位具体要求见附件1（《2026年桐城市市直单位公开选调工作人员岗位表》，以下简称《岗位表》），其中《岗位表》“年龄”中“38周岁以下”为“1987年10月28日以后出生”，其他涉及年龄计算的依此类推;《岗位表》“备注”中“2年以上工作年限”为2024年12月31日（含）以前录用为机关事业单位工作人员，其他涉及工作年限计算的依此类推。\n（四）法律、法规规定的其他条件。\n具有下列情形之一的，不得参加公开选调：\n（",
+      "apply_start": "2026-10-30",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-30",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-28 18:44:00",
+      "updated_at": "2026-10-28 18:44:00",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/470064761351168.xls",
+        "https://hera.fbstatic.cn/470064764495872.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 823,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "92bcf861de2237f7480b02a39162d816c970b5c383cf475be1318b188dffd986",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招941757人244454职位收录23723考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-28 18:43:59",
+      "updated_at": "2026-10-28 18:43:59",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 822,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/463908783278081",
@@ -16772,68 +16835,6 @@
       "tags": [],
       "first_seen_at": "2026-08-21 18:40:46",
       "updated_at": "2026-08-21 18:40:46",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 324,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468529317957632",
-      "source_hash": "b23f6a50d72260b6fceb2bf3aef6f13e0c6f4a7a21baf8f0ffb58a67c6ddf86a",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "两当县关于城区学校公开选调教师的公告正在报名甘肃 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为优化学校学科教师配置，提高教育教学质量，根据两当县人民政府《关于推行中小学教师“县管校聘”管理改革的实施意见（试行）》（两政发〔2018〕101号）精神，结合城区学校学科教师紧缺的实际，经汇报县委、政府同意，决定从全县各乡镇学校公开选调教师到城区学校任教。现将有关事宜公告如下：\n一、选调原则\n坚持公开、公平、公正、择优的原则。\n二、选调范围\n全县各乡镇学校正式在岗教师。\n三、选调岗位\n1.香泉中学共3名：其中数学1名、英语1名、体育1名。\n2.城区小学共8名：其中语文4名、数学2名、英语1名、体育1名。\n四、选调条件和要求\n1.热爱教育事业，爱岗敬业，遵纪守法，作风正派，身体健康，具有高尚的教师职业道德。\n2.选调教师须在乡镇学校工作满5年（2021年9月1日之前，以分配文件为依据）及以上的正式在岗教师。年龄原则上要求1981年7月31日后出生，获得省市骨干教师或学科带头人的适当放宽。\n3.学历要求：本科及以上学历。\n4.毕业证书专业应与所需学科相关相近或教师资格证任教学科与所需学科一致，具有小学全科教师资格证的语文、数学、英语岗位均可报考，但限报1个岗位。\n五、具有下列情况之一者，",
-      "apply_start": "2026-08-21",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": "2026-08-24",
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-21",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": "2026-08-24"
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-21 12:53:05",
-      "updated_at": "2026-08-21 12:53:05",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468529319451648.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 323,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468529570404352",
-      "source_hash": "eed9a12fe656334b29af56b0aa1c944005eb217e5f6187ca12a231d66a02b655",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "西安市宗教事务服务中心选调工作人员公告正在报名陕西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为优化宗教工作系统人才队伍结构，进一步充实工作力量，按照《事业单位人事管理条例》《陕西省事企业单位人员调配工作暂行规定》有关规定，结合西安市民族宗教事务委员会下属事业单位编制及人员配备情况，西安市民族宗教事务委员会拟为下属事业单位西安市宗教事务服务中心公开选调工作人员5名。具体情况公告如下：\n一、选调范围\n选调范围为全市市属事业单位、各区县所属事业单位在编在岗工作人员（管理八级及以下、专业技术十一级及以下）。\n二、岗位及人数\n本次共选调工作人员5名，岗位及人数见附件1。\n三、选调条件\n（一）政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n（二）有正确的国家观、历史观、民族观、文化观、宗教观；具备一定的行政管理、协调服务和群众工作能力；\n（三）具有良好的业务素质，品行端正，实绩突出，群众公认；\n（四）年龄、身体、学历及资格条件：\n1.一般为40周岁及以下（1986年8月以后出生），特别优秀的可以适当放宽年龄条件；\n2.具备正常履行岗位职责的身体条件和心理素质；\n3.具有大学本科及以上文化程度；\n4.近3年年度考核合格及",
-      "apply_start": "2026-08-28",
-      "apply_end": "2026-09-01",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-28",
-        "apply_end": "2026-09-01",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-21 12:53:03",
-      "updated_at": "2026-08-21 12:53:03",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
