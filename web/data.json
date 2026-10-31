@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-31 09:46:01",
+  "updated_at": "2026-10-31 15:59:46",
   "stats": {
-    "total": 852,
+    "total": 854,
     "by_type": {
-      "省考": 852
+      "省考": 854
     },
     "by_province": {
-      "全国": 797,
+      "全国": 799,
       "吉林": 29,
       "广东": 17,
       "湖北": 5,
@@ -15,6 +15,72 @@
     }
   },
   "notices": [
+    {
+      "id": 854,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/470143049425920",
+      "source_hash": "8a90ff7feb3e3571f3a3d96ec6f255a727c1310a65ac45dcdfbc108e760ccae3",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年袁州区区直单位公开选调工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为进一步畅通干部交流渠道，优化干部队伍结构，根据《中华人民共和国公务员法》《公务员公开遴选办法》《事业单位人事管理条例》等有关法律法规，经研究，决定拟面向袁州区公开选调区直机关事业单位工作人员。现公告如下：\n一、选调职位\n共选调工作人员20名，其中公务员（参公人员）20名，事业编制人员20名。\n具体职位详见《2026年袁州区区直单位公开选调工作人员职位表》（附件1）。\n二、报考范围和条件\n（一）报考范围\n1.公务员（参公人员）岗位\n（1）袁州区范围内机关单位中已进行公务员登记备案且在编在岗的科级以下公务员。\n（2）袁州区范围内参照公务员法管理机关（单位）中已进行参照登记备案且在编在岗的科级以下工作人员。\n（3）袁州区范围内自2019年后因党政机关和事业单位机构改革，从参照公务员法管理单位划转安置在非参照公务员法管理事业单位且在编在岗，并在原参照公务员法管理机关（单位）已进行参照登记备案的科级以下工作人员。\n（4）驻区的中央、省、市垂直管理机关公务员或参照公务员法管理机关（单位）工作人员不可以报考。\n2.事业编制岗位\n全区事业单位在编在岗的科级以下事业编制人员（不含医护人员），2006年",
+      "apply_start": "2026-10-31",
+      "apply_end": "2026-10-31",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-10-31",
+        "apply_end": "2026-10-31",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-31 15:40:49",
+      "updated_at": "2026-10-31 15:40:49",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/470143050915840.pdf",
+        "https://hera.fbstatic.cn/470143052491776.pdf",
+        "https://hera.fbstatic.cn/470143053801473.doc",
+        "https://hera.fbstatic.cn/470143055111168.doc",
+        "https://hera.fbstatic.cn/470143056420864.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 853,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "24ecf8781f15a47452bae60fa1c4ae9c070e1b1c0a9e2cccd1519fd9a5776983",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招943892人256166职位收录24082考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-31 15:40:48",
+      "updated_at": "2026-10-31 15:40:48",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 852,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16862,73 +16928,6 @@
       "updated_at": "2026-08-25 18:41:41",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 354,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468616735644672",
-      "source_hash": "558642e8458539b7f6a7ca5e3d8fffc44d3044e9b887f04785227f410f3d46ff",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "阜宁县社会治安综合治理中心公开选调工作人员通告正在报名江苏 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "因工作需要，阜宁县委政法委直属全额拨款事业单位阜宁县社会治安综合治理中心面向全县公开选调工作人员。现将有关事项通告如下：\n一、公开选调原则\n坚持党管干部、党管人才，坚持事业至上、德才兼备的用人标准，坚持公开、平等、竞争、择优原则，在考试、考察的基础上择优选调。\n二、公开选调岗位及人数\n本次公开选调阜宁县社会治安综合治理中心工作人员4人，主要工作职责为综治信息平台相关业务、矛盾纠纷排查调处、分析研判、网格化社会治理、文稿撰写等。公开选调单位、岗位及人数等见附件1。\n三、报名范围\n符合资格条件的全县全额拨款事业单位在编工作人员（聘用在工勤技能岗位工作人员除外），年龄38周岁以下（1987年8月26日以后出生）。\n四、资格条件\n（一）基本条件\n1.具有中华人民共和国国籍；\n2.遵守中华人民共和国宪法和法律，拥护中国共产党领导和社会主义制度；\n3.具有良好的政治素质和道德品行；\n4.具有正常履行职责的身体条件和心理素质；\n5.具有符合岗位要求的工作能力；\n6.具备履行岗位职责所需要的学历要求和任职资格条件，符合岗位要求的年龄等条件，详见附件1；\n7.符合法律、法规规定的其他条件。\n（二）有下列",
-      "apply_start": "2026-08-26",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-26",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-25 12:52:10",
-      "updated_at": "2026-08-25 12:52:10",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468616737396736.xlsx",
-        "https://hera.fbstatic.cn/468616738968576.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 353,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468621073338368",
-      "source_hash": "016f8fc7cda0f8910c17367a261c401981cc800e6296f758bd51393269ae0535",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "南充市残疾人联合会关于市残疾人康复服务中心2026年公开选调事业人员的公告正在报名四川 · 选调职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据工作需要，南充市残疾人联合会（以下简称“市残联”）决定开展市残疾人康复服务中心2026年公开选调事业人员工作，现将有关事项公告如下。\n一、选调名额及职位\n市残疾人康复服务中心本次计划选调事业人员1名，具体职位信息详见《市残疾人康复服务中心2026年公开选调事业人员职位表》（附件1）。\n二、选调范围及条件\n（一）选调人员范围\n1.南充市各级党政群机关公务员、参照公务员法管理人员。\n2.南充市各级事业单位在编在岗人员。\n3.中、省设在南充单位（包括垂直管理单位、派出单位等）在编在岗机关事业单位人员。\n（二）基本条件\n1.报考人员应同时具备的条件\n（1）具有中华人民共和国国籍，热爱社会主义祖国，拥护中华人民共和国宪法，拥护中国共产党，遵纪守法，品行端正，有良好的职业道德，爱岗敬业，事业心和责任感强。\n（2）身体健康，能正常履行选调岗位职责。\n（3）大学本科及以上学历。\n（4）具备本公告选调条件及《市残疾人康复服务中心2026年公开选调事业人员职位表》要求。报考人员因国家教育行政主管部门专业更名导致所学专业与选调专业名称不同，但确属同一专业的可报名（由报考人员自行提供省级及以上教育行政主管",
-      "apply_start": "2026-08-31",
-      "apply_end": "2026-09-04",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-08-31",
-        "apply_end": "2026-09-04",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-25 12:52:09",
-      "updated_at": "2026-08-25 12:52:09",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468621074832384.doc",
-        "https://hera.fbstatic.cn/468621076142080.doc",
-        "https://hera.fbstatic.cn/468621077713921.doc"
-      ],
       "position_count": 0,
       "positions": []
     }
