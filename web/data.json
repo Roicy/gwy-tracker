@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-10-31 02:30:28",
+  "updated_at": "2026-10-31 09:46:01",
   "stats": {
-    "total": 851,
+    "total": 852,
     "by_type": {
-      "省考": 851
+      "省考": 852
     },
     "by_province": {
-      "全国": 796,
+      "全国": 797,
       "吉林": 29,
       "广东": 17,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 852,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "1b3064c8add179cc285f690b50f74fd0146146a53d7446b0ca9acb791c24233f",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招944115人255073职位收录24074考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-10-31 09:28:09",
+      "updated_at": "2026-10-31 09:28:09",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 851,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16898,39 +16928,6 @@
         "https://hera.fbstatic.cn/468621074832384.doc",
         "https://hera.fbstatic.cn/468621076142080.doc",
         "https://hera.fbstatic.cn/468621077713921.doc"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 352,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468622444351488",
-      "source_hash": "2cd5ec10d7bce521cab3ac3ca8f83a208685e391b23242e0780e2eed1290bc32",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "海安市财政局结算中心公开选调工作人员公告正在报名江苏 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为充实市级事业单位队伍力量，根据市委办公室、市政府办公室《印发关于海安市科级以下干部调动和借调管理办法的通知》(海办〔2022〕109号)精神，经研究，决定面向我市事业单位公开选调1名工作人员，现将有关事项公告如下：\n一、选调范围及条件\n(一)选调范围\n选调单位、岗位、对象、人数、专业、学历及要求等具体信息，详见《海安市财政局结算中心公开选调工作人员岗位简介表》（附件1，以下简称《岗位简介表》）。\n(二)选调条件\n1.报名人员应当具备下列资格条件:\n(1)具有良好的政治素质、专业素养，品行端正，实绩突出，群众公认；\n(2)在现单位工作满3年（按月计算）;\n(3)近三年年度考核无不合格档次;\n(4)具有正常履行职责的身体条件和心理素质。\n2.有下列情形之一的人员，不得报名参加公开选调：\n(1)被开除中国共产党党籍的；\n(2)被依法列为失信联合惩戒对象的；\n(3)涉嫌违纪违法正在接受组织审查调查尚未作出结论的或受到党纪政纪处分、被追责问责影响期未满或者期满影响使用的;\n(4)未满最低服务3年年限或未满约定最低服务期限的；\n(5)选调后可能形成回避关系的；\n(6)法律法规规定的其他情形。\n工",
-      "apply_start": "2026-09-02",
-      "apply_end": "2026-09-03",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-02",
-        "apply_end": "2026-09-03",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-25 12:52:06",
-      "updated_at": "2026-08-25 12:52:06",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468622446107649.pdf",
-        "https://hera.fbstatic.cn/468622447679488.doc"
       ],
       "position_count": 0,
       "positions": []
