@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-01 18:46:51",
+  "updated_at": "2026-11-01 22:58:21",
   "stats": {
-    "total": 859,
+    "total": 860,
     "by_type": {
-      "省考": 859
+      "省考": 860
     },
     "by_province": {
-      "全国": 804,
+      "全国": 805,
       "吉林": 29,
       "广东": 17,
       "湖北": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 860,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "865492f55e43ab9f337694036c345dabdf7ee73728be6252222fea3026c2c72a",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招943994人259541职位收录24137考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-01 22:39:51",
+      "updated_at": "2026-11-01 22:39:51",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 859,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16889,40 +16919,6 @@
         "https://hera.fbstatic.cn/468643079197696.xlsx",
         "https://hera.fbstatic.cn/468643083656192.docx",
         "https://hera.fbstatic.cn/468643084965888.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 360,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468643438678016",
-      "source_hash": "fe3e3ea429c2b9a85b4b9990a409482c5e02e40e1b2b79db86eb0bdadab980ab",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "中共大理州委州直机关工委2026年公开选调事业单位工作人员公告正在报名云南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为全面加强大理白族自治州州直机关党员教育中心建设，优化干部队伍结构，进一步提升机关党建与党员教育工作质效，根据《事业单位人事管理条例》《中共大理州委办公室大理州人民政府办公室关于进一步完善州级机关和事业单位工作人员调配工作有关事项的通知》（大办发〔2021〕12号）和《中共大理州委组织部 大理州人力资源和社会保障局关于印发〈大理州事业单位公开选调工作人员暂行办法〉的通知》（大组通〔2014〕33号）等相关规定，经州委组织部、州委编办、州人民政府、州人力资源和社会保障局同意，决定开展2026年公开选调事业单位人员相关工作。现将有关事项公告如下。\n一、公开选调范围\n大理州内县市（或乡镇）符合公开选调条件和岗位要求的事业单位在职在编工作人员。\n二、公开选调岗位及人数\n公开选调岗位及人数详见《中共大理州委州直机关工委2026年公开选调事业单位工作人员岗位表》（附件1）。\n三、公开选调条件\n（一）报考人员应具备以下条件\n1.贯彻执行党的路线方针政策，遵守国家法律法规和单位各项规章制度，具有良好的政治、业务、身体素质，品行端正，成绩突出，群众公认。\n2.政治面貌为中共党员（含中共预备党员）。\n3.",
-      "apply_start": "2026-09-10",
-      "apply_end": "2026-09-16",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-10",
-        "apply_end": "2026-09-16",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-26 12:57:43",
-      "updated_at": "2026-08-26 12:57:43",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468643443317760.xlsx",
-        "https://hera.fbstatic.cn/468643447510016.docx",
-        "https://hera.fbstatic.cn/468643451703296.docx"
       ],
       "position_count": 0,
       "positions": []
