@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-02 11:07:15",
+  "updated_at": "2026-11-02 20:59:23",
   "stats": {
-    "total": 868,
+    "total": 869,
     "by_type": {
-      "省考": 868
+      "省考": 869
     },
     "by_province": {
-      "全国": 810,
+      "全国": 811,
       "吉林": 29,
       "广东": 17,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 869,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "0c0f929c2b88c42a70f4f90f0383b03867a2d8e8bc647e602bea3c2d8eb2643e",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招946462人269158职位收录24337考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-02 20:41:43",
+      "updated_at": "2026-11-02 20:41:43",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 865,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/470185539562496",
@@ -16873,39 +16903,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468668601013248.xls",
         "https://hera.fbstatic.cn/468668603109376.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 369,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468670849244160",
-      "source_hash": "e8224f9c4832d9b4ece103c0187f02f1f4c141398ca24c1078ece95df4a278e4",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年度合肥市市直机关公开遴选和公开选调公务员公告报名结束安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据公务员法及《公务员转任规定》《公务员调任规定》《公务员公开遴选办法》等有关法律法规，市委组织部、市人力资源和社会保障局决定开展2026年度市直机关（含参照公务员法管理机关单位，下同）公开遴选和公开选调公务员工作。现将有关事项公告如下：\n一、职位\n本次计划公开遴选和公开选调公务员35名。其中，公开遴选三级主任科员以下及其他相当职级层次的公务员33名（详见附件1）；公开选调副科级领导职务公务员2名（详见附件2）。\n二、报名范围和条件\n（一）公开遴选\n1.报名人员范围\n（1）本市各县（市、区）级及以下机关中已进行公务员登记备案且在编在岗的科级以下公务员。\n（2）本市各县（市、区）级及以下参照公务员法管理机关（单位）中已进行参照登记备案且在编在岗的科级以下工作人员。\n中央、省级机关设在本市各县（市、区）的单位（包括垂直管理单位、派出单位等）中符合条件的科级以下公务员（参照公务员法管理工作人员）也可报考。\n市直机关设在县（市、区）、开发区的派出机构，市属戒毒机构，各开发区市场监督管理局中符合报名条件的科级以下公务员（参照公务员法管理工作人员）也可报考。\n2.报名资格条件\n报名人员应具备下列资",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-27 21:58:39",
-      "updated_at": "2026-08-27 21:58:39",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468670860693504.xls",
-        "https://hera.fbstatic.cn/468670862531586.doc"
       ],
       "position_count": 0,
       "positions": []
