@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-02 20:59:23",
+  "updated_at": "2026-11-03 03:09:44",
   "stats": {
-    "total": 869,
+    "total": 870,
     "by_type": {
-      "省考": 869
+      "省考": 870
     },
     "by_province": {
-      "全国": 811,
+      "全国": 812,
       "吉林": 29,
       "广东": 17,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 870,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "96f6e462279bd6886031cc446b6c0a0655e36d1f459416ec4749cfff1fd598e5",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招946937人270027职位收录24376考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-03 02:51:07",
+      "updated_at": "2026-11-03 02:51:07",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 869,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16870,39 +16900,6 @@
       "is_active": 1,
       "attachment_urls": [
         "https://hera.fbstatic.cn/468668082754560.docx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 370,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468668598736896",
-      "source_hash": "15e17c853abacba2bc0e1aef077cf7b5f1408300e17859f1d52ee35841f62ef2",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年度蚌埠市公开选调公务员公告正在报名安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "2026年度蚌埠市公开选调公务员公告\n根据公务员法和《公务员调任规定》等有关法律法规，市委组织部、市人力资源和社会保障局决定开展2026年度公开选调公务员工作。现将有关事项公告如下：\n一、职位\n本次计划公开选调副科级领导职务公务员5名（详见附件1）。\n二、报名范围与条件\n（一）报名人员范围\n本市所属国有企业和科研院所以及其他不参照公务员法管理的事业单位中管理岗位和专业技术岗位工作的人员，不含工勤人员。\n（二）报名资格条件\n报名人员除应当具备公务员法、《公务员调任规定》和《安徽省公务员调任实施办法》要求的资格条件外，还应当具备以下条件：\n1.具有下列工作经历和任职资历：\n经公开招聘且在本单位连续工作3年以上，现任市属企业中层以上领导职务或县（区）属企业领导班子成员及相当职务层次的领导人员。\n现聘任在我市市属、县（区）属事业单位八级以上管理岗位的领导人员。\n专业技术人员须聘任为副高级专业技术职务2年以上或已聘任正高级专业技术职务。\n2.具有大学本科以上文化程度。\n3.具有公开选调职位要求的相关工作经历。\n4.年龄在48周岁以下（1977年8月之后出生）。\n5.具有公务员法、《党政领导干部选",
-      "apply_start": "2026-09-04",
-      "apply_end": "2026-09-04",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-04",
-        "apply_end": "2026-09-04",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-27 21:58:41",
-      "updated_at": "2026-08-27 21:58:41",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468668601013248.xls",
-        "https://hera.fbstatic.cn/468668603109376.docx"
       ],
       "position_count": 0,
       "positions": []
