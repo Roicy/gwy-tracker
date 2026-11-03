@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-03 11:03:18",
+  "updated_at": "2026-11-03 18:38:10",
   "stats": {
-    "total": 876,
+    "total": 877,
     "by_type": {
-      "省考": 876
+      "省考": 877
     },
     "by_province": {
-      "全国": 818,
+      "全国": 819,
       "吉林": 29,
       "广东": 17,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 877,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "ce17d1ef1c15acaf0043e687eb140a881509aebbcdc9376e2eda7c9bac4b76fc",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招946942人270517职位收录24507考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-03 18:19:51",
+      "updated_at": "2026-11-03 18:19:51",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 876,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/470202219522048",
@@ -16872,39 +16902,6 @@
       "updated_at": "2026-08-28 21:51:54",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 377,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468669949564928",
-      "source_hash": "41030f85df76a3275760f5dfc0897eecbc013f30567468f0198a6738a6bdd06b",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年安顺市实验中学自主选调专业技术人员公告正在报名贵州 · 选调职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步加强学校教师队伍建设，引进优质师资，切实优化教师结构，促进学校教育高质量发展，结合学校办学实际，拟自主选调2名专业技术人员。\n一、自主选调工作的原则和人员情况\n（一）选调的基本原则\n坚持党管干部、党管人才的原则；坚持德才兼备、以德为先、五湖四海、任人唯贤的原则；坚持按需设岗、按岗调动、人岗相适、人事相宜的原则；坚持公开、平等、竞争、择优的原则。\n（二）选调学科及人数\n高中生物1人；高中体育1人。\n（三）选调的范围\n安顺市范围内全额拨款事业单位在编在岗且符合调动资格条件的专业技术人员。\n二、选调人员资格条件\n（一）选调人员须符合以下基本条件：\n1.拥护党的路线方针政策，在政治上、思想上、行动上同党中央保持高度一致；\n2.有强烈的事业心和责任感，敢于坚持原则，敢于担当，清正廉洁，任劳任怨，办事认真；\n3.热爱教育事业，品行端正，为人师表，遵纪守法，未受过任何纪律处分，无违法违纪记录，未参加过任何非法组织活动；\n4.身体健康，体检合格；\n（二）选调岗位须符合以下条件：\n1.高中生物学科\n（1）具有本科及以上学历，取得生物科学类或生物工程类专业的毕业证。\n（2）具有高中教师资格证，普通",
-      "apply_start": "2026-09-01",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-01",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-28 10:13:39",
-      "updated_at": "2026-08-28 10:13:39",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468682197372928.xls",
-        "https://hera.fbstatic.cn/468682197900288.doc"
-      ],
       "position_count": 0,
       "positions": []
     }
