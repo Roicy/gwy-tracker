@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-04 21:37:09",
+  "updated_at": "2026-11-05 02:30:17",
   "stats": {
-    "total": 885,
+    "total": 886,
     "by_type": {
-      "省考": 885
+      "省考": 886
     },
     "by_province": {
-      "全国": 827,
+      "全国": 828,
       "吉林": 29,
       "广东": 17,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 886,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a4fdaf032d7310046585adee482202504e56fd73e91cd7902b6701358e6fe674",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招949196人273117职位收录24663考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-05 02:07:22",
+      "updated_at": "2026-11-05 02:07:22",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 885,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/470229338580992",
@@ -16879,36 +16909,6 @@
         "https://hera.fbstatic.cn/468664506326016.docx",
         "https://hera.fbstatic.cn/468664507635712.doc"
       ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 386,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468738801686528",
-      "source_hash": "866b6beb1bf73d8266b1fc1c8e4f0c5ef75d863f5e7b71aed3cf1f553179f37e",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年袁州区事业单位面向全区在编在岗教师公开选调工作人员公告报名结束江西 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步加强事业单位工作人员队伍建设，逐步优化事业单位人员结构，根据用人单位工作的需要，经研究决定，按照“公开、平等、竞争、择优”的原则，面向全区在编在岗教师公开选调工作人员37名。现将有关事项公告如下：\n一、选调岗位、人数\n单位\n岗位类型\n人数\n单位\n岗位类型\n人数\n袁州区政策研究中心\n管理岗\n1\n袁州区文化馆\n专技岗\n2\n袁州区营商环境服务中心\n管理岗\n2\n袁州区图书馆\n专技岗\n1\n袁州区网络应急指挥中心\n管理岗\n1\n袁州区卫生健康服务中心\n管理岗\n1\n袁州区新时代文明实践促进中心\n管理岗\n1\n袁州区应急救援保障中心\n管理岗\n2\n袁州区教育教学研究室\n专技岗\n6\n袁州区检验检测中心\n管理岗\n1\n袁州区科技创新服务中心\n管理岗\n1\n袁州区医疗保险事业服务中心\n管理岗\n1\n袁州区社会救助中心\n专技岗\n2\n袁州区职工权益保障中心\n专技岗\n1\n袁州区社会救助中心\n管理岗\n2\n宜春袁州产业园管理委员会\n管理岗\n2\n袁州区就业创业服务中心\n管理岗\n1\n中国国际贸易促进委员会\n袁州区委员会\n管理岗\n1\n袁州区自然资源检查保护中心\n（含自然资源所）\n管理岗\n2\n袁州区融媒体中心\n专技岗\n2\n袁州区",
-      "apply_start": "2026-09-07",
-      "apply_end": "2026-09-08",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-07",
-        "apply_end": "2026-09-08",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-30 16:18:25",
-      "updated_at": "2026-08-30 16:18:25",
-      "is_active": 1,
-      "attachment_urls": [],
       "position_count": 0,
       "positions": []
     }
