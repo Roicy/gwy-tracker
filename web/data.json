@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-05 18:55:56",
+  "updated_at": "2026-11-06 00:18:36",
   "stats": {
-    "total": 890,
+    "total": 891,
     "by_type": {
-      "省考": 890
+      "省考": 891
     },
     "by_province": {
-      "全国": 832,
+      "全国": 833,
       "吉林": 29,
       "广东": 17,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 891,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "619a0f9f2875c96bd740f29f3841686bfa28b6c61b63fa62815878ea2bdfd10a",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招950429人274691职位收录24772考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-06 00:00:00",
+      "updated_at": "2026-11-06 00:00:00",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 890,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16866,47 +16896,6 @@
       "updated_at": "2026-08-31 13:02:45",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 391,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468759253637121",
-      "source_hash": "37b1a8b275cdf99246f7c68035f441511b7d4adedb0b2899b82f3283539d968d",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "大姚县2026年公开选调县级机关公务员和事业单位工作人员公告正在报名云南 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步深化干部人事制度改革，推进和规范公开选调工作，建立健全科学选人用人机制，营造风清气正的选人用人环境，根据中共大姚县委组织部、中共大姚县委机构编制委员会办公室、大姚县人力资源和社会保障局《关于印发<大姚县机关事业单位工作人员转任调配管理办法>的通知》（大组通〔2024〕15号）和工作需要，经县委、县人民政府研究，决定面向县内乡镇公开选调县级机关公务员和事业单位工作人员,现将有关事项公告如下：\n一、公开选调范围、岗位、人数及组织\n2026年，我县计划面向县内乡镇公开选调县级机关公务员和事业单位工作人员32名（不含卫健系统4名）。公开选调的具体单位、职（岗）位、人数、资格条件、选调范围等详见《大姚县2026年县级机关公开选调公务员职位信息表》或《大姚县2026年县级事业单位公开选调事业单位工作人员岗位信息表》。\n本次公开选调工作的报名、资格审查、岗位调剂、笔试、考察、确定人选、征求意见、公示工作统一由县委组织部、县委编办、县人社局负责组织实施。卫健系统的公开选调工作由县卫健局负责组织实施。\n二、公开选调的原则\n（一）党管干部、党管人才，服务发展原则；\n（二）公开、公平、公正、择优原则",
-      "apply_start": "2026-09-09",
-      "apply_end": "2026-09-10",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-09",
-        "apply_end": "2026-09-10",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-08-31 13:02:43",
-      "updated_at": "2026-08-31 13:02:43",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468759255389185.doc",
-        "https://hera.fbstatic.cn/468759256698880.doc",
-        "https://hera.fbstatic.cn/468759258012672.xls",
-        "https://hera.fbstatic.cn/468759259322368.xls",
-        "https://hera.fbstatic.cn/468759260632064.xls",
-        "https://hera.fbstatic.cn/468759262203904.docx",
-        "https://hera.fbstatic.cn/468759263517696.xls",
-        "https://hera.fbstatic.cn/468759264827392.docx",
-        "https://hera.fbstatic.cn/468759266137088.pdf",
-        "https://hera.fbstatic.cn/468759267446785.pdf"
-      ],
       "position_count": 0,
       "positions": []
     }
