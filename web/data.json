@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-10 03:39:11",
+  "updated_at": "2026-11-10 12:41:40",
   "stats": {
-    "total": 912,
+    "total": 914,
     "by_type": {
-      "省考": 912
+      "省考": 914
     },
     "by_province": {
-      "全国": 854,
+      "全国": 856,
       "吉林": 29,
       "广东": 17,
       "河南": 5,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 914,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/470365669977088",
+      "source_hash": "49b86f12dd3d253c6704f7cd73be67f2426647367e29aef86ce57467b03c28b5",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年邵阳县人力资源事务中心和县幼儿园公开选调工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "为充实我县人力资源事务中心和县幼儿园工作力量，优化干部队伍结构，保障各项工作正常有序运转，经研究，决定面向全县各乡镇全额拨款事业单位公开选调工作人员共4名。其中，县人力资源事务中心选调岗位面向全县乡镇所属全额拨款事业单位在编在岗人员，县幼儿园选调岗位面向全县各乡镇全额拨款事业单位有幼儿园、小学教师资格证的在编在岗人员。现将有关事项公告如下：\n一、选调原则\n（一）坚持党管干部原则；\n（二）坚持德才兼备、以德为先的用人标准；\n（三）坚持公开、平等、竞争、择优的原则；\n（四）坚持工作需要、人岗相适，注重能力素质与岗位要求相结合；\n（五）坚持考试与考察相结合原则。\n二、选调岗位和计划\n（一）选调计划与选调对象范围\n本次共计划公开选调工作人员4名。其中县人力资源事务中心选调岗位面向全县各乡镇所属全额拨款事业单位在编在岗专业技术和管理岗位人员；县幼儿园选调岗位面向全县乡镇所属全额拨款事业单位有幼儿园、小学教师资格证的在编在岗专业技术和管理岗位人员。具体岗位和资格条件详见《2026年邵阳县人力资源事务中心和县幼儿园公开选调工作人员岗位表》（附件1）。\n（二）选调资格条件\n1.报名人员须同时具备以下条",
+      "apply_start": "2026-11-17",
+      "apply_end": "2026-11-19",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-11-17",
+        "apply_end": "2026-11-19",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-10 12:22:53",
+      "updated_at": "2026-11-10 12:22:53",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/470365671467008.xlsx",
+        "https://hera.fbstatic.cn/470365672776704.docx"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 913,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "2e17669dc37995f25b3bff58d50ea756bcd69392eea4cc86bcb7b9038f794218",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招965770人280632职位收录25222考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-10 12:22:52",
+      "updated_at": "2026-11-10 12:22:52",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 912,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16812,70 +16875,6 @@
       "tags": [],
       "first_seen_at": "2026-09-03 10:53:43",
       "updated_at": "2026-09-03 10:53:43",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 414,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468819711646720",
-      "source_hash": "839e740e08d681ee52389e25a0e8e488508ddf8435316ae4dfa682291e83c7a3",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "珠海市2026年公开选调公务员公告报名结束广东 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为加大公务员交流力度，优化公务员队伍结构，激发公务员队伍活力，根据《中华人民共和国公务员法》《公务员转任规定》和《广东省公务员转任实施办法》等法律法规和相关政策文件精神，组织开展公开选调公务员工作，现就有关事项公告如下：\n一、选调对象\n全市各级机关（单位）和参照公务员法管理机关（单位）已进行公务员登记或参照登记备案且在编在岗的公务员（以下统称公务员），含中央、省驻珠单位公务员。\n二、选调职位\n本次选调设置21个职位选调31人，具体职位详见《珠海市2026年公开选调公务员职位表》（附件1）。\n三、资格条件\n选调对象除具有《公务员转任规定》要求的资格条件外，还应符合以下条件：\n（一）具有良好的政治素质、道德品行和专业素养；\n（二）具有职位要求的工作能力、任职经历和其他资格条件；\n（三）具有大学本科学历、学士学位人员年龄在35周岁及以下，研究生学历、硕士以上学位人员年龄在40周岁及以下，我市各区区以下机关报名人员年龄可相应放宽2岁；\n（四）具有选调职位要求的职务职级。涉及领导职务和职级升降、领导职务和职级互相转任的，须符合有关规定要求。报名人员职务职级高于选调职位职务职级要求的，转任时按照选",
-      "apply_start": "2026-09-03",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-03",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-03 03:32:52",
-      "updated_at": "2026-09-03 03:32:52",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468819713397760.xls",
-        "https://hera.fbstatic.cn/468819714710528.docx",
-        "https://hera.fbstatic.cn/468819716021248.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 413,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "429250b5584eabf9ffbd4753b5e37d29432b5625cdf16d48bb60d1042afeff9d",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招540066人127627职位收录17849考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-03 03:32:51",
-      "updated_at": "2026-09-03 03:32:51",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
