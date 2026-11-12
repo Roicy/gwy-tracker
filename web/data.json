@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-11 18:06:05",
+  "updated_at": "2026-11-12 00:40:54",
   "stats": {
-    "total": 917,
+    "total": 918,
     "by_type": {
-      "省考": 917
+      "省考": 918
     },
     "by_province": {
-      "全国": 859,
+      "全国": 860,
       "吉林": 29,
       "广东": 17,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 918,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "77d87c3245c54f9eae579f2116342eed07f94c893b85d2abda1c5fc4991db9bf",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招973789人282188职位收录25374考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-12 00:22:19",
+      "updated_at": "2026-11-12 00:22:19",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 917,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16844,36 +16874,6 @@
         "https://hera.fbstatic.cn/468819714710528.docx",
         "https://hera.fbstatic.cn/468819716021248.xlsx"
       ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 418,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468820632293376",
-      "source_hash": "7d752b3a2620b04040a25b3bd5bcc39689fafaff27fedf0702d0438a4a0db2b6",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "绍兴市机关事务服务中心公开选调事业单位工作人员的公告正在报名浙江 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "绍兴市机关事务服务中心为市政府直属公益一类事业单位，机构规格为正县处级，经费形式为财政全额拨款。因工作需要，决定面向全市公开选调事业编制工作人员。现将有关事项公告如下：\n一、选调岗位\n公开选调事业编制工作人员1名，综合管理岗。\n二、选调范围\n绍兴全市范围内具有事业身份的在编在职人员。\n三、选调条件\n（1）政治素质好，品行端正，具有一定的文字表达能力和综合协调能力；\n（2）年龄38周岁及以下（1987年9月2日及以后出生），身心健康；\n（3）具有与招聘岗位要求相适应的学历学位、专业等条件（附件1）；\n（4）近3年年度考核均为合格及以上等次（事业考核不足3年的，根据实际工作年限提供）；\n（5）所在工作单位同意；\n（6）符合省、市事业单位工作人员交流的相关规定。\n具有下列情形之一的，不得参加公开选调：（1）试用期未满，或试用期满考核合格但在原单位工作不满1年的；（2）乡镇（街道）工作人员在乡镇（街道）工作不满5年的；（3）通过招生招聘并轨方式为基层单位培养的人员，未满规定最低服务年限的；（4）人事档案涉嫌涂改造假，或者出生时间、参加工作时间、入党时间、学历学位、工作经历、机关事业单位在编在岗",
-      "apply_start": "2026-09-03",
-      "apply_end": "2026-09-11",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-03",
-        "apply_end": "2026-09-11",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-03 10:53:48",
-      "updated_at": "2026-09-03 10:53:48",
-      "is_active": 1,
-      "attachment_urls": [],
       "position_count": 0,
       "positions": []
     }
