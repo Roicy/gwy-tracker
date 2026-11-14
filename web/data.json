@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-13 22:11:52",
+  "updated_at": "2026-11-14 02:25:56",
   "stats": {
-    "total": 925,
+    "total": 926,
     "by_type": {
-      "省考": 925
+      "省考": 926
     },
     "by_province": {
-      "全国": 866,
+      "全国": 867,
       "吉林": 29,
       "广东": 18,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 926,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "c90e2da293b73778aa385b4f13fafb27ad8cfbde918d8b215f5408897f43a0b6",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招984792人286648职位收录25634考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-14 02:08:30",
+      "updated_at": "2026-11-14 02:08:30",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 925,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16844,38 +16874,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468846460214272.doc",
         "https://hera.fbstatic.cn/468846461786112.xlsx"
-      ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 426,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468848471461888",
-      "source_hash": "55a221ba7de23c40e0d253ed56ec3aecee8775cfd57a2b4a852c9b18547e12ae",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "中共含山县委组织部2026年度公开选调公务员公告报名结束安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据工作需要，经县委编委研究同意，面向全县公开选调公务员。现就有关事项公告如下：\n一、公开选调计划\n本次计划公开选调四级主任科员以下及其他相当职级层次的公务员1名，详见《中共含山县委组织部2026年度公开选调公务员职位表》（附件1）。\n二、报名范围与对象\n本县已进行公务员登记备案且在编在岗的四级主任科员以下及其他相当职级层次的公务员（含参照公务员法管理工作人员）。\n三、报名资格与条件\n报名人员应具备下列资格条件：\n（一）政治立场坚定、政治素质过硬，深刻领悟“两个确立”的决定性意义，增强“四个意识”、坚定“四个自信”、做到“两个维护”；\n（二）具有良好的业务素质，品行端正，实绩突出，群众公认；\n（三）具有3年以上公务员或参照公务员法管理机关（单位）工作人员工作经历(含试用期，计算时间截至2026年9月)；\n（四）近三年年度考核均为称职及以上等次；\n（五）具有公开选调职位要求的资格条件，其中“年龄”条件中“38周岁以下”为“1987年9月以后出生”；\n（六）具有正常履职的身体条件和心理素质；\n（七）法律、法规规定的其他条件。\n具有下列情形之一的，不得报考：\n（一）被开除中国共产党党籍的；\n",
-      "apply_start": "2026-09-10",
-      "apply_end": "2026-09-11",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-10",
-        "apply_end": "2026-09-11",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-04 10:52:55",
-      "updated_at": "2026-09-04 10:52:55",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468848473218048.xls"
       ],
       "position_count": 0,
       "positions": []
