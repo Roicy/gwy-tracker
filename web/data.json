@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-15 02:00:14",
+  "updated_at": "2026-11-15 09:20:32",
   "stats": {
-    "total": 930,
+    "total": 931,
     "by_type": {
-      "省考": 930
+      "省考": 931
     },
     "by_province": {
-      "全国": 871,
+      "全国": 872,
       "吉林": 29,
       "广东": 18,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 931,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a752635955b82b17311de5f5666a36b35f661c3de69440e547dbad36ebfb3842",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招982947人285894职位收录25651考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-15 09:01:59",
+      "updated_at": "2026-11-15 09:01:59",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 930,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16834,40 +16864,6 @@
       "updated_at": "2026-09-04 15:59:11",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 431,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468848435287040",
-      "source_hash": "9fc40119ffd7d8df9db7759c5d034212ceca69c230f623acb58a034c2fefefeb",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2026年度和县部分事业单位公开选调工作人员公告正在报名安徽 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "根据工作需要，我县部分事业单位面向全县公开选调工作人员。现将有关事项公告如下：\n一、选调标准和原则\n坚持德才兼备的选人标准和“公开、公平、竞争、择优”的原则。\n二、选调计划和岗位\n本次计划面向全县公开选调事业单位工作人员3名，具体岗位及选调资格条件详见《2026年度和县部分事业单位公开选调工作人员岗位计划表》（附件1）。\n三、选调范围和条件\n本县范围内事业单位正式在编在岗人员中符合选调条件的人员，且必须符合以下条件：\n（一）政治素质、业务素质良好，品行端正，勤奋敬业；\n（二）具有公开选调岗位要求的工作能力、专业条件和任职经历；\n（三）试用期满考核及年度考核均为合格及以上等次；\n（四）年龄要求详见岗位计划表，如年龄要求38周岁以下，为1987年9月1日及以后出生，其他涉及年龄计算依此类推；\n（五）身体健康；\n（六）法律、法规规定的其他条件。\n有下列情形之一的人员，不得报考：\n（一）涉嫌违纪违法正在接受审查尚未作出结论的；\n（二）受处分期间或未满影响期限的；\n（三）按照国家有关规定，到定向单位工作未满服务年限或有其他限制性规定的；\n（四）尚在服务期、试用期或任职试用期的；\n（五）选调后构成",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-04 15:59:09",
-      "updated_at": "2026-09-04 15:59:09",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468848437039104.xlsx",
-        "https://hera.fbstatic.cn/468848438352896.docx",
-        "https://hera.fbstatic.cn/468848439662592.doc"
-      ],
       "position_count": 0,
       "positions": []
     }
