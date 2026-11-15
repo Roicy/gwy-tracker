@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-15 09:20:32",
+  "updated_at": "2026-11-15 17:12:52",
   "stats": {
-    "total": 931,
+    "total": 932,
     "by_type": {
-      "省考": 931
+      "省考": 932
     },
     "by_province": {
-      "全国": 872,
+      "全国": 873,
       "吉林": 29,
       "广东": 18,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 932,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a88ecafcf54862baacac9ec0866f2f697c0440c9a39c497af0b0ca9c314242ca",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招983312人285914职位收录25657考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-15 16:53:48",
+      "updated_at": "2026-11-15 16:53:48",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 931,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -16832,36 +16862,6 @@
       "tags": [],
       "first_seen_at": "2026-09-04 20:28:55",
       "updated_at": "2026-09-04 20:28:55",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 432,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468847899465728",
-      "source_hash": "6219c9736c643ecfac8e12a20f708fa84d482f3f2d8901beb8a932c0a3ac0e05",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "绍兴市生态环境局公开选调事业单位工作人员的公告正在报名浙江 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "因工作需要，经研究，决定面向全市公开选调事业单位工作人员，现将有关事项公告如下：\n一、选调岗位及数量\n1.浙江省绍兴生态环境监测中心工作人员1名，该单位为省驻市生态环境监测机构，相似正科级事业单位，经费全额拨款。\n2.绍兴市生态环境保护发展中心工作人员1名，该单位为绍兴市生态环境局下属相似正科级事业单位，经费全额拨款。\n二、选调范围\n绍兴市行政区域内在职在编事业单位工作人员（不区分事业单位类别）。\n三、选调条件\n1.思想政治素质好，品行端正，身心健康，有较强的服务意识和团队合作精神；\n2.工作敬业勤奋，业务素养较好，近三年年度考核均为合格及以上等次，且未受过党纪政务处分；\n3.年龄在40周岁及以下（1985年9月4日及以后出生）；\n4.具有与选调岗位要求相匹配的学历学位、专业等条件（详见附件1：《绍兴市生态环境局事业单位公开选调岗位表》），专业以2026年浙江省公务员录用考试专业参考目录为准。如专业设置与境内外高校具体专业名称有一定差异，相近相似专业具体由绍兴市生态环境局审核确定；\n5.报考人员须按照干部管理权限，征得所在工作单位及主管部门同意；\n6.符合浙江省、绍兴市事业单位工作人员",
-      "apply_start": "2026-09-07",
-      "apply_end": "2026-09-18",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2026-09-07",
-        "apply_end": "2026-09-18",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-04 15:59:11",
-      "updated_at": "2026-09-04 15:59:11",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
