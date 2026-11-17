@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-17 13:17:52",
+  "updated_at": "2026-11-17 22:03:40",
   "stats": {
-    "total": 939,
+    "total": 940,
     "by_type": {
-      "省考": 939
+      "省考": 940
     },
     "by_province": {
-      "全国": 880,
+      "全国": 881,
       "吉林": 29,
       "广东": 18,
       "河南": 5,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 940,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "144d55d6a41ed529630069efb9086feccdb8e120181cc9de4afad8c51e73ac53",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招1034024人289554职位收录25998考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-17 21:40:56",
+      "updated_at": "2026-11-17 21:40:56",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 939,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/470525260364800",
@@ -16834,36 +16864,6 @@
       "tags": [],
       "first_seen_at": "2026-09-06 15:09:19",
       "updated_at": "2026-09-06 15:09:19",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 440,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "f7520925581113113f8d67e5d64f21922ca1c0c23135772240984f91da23ca7e",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招625639人130769职位收录18258考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "公务员考试、事业单位、教师、司法、考研、建造和会计等考试培训-粉笔教育官网",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-06 10:30:05",
-      "updated_at": "2026-09-06 10:30:05",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
