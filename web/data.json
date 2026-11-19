@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-18 21:37:13",
+  "updated_at": "2026-11-19 03:23:09",
   "stats": {
-    "total": 946,
+    "total": 947,
     "by_type": {
-      "省考": 946
+      "省考": 947
     },
     "by_province": {
-      "全国": 886,
+      "全国": 887,
       "吉林": 29,
       "广东": 18,
       "湖北": 6,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 947,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "0b287af7200356b372b804348de6db68ddfc25d002c08c31dbbacdb11919b585",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招1036282人290317职位收录26165考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-19 03:03:21",
+      "updated_at": "2026-11-19 03:03:21",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 946,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/470547194215424",
@@ -16049,36 +16079,6 @@
       "tags": [],
       "first_seen_at": "2026-09-08 03:46:47",
       "updated_at": "2026-09-08 03:46:47",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 452,
-      "source_url": "http://news.wit.edu.cn/info/1231/401501.htm",
-      "source_hash": "20105e70dae2e9198548009a3b92f4accba7ce43dbc4e2f0fc816a5e0f0bbe4a",
-      "province": "湖北",
-      "exam_type": "省考",
-      "title": "武汉工程大学2026年统一公开招聘高校专职辅导员面试公告2026-09-08",
-      "publish_dept": null,
-      "publish_date": "2026-09-08",
-      "content_summary": "根据《湖北省事业单位2026年统一公开招聘高校专职辅导员公告》和有关文件要求，现将武汉工程大学2026年统一公开招聘高校专职辅导员面试有关事项公告如下。\n一、面试时间、地点\n1.面试时间：2026年9月13日。\n2.面试地点：湖北警官学院北校区（南门进入，武汉市硚口区南泥湾大道99号）。\n3.报到：考生须于面试当天上午7:30到湖北警官学院北校区教学楼门口报到。8:50未进入候考室的考生，取消面试资格。\n二、面试人员\n参加面试人员名单详见附件。\n三、面试形式、内容及分值\n面试采用结构化面试，主要考查考生的政治素质、逻辑思维、表达能力等。每位考生答题时间10分钟。\n面试总成绩满分100分，最低合格分数线为60分。对面试当天实际参加面试人数与招聘岗位计划数比例等于或小于2:1但大于1:1的岗位，最低合格分数线为70分。对面试当天实际参加面试人数与招聘岗位计划数比例等于或小于1:1的岗位，最低合格分数线为本场考试（同一个面试室、同一面试题本条件下）所有面试考生的平均分。低于面试最低合格线的考生，不能进入下一招聘环节。\n四、面试程序\n1.签到。考生须携带有效身份证原件或有效期临时身份证原件到候",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": "2026-09-13",
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": "2026-09-13"
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-08 11:00:58",
-      "updated_at": "2026-09-08 11:00:58",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
