@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-20 11:28:25",
+  "updated_at": "2026-11-20 20:07:24",
   "stats": {
-    "total": 954,
+    "total": 956,
     "by_type": {
-      "省考": 954
+      "省考": 956
     },
     "by_province": {
-      "全国": 894,
+      "全国": 896,
       "吉林": 29,
       "广东": 18,
       "湖北": 6,
@@ -15,6 +15,69 @@
     }
   },
   "notices": [
+    {
+      "id": 956,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/470592668333056",
+      "source_hash": "26e30a9c2077ea6e1dae023350cf9dc75420fe7cc8524fd15b62ee747f39ddf3",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "广西人工智能创新合作服务中心2026年公开选调事业单位工作人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "广西人工智能创新合作服务中心是广西南宁五象新区规划建设管理委员会（以下简称五象新区管委会）管理的正处级全额拨款公益二类事业单位。为进一步加强干部队伍建设，根据《中共广西壮族自治区委员会组织部广西壮族自治区人力资源和社会保障厅中共广西壮族自治区委员会机构编制委员会办公室关于印发〈广西壮族自治区事业单位工作人员交流规定（试行）〉的通知》（桂人社规〔2024〕2号）等文件精神，现面向全区机关事业单位公开选调广西人工智能创新合作服务中心工作人员。\n一、选调范围\n广西区内各级机关、事业单位（含参照公务员法管理的事业单位）在职在编人员（不含高校、中职学校教职人员控制数，中小学、幼儿园和特殊教育学校聘用教师控制数，公立医院聘用人员控制数，以及按照“老人老办法”管理的使用后勤服务聘用人员控制数人员等）。\n二、选调岗位\n广西人工智能创新合作服务中心公开选调8名工作人员，具体选调岗位、人数、条件详见《广西人工智能创新合作服务中心2026年公开选调事业单位工作人员岗位表》。\n三、选调人员资格条件\n（一）政治立场坚定，拥护中国共产党领导和社会主义制度。坚定拥护“两个确立”、坚决做到“两个维护”，在思想上政治上",
+      "apply_start": "2026-11-21",
+      "apply_end": "2026-12-04",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-11-21",
+        "apply_end": "2026-12-04",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-20 19:51:49",
+      "updated_at": "2026-11-20 19:51:49",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/470592669822976.xls",
+        "https://hera.fbstatic.cn/470592671660032.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 955,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "0fcfb37d960c8e4dcdc12182b008d7307c664535dc7ffeb31e709c85f3cc17ff",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招6268人6183职位收录181考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-20 19:51:48",
+      "updated_at": "2026-11-20 19:51:48",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 954,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -15635,66 +15698,6 @@
       "tags": [],
       "first_seen_at": "2026-09-09 03:43:29",
       "updated_at": "2026-09-09 03:43:29",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 456,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "add0a794d096ad75d6fdb324af2c0dcf07a141cc660af52e6f1c1f20ebdb6c72",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招692876人133274职位收录18592考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-09 03:43:27",
-      "updated_at": "2026-09-09 03:43:27",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 455,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "432c778a01a5a66f0682d22268798ebc52901ef840d9a0b47efdb74f1e5442fc",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招689254人132982职位收录18522考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-08 20:51:27",
-      "updated_at": "2026-09-08 20:51:27",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
