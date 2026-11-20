@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-19 21:33:40",
+  "updated_at": "2026-11-20 03:11:57",
   "stats": {
-    "total": 951,
+    "total": 953,
     "by_type": {
-      "省考": 951
+      "省考": 953
     },
     "by_province": {
-      "全国": 891,
+      "全国": 893,
       "吉林": 29,
       "广东": 18,
       "湖北": 6,
@@ -15,6 +15,68 @@
     }
   },
   "notices": [
+    {
+      "id": 953,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/470547937917952",
+      "source_hash": "09303d1837e13c9e69a18985be5e8debaa52f2d48577ecc4f7e55e9b0d0a1fc6",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "昌宁县卫生健康局2026年县直医疗卫生单位公开选调卫生专业技术人员公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "根据《昌宁县人力资源和社会保障局关于进一步明确事业单位工作人员调配有关事宜的通知》（昌人社发〔2022〕33号）及《昌宁县人力资源和社会保障局关于进一步明确事业单位工作人员调配有关事宜的补充通知》（昌人社发〔2024〕32号）规定，现将昌宁县卫生健康局关于2026年县直医疗卫生单位公开选调卫生专业技术人员有关事项公告如下：\n一、选调原则\n坚持德才兼备的用人标准，遵循公开、平等、竞争、择优的原则，做到信息公开、过程公开、结果公开。\n二、选调范围对象\n昌宁县公立医疗卫生单位符合报考条件的在职在编卫生专业技术人员，具体报考条件详见《昌宁县卫生健康局2026年县直医疗卫生单位公开选调卫生专业技术人员岗位计划表》。\n三、选调岗位及人数\n昌宁县人民医院2人，昌宁县妇幼保健计划生育服务中心2人，昌宁县疾病预防控制中心2人。具体岗位详见《昌宁县卫生健康局2026年县直医疗卫生单位公开选调卫生专业技术人员岗位计划表》。\n四、公开选调条件\n（一）报考者应具备以下条件：\n1.具有中华人民共和国国籍，遵守宪法和法律。\n2.拥护中国共产党领导，具有良好的政治素质和道德品行，热爱卫生健康事业。\n3.具有选调岗位所",
+      "apply_start": "2026-11-26",
+      "apply_end": null,
+      "written_exam": "2026-11-28",
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-11-26",
+        "apply_end": null,
+        "written_exam": "2026-11-28",
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-20 02:55:13",
+      "updated_at": "2026-11-20 02:55:13",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/470585861422080.xls"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 952,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "a4a5c5c8b70d48c994ea2202b68843ca6b8a992ad84b34557c2a29a26510e017",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招1046677人294214职位收录26316考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-20 02:55:11",
+      "updated_at": "2026-11-20 02:55:11",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 951,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -15633,66 +15695,6 @@
       "tags": [],
       "first_seen_at": "2026-09-08 16:16:27",
       "updated_at": "2026-09-08 16:16:27",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 451,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
-      "source_hash": "6dfa75ad5d444d83d3746e69c751ecc0a4060794e5b1b402a70efd8eb1531524",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26下事考公告合集共招15446人11793职位收录15考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-08 10:51:50",
-      "updated_at": "2026-09-08 10:51:50",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 450,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "8857ee9555e5147250dd94bba21a52adc027f4fd80a19dc187788d06aef0bf84",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招664303人132510职位收录18513考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-08 10:51:49",
-      "updated_at": "2026-09-08 10:51:49",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
