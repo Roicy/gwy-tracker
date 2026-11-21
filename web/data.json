@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-21 01:31:59",
+  "updated_at": "2026-11-21 09:49:24",
   "stats": {
-    "total": 957,
+    "total": 958,
     "by_type": {
-      "省考": 957
+      "省考": 958
     },
     "by_province": {
-      "全国": 897,
+      "全国": 898,
       "吉林": 29,
       "广东": 18,
       "湖北": 6,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 958,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "22026e1a926eed7e9c8bab78746ca1007fd29abaaea8dc52ceeb9cb6543266c5",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招1039505人300204职位收录26415考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-21 09:28:55",
+      "updated_at": "2026-11-21 09:28:55",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 957,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -15670,36 +15700,6 @@
         "https://hera.fbstatic.cn/468954358681600.doc",
         "https://hera.fbstatic.cn/468954359995393.docx"
       ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 458,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468955338395649",
-      "source_hash": "d403bd85025912693b8e105b54f7eaac923cf0b84c49f48ef77a727d2e8e127f",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "2027年度静安区计划选调优秀大学毕业生17名！报名结束上海 · 选调职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "招录信息\n为持续推进静安区建设高水平人才集聚区的战略规划，吸引重点高校优秀应届毕业生来静安干事创业，根据《上海市2027年度选调应届优秀大学毕业生公告》和《职位简章》相关安排，2027年度静安区计划选调优秀大学毕业生17名。\n一岗位专业类别\n综合类\n招录综合类选调生4名\n区委组织部、区委宣传部、区委社会工作部、石门二路街道\n政法类\n招录政法类选调生2名\n区纪委监委、区司法局\n数字信息类\n招录数字信息类选调生4名\n区委组织部、区委政法委、区科技经济委、临汾路街道\n城市建设类\n招录城市建设类选调生4名\n区规划资源局、区生态环境局、区绿化市容局、北站街道\n财经类\n招录财经类选调生3名\n区商务委、区审计局、区投资办\n二选调生工作品牌\n静安区着眼擦亮“苏河扬帆卓越静选”选调生工作品牌，聚焦“选育管用、全链赋能”，以招录、培养、管理、使用为支柱，以培训、锻炼、平台、关爱为支撑，形成工作闭环。\n1把牢招录基础\n把好入口关，从源头确保人选质量，严格落实比选过程，选出政治过硬、作风过硬、能力过硬的好苗子。\n2强化培养支撑\n精心组织培训，突出“政治育魂”；注重实践锻炼，依托年度培养项目清单，构建“入职历练",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-09 03:43:30",
-      "updated_at": "2026-09-09 03:43:30",
-      "is_active": 1,
-      "attachment_urls": [],
       "position_count": 0,
       "positions": []
     }
