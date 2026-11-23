@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-22 19:34:43",
+  "updated_at": "2026-11-23 00:57:59",
   "stats": {
-    "total": 962,
+    "total": 963,
     "by_type": {
-      "省考": 962
+      "省考": 963
     },
     "by_province": {
-      "全国": 902,
+      "全国": 903,
       "吉林": 29,
       "广东": 18,
       "湖北": 6,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 963,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "0b768b49659cda9b780cdd9044742631608e6da66f4a2de765338655049fc253",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招1040207人301795职位收录26429考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-23 00:41:24",
+      "updated_at": "2026-11-23 00:41:24",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 962,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -15660,36 +15690,6 @@
         "https://hera.fbstatic.cn/468960766792705.pdf",
         "https://hera.fbstatic.cn/468960767843328.xlsx"
       ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 463,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468962077593600",
-      "source_hash": "00c6aa331470a58cf046e1253bbfd08dfd31bf952cf09ff0fea5f304ca683dcb",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "上海市2027年选调生招考启动，金山区招15名！报名结束上海 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步拓宽优秀年轻干部来源渠道，加强高素质专业化干部队伍建设，上海市现面向国内部分高校选调2027年度应届优秀大学毕业生，金山区招15名。具体如下：\n1\n招录职位\n2\n报名方式及相关事项\n1.报名条件\n符合上海市2027年度选调应届优秀大学毕业生公告中的国内高校范围和基本条件（详见https://shacs.gov.cn/），且所学专业及学历等符合金山区招录职位要求。\n咨询电话：021-57921692。\n2.网上报名\n请于即日起至9月24日12:00，登录上海市选调生招考平台报名（网址：https://shacs.gov.cn/Link/2027026xd.htm）。\n3.高校审核信息与综合比选\n报考者填写报名信息并经所在高校审核后，市委组织部和区委组织部按照选调生选拔标准要求进行综合比选，通过的报考者获得笔试资格。\n4.笔试、面试、体检、考察与公示\n笔试结束后，进行面试、体检、考察与公示等程序，具体事宜另行通知。\n5.录用管理\n公示无异议的选调生人选，将统一办理公务员录用手续，一般于2027年7月报到，并协助办理户籍迁移和人才公寓入住等手续。\n3\n一览金山\n近年来，金山区深化落实",
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-09 10:57:01",
-      "updated_at": "2026-09-09 10:57:01",
-      "is_active": 1,
-      "attachment_urls": [],
       "position_count": 0,
       "positions": []
     }
