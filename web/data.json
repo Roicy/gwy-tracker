@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-23 00:57:59",
+  "updated_at": "2026-11-23 09:04:43",
   "stats": {
-    "total": 963,
+    "total": 965,
     "by_type": {
-      "省考": 963
+      "省考": 965
     },
     "by_province": {
-      "全国": 903,
+      "全国": 905,
       "吉林": 29,
       "广东": 18,
       "湖北": 6,
@@ -15,6 +15,68 @@
     }
   },
   "notices": [
+    {
+      "id": 965,
+      "source_url": "https://m.fenbi.com/page/exam-information-detail/470658064350209",
+      "source_hash": "7750fa9a271368e61a31c3d2afe92fb5982bfe46f101bf7feb23e15a5e3d4d20",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "2026年湖州市信访局关于公开选调事业单位工作人员的公告",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": "湖州市12345政府阳光热线中心是湖州市信访局下属公益一类事业单位，机构规格为正科级，经费财政全额保障。因工作需要，决定面向全市公开选调事业单位工作人员，现将有关事项公告如下：\n一、选调岗位及数量\n湖州市12345政府阳光热线中心综合文字岗位工作人员1名。\n二、选调范围\n湖州市行政区域内具有事业身份的在编在职人员。\n三、选调条件\n1.具有中华人民共和国国籍，有良好的政治思想素质，拥护党的路线、方针、政策；\n2.具有良好的社会公德和职业道德，遵纪守法、品行端正，有群众工作经历；\n3.身体健康，具有正常履行职责的身体条件；\n4.岗位要求：具有全日制大学本科及以上学历，专业要求为公共管理类、法学类；具有从事机关事业单位综合文字工作经历2年及以上，工作年限计算截止时间为2026年12月1日；\n5.年龄要求为35周岁及以下（即1990年11月25日以后出生）；\n6.历年年度考核结果均为合格及以上等次（不含试用期）；\n7.法律、法规规定的其他条件。\n有下列情形之一的，不得参加选调：\n1.试用期未满，或试用期满考核合格但在原单位工作不满1年的；\n2.乡镇（街道）事业单位工作人员，在乡镇（街道）工作不",
+      "apply_start": "2026-11-25",
+      "apply_end": "2026-12-01",
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": "2026-11-25",
+        "apply_end": "2026-12-01",
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-23 08:47:51",
+      "updated_at": "2026-11-23 08:47:51",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://hera.fbstatic.cn/470658066625536.doc"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 964,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "76ca659659e360baaf600f05a9b213ae37d057b5c268f923d4430de830f619ef",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招1041202人302329职位收录26525考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-23 08:47:49",
+      "updated_at": "2026-11-23 08:47:49",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 963,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -15627,69 +15689,6 @@
       "updated_at": "2026-09-09 16:07:54",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 465,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "6dc95e3c04045fbecc42c69d05b771b2f4b7e2f36a495f537a030a4d0757f56b",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招702242人136594职位收录18689考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-09 16:07:53",
-      "updated_at": "2026-09-09 16:07:53",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 464,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468954355619840",
-      "source_hash": "b38dabe73b0aa844bbbe3d98f0a0965c68489eddab17c8fa792a696cabf4a4b1",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "上海市2027年度选调应届优秀大学毕业生公告正在报名上海 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "为进一步加强上海高素质专业化干部队伍建设，现决定在部分高校开展上海市2027年度选调应届优秀大学毕业生工作。具体公告如下：\n一、选调对象及数量\n根据上海干部队伍结构需求，2027年选调450名左右应届优秀大学毕业生。\n选调对象包括（具体高校名单见附件）：\n（一）北京大学等44所高校应届优秀毕业生；\n（二）中央财经大学等30所高校“双一流”建设学科硕士研究生及以上学历应届优秀毕业生；\n（三）华东政法大学等22所本市高校应届特别优秀毕业生；\n（四）中国科学院大学、上海科技大学、南方科技大学等新型研究型大学硕士研究生及以上学历应届优秀毕业生。\n选调职位一般为上海市市级和地区单位职位（具体详见职位简章）。选调专业类别具体分为综合、政法、数字信息、财经、城市建设等五大类别。\n二、选调条件\n（一）基本条件\n1.拥护党的路线方针政策，思想政治素质好，品学兼优；\n2.具有中华人民共和国国籍；\n3.本科生一般不超过25周岁（2000年9月<含>以后出生），硕士研究生一般不超过30周岁（1995年9月<含>以后出生），博士研究生一般不超过35周岁（1990年9月<含>以后出生），具有参军入伍经历的，年龄要",
-      "apply_start": "2026-09-09",
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": 450,
-      "raw_fields": {
-        "apply_start": "2026-09-09",
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": 450,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-09 10:57:02",
-      "updated_at": "2026-09-09 10:57:02",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468960766792705.pdf",
-        "https://hera.fbstatic.cn/468960767843328.xlsx"
-      ],
       "position_count": 0,
       "positions": []
     }
