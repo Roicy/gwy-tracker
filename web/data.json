@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-24 17:38:32",
+  "updated_at": "2026-11-25 02:24:04",
   "stats": {
-    "total": 971,
+    "total": 972,
     "by_type": {
-      "省考": 971
+      "省考": 972
     },
     "by_province": {
-      "全国": 911,
+      "全国": 912,
       "吉林": 29,
       "广东": 18,
       "湖北": 6,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 972,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "20baac0f7b5b5e6833861bd5401419595d2673de1c34501aade83c54041f64f6",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招1043487人301235职位收录26722考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-25 02:07:47",
+      "updated_at": "2026-11-25 02:07:47",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 971,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -15677,36 +15707,6 @@
       "tags": [],
       "first_seen_at": "2026-09-10 03:41:24",
       "updated_at": "2026-09-10 03:41:24",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 472,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468976381480960",
-      "source_hash": "88067973b5137d1eb90c216098abb0f2e19feccae10ca9d5de74ce7aad5080cd",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "湖北省面向北京理工大学定向选调（选聘）2027届优秀大学毕业生公告报名结束湖北 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "重要时间节点\n网上报名\n2026年9月1\n0\n日\n10:00至9月22日22:00\n资格审查\n2026年9月1\n0\n日\n10:00至9月24日18:00\n缴费确认\n2026年9月1\n0\n日\n10:00至9月26日22:00\n打印笔试准考证\n2026年10月14日10:00至10月18日9:30\n笔试\n2026年10月18\n日\n9:00至12:00\n查询笔试成绩和进行面试确认\n笔试结束后\n10天左右\n面试\n后续\n另行通知\n学校审核提示：学生登录北理学生就业信息(job.bit.edu.cn)提交选调生审核申请，根据提示上传《2027年湖北省定向选调生（选聘生）报名推荐表》（学院审核盖章版）等材料，待系统线上审核通过后，前往中关村师生服务大厅或良乡学生服务大厅盖章。\n湖北省面向北京理工大学定向选调（选聘）\n2027届优秀大学毕业生公告\n为进一步加强湖北省干部队伍优质源头建设，储备一批适应支点建设需要的高素质专业化年轻干部人才，根据有关政策规定，现将面向北京理工大学定向选调（选聘）2027届优秀大学毕业生有关事项公告如下。\n一、选调（选聘）对象\n北京理工大学2027届全日制大学本科及以上学历",
-      "apply_start": "2027-12-31",
-      "apply_end": "2027-12-31",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2027-12-31",
-        "apply_end": "2027-12-31",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-10 03:41:23",
-      "updated_at": "2026-09-10 03:41:23",
       "is_active": 1,
       "attachment_urls": [],
       "position_count": 0,
