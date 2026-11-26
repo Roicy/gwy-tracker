@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-25 22:35:05",
+  "updated_at": "2026-11-26 05:10:47",
   "stats": {
-    "total": 978,
+    "total": 979,
     "by_type": {
-      "省考": 978
+      "省考": 979
     },
     "by_province": {
-      "全国": 918,
+      "全国": 919,
       "吉林": 29,
       "广东": 18,
       "湖北": 6,
@@ -15,6 +15,36 @@
     }
   },
   "notices": [
+    {
+      "id": 979,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "2f4250b3fcd86c2ae1462476ec4bf10b158b8d4acda8e73c222685de4d463797",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招1044402人304648职位收录26912考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-26 04:50:04",
+      "updated_at": "2026-11-26 04:50:04",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 978,
       "source_url": "https://m.fenbi.com/page/exam-information-detail/470703617637376",
@@ -15674,39 +15704,6 @@
       "updated_at": "2026-09-10 20:38:25",
       "is_active": 1,
       "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 479,
-      "source_url": "https://m.fenbi.com/page/exam-information-detail/468985116381184",
-      "source_hash": "c5bf6484bffee9f6205dd3ac0bfcebec838524411b238efefac3827bc9111db8",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "湖北省面向山东大学定向选调（选聘）2027届优秀大学毕业生公告报名结束湖北 · 选调考试时间表职位表",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": "【工作方案】请认真阅读选聘公告，并按照以下我校工作方案提交推荐材料。\n1.考生报名：请报考考生登录考务服务平台查询招录职位，进行网上报名。同时，下载打印《2027年湖北省定向选调生（选聘生）报名推荐表》，一式两份，经学院资格初审、学校推荐审核后，加盖公章。\n2.学院进行资格初审：\n（1）请考生登录山东大学学生就业创业指导中心就业平台基层公管模块填写完善信息，并上传推荐表。【具体操作见附件】\n（2）请辅导员老师前往山东大学学生就业创业指导中心就业平台基层公管模块审核学生报名信息，并导出《汇总表》，加盖学院党委章，报送至学校审核推荐。【具体操作见附件】\n3.学校进行推荐审核：\n（1）济南校区以学院为单位统一收齐纸质版《推荐表》，连同盖章后的《汇总表》，于2026年9月29日前送至中心校区就业中心统一加盖公章。\n（2）青岛、威海校区纸质版材料由各校区就业中心收齐、审核无误后，连同盖章后的《汇总表》，于2026年9月28日前寄送中心校区，统一加盖公章。\n【济南校区】中心校区17-18号楼西连廊二楼202；\n【威海校区】含光楼301办公室；\n【青岛校区】会文南楼A区一楼就业中心136办公室。\n【",
-      "apply_start": "2027-12-31",
-      "apply_end": "2027-12-31",
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": "2027-12-31",
-        "apply_end": "2027-12-31",
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-10 16:03:53",
-      "updated_at": "2026-09-10 16:03:53",
-      "is_active": 1,
-      "attachment_urls": [
-        "https://hera.fbstatic.cn/468985117874176.pdf",
-        "https://hera.fbstatic.cn/468985119182848.pdf"
-      ],
       "position_count": 0,
       "positions": []
     }
