@@ -1,20 +1,82 @@
 {
-  "updated_at": "2026-11-27 08:05:32",
+  "updated_at": "2026-11-27 18:15:51",
   "stats": {
-    "total": 981,
+    "total": 983,
     "by_type": {
-      "省考": 981
+      "省考": 983
     },
     "by_province": {
-      "全国": 921,
+      "全国": 922,
       "吉林": 29,
-      "广东": 18,
+      "广东": 19,
       "湖北": 6,
       "河南": 5,
       "宁夏": 2
     }
   },
   "notices": [
+    {
+      "id": 982,
+      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
+      "source_hash": "62b6497fe4fb7b9258b48695748802e0b0dae49b2b0f247855958493f719f0a9",
+      "province": "全国",
+      "exam_type": "省考",
+      "title": "26年国企考试合集共招5100人6757职位收录182考试",
+      "publish_dept": null,
+      "publish_date": null,
+      "content_summary": null,
+      "apply_start": null,
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": null,
+      "raw_fields": {
+        "apply_start": null,
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": null,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-27 17:59:53",
+      "updated_at": "2026-11-27 17:59:53",
+      "is_active": 1,
+      "attachment_urls": [],
+      "position_count": 0,
+      "positions": []
+    },
+    {
+      "id": 983,
+      "source_url": "https://www.gdzz.gov.cn/tzgg/content/post_26526.html",
+      "source_hash": "597e52dffb2391a071f67d8b6617d22f1e0d1334c7ff914ce4c080f56f78e246",
+      "province": "广东",
+      "exam_type": "省考",
+      "title": "广东省2027年度选调优秀大学毕业生公告",
+      "publish_dept": null,
+      "publish_date": "2026-11-27",
+      "content_summary": "广东省2027年度选调优秀大学毕业生公告_中共广东省委组织部\n搜索\n首页\n综合要闻\n中央要闻\n广东新闻\n粤组动态\n组织建设\n基层党建\n党员教育\n党务问答\n干部工作\n干部教育培训\n干部管理监督\n事业单位人事管理\n公务员工作\n公务员管理\n公务员录用\n人才工作\n工作动态\n创新实践\n“粤智汇”专家人才微访谈\n才智涌流促发展\n政策法规\n先进典型\n首页\n>\n通知公告\n广东省2027年度选调优秀大学毕业生公告\n时间：2026-11-27 20:10:17\n来源：本网\n【字体：\n大\n中\n小\n】\n分享到:\n根据公务员法、公务员录用规定和《关于进一步加强和改进选调生工作的意见》精神，省委组织部、省人力资源社会保障厅决定，面向部分高校选调一批应届优秀大学毕业生到我省各级机关（含参照公务员法管理单位，下同）工作。现就有关事项公告如下：\n一、选调职位\n全省共计划选调应届优秀大学毕业生1362名，报考者可通过广东组织工作网（https://www.gdzz.gov.cn）、广东省人力资源和社会保障厅网（https://hrss.gd.gov.cn）、广东人事考试网（https://rsks.gd.gov.cn）或",
+      "apply_start": "2027-09-30",
+      "apply_end": null,
+      "written_exam": null,
+      "interview_start": null,
+      "recruit_count": 1362,
+      "raw_fields": {
+        "apply_start": "2027-09-30",
+        "apply_end": null,
+        "written_exam": null,
+        "recruit_count": 1362,
+        "interview_start": null
+      },
+      "tags": [],
+      "first_seen_at": "2026-11-27 18:02:23",
+      "updated_at": "2026-11-27 18:02:23",
+      "is_active": 1,
+      "attachment_urls": [
+        "https://www.gdzz.gov.cn/public/2027年度选调生公告附件.zip"
+      ],
+      "position_count": 0,
+      "positions": []
+    },
     {
       "id": 981,
       "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
@@ -15644,66 +15706,6 @@
       "attachment_urls": [
         "https://hera.fbstatic.cn/468985568499712.xlsx"
       ],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 483,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/190",
-      "source_hash": "9055275240b3cd55c028089f8ec66b3bef45d57af054156dd175a8ade989d358",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26下事考公告合集共招24349人19602职位收录16考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-11 10:52:11",
-      "updated_at": "2026-09-11 10:52:11",
-      "is_active": 1,
-      "attachment_urls": [],
-      "position_count": 0,
-      "positions": []
-    },
-    {
-      "id": 482,
-      "source_url": "https://m.fenbi.com/page/exams-collection-detail/191",
-      "source_hash": "e5df54b09a6a40063790e724de6d6bf95eaf43148d0f9d1e89a513bccba6131a",
-      "province": "全国",
-      "exam_type": "省考",
-      "title": "26年国企考试合集共招711081人141147职位收录19018考试",
-      "publish_dept": null,
-      "publish_date": null,
-      "content_summary": null,
-      "apply_start": null,
-      "apply_end": null,
-      "written_exam": null,
-      "interview_start": null,
-      "recruit_count": null,
-      "raw_fields": {
-        "apply_start": null,
-        "apply_end": null,
-        "written_exam": null,
-        "recruit_count": null,
-        "interview_start": null
-      },
-      "tags": [],
-      "first_seen_at": "2026-09-11 10:52:09",
-      "updated_at": "2026-09-11 10:52:09",
-      "is_active": 1,
-      "attachment_urls": [],
       "position_count": 0,
       "positions": []
     }
